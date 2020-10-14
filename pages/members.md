@@ -16,7 +16,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - University of Manchester
 - New Zealand eScience Infrastructure (NeSI)
 - Nordic eInfrastructure Collaboration (NeIC)
-- North West University
+- North-West University
 - Southern African Centre for Digital Language Resources (SADiLaR)
 - Software Sustainability Institute
 - Stanford University
@@ -37,6 +37,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Nordic eInfrastructure Collaboration
 - Oklahoma State University
 - Smithsonian Institution
+- South Big Data Innovation Hub
 - The Jackson Laboratory
 - The University of Michigan
 - University of California Santa Barbara
@@ -54,6 +55,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Alan Turing Institute
 - American University
 - California Institute of Technology
+ - California State University Humboldt
 - Carnegie Mellon University
 - Chan Zuckerberg Biohub
 - College Board
@@ -72,22 +74,29 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Helmholtz-Zentrum Dresden-Rossendorf
 - Institute for Advanced Computational Science-Stony Brook University
 - Institute of Environmental Science and Research Limited (ESR)
+- Kings College London
 - KTH Royal Institute of Technology, University of Stockholm, Karolinska Institutet
+- Lebanon Public Libraries
 - Leibniz School of Education
 - NASA Develop
 - New York University
+- Ohio State University
 - Purdue University
 - Queensland Cyber Infrastructure Foundation
 - Regeneron Pharmaceuticals
 - Rice University
 - Rutgers University - Camden
+- SUNY College of Environmental Science and Forestry
+- Texas State Library and Archives Commission
 - The National Institute of Standards and Technology
 - University of Arkansas
+- Univesity of Birmingham
 - University of California Irvine
 - University of California Los Angelos
 - University of California Merced
 - University of California San Diego
 - University of Central Florida
+- University of Colorado-Boulder (Earth Lab & CIRES)
 - University of Connecticut
 - University of Göttingen State and University Library
 - University of Idaho
