@@ -156,7 +156,7 @@ Carpentry Champions meet quarterly to discuss ways in which they can help suppor
 * [Upcoming meetings](http://pad.software-carpentry.org/champions)
 * [Mailing list](https://carpentries.topicbox.com/groups/champions)
 * [Meeting minutes](https://github.com/carpentries/champions/tree/master/meeting-minutes)
-* [Carpentries Community Cookbook](https://github.com/carpentries/community-cookbook)
+* [Carpentries Community Cookbook](https://cookbook.carpentries.org/)
 * To get involved, contact our [Team](mailto:team@carpentries.org).
 
 ### Regional Coordinators
