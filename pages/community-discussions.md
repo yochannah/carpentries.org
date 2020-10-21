@@ -31,7 +31,7 @@ Interested in hosting a Community Discussion? Complete our [call for community d
 * The Carpentries in Australia - Damien Irving (2019-04-01)
 * #CarpentriesConversation: CarpentryCon 2020 - CarpentryCon Task Force (2019-03-20): [Video](https://www.youtube.com/watch?v=pGsnqPTf6yA)
 * The Carpentries in New Zealand - Megan Guidry (2019-03-11): [Notes](https://docs.google.com/document/d/1W1DhgBoOSdPCa17SWcALiP1Zxg4VNAj_KHe2-trKZpk/edit?ts=5c92adb2#heading=h.d7c6siica7vj), [Slide deck](https://docs.google.com/presentation/d/1XauUAIBS4bJQcxLaguKz7FUbcbyh1EuQxzCZ1Egop4k/edit?ts=5c92acfc#slide=id.g3b8317a2f2_1_29) 
-* What's New with Library Carpentry - Chris Erdmann (2019-02-28): [Video](https://youtu.be/lR0MbC95lgg), [Slide deck](https://docs.google.com/presentation/d/1bseEc15qeIflOEHm_7-Z2kd2EHRTllyMMugGd-m68D8/edit#slide=id.p) 
+* What Is New with Library Carpentry - Chris Erdmann (2019-02-28): [Video](https://youtu.be/lR0MbC95lgg), [Slide deck](https://docs.google.com/presentation/d/1bseEc15qeIflOEHm_7-Z2kd2EHRTllyMMugGd-m68D8/edit#slide=id.p) 
 * #CarpentriesConversation: What Happens During a Code of Conduct Investigation? - Karin Lagesen (2019-01-31): [Video](https://www.youtube.com/watch?v=7t1L8tN-Ygk), [Slide deck](https://docs.google.com/presentation/d/10eLnpfiIjkyZUd9yYlHJAqP_HeQcLJ07L_XAKRzVKiE/edit#slide=id.g3b8317a2f2_1_66)    
 * Delivering Exercises to Learners with Load Magic - Sarah Brown (2018-11-7): [Blog Post](https://carpentries.org/blog/2018/11/delivering-exercises/)      
 * My first workshop: Navigating unpredictable learning environments - Kari L. Jordan (2018-04-24): [Notes](https://docs.google.com/document/d/1dxzZ74PC0RA5NQTSuUivBh-518X1im0nsB0ykvLozJM/edit?usp=sharing)      
