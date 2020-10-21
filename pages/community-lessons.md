@@ -30,7 +30,7 @@ provide two avenues for community members to share lesson materials - **The Carp
 
 [The Carpentries Lab](#the-carpentrieslab) is for:
 * Repository of peer-reviewed, short-format, lessons that use the teaching approach and lesson design from The Carpentries.
-* Getting peer-review on the content of the lesson in the way traditional journal peer-review wouldn’t be able to provide.
+* Getting peer-review on the content of the lesson in the way traditional journal peer-review would not be able to provide.
 
 People already familiar with The Carpentries teaching practices can teach
 Carpentries Incubator or CarpentriesLab lessons in meetups, in classes, or as complements to a "standard" 2-day Carpentries workshop.
