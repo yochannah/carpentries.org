@@ -1,24 +1,40 @@
+<div class="container">
+  <h1>The Carpentries in {{ region }}</h1>
 
-
+<!-- BEGIN Set RC as singular or plural -->
 {% if regional_coordinators.size > 1 %}
 {% assign plural = true %}
 {% else %}
-{% assign plural = false%}
+{% assign plural = false %}
 {% endif %}
+<!-- END Set RC as singular or plural -->
+
+
+<!-- BEGIN Section: About the Admin -->
+
+<!-- If multiple admins -->
 
 {% if plural %}
-Our Regional Coordinators in {{ region }} are 
-{% else %}
-Our Regional Coordinator in {{ region }} is 
-{% endif %}
-
 {% assign rc_names = "" %}
-
 {% for rc in regional_coordinators %}
 {% assign rc_names = rc_names | append: rc.name | append: ", " %}
-
-<img data-src="{{ rc.pic }}" width=128 height=128 class="img-responsive img-circle lazyload" alt="GitHub profile photo of {{rc.name}}">
-
 {% endfor %}
 
-{{ rc_names | split: ", " | join: " and " }}.
+{{ rc_names | split: ", " | join: " and " }} are our Regional Coordinators for {{ region }}.  They are ready to help you with any questions you have about running Carpentries workshops or any other ways you can get involved with The Carpentries in {{ region }}. Contact them at ## EMAIL ADDRESS ##.
+
+<br><br>
+
+<!-- If one admin -->
+
+{% else %}
+{% assign rc = regional_coordinators[0] %}  
+
+{{ rc.name }} is our Regional Coordinator for {{ region }}.  {{ rc.pronoun_subjective }} is ready to help you with any questions you have about running Carpentries workshops or any other ways you can get involved with The Carpentries in {{ region }}. Contact {{ rc.pronoun_objective }} at  ## EMAIL ADDRESS ##.
+
+{% endif %}
+
+<!-- END Section: About the Admin -->
+
+
+
+</div>
