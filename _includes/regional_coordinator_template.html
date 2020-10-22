@@ -36,8 +36,11 @@
 <!-- END Section: About the Admin -->
 
 <!-- BEGIN Section: Admin images  -->
-{% for rc in regional_coordinators %}
+
 <div class="row">
+
+{% for rc in regional_coordinators %}
+
   <div class="medium-6 columns">
     <div class="team-member">
       <img data-src="{{ rc.pic }}" width="128" height="128" class="img-responsive img-circle lazyload" alt="GitHub profile photo of {{ rc.name }}" />
@@ -50,8 +53,11 @@
   </div>
 
 {% endfor %}
+</div>
+
 
 <!-- END Section: Admin images  -->
+
 
 
 
