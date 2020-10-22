@@ -1,6 +1,6 @@
 - name: Damien Irving
   region: Australia
-  pic: 
+  pic: https://avatars.githubusercontent.com/DamienIrving
   position: Regional Coordinator for Australia
   social:
     - icon: fab fa-github
@@ -16,7 +16,7 @@
 
 - name: James Desjardins
   region: Canada
-  pic: 
+  pic: https://avatars.githubusercontent.com/jadesjardins
   position: Regional Coordinator for Canada 
   social:
     - icon: fab fa-github
@@ -26,7 +26,7 @@
 
 - name: John Simpson
   region: Canada
-  pic: 
+  pic: https://avatars.githubusercontent.com/symulation
   position: Regional Coordinator for Canada
   social:
     - icon: fab fa-twitter
@@ -38,7 +38,7 @@
 
 - name: Megan Guidry
   region: New Zealand
-  pic: 
+  pic: https://avatars.githubusercontent.com/megan-guidry
   position: Regional Coordinator for New Zealand
   social:
     - icon: fab fa-github
@@ -48,7 +48,7 @@
 
 - name: Naoe Tatara
   region: Nordic Countries
-  pic: 
+  pic: https://avatars.githubusercontent.com/naoe-tatara
   position: Regional Coordinator for Nordic Countries
   social:
     - icon: fab fa-github
@@ -59,7 +59,7 @@
 
 - name: Angelique van Rensburg
   region: South Africa
-  pic: 
+  pic: https://avatars.githubusercontent.com/elletjies
   position: Regional Coordinator for South Africa 
   social:
     - icon: fab fa-twitter
@@ -71,7 +71,7 @@
 
 - name: Giacomo Peru
   region: United Kingdom
-  pic: 
+  pic: https://avatars.githubusercontent.com/gperu
   position: Regional Coordinator for United Kingdom 
   social:
     - icon: fab fa-github
@@ -81,7 +81,7 @@
 
 - name: Aleksandra Nenadic
   region: United Kingdom
-  pic: 
+  pic: https://avatars.githubusercontent.com/anenadic
   position: Regional Coordinator for United Kingdom 
   social:
     - icon: fab fa-github
@@ -93,7 +93,7 @@
 
 - name: SherAaron Hurt
   region: Global
-  pic: 
+  pic: https://avatars.githubusercontent.com/sheraaronhurt
   position: Regional Coordinator (Global)
   social:
     - icon: fab fa-github
