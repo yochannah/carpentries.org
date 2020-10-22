@@ -8,7 +8,7 @@ time: "09:00:00"
 tags: ["Library Carpentry", "Online Workshops", "Community"]
 ---
 
-From August 10 to 13, we taught a virtual [Library Carpentry](https://librarycarpentry.org/) [workshop](https://arieldeardorff.github.io/2020-08-10-SoCal-Online/) to 18 librarians, primarily from California.
+From August 10 to 13, we taught a virtual [Library Carpentry workshop](https://arieldeardorff.github.io/2020-08-10-SoCal-Online/) to 18 librarians, primarily from California.
 
 ### Our Audience
 Our primary audience was librarians and library staff from the California State University (CSUs) system, a system that is relatively new to the Carpentries. When we first planned this workshop, we planned to teach it in-person at the California State University, Long Beach (CSULB) campus and therefore we anticipated our audience would be mostly from Southern California. While we missed the benefits of in-person connections and interactivity, our instruction team was excited to be able to reach a much wider audience across the CSUs. We had attendees from all across California, from Humboldt State in the north to San Diego in the south, and many points in between. Additionally, we opened up slots for librarians from other California academic libraries and also had one international attendee from South Africa!
@@ -30,7 +30,7 @@ Some of the highlights of the workshop included:
 - Having designated “Mac support” and “PC support” breakout rooms
 - Hosting office hours the day after the workshop to give learners a chance to practice applying skills to their own data and to ask follow-up questions
 - Having a slack communication channel for the instructional team to chat behind the scenes
-Frequently checking in with learners via the zoom yes/no feature
+- Frequently checking in with learners via the zoom yes/no feature
 
 #### Red stickies:
 Some of the things we learned and will do differently in the future include:
