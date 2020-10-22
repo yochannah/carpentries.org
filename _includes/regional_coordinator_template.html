@@ -16,6 +16,9 @@ Our Regional Coordinator in {{ region }} is
 
 {% for rc in regional_coordinators %}
 {% assign rc_names = rc_names | append: rc.name | append: ", " %}
+
+<img data-src="{{ rc.pic }}" width=128 height=128 class="img-responsive img-circle lazyload" alt="GitHub profile photo of {{rc.name}}">
+
 {% endfor %}
 
 {{ rc_names | split: ", " | join: " and " }}.
