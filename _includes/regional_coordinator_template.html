@@ -83,6 +83,14 @@ General questions about The Carpentries outside of {{ region }}?  Contact <a hre
 <!-- END Section: Upcoming Workshops  -->
 
 
+<!-- BEGIN Section: Instructors  -->
+
+<h2>Our Instructor Community in {{ region }}</h2>
+
+{% assign people_list = site.data.all_badged_people | where:"is_instructor","true" | where: "country", region_code %}
+{% include community_profiles.md %}
+
+<!-- END Section: Instructors  -->
 
 
 
