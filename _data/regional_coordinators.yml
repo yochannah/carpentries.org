@@ -1,5 +1,8 @@
 - name: Damien Irving
   region: Australia
+  pronoun_subjective: he
+  pronoun_objective: him
+  pronoun_possessive: his
   pic: https://avatars.githubusercontent.com/DamienIrving
   position: Regional Coordinator for Australia
   social:
@@ -16,6 +19,9 @@
 
 - name: James Desjardins
   region: Canada
+  pronoun_subjective: he
+  pronoun_objective: him
+  pronoun_possessive: his
   pic: https://avatars.githubusercontent.com/jadesjardins
   position: Regional Coordinator for Canada 
   social:
@@ -26,6 +32,9 @@
 
 - name: John Simpson
   region: Canada
+  pronoun_subjective: he
+  pronoun_objective: him
+  pronoun_possessive: his
   pic: https://avatars.githubusercontent.com/symulation
   position: Regional Coordinator for Canada
   social:
@@ -38,6 +47,9 @@
 
 - name: Megan Guidry
   region: New Zealand
+  pronoun_subjective: she
+  pronoun_objective: her
+  pronoun_possessive: hers
   pic: https://avatars.githubusercontent.com/megan-guidry
   position: Regional Coordinator for New Zealand
   social:
@@ -48,6 +60,9 @@
 
 - name: Naoe Tatara
   region: Nordic Countries
+  pronoun_subjective: she
+  pronoun_objective: her
+  pronoun_possessive: hers
   pic: https://avatars.githubusercontent.com/naoe-tatara
   position: Regional Coordinator for Nordic Countries
   social:
@@ -59,6 +74,9 @@
 
 - name: Angelique van Rensburg
   region: South Africa
+  pronoun_subjective: she
+  pronoun_objective: her
+  pronoun_possessive: hers
   pic: https://avatars.githubusercontent.com/elletjies
   position: Regional Coordinator for South Africa 
   social:
@@ -70,6 +88,9 @@
       url: mailto:admin-afr@carpentries.org
 
 - name: Giacomo Peru
+  pronoun_subjective: he
+  pronoun_objective: him
+  pronoun_possessive: his
   region: United Kingdom
   pic: https://avatars.githubusercontent.com/gperu
   position: Regional Coordinator for United Kingdom 
@@ -81,6 +102,9 @@
 
 - name: Aleksandra Nenadic
   region: United Kingdom
+  pronoun_subjective: she
+  pronoun_objective: her
+  pronoun_possessive: hers
   pic: https://avatars.githubusercontent.com/anenadic
   position: Regional Coordinator for United Kingdom 
   social:
@@ -93,6 +117,9 @@
 
 - name: SherAaron Hurt
   region: Global
+  pronoun_subjective: she
+  pronoun_objective: her
+  pronoun_possessive: hers
   pic: https://avatars.githubusercontent.com/sheraaronhurt
   position: Regional Coordinator (Global)
   social:
