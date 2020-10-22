@@ -1,0 +1,21 @@
+
+
+{% if regional_coordinators.size > 1 %}
+{% assign plural = true %}
+{% else %}
+{% assign plural = false%}
+{% endif %}
+
+{% if plural %}
+Our Regional Coordinators in {{ region }} are 
+{% else %}
+Our Regional Coordinator in {{ region }} is 
+{% endif %}
+
+{% assign rc_names = "" %}
+
+{% for rc in regional_coordinators %}
+{% assign rc_names = rc_names | append: rc.name | append: ", " %}
+{% endfor %}
+
+{{ rc_names | split: ", " | join: " and " }}.
