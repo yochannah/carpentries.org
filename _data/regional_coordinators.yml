@@ -1,15 +1,18 @@
-- name: Angelique van Rensburg
-  region: South Africa
+- name: Damien Irving
+  region: Australia
   pic: 
-  position: Regional Coordinator for South Africa 
+  position: Regional Coordinator for Australia
   social:
-    - icon: fab fa-twitter
-      url: https://twitter.com/AngvanRensburg
     - icon: fab fa-github
-      url: https://github.com/@elletjies 
+      url: https://github.com/DamienIrving
+    - icon: fab fa-twitter
+      url: https://twitter.com/DrClimate  
     - icon: fa fa-envelope
-      url: mailto:admin-afr@carpentries.org
-
+      url: mailto:admin-au@carpentries.org
+    - icon: fab fa-orcid
+      url:  https://orcid.org/0000-0003-1258-5002
+    - icon: fas fa-link
+      url: http://www.drclimate.wordpress.com/  
 
 - name: James Desjardins
   region: Canada
@@ -33,6 +36,38 @@
     - icon: fa fa-envelope
       url: mailto:admin-ca@carpentries.org
 
+- name: Megan Guidry
+  region: New Zealand
+  pic: 
+  position: Regional Coordinator for New Zealand
+  social:
+    - icon: fab fa-github
+      url: https://github.com/megan-guidry
+    - icon: fa fa-envelope
+      url: mailto:admin-nz@carpentries.org
+
+- name: Naoe Tatara
+  region: Nordic Countries
+  pic: 
+  position: Regional Coordinator for Nordic Countries
+  social:
+    - icon: fab fa-github
+      url: https://github.com/naoe-tatara
+    - icon: fa fa-envelope
+      url: mailto:admin-nordic@carpentries.org
+
+
+- name: Angelique van Rensburg
+  region: South Africa
+  pic: 
+  position: Regional Coordinator for South Africa 
+  social:
+    - icon: fab fa-twitter
+      url: https://twitter.com/AngvanRensburg
+    - icon: fab fa-github
+      url: https://github.com/@elletjies 
+    - icon: fa fa-envelope
+      url: mailto:admin-afr@carpentries.org
 
 - name: Giacomo Peru
   region: United Kingdom
@@ -56,45 +91,6 @@
     - icon: fab fa-orcid
       url:  https://orcid.org/0000-0002-2269-3894
 
-- name: Megan Guidry
-  region: New Zealand
-  pic: 
-  position: Regional Coordinator for New Zealand
-  social:
-    - icon: fab fa-github
-      url: https://github.com/megan-guidry
-    - icon: fa fa-envelope
-      url: mailto:admin-nz@carpentries.org
-
-
-- name: Damien Irving
-  region: Australia
-  pic: 
-  position: Regional Coordinator for Australia
-  social:
-    - icon: fab fa-github
-      url: https://github.com/DamienIrving
-    - icon: fab fa-twitter
-      url: https://twitter.com/DrClimate  
-    - icon: fa fa-envelope
-      url: mailto:admin-au@carpentries.org
-    - icon: fab fa-orcid
-      url:  https://orcid.org/0000-0003-1258-5002
-    - icon: fas fa-link
-      url: http://www.drclimate.wordpress.com/  
-
-
-- name: Naoe Tatara
-  region: Nordic Countries
-  pic: 
-  position: Regional Coordinator for Nordic Countries
-  social:
-    - icon: fab fa-github
-      url: https://github.com/naoe-tatara
-    - icon: fa fa-envelope
-      url: mailto:admin-nordic@carpentries.org
-
-
 - name: SherAaron Hurt
   region: Global
   pic: 
@@ -106,4 +102,3 @@
       url: mailto:admin-nordic@carpentries.org
     - icon: fab fa-twitter
       url: https://twitter.com/SherAaronHurt
-
