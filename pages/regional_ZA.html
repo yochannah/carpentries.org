@@ -5,7 +5,27 @@ permalink: /regions_za/
 {% include lazyload.html %}
 
 {% assign region = "South Africa" %}
+{% assign region_code = "ZA" %}
 {% assign regional_coordinators = site.data.regional_coordinators | where: "region", region  %}
+
+{% capture other_events %}
+
+<!-- To list other events in the region, comment back in the lines below. Edit placeholder text and add new rows as needed. Be sure to preserve the table formatting. -->
+
+<!-- <h2>Other Events in {{ region }}</h2>
+<table class="table table-striped" style="width: 100%;">
+  <tr>
+    <td>
+      <a href="#">Event Name </a>
+    </td>
+    <td>
+      Event Dates
+    </td>
+  </tr>
+</table> -->
+
+{% endcapture %}
+
 
 {% include regional_coordinator_template.html %}
 
