@@ -20,7 +20,7 @@
 {% assign rc_names = rc_names | append: rc.name | append: ", " %}
 {% endfor %}
 
-{{ rc_names | split: ", " | join: " and " }} are our Regional Coordinators for {{ region }}.  They are ready to help you with any questions you have about running Carpentries workshops or any other ways you can get involved with The Carpentries in {{ region }}. Contact them at ## EMAIL ADDRESS ##.
+{{ rc_names | split: ", " | join: " and " }} are our Regional Coordinators for {{ region }}.  They are ready to help you with any questions you have about running Carpentries workshops or any other ways you can get involved with The Carpentries in {{ region }}. Contact them at <a href="mailto:{{ rc_email }}">{{ rc_email }}</a>.
 
 <br><br>
 
@@ -29,7 +29,7 @@
 {% else %}
 {% assign rc = regional_coordinators[0] %}  
 
-{{ rc.name }} is our Regional Coordinator for {{ region }}.  {{ rc.pronoun_subjective | capitalize }} is ready to help you with any questions you have about running Carpentries workshops or any other ways you can get involved with The Carpentries in {{ region }}. Contact {{ rc.pronoun_objective }} at  ## EMAIL ADDRESS ##.
+{{ rc.name }} is our Regional Coordinator for {{ region }}.  {{ rc.pronoun_subjective | capitalize }} is ready to help you with any questions you have about running Carpentries workshops or any other ways you can get involved with The Carpentries in {{ region }}. Contact {{ rc.pronoun_objective }} at <a href="mailto:{{ rc_email }}">{{ rc_email }}</a>.
 
 {% endif %}
 
