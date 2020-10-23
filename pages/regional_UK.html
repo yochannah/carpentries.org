@@ -3,7 +3,6 @@ layout: page
 permalink: /regions_uk/
 ---
 
-
 {% include lazyload.html %}
 
 {% assign region = "United Kingdom" %}
@@ -12,7 +11,6 @@ permalink: /regions_uk/
 {% assign rc_email = site.contact_uk %}
 {% assign workshop_list = site.data.all_upcoming_workshops  | where: "country", region_code %}
 {% assign people_list = site.data.all_badged_people | where:"is_instructor","true" | where: "country", region_code %}
-
 
 {% capture other_events %}
 
@@ -31,6 +29,5 @@ permalink: /regions_uk/
 </table> -->
 
 {% endcapture %}
-
 
 {% include regional_coordinator_template.html %}
