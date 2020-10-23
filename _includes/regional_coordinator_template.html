@@ -68,8 +68,6 @@ General questions about The Carpentries outside of {{ region }}?  Contact <a hre
 <!-- END Section: Workshop Request & Other info  -->
 
 
-
-
 <!-- BEGIN Section: Upcoming Workshops  -->
 
 <section id="team" class="bg-light-gray">
@@ -78,7 +76,7 @@ General questions about The Carpentries outside of {{ region }}?  Contact <a hre
 
   {% assign workshop_list = site.data.all_upcoming_workshops  | where: "country", region_code %}
    {% if workshop_list == empty %}
-      There are no upcoming Carpentries workshops in {{ region }}. <a href="mailto:admin-uk@carpentries.org">!! FIX EMAIL ADDRESS !! Contact us</a> to learn how to host a workshop at your site!<br><br>
+      There are no upcoming Carpentries workshops in {{ region }}. <a href="mailto:{{ rc_email }}">Contact us</a> to learn how to host a workshop at your site!<br><br>
   {% else %}
       {% include workshop_table.md %}<br><br>
   {% endif %}
