@@ -6,16 +6,17 @@
   pic: https://avatars.githubusercontent.com/DamienIrving
   position: Regional Coordinator for Australia
   social:
+    - icon: fa fa-envelope
+      url: mailto:admin-au@carpentries.org
     - icon: fab fa-github
       url: https://github.com/DamienIrving
     - icon: fab fa-twitter
       url: https://twitter.com/DrClimate  
-    - icon: fa fa-envelope
-      url: mailto:admin-au@carpentries.org
-    - icon: fab fa-orcid
-      url:  https://orcid.org/0000-0003-1258-5002
     - icon: fas fa-link
       url: http://www.drclimate.wordpress.com/  
+    - icon: fab fa-orcid
+      url:  https://orcid.org/0000-0003-1258-5002
+
 
 - name: James Desjardins
   region: Canada
@@ -25,10 +26,11 @@
   pic: https://avatars.githubusercontent.com/jadesjardins
   position: Regional Coordinator for Canada 
   social:
-    - icon: fab fa-github
-      url: https://github.com/jadesjardins
     - icon: fa fa-envelope
       url: mailto:admin-ca@carpentries.org
+    - icon: fab fa-github
+      url: https://github.com/jadesjardins
+
 
 - name: John Simpson
   region: Canada
@@ -38,12 +40,13 @@
   pic: https://avatars.githubusercontent.com/symulation
   position: Regional Coordinator for Canada
   social:
-    - icon: fab fa-twitter
-      url: https://twitter.com/@symulation
-    - icon: fab fa-github
-      url: https://github.com/symulation
     - icon: fa fa-envelope
       url: mailto:admin-ca@carpentries.org
+    - icon: fab fa-github
+      url: https://github.com/symulation
+    - icon: fab fa-twitter
+      url: https://twitter.com/@symulation
+
 
 - name: Megan Guidry
   region: New Zealand
@@ -53,10 +56,10 @@
   pic: https://avatars.githubusercontent.com/megan-guidry
   position: Regional Coordinator for New Zealand
   social:
-    - icon: fab fa-github
-      url: https://github.com/megan-guidry
     - icon: fa fa-envelope
       url: mailto:admin-nz@carpentries.org
+    - icon: fab fa-github
+      url: https://github.com/megan-guidry
 
 - name: Naoe Tatara
   region: Nordic Countries
@@ -66,11 +69,10 @@
   pic: https://avatars.githubusercontent.com/naoe-tatara
   position: Regional Coordinator for Nordic Countries
   social:
-    - icon: fab fa-github
-      url: https://github.com/naoe-tatara
     - icon: fa fa-envelope
       url: mailto:admin-nordic@carpentries.org
-
+    - icon: fab fa-github
+      url: https://github.com/naoe-tatara
 
 - name: Angelique van Rensburg
   region: South Africa
@@ -80,12 +82,12 @@
   pic: https://avatars.githubusercontent.com/elletjies
   position: Regional Coordinator for South Africa 
   social:
-    - icon: fab fa-twitter
-      url: https://twitter.com/AngvanRensburg
-    - icon: fab fa-github
-      url: https://github.com/@elletjies 
     - icon: fa fa-envelope
       url: mailto:admin-afr@carpentries.org
+    - icon: fab fa-github
+      url: https://github.com/@elletjies 
+    - icon: fab fa-twitter
+      url: https://twitter.com/AngvanRensburg
 
 - name: Giacomo Peru
   pronoun_subjective: he
@@ -95,10 +97,10 @@
   pic: https://avatars.githubusercontent.com/gperu
   position: Regional Coordinator for United Kingdom 
   social:
-    - icon: fab fa-github
-      url: https://github.com/gperu
     - icon: fa fa-envelope
       url: mailto:admin-uk@carpentries.org
+    - icon: fab fa-github
+      url: https://github.com/gperu
 
 - name: Aleksandra Nenadic
   region: United Kingdom
@@ -108,10 +110,10 @@
   pic: https://avatars.githubusercontent.com/anenadic
   position: Regional Coordinator for United Kingdom 
   social:
-    - icon: fab fa-github
-      url: https://github.com/anenadic
     - icon: fa fa-envelope
       url: mailto:admin-uk@carpentries.org
+    - icon: fab fa-github
+      url: https://github.com/anenadic
     - icon: fab fa-orcid
       url:  https://orcid.org/0000-0002-2269-3894
 
@@ -123,9 +125,9 @@
   pic: https://avatars.githubusercontent.com/sheraaronhurt
   position: Regional Coordinator (Global)
   social:
+    - icon: fa fa-envelope
+      url: mailto:team@carpentries.org
     - icon: fab fa-github
       url: https://github.com/sheraaronhurt
-    - icon: fa fa-envelope
-      url: mailto:admin-nordic@carpentries.org
     - icon: fab fa-twitter
       url: https://twitter.com/SherAaronHurt
