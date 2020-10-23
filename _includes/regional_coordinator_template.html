@@ -46,8 +46,14 @@
       <img data-src="{{ rc.pic }}" width="128" height="128" class="img-responsive img-circle lazyload" alt="GitHub profile photo of {{ rc.name }}" />
       <h3>{{ rc.name }}</h3>
       <ul class="list-inline social-buttons">
-        <li> <a href="https://github.com/anenadic"> <i class="fab fa-github"></i> </a> </li>
-        <li> <a href="https://orcid.org/0000-0002-2269-3894"> <i class="fab fa-orcid"></i> </a> </li>
+
+        {% for network in rc.social %}
+        <li>
+            <a href="{{ network.url }}">
+                <i class="{{ network.icon }}"></i>
+            </a>
+        </li>
+        {% endfor %}
       </ul>
     </div>
   </div>
