@@ -8,6 +8,9 @@ permalink: /regions_za/
 {% assign region_code = "ZA" %}
 {% assign regional_coordinators = site.data.regional_coordinators | where: "region", region  %}
 {% assign rc_email = site.contact_afr %}
+{% assign workshop_list = site.data.all_upcoming_workshops  | where: "country", region_code %}
+{% assign people_list = site.data.all_badged_people | where:"is_instructor","true" | where: "country", region_code %}
+
 
 {% capture other_events %}
 
