@@ -29,7 +29,7 @@ scholarship and society. We aim to build that world by scaling evidence-based
 teaching, creating inclusive environments, and building communities of practice
 based on open principles. In this role, you will join a diverse team of
 professionals working to spread data-driven research skills. Our community
-comprises 50,000 learners, 2,000 instructors, 80 Trainers, and 85 member
+comprises approximately 70,000 learners, 2,500 instructors, 100 Trainers, and 85 partner organisations
 organisations from research institutions around the world.
 
 ## Qualifications
@@ -67,7 +67,7 @@ learn.
 
 ## About Us
 
-We are a [Core Team](https://carpentries.org/team/) of 13 staff and independent
+We are a [Core Team](https://carpentries.org/team/) of thirteen staff and independent
 contractors, with a nine-person Executive Council. We are a fiscally sponsored
 project of the 501(c)3 [Community Initiatives](http://communityin.org/). We have
 [a large community](https://carpentries.org/instructors-map/) of instructors and
