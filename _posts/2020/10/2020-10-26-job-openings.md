@@ -19,7 +19,7 @@ We are hiring a [Director or Deputy Director of Partnerships](http://carpentries
 We are hiring a [Workshop Administrator](http://carpentries.org/workshop-administrator/) to coordinate logistics and communications for all Carpentries workshops.. This will be a US-based position, and **only individuals with work authorisation for the United States should apply.**
 
 ## Python/Django Developer
-To support our growth, we are looking for a Python/Django Developer to work on
+To support our growth, we are looking for a [Python/Django Developer](http://carpentries.org/python-django-developer/) to work on
 [AMY](https://github.com/carpentries/amy), our web app to manage the data about
 our community members, our member organisations, and our workshops.
 
