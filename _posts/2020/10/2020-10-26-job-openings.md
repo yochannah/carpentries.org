@@ -13,15 +13,15 @@ tags: ["Carpentries Team","Carpentries Membership", "Carpentries Workshops"]
 The Carpentries is searching for two new full-time team members, and one temporary employee or contractor to join our global, mission-driven organisation. These new roles will work with and serve our volunteer community - comprising approximately 70,000 learners, 2,500 instructors, 100 Trainers, and 85 partner organisations from research institutions around the world. See below for descriptions and links to apply.
 
 ## Director of Partnerships / Deputy Director of Partnerships
-We are hiring a [Director or Deputy Director of Partnerships](http://carpentries.org/director-of-partnerships/) to provide planning, vision, and implementation of the partnership program and represent the needs of partner organisations in planning and strategic development.  Individuals with work authorisation in Australia, Canada, New Zealand, the United Kingdom, or the United States should apply.
+We are hiring a [Director or Deputy Director of Partnerships](http://carpentries.org/director-of-partnerships/) to provide planning, vision, and implementation of the partnership program and represent the needs of partner organisations in planning and strategic development. Individuals with work authorisation in Australia, Canada, New Zealand, the United Kingdom, or the United States should apply.
 
 ## Workshop Administrator
-We are hiring a [Workshop Administrator](http://carpentries.org/workshop-administrator/) to coordinate logistics and communications for all Carpentries workshops.. This will be a US-based position, and **only individuals with work authorisation for the United States should apply.**
+We are hiring a [Workshop Administrator](http://carpentries.org/workshop-administrator/) to coordinate logistics and communications for all Carpentries workshops. This will be a US-based position, and **only individuals with work authorisation for the United States should apply.**
 
 ## Python/Django Developer
 To support our growth, we are looking for a [Python/Django Developer](http://carpentries.org/python-django-developer/) to work on
 [AMY](https://github.com/carpentries/amy), our web app to manage the data about
-our community members, our member organisations, and our workshops.
+our community members, our member organisations, and our workshops. 
 
 Our new team members will join a diverse and engaged team of remote professionals working to spread data-driven research skills around the world. Our team values openness, honesty, fairness, and transparency as the keys to fostering trust. We believe that the individuals who make up our community are the most important part of our organisation and our strongest resource. We strive to make decisions that prioritise people first and empower the growth and success of all who are part of our organisation. We value a growth mindset in all that we do and strive to be always improving and evolving ourselves and our methodologies, being receptive to feedback, responsive, curious, and willing to learn.
 
