@@ -22,7 +22,7 @@ teaching, creating inclusive environments, and building communities of practice 
 of professionals working to spread data-driven research skills. Our community comprises approximately 70,000 learners, 2,800 instructors, 100 Trainers,
 and 85 partner organisations from research institutions around the world.
 
-This role is a good fit for an individual who is able to work independently, and who has experience  with event planning and management, ideally for 
+This role is a good fit for an individual who is able to work independently, and who has experience with event planning and management, ideally for 
 geographically dispersed events.
 
 ## Qualifications:
