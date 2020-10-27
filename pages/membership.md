@@ -38,7 +38,7 @@ to receive a discount on their membership price, as detailed below.
 
 Members of our team are on hand to help you in constructing a Platinum membership that
 best suits your organisation's needs for training and community
-support. To request a meeting with our team, [please send us an email](mailto:memberships@carpentries.org).
+support. To request a meeting with our team, [please send us an email](mailto:membership@carpentries.org).
 
 <strong>Instructor Training</strong>  
 
@@ -71,7 +71,7 @@ Each Platinum membership includes 6 centrally-organised workshops\* and unlimite
 * Community Leaders - In limited cases, individuals carrying out significant community leadership roles may earn a $10,000 discount on membership for their institution. 
 
 We provide a limited number of sponsored memberships for institutions with financial need and for institutions serving historically underserved populations. 
-If you believe that your institution is eligible for support, [please send us an email](mailto:memberships@carpentries.org).
+If you believe that your institution is eligible for support, [please send us an email](mailto:membership@carpentries.org).
 
 Discounts listed above for are limited and available only in cases where a potential member organisation's 
 ability to offer support to Instructor Trainers, Regional Coordinators, and/or Community Leaders is in line with The Carpentries
@@ -90,7 +90,7 @@ University B supports a Regional Coordinator and wants to train 20 Instructors. 
 they will use The Carpentries centrally-organised Instructor Training. The total cost for University B's membership is ( $1000 x 15 ) + ( $900 x 5 ) -
 $10,000 = $9,500 USD. 
 
-[Please reach out to us](mailto:memberships@carpentries.org) for assistance in designing a Platinum membership that best serves your team's needs. 
+[Please reach out to us](mailto:membership@carpentries.org) for assistance in designing a Platinum membership that best serves your team's needs. 
 
 ### Frequently Asked Questions
 
@@ -110,4 +110,4 @@ Read more about how our workshops are run [here](/workshops/).
 ^ In-person instructor trainings require an available Trainer and travel funds to support Instructor Trainers' travel.
 
 We are always interested in new members, and in participating in grants and other proposals. To reach us, or to
-find out more, [please send us an email](mailto:memberships@carpentries.org).
+find out more, [please send us an email](mailto:membership@carpentries.org).
