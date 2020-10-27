@@ -68,10 +68,15 @@ Each Platinum membership includes 6 centrally-organised workshops\* and unlimite
 
 * Instructor Trainers - Organisations supporting [Instructor Trainers](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html) earn a $5,000 discount on membership per active Instructor Trainer. This discount does not apply to potential future Instructor Trainers who will take part in Instructor Trainer Training during the membership year.
 * Regional Coordinators - Organisations supporting a [Regional Coordinator](https://docs.carpentries.org/topic_folders/regional_communities/regional_coordinators.html) earn a $10,000 discount on membership. The typical workload for a Regional Coordinator is 35 centrally-organised workshops per year (not including self-organised workshops). If workshop demand rises above that level, we may bring on a second Regional Coordinator in your region.
-* Community Leadership - In limited cases, individuals carrying out significant community leadership roles may earn a $10,000 discount on membership for their institution. 
+* Community Leaders - In limited cases, individuals carrying out significant community leadership roles may earn a $10,000 discount on membership for their institution. 
 
 We provide a limited number of sponsored memberships for institutions with financial need and for institutions serving historically underserved populations. 
 If you believe that your institution is eligible for support, [please send us an email](mailto:memberships@carpentries.org).
+
+Discounts listed above for are limited and available only in cases where a potential member organisation's 
+ability to offer support to Instructor Trainers, Regional Coordinators, and/or Community Leaders is in line with The Carpentries
+needs for support in a particular geographic region. We reserve the right to award these discounts as appropriate for our
+organisational growth and sustainability.
 
 <strong>Examples</strong>
 
