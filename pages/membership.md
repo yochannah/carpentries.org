@@ -73,7 +73,7 @@ Each Platinum membership includes 6 centrally-organised workshops\* and unlimite
 We provide a limited number of sponsored memberships for institutions with financial need and for institutions serving historically underserved populations. 
 If you believe that your institution is eligible for support, [please send us an email](mailto:membership@carpentries.org).
 
-Discounts listed above for are limited and available only in cases where a potential member organisation's 
+Discounts listed above are limited and available only in cases where a potential member organisation's 
 ability to offer support to Instructor Trainers, Regional Coordinators, and/or Community Leaders is in line with The Carpentries
 needs for support in a particular geographic region. We reserve the right to award these discounts as appropriate for our
 organisational growth and sustainability.
