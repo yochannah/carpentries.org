@@ -168,8 +168,9 @@ Formative assessment, feedback, and other communications can be supported using 
 - [Socrative](https://www.socrative.com/) 
 - [Cuckoo timer](https://cuckoo.team/)
 - [Poll Everywhere](https://www.polleverywhere.com/)
-- [Mentimeter.com](https://www.mentimeter.com/)
-- [Doodle](https://doodle.com/free-poll) 
+- [Mentimeter](https://www.mentimeter.com/)
+- [Whenisgood](https://whenisgood.net/) 
+- [Doodle](https://doodle.com/free-poll), Accessibility Note: It might be inaccessible to some of the users. Whenisgood might be a suitable alternative.
 - [Pinup](https://pinup.com/)
 
 
