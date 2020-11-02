@@ -63,6 +63,7 @@ Use this list to be sure you have given time and thought to each item. Not all i
 * [Think about time](#think-about-time) 
     - Choose a time format: 2 full days or...? 
     - Identify time zones: where is everyone?
+    - Identify the number of learners
     - Plan time to teach learners how to participate
     - Plan time for breaks and socialisation
     - Plan time for exercises and transitions
@@ -108,6 +109,8 @@ Use this list to be sure you have given time and thought to each item. Not all i
 
 #### Think about time 
 Our feedback indicates that many online workshops move more slowly than in-person events. This is particularly true where breakout sessions are used, and we do recommend using them. This means planning ahead to identify where content can be trimmed as the need arises, without cutting into breaks or activity time. 
+
+As the instructor, there are several things to consider while also providing all of the learners with as much personlised attention as possible. We recommend having a class size of 20 learners or fewer. With fewer numbers, instructors/ supporting and instructors and helpers are able to provide direct assistance to each participant without feeling overwhelmed.  
 
 Breaks are vital in any workshop. In an online setting, particularly for those juggling multiple responsibilities at home, it is important that breaks be scheduled, [announced](pre-workshop-emails-to-learners), and on time. Consider allowing time for longer breaks (e.g. 30 minutes), especially if you plan to use breaks as opportunities to provide help.
 
@@ -172,7 +175,6 @@ Formative assessment, feedback, and other communications can be supported using 
 - [Whenisgood](https://whenisgood.net/) 
 - [Doodle](https://doodle.com/free-poll), Accessibility Note: It might be inaccessible to some of the users. Whenisgood might be a suitable alternative.
 - [Pinup](https://pinup.com/)
-
 
 Whatever your choices, remember that any platform is only as useful as you make it! Be sure to practice with your tools and features before the workshop. Try to keep things simple and consistent to build expertise and comfort within the instructional team.
 
@@ -262,7 +264,7 @@ At online workshops (and sometimes in-person ones too!), we often use collaborat
 Another way of taking attendance is to save screenshots of the participants list on your video conferencing platform. Screenshots are also useful for keeping track of groups assigned to breakout rooms.
 
 #### Have everyone introduce themselves
-Depending on the size of your workshop, it can be useful to do a round of introductions. At a minimum, all Instructors and helpers should introduce themselves. The Instructor should explain the roles helpers will be playing and note how their helper status is indicated in Zoom. 
+Depending on the size of your workshop, it can be useful to do a round of introductions. At a minimum, all Instructors and helpers should introduce themselves. The Instructor should explain the roles helpers will be playing and note how their helper status is indicated in Zoom. Learner introductions could be done in breakout rooms in a large workshop, so that everyone gets to meet at least a few other attendees.  
 
 You can then ask each learner to share their name, pronouns, and institution or location verbally, or have them type it in the chat. On Zoom, learners can adjust their screen name to reflect their preferred name and pronouns. 
 

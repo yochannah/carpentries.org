@@ -2,7 +2,7 @@
 layout: page
 permalink: /regions_au/
 ---
-{% include lazyload.html %} 
+{% include lazyload.html %}
 
 <div class="container">
 
@@ -38,11 +38,11 @@ Damien Irving is our Regional Coordinator in Australia. He is ready to help you 
 <!-- BEGIN Section: Workshop Request & Other info  -->
 
 
-Want to host a Carpentries workshop in Australia?  Fill out <a href="https://amy.carpentries.org/forms/workshop/">this form</a> and Damien will get right back to you!  
+Want to host a Carpentries workshop in Australia?  Fill out <a href="https://amy.carpentries.org/forms/workshop/">this form</a> and Damien will get right back to you!
 <br><br>
 General questions about The Carpentries outside of Australia?  Contact <a href="mailto:{{site.contact}}">{{site.contact}}</a> and we’ll get your message to the right team member to follow up.
 <br><br>
-Want to stay up-to-date with what's happening in the Australian Carpentries community? Join the <a href="https://carpentries.topicbox.com/groups/local-aunz">AU-NZ mailing list</a>.  
+Want to stay up-to-date with what is happening in the Australian Carpentries community? Join the <a href="https://carpentries.topicbox.com/groups/local-aunz">AU-NZ mailing list</a>.  
 <br><br>
 
 <!-- END Section: Workshop Request & Other info  -->
@@ -56,7 +56,7 @@ Want to stay up-to-date with what's happening in the Australian Carpentries comm
   {% assign workshop_list = site.data.all_upcoming_workshops  | where: "country", "AU" %}
    {% if workshop_list == empty %}
       There are no upcoming Carpentries workshops in Australia. <a href="mailto:admin-au@carpentries.org">Contact us</a> to learn how to host a workshop at your site!<br><br>
-  {% else %}  
+  {% else %}
       {% include workshop_table.md %}<br><br>
   {% endif %}
 

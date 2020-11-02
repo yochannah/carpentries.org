@@ -16,11 +16,10 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - University of Manchester
 - New Zealand eScience Infrastructure (NeSI)
 - Nordic eInfrastructure Collaboration (NeIC)
-- North West University
-- Southern African Centre for Digital Language Resources (SADiLaR)
+- North-West University
+- South African Centre for Digital Language Resources (SADiLaR)
 - Software Sustainability Institute
 - Stanford University
-- The Jackson Laboratory
 - The University of Wisconsin
 - University of Chicago, Center for Spatial Data Science
 - University of Oklahoma
@@ -35,10 +34,11 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - National Institutes of Health (NIH)
 - New England Software Carpentry Library Consortium
 - New York Data Carpentries Library Consortium (NYDCLC)
-- New York Data Carpentries Library Consortium (NYDCLC)
 - Nordic eInfrastructure Collaboration
 - Oklahoma State University
 - Smithsonian Institution
+- South Big Data Innovation Hub
+- The Jackson Laboratory
 - The University of Michigan
 - University of California Santa Barbara
 - University of Edinburgh
@@ -55,6 +55,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Alan Turing Institute
 - American University
 - California Institute of Technology
+ - California State University Humboldt
 - Carnegie Mellon University
 - Chan Zuckerberg Biohub
 - College Board
@@ -73,23 +74,29 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Helmholtz-Zentrum Dresden-Rossendorf
 - Institute for Advanced Computational Science-Stony Brook University
 - Institute of Environmental Science and Research Limited (ESR)
+- Kings College London
 - KTH Royal Institute of Technology, University of Stockholm, Karolinska Institutet
-- Leibniz School of Education
+- Lebanon Public Libraries
 - Leibniz School of Education
 - NASA Develop
 - New York University
+- Ohio State University
 - Purdue University
 - Queensland Cyber Infrastructure Foundation
 - Regeneron Pharmaceuticals
 - Rice University
 - Rutgers University - Camden
+- SUNY College of Environmental Science and Forestry
+- Texas State Library and Archives Commission
 - The National Institute of Standards and Technology
 - University of Arkansas
+- Univesity of Birmingham
 - University of California Irvine
 - University of California Los Angelos
 - University of California Merced
 - University of California San Diego
 - University of Central Florida
+- University of Colorado-Boulder (Earth Lab & CIRES)
 - University of Connecticut
 - University of Göttingen State and University Library
 - University of Idaho

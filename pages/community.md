@@ -38,7 +38,7 @@ and research software development through building local and global communities 
 ### Instructors
 Carpentry Instructors are the core of our community. Instructors organise and teach Carpentry workshops to spread data literacy and programmatic skills both locally and globally. Members of our Instructor community work together to actively grow their instructional and technical skills. Becoming an Instructor is a great step to leveling-up your own technical skills and helps you to become a more effective technical communicator.
 
-* [Instructor training curriculum](http://carpentries.github.io/instructor-training/)
+* [Instructor training curriculum](https://carpentries.github.io/instructor-training/)
 * [Apply to become an Instructor](https://amy.carpentries.org/forms/request_training/)! To direct your application to our Open Instructor Training pool, leave the "group" category blank. Open training applications are reviewed periodically and ranked based on free text responses, with bonus points available for [demographic, geographic, and domain criteria outlined here](https://github.com/carpentries/instructor-training/blob/gh-pages/files/rubric.md). Applicants are then invited to join online training events as seats become available.
 * [Update](https://amy.carpentries.org/forms/update_profile/) your instructor profile
 * For more information, contact [Erin Becker](mailto:ebecker@carpentries.org).
@@ -71,7 +71,7 @@ The Instructor Development Committee supports Instructors as they progress throu
 * For more information, contact [Serah Rono](mailto:serah@carpentries.org).
 
 ### Trainers
-The Trainer community is a group of experienced Instructors, local champions, and education specialists who inspire and prepare new Instructors. They work as a team to maintain and teach the [instructor training curriculum](http://carpentries.github.io/instructor-training/). They also host teaching demonstration sessions to provide vital feedback as prospective Carpentries Instructors prepare to join the community. They showcase and embody the enthusiasm and conduct of our community as they prepare new instructors. Becoming a Trainer lets you scale your impact - sharing your own passion, experience, and enthusiasm with the next generation of The Carpentries Instructors.
+The Trainer community is a group of experienced Instructors, local champions, and education specialists who inspire and prepare new Instructors. They work as a team to maintain and teach the [instructor training curriculum](https://carpentries.github.io/instructor-training/). They also host teaching demonstration sessions to provide vital feedback as prospective Carpentries Instructors prepare to join the community. They showcase and embody the enthusiasm and conduct of our community as they prepare new instructors. Becoming a Trainer lets you scale your impact - sharing your own passion, experience, and enthusiasm with the next generation of The Carpentries Instructors.
 
 * [Trainer Training materials](https://carpentries.github.io/trainer-training/)
 * [Duties](http://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html#trainer-agreement)
@@ -80,7 +80,6 @@ The Trainer community is a group of experienced Instructors, local champions, an
 * [Mailing list]({{site.mailing_lists}}/trainers)
 * [Slack](https://swc-slack-invite.herokuapp.com/)
 * [Meeting minutes](https://github.com/carpentries/trainers/tree/master/minutes)
-* [Application](https://docs.google.com/forms/d/e/1FAIpQLSfMIMStkL5UfWoq9N0z-M34vAblj5RLPtjiTpH2hkaC_8_lcg/viewform) - we are currently accepting applications through 10 December, 2019.  
 * For more information contact [Karen Word](mailto:krword@carpentries.org).
 
 ### Maintainers
@@ -130,12 +129,14 @@ network with other domain experts in The Carpentries community. We are not curre
 
 ### Lesson Developers
 
-The Carpentries community is commited to a collaborative and open process for lesson development and to sharing teaching materials. We provide two avenues for community members to share lesson materials.  
+The Carpentries community is commited to a collaborative and open process for lesson development and to sharing teaching materials. We provide two avenues for community members to share lesson materials.
 
-[The Carpentries Incubator](/community-lessons/#the-carpentries-incubator) is for Carpentries community members to share Carpentries-styel teaching materials at all stages of development, to receive feedback from other community members. These lessons are not officially endorsed by The Carpentries. Read [more information](https://github.com/carpentries-incubator/proposals/blob/master/README.md) about contributing to The Carpentries Incubator.
+[The Carpentries Incubator](/community-lessons/#the-carpentries-incubator) is for Carpentries community members to share Carpentries-style teaching materials at all stages of development, to receive feedback from other community members. These lessons are not officially endorsed by The Carpentries. Read [more information](https://github.com/carpentries-incubator/proposals/blob/master/README.md) about contributing to The Carpentries Incubator.
 
 [The CarpentriesLab](/community-lessons/#the-carpentrieslab) is for sharing peer-reviewed lessons, vetted by the The Carpentries. We are not currently accepting submissions for these lessons.
 
+Those looking for ways to contribute to existing lesson material can find
+a list of issues in need of attention on the [Help Wanted page](/help-wanted-issues/).
 
 ### Assessment Network
 
@@ -155,7 +156,7 @@ Carpentry Champions meet quarterly to discuss ways in which they can help suppor
 * [Upcoming meetings](http://pad.software-carpentry.org/champions)
 * [Mailing list](https://carpentries.topicbox.com/groups/champions)
 * [Meeting minutes](https://github.com/carpentries/champions/tree/master/meeting-minutes)
-* [Carpentries Community Cookbook](https://github.com/carpentries/community-cookbook)
+* [Carpentries Community Cookbook](https://cookbook.carpentries.org/)
 * To get involved, contact our [Team](mailto:team@carpentries.org).
 
 ### Regional Coordinators
@@ -221,7 +222,7 @@ A global CarpentryCon will be held every two years, with locally organised Carpe
 ### Community events
 There are many opportunities to join community meetings, subcommittees
 and debriefing sessions. Find links to them on this <a href="http://pad.software-carpentry.org/pad-of-pads">Etherpad</a>, and subscribe to the calendar below to watch all that is
-going on throughout our community. 
+going on throughout our community.
 
 <div id='calendar' markdown="0">Community Calendar goes here</div>
 
