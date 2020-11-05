@@ -5,7 +5,7 @@ permalink: "/strategic-plan/"
 ---
 
 
-The Carpentries was founded in January 2018 via the merger of Software Carpentry and Data Carpentry and was joined later that year by Library Carpentry. All three of these organisations have been dedicated to teaching computing and data skills to their various communities. United under The Carpentries we have the opportunity to work together toward a bigger and broader vision of the future. 
+The Carpentries was founded in January 2018 via the merger of Software Carpentry and Data Carpentry and was joined later that year by Library Carpentry. All three of these organisations have been dedicated to teaching computing and data skills to their various communities. United under The Carpentries we have the opportunity to work together toward a bigger and broader vision of the future.
 
 This Strategic Plan describes how the [Executive Council](https://carpentries.org/governance/) and [The Carpentries Core Team](https://carpentries.org/team/) see the path forward toward that future. It lays out six broad goals, each with its rationale and underlying objectives, that will serve as touchpoints to guide our future actions. The idea is to provide a general framework for the direction of this organisation for the next 3-5 years. This Strategic Plan speaks to The Carpentries as a whole. Each of the individual Lesson Programs -- Data Carpentry, Library Carpentry, and Software Carpentry -- may also have their own goals and objectives related to their specific programs and curricula.
 
@@ -35,13 +35,13 @@ The Carpentries is a growing organisation that continually strives to reach new,
 
 **Objectives:**
 
-- Create and implement a program for developing Local Leadership, including mentorship for new Leaders, communication channels for connecting Local Leaders, and explicit training in our values, Code of Conduct, and Equity, Inclusion, and Accessibility. 
+- Create and implement a program for developing Local Leadership, including mentorship for new Leaders, communication channels for connecting Local Leaders, and explicit training in our values, Code of Conduct, and Equity, Inclusion, and Accessibility.
 - Develop a kit of resources, templates, and documentation to help build local communities and enable them to run their own CarpentryConnect events so that they can share experiences and learn from one another locally, regionally, and globally.
-- Develop a plan to work with local and regional communities to ensure they are supported appropriately by Regional Coordinators, Trainers, and other community roles that work in a location-specific manner. 
+- Develop a plan to work with local and regional communities to ensure they are supported appropriately by Regional Coordinators, Trainers, and other community roles that work in a location-specific manner.
 - Develop an Onboarding for Member Organisations that empowers them to build community locally and connect globally, including reports and recommendations for building local capacity for training and community; guidance for establishing an equitable, inclusive, and accessible culture of learning; and information on getting involved in the global Carpentries community.
-- Develop a plan for strategically engaging libraries and research computing centres as Carpentries hubs for their institutions. 
+- Develop a plan for strategically engaging libraries and research computing centres as Carpentries hubs for their institutions.
 
-### GOAL 2: 
+### GOAL 2:
 
 #### Intentionally incorporate equity, inclusion, and accessibility to support a diverse community.
 <br>
@@ -51,14 +51,14 @@ As an international community, we value inclusivity and want to continue to find
 
 **Objectives:**
 
-- Create an Equity Council to work with the community and Core Team members on establishing and implementing equity, inclusion, and accessibility metrics for all of our programs and our administrative processes, including employment and contracting. 
+- Create an Equity Council to work with the community and Core Team members on establishing and implementing equity, inclusion, and accessibility metrics for all of our programs and our administrative processes, including employment and contracting.
 - Develop a program for supporting community growth and training in under-resourced institutions and communities and in new geographical regions.
 - Improve mechanisms for participation and contribution to our community by investigating ways to support more languages, better understanding the needs of signing and non-signing members of the Deaf and hard of hearing community, and enabling more ways to participate that are not dependent on stable internet access.
-- Create a roadmap for improving the accessibility of our lessons, lesson infrastructure, online resources, and sign-up workflows for teaching workshops. 
+- Create a roadmap for improving the accessibility of our lessons, lesson infrastructure, online resources, and sign-up workflows for teaching workshops.
 - Enhance our Instructor Training materials through the inclusion of information about Culturally Responsive Teaching and the development of an instructor resource guide about equity, inclusion, and accessibility.
-- Develop a workflow for responding to accessibility information and feedback to improve accommodations for Instructors and Learners. 
+- Develop a workflow for responding to accessibility information and feedback to improve accommodations for Instructors and Learners.
 
-### GOAL 3: 
+### GOAL 3:
 
 #### Provide opportunities for growth and professional development of our volunteers and Core Team.
 <br>
@@ -68,13 +68,13 @@ As an organisation that values a growth mindset and believes that our community 
 
 **Objectives:**
 
-- Develop an externally-valid, community-led badging and recognition program for both online and in-person roles. 
+- Develop an externally-valid, community-led badging and recognition program for both online and in-person roles.
 - Solidify current committee leadership roles, responsibilities, and governing documents.
 - Form and support a Communications Committee to broaden opportunities for community members to engage in our communications to a broad audience.
-- Develop Instructor Training refresher modules to keep Trainers current in educational and Carpentries-specific practices, and provide opportunities for continued learning. 
+- Develop Instructor Training refresher modules to keep Trainers current in educational and Carpentries-specific practices, and provide opportunities for continued learning.
 - Create structures and pathways for identifying and utilising training opportunities for Core Team members to develop professional skills in management and/or independent contributor roles.
 
-### GOAL 4: 
+### GOAL 4:
 
 #### Facilitate the creation and maintenance of relevant, high-quality, Community-curated curricula.
 <br>
@@ -84,13 +84,13 @@ We teach foundational coding and data skills to researchers worldwide through Da
 
 **Objectives:**
 
-- Improve the overall experience for contributors by developing accessible templates and documentation, revising existing processes and documentation for novices, and curating contribution opportunities for new contributors. 
-- Develop a comprehensive Maintainer program including onboarding, mentorship, regular recruitment/retirement cycles, and accessible lesson infrastructure. 
+- Improve the overall experience for contributors by developing accessible templates and documentation, revising existing processes and documentation for novices, and curating contribution opportunities for new contributors.
+- Develop a comprehensive Maintainer program including onboarding, mentorship, regular recruitment/retirement cycles, and accessible lesson infrastructure.
 - Develop a Community-led Curriculum Advisors program, including roles and responsibilities, regular cycles for recruitment/retirement, and communication pathways between Maintainers, Curriculum Advisors, and lesson program Advisory Councils.
 - Empower Community members to develop lessons by lowering barriers to contributing to The Carpentries Incubator program and making the lesson development and release process more transparent.
-- Develop an Instructor Training curriculum variant that is intended for training people who do not intend to teach Carpentries workshops. 
+- Develop an Instructor Training curriculum variant that is intended for training people who do not intend to teach Carpentries workshops.
 
-### GOAL 5: 
+### GOAL 5:
 
 #### Strengthen organisational structure and capacity to be strategic and responsive.
 <br>
@@ -103,14 +103,14 @@ As an international volunteer organisation, we need a responsive and transparent
 **CORE TEAM**
 
 - Develop Core Team structures (e.g. programmatic team roles, supervisory structures) that enable individuals to be both empowered and accountable through clear roles, expectations, communication, and pathways for advancement.
-- Develop fair and equitable human resource policies for Core Team members in collaboration with our fiscal sponsor. 
+- Develop fair and equitable human resource policies for Core Team members in collaboration with our fiscal sponsor.
 - Establish workflow and documentation for our essential ongoing processes (e.g. budget creation and review, communication channel use), and identify areas for effective and appropriate automation or other improvements needed to scale support.
 
 **REVENUE**
 
-- Pursue grant opportunities and explore ways to manage and diversify our revenue streams, including pursuing corporate sponsorships, that are aligned with our values and priorities. 
+- Pursue grant opportunities and explore ways to manage and diversify our revenue streams, including pursuing corporate sponsorships, that are aligned with our values and priorities.
 - Develop opportunities for more communities to participate in workshops and Memberships through programs that plan for and offset associated costs.
-- Update the model for Carpentries Membership to match the needs of different types of communities, support the development of local capacity for training, improve operational efficiency, and be a significant part of the revenue model that provides adequate funding to sustain Carpentries activities. 
+- Update the model for Carpentries Membership to match the needs of different types of communities, support the development of local capacity for training, improve operational efficiency, and be a significant part of the revenue model that provides adequate funding to sustain Carpentries activities.
 
 **BUSINESS & GOVERNANCE**
 
@@ -119,7 +119,7 @@ As an international volunteer organisation, we need a responsive and transparent
 - Create an organised and engaged Lesson Program governance structure and strengthen Lesson Programs’ oversight of their Programs.
 - Establish an Advisory Council for The Carpentries that will meet biannually to advise the Executive Council regarding strategic planning, finances, governance, and other relevant topics.
 
-### GOAL 6: 
+### GOAL 6:
 
 #### Advocate for our values and vision to empower more people to work with data and software.
 <br>
@@ -134,7 +134,7 @@ To become the leading inclusive community teaching computing and data skills, we
 - Intentionally reach out to related communities to create relationships and develop synergies.
 - Write and share position papers related to training and empowering people to work with data and software.
 - Encourage Core Team and Community members to
-  - serve on advisory boards of other organisations to provide guidance and advocacy in areas key to The Carpentries mission and vision and 
+  - serve on advisory boards of other organisations to provide guidance and advocacy in areas key to The Carpentries mission and vision and
   - respond to requests for comments in these areas.
 
 <br>

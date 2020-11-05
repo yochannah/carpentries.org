@@ -10,7 +10,7 @@ Training program, which teaches instructional pedagogy as well as the
 practicalities of teaching a Carpentries workshop.
 
 Instructors can teach workshops in their local area or travel to
-teach. We've held workshops in over 40 countries on every continent 
+teach. We have held workshops in over 40 countries on every continent 
 (including Antarctica). We match our Instructors with teaching 
 opportunities that fit their schedules, travel interests, and 
 availability.
@@ -21,7 +21,7 @@ There are two steps to becoming an Instructor.
 The training course runs over two full days and covers the basics of educational psychology, instructional design, and how to apply both to teaching workshops for The Carpentries. To see what our curriculum covers, visit the [instructor training course page](https://carpentries.github.io/instructor-training/).
 
 2. **Complete the checkout process**  
-You must complete three short tasks after the course in order to complete certification. These [checkout tasks are described in detail on this page](https://carpentries.github.io/instructor-training/checkout/) and take a total of approximately 8-10 hours. Once you've read the [detailed instructions, please use this page](https://carpentries.github.io/instructor-training/checkout/) to keep track of your progress.
+You must complete three short tasks after the course in order to complete certification. These [checkout tasks are described in detail on this page](https://carpentries.github.io/instructor-training/checkout/) and take a total of approximately 8-10 hours. Once you have read the [detailed instructions, please use this page](https://carpentries.github.io/instructor-training/checkout/) to keep track of your progress.
 
 <a href="https://amy.carpentries.org/forms/request_training/">
         <button class="btn">

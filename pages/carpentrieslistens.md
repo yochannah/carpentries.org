@@ -9,19 +9,19 @@ permalink: "/carpentrieslistens/"
 The Carpentries is a community organization, and an important part of that is not only discussing, but also listening.
 
 As a part of developing Mission and Vision for The Carpentries, we, the staff and The Executive Council, are embarking on 
-a virtual listening tour. Starting at CarpentryCon 2018 on May 30, 2018 and through June 14, 2018, we'll ask some short 
+a virtual listening tour. Starting at CarpentryCon 2018 on May 30, 2018 and through June 14, 2018, we will ask some short 
 questions for the community, with responses through Twitter and anonymous surveys. There are 4 themes - Learning, Growth, 
-Community, and Gratitude. Every few days, we'll post a new question, and ask for your responses
+Community, and Gratitude. Every few days, we will post a new question, and ask for your responses
 and be here to listen.
 
-The idea of the listening tour is that we hear from you, and we want to hear from everyone! If you've taught 30 workshops or
+The idea of the listening tour is that we hear from you, and we want to hear from everyone! If you have taught 30 workshops or
 are just hearing about The Carpentries for the first time, **you belong in The Carpentries**, and we want to hear from everyone
 what you think and feel about The Carpentries and where you think we could go.
 
-We generally won't be responding. We'll just be listening. We want to hear what you have to say, what you like and what you retweet. 
+We generally will not be responding. We will just be listening. We want to hear what you have to say, what you like and what you retweet. 
 We'll summarize the conversations as we go and at the end of the virtual tour.
 
-Over the next two weeks we'll post questions here. We can't wait to listen!
+Over the next two weeks we will post questions here. We cannot wait to listen!
 
 ### Learning
 

@@ -13,9 +13,9 @@ permalink: /workshop_faq/
 
 ## Pre-Workshop Questions
 
-### Why isn't my workshop listed on the [carpentries.org](https://carpentries.org) webpage?
+### Why is my workshop not listed on the [carpentries.org](https://carpentries.org) webpage?
 
-There are 3 things that must happen in order for a workshop to appear on The Carpentries webpage. You must complete the [workshop request/notification form](https://amy.carpentries.org/forms/workshop/), the workshop website must include the venue, and at least one Instructor must be identified. If the Instructors change, we will get notified and will be able to make the update. 
+There are 3 things that must happen in order for a workshop to appear on The Carpentries webpage. You must complete the [workshop request/notification form](https://amy.carpentries.org/forms/workshop/), the workshop website must include the venue, and at least one Instructor must be identified. If the Instructors change, we will get notified and will be able to make the update.
 
 ### If I am teaching a Data Carpentry Genomics workshop, how many AWS Instances will be provided and when will we receive them?
 
@@ -39,7 +39,7 @@ The contact person for the workshop webpage can be designated by the workshop or
 
 ### Where do I find the pre/post survey for the learners to use?
 
-The learner facing survey links are automatically generated on the workshop's webpage. Generally, they will be located directly above and within the schedule. You are welcome to share the survey links (located on the workshop webpage) with your attendees whenever the time is right for your workshop. 
+The learner facing survey links are automatically generated on the workshop's webpage. Generally, they will be located directly above and within the schedule. You are welcome to share the survey links (located on the workshop webpage) with your attendees whenever the time is right for your workshop.
 
 ### How do I access the survey results?
 
@@ -49,13 +49,13 @@ If you are planning a workshop, please notify the Workshop Administration Team o
 
 ### If I am only teaching portions of the Carpentries curriculum, do I still need to register my workshop?
 
-It is important that we know about workshops being publicised because people often contact us to report that they will be unable to attend a workshop or to ask questions and if we do not know about planned workshops we can not provide support or share information with Instructors. 
+It is important that we know about workshops being publicised because people often contact us to report that they will be unable to attend a workshop or to ask questions and if we do not know about planned workshops we can not provide support or share information with Instructors.
 
 If you are teaching a portion of The Carpentries curriculum or if the workshop does not align with the [Core Curriculum](https://carpentries.org/workshops/#workshop-core) we ask that you still [register](https://amy.carpentries.org/forms/self-organised/) your workshop and select the “Mix & Match” option for the question “Which Carpentries workshop are you teaching?”. *This option is only available for Self-Organised workshops. Centrally-organised workshops are required to follow the Core Curricula.*
 
 ### When we teach our workshops, how closely do we have to stick to the Carpentries lesson plans?
 
-To be considered an official Carpentries workshop, you must follow the [Core Curricula](https://carpentries.org/workshops/#workshop-core). If you teach something other than what is listed on our webpage we ask that you acknowledge that your workshop is  "inspired by SWC/DC/LC" or "based on SWC/DC/LC". You can still [register](https://amy.carpentries.org/forms/self-organised/) your workshop and select the workshop you are teaching is “Mix & Match”, so that we can show others how you use The Carpentries resources. 
+To be considered an official Carpentries workshop, you must follow the [Core Curricula](https://carpentries.org/workshops/#workshop-core). If you teach something other than what is listed on our webpage we ask that you acknowledge that your workshop is  "inspired by SWC/DC/LC" or "based on SWC/DC/LC". You can still [register](https://amy.carpentries.org/forms/self-organised/) your workshop and select the workshop you are teaching is “Mix & Match”, so that we can show others how you use The Carpentries resources.
 
 ## Centrally Organised Workshops
 
@@ -63,7 +63,7 @@ To be considered an official Carpentries workshop, you must follow the [Core Cur
 
 If you are a government or non-profit institution and would like The Carpentries to assist with organising your workshop, there is an administrative fee of $2500 US. You will also be responsible for the travel expenses for each Instructor (see below). If you are a for-profit institution please [contact us](mailto:team@carpentries.org). 50% of workshop coordination fees for for-profit institutions support workshops in diverse communities.
 
-Please visit our [website](https://carpentries.org/workshops/#workshop-cost) for more information. 
+Please visit our [website](https://carpentries.org/workshops/#workshop-cost) for more information.
 
 ### Do Instructors pay for travel?
 
@@ -85,7 +85,7 @@ If you are scheduled to teach a Carpentries workshop and the host cancels, you w
 
 ### How soon can I request a Carpentries workshop?
 
-The Carpentries workshops are offered on-demand, not on a set schedule. We ask for a minimum of 2-3 months lead time to organise the workshop. If a request is less than 2 months, there will be no guarantee that we will be able to provide Instructors for your workshop. 
+The Carpentries workshops are offered on-demand, not on a set schedule. We ask for a minimum of 2-3 months lead time to organise the workshop. If a request is less than 2 months, there will be no guarantee that we will be able to provide Instructors for your workshop.
 
 ### My currency is not USD, will I get invoiced in USD or my local currency?
 
@@ -95,15 +95,15 @@ If your organization does not accept invoices in USD, please let us know. The Wo
 
 ### Is there a fee for running a Self-Organised workshop?
 
-Self-organised workshops are managed by the instructor/organiser. Since you will be taking care of all the logistics, there is no administrative fee due to The Carpentries for running a Self-Organised workshop. Visit our [website](https://carpentries.org/workshops/#workshop-organising) for more information. 
+Self-organised workshops are managed by the instructor/organiser. Since you will be taking care of all the logistics, there is no administrative fee due to The Carpentries for running a Self-Organised workshop. Visit our [website](https://carpentries.org/workshops/#workshop-organising) for more information.
 
 ### How do I inform you I am running a self-organised workshop?
 
-When planning a Self-Organised workshop we ask that you notify us of your planned workshop. Once the workshop webpage is created, please share the link with us and notify us of your planned workshop via the [self-organised workshop form](https://amy.carpentries.org/forms/self-organised/). Once we receive the link to the workshop webpage, we will be able to [add your workshop to our website](https://carpentries.org/upcoming_workshops/), provide support (in the form of survey result links and AMI instances for Genomics workshops), and get Instructors and helpers credit for the workshops they teach. 
+When planning a Self-Organised workshop we ask that you notify us of your planned workshop. Once the workshop webpage is created, please share the link with us and notify us of your planned workshop via the [self-organised workshop form](https://amy.carpentries.org/forms/self-organised/). Once we receive the link to the workshop webpage, we will be able to [add your workshop to our website](https://carpentries.org/upcoming_workshops/), provide support (in the form of survey result links and AMI instances for Genomics workshops), and get Instructors and helpers credit for the workshops they teach.
 
-### If I need help recruiting Instructors, Supporting Instructors, and/or Helpers for a Self-Organised workshop, what are my options? 
+### If I need help recruiting Instructors, Supporting Instructors, and/or Helpers for a Self-Organised workshop, what are my options?
 
-If you are organising a Self-Organised workshop, there are resources for you to recruit Instructors, Supporting Instructors and/or Helpers. Below are the channels you can use: 
+If you are organising a Self-Organised workshop, there are resources for you to recruit Instructors, Supporting Instructors and/or Helpers. Below are the channels you can use:
 * Any local or group specific mailing list on [TopicBox](https://carpentries.topicbox.com/groups)
 * Any local or group specific slack channel
 
@@ -125,7 +125,7 @@ The Supporting Instructor role is intended for Instructors with less practice te
 
 ### When can a Supporting Instructor become an Experienced Instructor?
 
-Ater being a Supporting Instructor for three Carpentries workshops you will be able to take the role of Experienced Instructor in any Carpentries online workshop. If you would like to continue in the Supporting Instructor role, please indicate your preference on the Instructor signup sheet. 
+Ater being a Supporting Instructor for three Carpentries workshops you will be able to take the role of Experienced Instructor in any Carpentries online workshop. If you would like to continue in the Supporting Instructor role, please indicate your preference on the Instructor signup sheet.
 
 ### How do I indicate my workshop will be online in the workshop website template?
 
@@ -137,24 +137,24 @@ Your workshop does not have to be 2 full days. You are encouraged to  conduct yo
 
 ### Will I be provided with a Zoom room to run my online workshop?
 
-Self-Organised workshops are managed by the instructor/organiser, who is responsible for taking care of all the logistics. This means you will be responsible for providing your own Zoom room for conducting workshops. Please be sure to review our [Recommendations for Teaching Carpentries Workshops Online](https://carpentries.org/online-workshop-recommendations/). 
+Self-Organised workshops are managed by the instructor/organiser, who is responsible for taking care of all the logistics. This means you will be responsible for providing your own Zoom room for conducting workshops. Please be sure to review our [Recommendations for Teaching Carpentries Workshops Online](https://carpentries.org/online-workshop-recommendations/).
 
-For Centrally-Organised workshops, if your institution has a videoconferencing platform available, we recommend that you use that same platform for The Carpentries workshop. This will reduce the time needed for workshop organizers and learners to learn a new system. However, if you do not have access to a video conferencing system, we will be able to provide you with access to one of our Zoom rooms. 
+For Centrally-Organised workshops, if your institution has a videoconferencing platform available, we recommend that you use that same platform for The Carpentries workshop. This will reduce the time needed for workshop organizers and learners to learn a new system. However, if you do not have access to a video conferencing system, we will be able to provide you with access to one of our Zoom rooms.
 
 ### How many Instructors are needed to teach the workshop?
 
-Teaching online is a challenge. We recommend a minimum of two Instructors and a maximum of four Instructors plus the assistance of helpers. Please review the recommended [instruction roles](https://carpentries.org/online-workshop-recommendations/#instructional-roles) for a workshop. 
+Teaching online is a challenge. We recommend a minimum of two Instructors and a maximum of four Instructors plus the assistance of helpers. Please review the recommended [instruction roles](https://carpentries.org/online-workshop-recommendations/#instructional-roles) for a workshop.
 
 
 ### What are the roles of everyone participating in a workshop?
 
-*Instructor*: A person who has been certified by The Carpentries and understands best practices as outlined by The Carpentries Curricula. These persons will lead the workshop and teach the scheduled lessons. 
+*Instructor*: A person who has been certified by The Carpentries and understands best practices as outlined by The Carpentries Curricula. These persons will lead the workshop and teach the scheduled lessons.
 
 *Supporting Instructor*: A certified Carpentries Instructor who has taught The Carpentries workshops less than 3 times. These persons are gaining experience while observing and teaching portions of the scheduled lessons.
 
 *Helper*: A person who is familiar with the topics being taught at a workshop.They support learners one-on-one if they are stuck installing software, understanding a certain line of code, or any other parts of the learning process.
 
-*Learner*: A person who is attending the workshop to learn the material being taught. 
+*Learner*: A person who is attending the workshop to learn the material being taught.
 
 *Workshop Organiser/Host*: The person who requested The Carpentries workshop. This person is the main contact for the workshop and will be able to provide logistical support for attending the scheduled workshop.
 
@@ -162,15 +162,15 @@ Teaching online is a challenge. We recommend a minimum of two Instructors and a 
 
 ### What happens if I need to cancel or postpone a planned workshop?
 
-If you need to cancel your workshop, please be sure to inform your [Regional Coordinator](https://carpentries.org/regionalcoordinators/). They will ensure that the workshop is removed from our website and complete any other administrative tasks associated with the workshop. 
+If you need to cancel your workshop, please be sure to inform your [Regional Coordinator](https://carpentries.org/regionalcoordinators/). They will ensure that the workshop is removed from our website and complete any other administrative tasks associated with the workshop.
 
-If you need to postpone your workshop please contact your [Regional Coordinator](https://carpentries.org/regionalcoordinators/). They will work with you to select the dates for the rescheduled workshop. 
+If you need to postpone your workshop please contact your [Regional Coordinator](https://carpentries.org/regionalcoordinators/). They will work with you to select the dates for the rescheduled workshop.
 
 ### What is the difference between a Centrally-Organised workshop and a Self-Organised workshop?
 
-A Centrally-Organised workshop is organised by The Carpentries. We will locate Instructors, setup registration and provide additional support while planning workshops. There is an [administrative fee](https://carpentries.org/workshops/#workshop-cost) for Centrally-Organised workshops. 
+A Centrally-Organised workshop is organised by The Carpentries. We will locate Instructors, setup registration and provide additional support while planning workshops. There is an [administrative fee](https://carpentries.org/workshops/#workshop-cost) for Centrally-Organised workshops.
 
-A Self-Organised workshop is organised by the workshop instructor/organiser. This means you are already connected with our [certified Instructors](https://carpentries.org/instructors/) and will work with them on all aspects of workshop organisation. There is no administrative fee for Self-Organised workshops. 
+A Self-Organised workshop is organised by the workshop instructor/organiser. This means you are already connected with our [certified Instructors](https://carpentries.org/instructors/) and will work with them on all aspects of workshop organisation. There is no administrative fee for Self-Organised workshops.
 
 ### How do I get survey data/links for previous workshops?
 
@@ -178,19 +178,19 @@ The Workshop Administration Team can provide survey result links for past worksh
 
 ### Can we restrict who participates in our workshops?
 
-Yes, it is up to the workshop organisers to decide who can attend a workshop. You can have it open to the public or restricted to people from your organisation. When you [request](https://amy.carpentries.org/forms/request_workshop/) or [register](https://amy.carpentries.org/forms/self-organised/) your workshop, you can indicate if the workshop is open to the public or not. 
+Yes, it is up to the workshop organisers to decide who can attend a workshop. You can have it open to the public or restricted to people from your organisation. When you [request](https://amy.carpentries.org/forms/request_workshop/) or [register](https://amy.carpentries.org/forms/self-organised/) your workshop, you can indicate if the workshop is open to the public or not.
 
 ### How many times a year do I have to teach to be eligible to vote?
 
-Voting eligibilty is dependent on an Instructor's history with The Carpentries. Please see our [Bylaws](https://docs.carpentries.org/topic_folders/governance/bylaws.html#individual-voting-membership) for more information. 
+Voting eligibility is dependent on an Instructor's history with The Carpentries. Please see our [Bylaws](https://docs.carpentries.org/topic_folders/governance/bylaws.html#individual-voting-membership) for more information. 
 
 ### Are there email templates available for me to locate helpers?
 
-We have compiled several [email templates](https://docs.carpentries.org/topic_folders/workshop_administration/email_templates.html#from-instructors-and-hosts) for you to be able to respond to various groups: participants, instructors, and helpers. 
+We have compiled several [email templates](https://docs.carpentries.org/topic_folders/workshop_administration/email_templates.html#from-instructors-and-hosts) for you to be able to respond to various groups: participants, instructors, and helpers.
 
 ### I do not see a [Regional Coordinator](https://carpentries.org/regionalcoordinators/) for my area. Who should I speak with regarding a workshop?
 
-If you live in an area that does not have a Regional Coordinator in that region, you are welcome to contact the Deputy Director of Workshops & Meetings at [team@carpentries.org](mailto:team@carpentries.org). This person is responsible for all workshops that do not have a Regional Coordinator. 
+If you live in an area that does not have a Regional Coordinator in that region, you are welcome to contact the Deputy Director of Workshops & Meetings at [team@carpentries.org](mailto:team@carpentries.org). This person is responsible for all workshops that do not have a Regional Coordinator.
 
 ### Can I charge Learners a fee to attend a workshop I host?
 
