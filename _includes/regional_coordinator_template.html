@@ -1,0 +1,113 @@
+<div class="container">
+  <h1>The Carpentries in {{ region }}</h1>
+
+<!-- BEGIN Set RC as singular or plural -->
+{% if regional_coordinators.size > 1 %}
+{% assign plural = true %}
+{% else %}
+{% assign plural = false %}
+{% endif %}
+<!-- END Set RC as singular or plural -->
+
+
+<!-- BEGIN Section: About the Admin -->
+
+<!-- If multiple admins -->
+
+    {% if plural %}
+    {% assign rc_names = "" %}
+    {% for rc in regional_coordinators %}
+    {% assign rc_names = rc_names | append: rc.name | append: ", " %}
+    {% endfor %}
+
+    {{ rc_names | split: ", " | join: " and " }} are our Regional Coordinators for {{ region }}. {{ additional_text }} They are ready to help you with any questions you have about running Carpentries workshops or any other ways you can get involved with The Carpentries in {{ region }}. Contact them at <a href="mailto:{{ rc_email }}">{{ rc_email }}</a>.
+
+    <br><br>
+
+<!-- If one admin -->
+
+    {% else %}
+    {% assign rc = regional_coordinators[0] %}  
+
+    {{ rc.name }} is our Regional Coordinator for {{ region }}.  {{ additional_text }} {{ rc.pronoun_subjective | capitalize }} is ready to help you with any questions you have about running Carpentries workshops or any other ways you can get involved with The Carpentries in {{ region }}. Contact {{ rc.pronoun_objective }} at <a href="mailto:{{ rc_email }}">{{ rc_email }}</a>.
+
+    {% endif %}
+
+<!-- END Section: About the Admin -->
+
+<!-- BEGIN Section: Admin images  -->
+
+<div class="row">
+
+{% for rc in regional_coordinators %}
+
+    {% if plural %}
+      <div class="medium-6 columns">
+    {% else %}
+    <div class="medium columns">
+    {% endif %}
+
+    <div class="team-member">
+      <img data-src="{{ rc.pic }}" width="128" height="128" class="img-responsive img-circle lazyload" alt="GitHub profile photo of {{ rc.name }}" />
+      <h3>{{ rc.name }}</h3>
+      <ul class="list-inline social-buttons">
+
+        {% for network in rc.social %}
+        <li>
+            <a href="{{ network.url }}">
+                <i class="{{ network.icon }}"></i>
+            </a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+
+{% endfor %}
+</div>
+
+<!-- END Section: Admin images  -->
+
+<!-- BEGIN Section: Workshop Request & Other info  -->
+
+  Want to host a Carpentries workshop in {{ region }}?  Fill out <a href="https://amy.carpentries.org/forms/workshop/">this form</a> and we will get right back to you!
+  <br><br>
+  General questions about The Carpentries outside of {{ region }}?  Contact <a href="mailto:{{site.contact}}">{{site.contact}}</a> and we’ll get your message to the right team member to follow up.
+  <br><br>
+
+<!-- END Section: Workshop Request & Other info  -->
+
+
+<!-- BEGIN Section: Upcoming Workshops  -->
+
+  <section id="team" class="bg-light-gray">
+
+    <h2>Upcoming Carpentries Workshops in {{ region }}</h2>
+
+    {% if workshop_list == empty %}
+        There are no upcoming Carpentries workshops in {{ region }}. <a href="mailto:{{ rc_email }}">Contact us</a> to learn how to host a workshop at your site!<br><br>
+    {% else %}
+        {% include workshop_table.md %}<br><br>
+    {% endif %}
+
+<!-- END Section: Upcoming Workshops  -->
+
+
+<!-- BEGIN Section: Other Events  -->
+
+  {{ other_events }} 
+
+<!-- END Section: Other Events  -->
+
+
+<!-- BEGIN Section: Instructors  -->
+
+  <h2>Our Instructor Community in {{ region }}</h2>
+
+  {% include community_profiles.md %}
+
+<!-- END Section: Instructors  -->
+
+
+
+</div>
