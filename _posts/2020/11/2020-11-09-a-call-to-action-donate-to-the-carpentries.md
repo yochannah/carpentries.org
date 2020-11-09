@@ -28,11 +28,11 @@ Your contribution will help The Carpentries:
 - Collaborate with existing organisations to reach broader communities.
 - Authentically engage broader communities, working __with, not for__ them.
 
-Help us as we envision to be the __leading inclusive community teaching data and coding skills__. [Contributing _any amount__](https://carpentries.wedid.it/campaigns/8261) will make a big difference - we value all contributions. Your contribution will allow The Carpentries to expand into new geographies and new disciplines, and can help bring workshops to individuals who might otherwise have barriers to participation.
+Help us as we envision to be the __leading inclusive community teaching data and coding skills__. [Contributing _any amount_](https://carpentries.wedid.it/campaigns/8261) will make a big difference - we value all contributions. Your contribution will allow The Carpentries to expand into new geographies and new disciplines, and can help bring workshops to individuals who might otherwise have barriers to participation.
 
 Thank you for being a valued contributor to The Carpentries. If you have questions or would like to discuss your contribution, please [get in touch](mailto:team@carpentries.org).
 
-In service,
+In service,<br />
 ![Kari L. Jordan Signature]({{ site.urlimg }}/blog/2020/07/Kari-Signature.png)
 
 _____________________________________________________________________________________________________________
