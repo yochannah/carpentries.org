@@ -1,14 +1,14 @@
 ---
 layout: page
 authors: ["Ariel Deardorff"]
-teaser: "Read on for a recap on efforts to develop the Carpentries in California, USA academic libraries"
+teaser: "Read on for a recap on efforts to develop the Carpentries in academic libraries in California, US"
 title: "Expanding The Carpentries Community in California"
 date: 2020-11-12
 time: "00:00:00"
 tags: ["Community", "Library Carpentry"]
 ---
 
-From Jan-Sept 2020, I had the opportunity to work with an amazing group of librarians to [develop the Carpentries community in California academic libraries](https://carpentries.org/blog/2020/01/library-carpentry-announcement/). The goal for this project - which was funded by an IMLS grant through the California Digital Library - was to create sustainable communities of academic libraries across California that could work together to make computational training more accessible to librarians and the communities that they serve. I hoped to partner with existing Carpentries member libraries (largely in the University of California system) to teach workshops that would reach librarians in underserved state schools and community colleges. The plan was to offer Library Carpentry workshops, train librarians to teach with Instructor Training workshops, build local communities of practice, and promote Carpentries membership. With the COVID-19 pandemic we had to reimagine many aspects of the project to work in the virtual environment, but I was able to meet most of the original goals thanks to the work of many dedicated collaborators.
+Between January and September 2020, I had the opportunity to work with an amazing group of librarians to [develop the Carpentries community in California academic libraries](https://carpentries.org/blog/2020/01/library-carpentry-announcement/). The goal for this project - which was funded by an IMLS grant through the California Digital Library - was to create sustainable communities of academic libraries across California that could work together to make computational training more accessible to librarians and the communities that they serve. I hoped to partner with existing Carpentries member libraries (largely in the University of California system) to teach workshops that would reach librarians in underserved state schools and community colleges. The plan was to offer Library Carpentry workshops, train librarians to teach with Instructor Training workshops, build local communities of practice, and promote Carpentries membership. With the COVID-19 pandemic we had to reimagine many aspects of the project to work in the virtual environment, but I was able to meet most of the original goals thanks to the work of many dedicated collaborators.
 
 This project was truly a community endeavor and would not have been possible without:
 - Catherine Nancarrow at the California Digital Library
