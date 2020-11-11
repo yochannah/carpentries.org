@@ -21,6 +21,10 @@ To support our growth, we are looking for a [Python/Django Developer](http://car
 [AMY](https://github.com/carpentries/amy), our web app to manage the data about
 our community members, our member organisations, and our workshops. This will be a contractor or short-term position.
 
+## UX/UI Developer
+
+To guide the development our next lesson template, we are looking a [UX/UI Designer]({% link pages/ux-ui-designer.md %}). This will be a contractor position.
+
 Our new team members will join a diverse and engaged team of remote professionals working to spread data-driven research skills around the world.
 Our team values openness, honesty, fairness, and transparency as the keys to fostering trust. We believe that the individuals who make up our community
 are the most important part of our organisation and our strongest resource. We strive to make decisions that prioritise people first and empower the growth
