@@ -21,7 +21,7 @@ To support our growth, we are looking for a [Python/Django Developer](http://car
 [AMY](https://github.com/carpentries/amy), our web app to manage the data about
 our community members, our member organisations, and our workshops. This will be a contractor or short-term position.
 
-## UX/UI Developer
+## UX/UI Designer
 
 To guide the development our next lesson template, we are looking a [UX/UI Designer]({% link pages/ux-ui-designer.md %}). This will be a contractor position.
 
