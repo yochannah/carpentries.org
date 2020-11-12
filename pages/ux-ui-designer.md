@@ -47,8 +47,8 @@ organisations from research institutions around the world.
 * Ability to create highly polished design prototypes, mockups, and other
   communication artifacts.
 * Demonstrated experience writing clear and well-documented HTML, CSS and JS.
-* Excellent written and real-time communication skills Ability to work remotely
-  with a distributed team.
+* Excellent written and real-time communication skills 
+* Ability to work remotely with a distributed team.
 
 ### Preferred
 
