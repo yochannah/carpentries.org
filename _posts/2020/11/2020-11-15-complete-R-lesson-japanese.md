@@ -10,7 +10,11 @@ tags: ["Community", "Internationalisation", "Curriculum", "Japan", "R"]
 
 ## Software Carpentry lessons in Japanese
 
+<<<<<<< HEAD
 As previously discussed we have a Japanese language team aiming to maintain a community led translation of the core Software Carpentry lesson. See our previous posts on [how we go started](https://carpentries.org/blog/2019/11/local-team-japan/) and [how we manage collaborative translations](https://carpentries.org/blog/2019/11/translations-in-japanese/) via GitHub. Our team has grown internationally in the age of online meetings with contributions from Japan, Australia, New Zealand, Indonesia, and the USA. We hope this will support growing the the Carpentries community in Japan and Carpentries lessons for Japanese learners overseas.
+=======
+As previously discussed we have a Japanese language team aiming to maintain a community led translation of the core Software Carpentry lesson. See our previous posts on [how we got started](https://carpentries.org/blog/2019/11/local-team-japan/) and [how we manage collaborative translations](https://carpentries.org/blog/2019/11/translations-in-japanese/) via GitHub. Our team has grown internationally in the age of online meetings with contributions from Japan, Australia, New Zealand, Indonesia, and the USA. We hope this will support growing the the Carpentries community in Japan and Carpentries lessons for Japanese learners overseas.
+>>>>>>> blog-post3
 
 We are pleased to announce the complete lesson materials have been translated in Japanese for the “R for Reproducible Scientific Analysis” course (extras and other content is in progress). See the links below for a web version hosted on our GitHub organisation. This uses the “carpentries-i18n” theme for multilingual lessons.
 
@@ -50,7 +54,11 @@ soon have an active community maintaining the lessons and using them with Japane
 
 ## What You Can Do To Help
 
+<<<<<<< HEAD
 See our posts on [how we go started](https://carpentries.org/blog/2019/11/local-team-japan/)
+=======
+See our posts on [how we got started](https://carpentries.org/blog/2019/11/local-team-japan/)
+>>>>>>> blog-post3
 and [how we manage collaborative translations](https://carpentries.org/blog/2019/11/translations-in-japanese/).
 In summary, you can contribute to Japanese lessons by submitting pull requests to
 the PO files in this github repository: [https://github.com/swcarpentry_ja/i18n](https://github.com/swcarpentry-ja/i18n)
@@ -76,7 +84,11 @@ Follow us on Twitter [@swcarpentry_ja](twitter.com/swcarpentry_ja)<br>
 Find us on GitHub at [swcarpentry_ja](https://github.com/swcarpentry-ja)<br>
 
 Chat with the core team on the our slack channel (日本語でも大丈夫).
+<<<<<<< HEAD
 Join in [English](https://carpentries-jp-en.herokuapp.com/) or [https://carpentries-ja.herokuapp.com/](Japanese).
+=======
+Join in [English](https://carpentries-jp-en.herokuapp.com/) or [Japanese](https://carpentries-ja.herokuapp.com/).
+>>>>>>> blog-post3
 
 Anyone is welcome to contribute to Japanese lessons or join the core team. You do not need to be located in Japan but strong English and Japanese language skills will be helpful. See our Github repository1 for more details on how to contribute to translated lessons.
 

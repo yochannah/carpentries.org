@@ -136,7 +136,11 @@ Follow us on Twitter [@swcarpentry_ja](twitter.com/swcarpentry_ja)<br>
 Find us on GitHub at [swcarpentry_ja](https://github.com/swcarpentry-ja)<br>
 
 Chat with the core team on the our slack channel (日本語でも大丈夫).
+<<<<<<< HEAD
 Join in [English](https://carpentries-jp-en.herokuapp.com/) or [https://carpentries-ja.herokuapp.com/](Japanese).
+=======
+Join in [English](https://carpentries-jp-en.herokuapp.com/) or [Japanese](https://carpentries-ja.herokuapp.com/).
+>>>>>>> blog-post3
 
 Anyone is welcome to contribute to Japanese lessons or join the core team. You do not need to be located in Japan but strong English and Japanese language skills will be helpful. See our Github repository<sup>[1](#i18n)</sup> for more details on how to contribute to translated lessons.
 
