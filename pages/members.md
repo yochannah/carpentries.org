@@ -98,6 +98,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - University of Central Florida
 - University of Colorado-Boulder (Earth Lab & CIRES)
 - University of Connecticut
+- University of Georgia 
 - University of Göttingen State and University Library
 - University of Idaho
 - University of Illinois
