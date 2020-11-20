@@ -63,10 +63,8 @@
   url: "/volunteer/"
   side: left
   dropdown:
-  - title: "Join Us"
-    url: "/volunteer/"
   - title: "Get Involved"
-    url: "/community/"
+    url: "/volunteer/"
   - title: "Help Develop Lessons"
     url: "/involved-lessons/"
   - title: "Become a Member Organisation"
@@ -82,6 +80,8 @@
     url: "/team/"
   - title: "Core Team Projects"
     url: "/core-team-projects/"
+  - title: "Community Overview"
+    url: "/community/"
   - title: "Our Instructors"
     url: "/instructors/"
   - title: "Our Maintainers"
