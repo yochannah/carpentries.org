@@ -8,12 +8,12 @@ time: "09:00:00"
 tags: ["Community", "Communications"]
 ---
 
-[In October we asked you to contribute][hacktoberfest-post] to contribute to [Glosario][glosario], the online, multilingual glossary of data science terms, as part of [Hacktoberfest][hacktoberfest].
+[In October we asked you to contribute][hacktoberfest-post] to [Glosario][glosario], the online, multilingual glossary of data science terms, as part of [Hacktoberfest][hacktoberfest].
 The Carpentries community is international and, as well as contributing definitions of new terms in the languages already represented in the glossary, we wanted to encourage the introduction of new and translated definitions into more languages. 
 
 We know that the Carpentries community is amazing and we are delighted to say that you came through for us again! At the end of September, Glosario contained 528 definitions for 467 terms in four languages. By the time all contributions made during Hacktoberfest had been merged, the glossary contained _716 definitions for 521 terms, in eight languages_! In addition to all these new definitions, translations, and languages, Glosario had also gained four new editors - Janetta Steyn and Angelique van Rensburg for Afrikaans, Beatriz Milz for Portuguese, and Batool Almarzouq for Arabic - and twelve new contributors (13 contributors before Hacktoberfest; 25 after).
 
-The increase in contributions and expansion of the glossary also provided an opportunity for the maintainers to learn how they could improve the project infrastructure and the layout of the glossary (thank you baileythegreen!).
+The increase in contributions and expansion of the glossary also provided an opportunity for the maintainers to learn how they could improve the project infrastructure and the layout of the glossary ([thank you baileythegreen](https://github.com/baileythegreen)!).
 
 **Thank you to everyone who participated in the Glosario contribution drive!** You will find a full list of their names at the end of this post.
 
