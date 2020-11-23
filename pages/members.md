@@ -19,7 +19,6 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - North-West University
 - South African Centre for Digital Language Resources (SADiLaR)
 - Software Sustainability Institute
-- Stanford University
 - The University of Wisconsin
 - University of Chicago, Center for Spatial Data Science
 - University of Oklahoma
@@ -60,7 +59,6 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Chan Zuckerberg Biohub
 - College Board
 - Copenhagen University Library
-- D-Lab Berkeley
 - Duke University
 - Erasmus University Rotterdam
 - European Economic Association
