@@ -19,7 +19,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - North-West University
 - South African Centre for Digital Language Resources (SADiLaR)
 - Software Sustainability Institute
-- The University of Wisconsin
+- The University of Wisconsin Madison
 - University of Chicago, Center for Spatial Data Science
 - University of Oklahoma
 
