@@ -48,4 +48,4 @@ We will also be hosting information sessions to learn more about our mentoring p
   
 
   
-Please email the Instructor Development Committee at idclt [at] carpentries.org if you have any questions. 
+Please email the Instructor Development Committee at [idclt@carpentries.org](mailto:idclt@carpentries.org) if you have any questions. 
