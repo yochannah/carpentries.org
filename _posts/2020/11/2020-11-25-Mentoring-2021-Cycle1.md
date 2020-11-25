@@ -29,7 +29,7 @@ If you are interested in participating in the upcoming mentoring group cycle, pl
 * [Mentee Application](https://forms.gle/pRGYUu9WwpnBsWNF6)  
   
 
-We will also be hosting information sessions to learn more about our mentoring programs on **December 10** at [3pm UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Info+Session+1+-+Carpentries+Mentoring+Group&iso=20201210T15&p1=1440&ah=1) and [11pm UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Info+Session+2+-+Carpentries+Mentoring+Group&iso=20201210T23&p1=1440&ah=1). See more information on these meetings on the [community discussions etherpad](https://pad.carpentries.org/community-discussions).  
+We will also be hosting information sessions to learn more about our mentoring programs on **December 10** at [3pm UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Info+Session+1+-+Carpentries+Mentoring+Group&iso=20201210T15&p1=1440&ah=1) and [11pm UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Info+Session+2+-+Carpentries+Mentoring+Group&iso=20201210T23&p1=1440&ah=1). See more information on these meetings on the [Community Discussions etherpad](https://pad.carpentries.org/community-discussions).  
   
 ### Timeline  
   
