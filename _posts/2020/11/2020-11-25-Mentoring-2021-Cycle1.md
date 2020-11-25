@@ -5,7 +5,7 @@ teaser: "Become a mentor or mentee for first cycle of 2021 Mentoring Groups!"
 title: "Apply to Join The Carpentries 2021 Mentoring Program!"
 date: 2020-11-25
 time: "09:00:00"
-tags: ["Mentoring", "Community"]
+tags: ["Carpentries Mentoring","Instructor Development"]
 ---
   
 Do you have a Carpentries goal that you are not sure how to accomplish? Or do you want to help your fellow instructors gain the skills and confidence they need to achieve their goals? If so, we encourage you to join a Carpentries Mentoring group!  
