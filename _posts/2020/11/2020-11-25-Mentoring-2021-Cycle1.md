@@ -1,7 +1,7 @@
 ---
 layout: page
 authors: ["Katherine Simeon","Samar Elsheikh"]
-teaser: "Calling all mentors & mentees for first cycle of Mentoring Groups for 2021!"
+teaser: "Become a mentor or mentee for first cycle of 2021 Mentoring Groups!"
 title: "Apply to Join The Carpentries 2021 Mentoring Program!"
 date: 2020-11-25
 time: "09:00:00"
@@ -18,12 +18,13 @@ We are seeking **mentors** and **mentees** to participate in The Carpentries Men
   
 Each mentoring group will be formed around common interests and goals. You will spend 2-3 months working with your colleagues to refine your goals and make progress toward them in a format that works for your group, with support from the Instructor Development Committee.  
   
-This year, we are looking to form mentoring groups around the following topics:  
+For the upcoming cycle, we are looking to form mentoring groups around the following topics:  
 * Facilitating online workshops  
 * Developing confidence and skill in teaching  
 * Strategies to build local communities  
+* *We also welcome you to indicate other topics you would to mentor or be mentored on in the application!*  
   
-If you are interested in participating in the upcoming mentoring group cycle, please fill out the relevant application:  
+If you are interested in participating in the upcoming mentoring group cycle, please fill out the relevant application by **Sunday, December 13 (anywhere on Earth)**:  
 * [Mentor Application](https://forms.gle/cPQVdhbi7Kx84BVY7)  
 * [Mentee Application](https://forms.gle/pRGYUu9WwpnBsWNF6)  
   
@@ -32,7 +33,7 @@ We will also be hosting information sessions to learn more about our mentoring p
   
 ### Timeline  
   
-* November 25 - Mentor & Mentee Applications are live!  
+* November 25 - [Mentor](https://forms.gle/cPQVdhbi7Kx84BVY7) & [Mentee](https://forms.gle/pRGYUu9WwpnBsWNF6) applications are live!  
 * December 10 - [Information Sessions](https://pad.carpentries.org/community-discussions)    
 * December 13 - Applications are due!  
 * December 18 - Mentor/Mentee groups are matched  
@@ -47,3 +48,4 @@ We will also be hosting information sessions to learn more about our mentoring p
   
 
   
+Please email the Instructor Development Committee at idclt [at] carpentries.org if you have any questions. 
