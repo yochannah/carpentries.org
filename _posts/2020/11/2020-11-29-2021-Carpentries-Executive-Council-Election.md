@@ -31,6 +31,12 @@ Instructor, local workshop organizer, lesson developer, lesson maintainer, instr
 
 As a member of the executive council, I would use my experience in the Carpentries community to develop initiatives that further the Carpentries' nine core values.
 
+<a href="https://youtu.be/mNsnhz23Bio">
+        <button class="btn">
+            View Sarah's Video
+        </button>
+</a>
+
 ## Masami Yamaguchi
 
 Griffith University
@@ -43,6 +49,12 @@ I am The Carpentries instructor and trainer. I am currently working with Japanes
 
 I would like to contribute the Carpentries community's further internationalisation and better international co-ordination and collaboration.
 
+<a href="https://youtu.be/aDxFFmC1Kx8">
+        <button class="btn">
+            View Masami's Video
+        </button>
+</a>
+
 ## Mojalefa Malahlela
 
 
@@ -53,6 +65,12 @@ Instructor
 ### What would you do as a member of the Executive Council to contribute to the growth and success of the community?
 
 Actively researching new methods and techniques to keep the Carpentry lessons relevant in this ever changing environment.
+
+<a href="https://youtu.be/TdM0yDDFz60">
+        <button class="btn">
+            View Mojalefa's Video
+        </button>
+</a>
 
 ## Annajiat Alim Rasel
 
@@ -65,6 +83,12 @@ I am grateful that I could serve as a Helper, Instructor, Discussion Session Hos
 ### What would you do as a member of the Executive Council to contribute to the growth and success of the community?
 
 I believe growth and success lies in diversity and inclusion. I would like to expand Carpentries more, throughout different communities, engage more level of students and professionals, nationalities, races and hopefully making it more accessible and inclusive community, etc.
+
+<a href="https://youtu.be/uQ3RpXBR74E">
+        <button class="btn">
+            View Annajiat's Video
+        </button>
+</a>
 
 ## Adam Hughes
 
@@ -89,3 +113,9 @@ Instructor: 2014-present (20+ times), Instructor Trainer: 2014-present (11 times
 ### What would you do as a member of the Executive Council to contribute to the growth and success of the community?
 
 My focus would be two-fold: (1) supporting the community of getting more involved with curriculum development - providing training on “backward lesson design” and Carpentries technical infrastructure to enable them to create more domain specific training for their communities “the Carpentry way” and (2) enabling better support and (semi) automated feedback gathering from workshops for better propagation of first-hand experience and feedback from workshops as well as case studies and gathering success stories for better impact measurement and showcasing the community's success.
+
+<a href="https://youtu.be/oJGKRp5rtL8">
+        <button class="btn">
+            View Aleksandra's Video
+        </button>
+</a>
