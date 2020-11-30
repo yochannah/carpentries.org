@@ -12,6 +12,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Arizona State University
 - Boise State University
 - Compute Canada
+- Curtin University
 - Macquarie University
 - University of Manchester
 - New Zealand eScience Infrastructure (NeSI)
@@ -25,26 +26,20 @@ the growth and sustainability of The Carpentries and is building local capacity 
 
 ### Gold Member Organisations
 
-- Chan Zuckerburg Initiative
 - Columbia University
 - CSIRO
 - Delft University of Technology, 4TU.Center
 - University of Arizona/CyVerse
-- National Institutes of Health (NIH)
 - New England Software Carpentry Library Consortium
-- New York Data Carpentries Library Consortium (NYDCLC)
 - Nordic eInfrastructure Collaboration
 - Oklahoma State University
 - Smithsonian Institution
 - South Big Data Innovation Hub
 - The Jackson Laboratory
-- The University of Michigan
 - University of California Santa Barbara
-- University of Edinburgh
 - University of Florida
 - University of Georgia
 - University of Technology Sydney
-- University of Toronto
 - University of Washington eScience Institute
 - Virginia Polytechnic Institute and State University
 - West Big Data Hub
@@ -56,14 +51,12 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - California Institute of Technology
  - California State University Humboldt
 - Carnegie Mellon University
-- Chan Zuckerberg Biohub
 - College Board
 - Copenhagen University Library
 - Duke University
 - Erasmus University Rotterdam
 - European Economic Association
 - Flatiron Institute
-- Fred Hutchinson Cancer Research Center
 - Genomics Aotearoa
 - George Mason University
 - George Washington University
@@ -73,16 +66,12 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Institute for Advanced Computational Science-Stony Brook University
 - Institute of Environmental Science and Research Limited (ESR)
 - Kings College London
-- KTH Royal Institute of Technology, University of Stockholm, Karolinska Institutet
 - Lebanon Public Libraries
-- Leibniz School of Education
 - NASA Develop
 - New York University
 - Ohio State University
 - Purdue University
 - Queensland Cyber Infrastructure Foundation
-- Regeneron Pharmaceuticals
-- Rice University
 - Rutgers University - Camden
 - SUNY College of Environmental Science and Forestry
 - Texas State Library and Archives Commission
@@ -105,7 +94,6 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - University of Miami
 - University of Minnesota Libraries
 - University of New Mexico
-- University of North Texas
 - University of Notre Dame
 - University of Oregon
 - University of Oslo
