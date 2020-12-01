@@ -8,7 +8,7 @@ time: "09:00:00"
 tags: ["Community","Philanthropy"]
 ---
 ### What is Giving Tuesday?
-[Giving Tuesday] (https://www.givingtuesday.org) is an annual “global generosity movement” which was originally created as a day to mark and encourage generosity and giving in all of its forms, whether that be volunteering or donating.
+[Giving Tuesday](https://www.givingtuesday.org) is an annual “global generosity movement” which was originally created as a day to mark and encourage generosity and giving in all of its forms, whether that be volunteering or donating.
 
 As you may have seen, The Carpentries is running our first ever [fundraising campaign](https://carpentries.org/blog/2020/11/a-call-to-action-donate-to-the-carpentries/) and we are honored and truly grateful for the generosity we have seen from our community in donating. If you would like to [donate any amount](https://carpentries.wedid.it/campaigns/8261), we would truly appreciate it. However, enshrined in The Carpentries’ Core Values is the notion that **We Value All Contributions.** In the spirit of that guiding message, here are a few of the ways that you can help support The Carpentries and mark Giving Tuesday through forms other than monetary contributions.
 
