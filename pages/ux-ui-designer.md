@@ -4,6 +4,9 @@ title: "UX/UI Designer"
 permalink: /ux-ui-designer/
 ---
 
+**We are no longer reviewing applications for this position.**
+
+
 [The Carpentries](http://carpentries.org/) is committed to “training and
 fostering an active, inclusive, diverse community of learners and instructors
 who promote and model the importance of software and data in research.” We seek
