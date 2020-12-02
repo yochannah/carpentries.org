@@ -4,6 +4,8 @@ title: "Python/Django Developer"
 permalink: /python-django-developer/
 ---
 
+**We are no longer reviewing applications for this position.**
+
 
 [The Carpentries](http://carpentries.org/) is committed to “training and
 fostering an active, inclusive, diverse community of learners and instructors
