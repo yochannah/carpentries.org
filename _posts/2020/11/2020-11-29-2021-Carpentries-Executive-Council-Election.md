@@ -16,7 +16,7 @@ The self-nominated candidates for the two Community-Elected seats were asked to 
 - [Masami Yamaguchi](#masami-yamaguchi)
 - [Mojalefa Malahlela](#mojalefa-malahlela)
 - [Annajiat Alim Rasel](#annajiat-alim-rasel)
-- [Adam Hughes](#adam-hughes)
+- [Adam Hughes (Note: This candidate has rescinded their application)](#adam-hughes)
 - [Aleksandra Nenadic](#aleksandra-nenadic)
 
 ## Sarah Stevens
@@ -90,7 +90,7 @@ I believe growth and success lies in diversity and inclusion. I would like to ex
         </button>
 </a>
 
-## Adam Hughes
+## Adam Hughes (Note: This candidate has rescinded their application)
 
 University of Arkansas
 
