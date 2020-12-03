@@ -49,7 +49,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Alan Turing Institute
 - American University
 - California Institute of Technology
- - California State University Humboldt
+- California State University Humboldt
 - Carnegie Mellon University
 - College Board
 - Copenhagen University Library
@@ -72,6 +72,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Ohio State University
 - Purdue University
 - Queensland Cyber Infrastructure Foundation
+- Rice University
 - Rutgers University - Camden
 - SUNY College of Environmental Science and Forestry
 - Texas State Library and Archives Commission
