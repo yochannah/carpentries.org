@@ -1,7 +1,7 @@
 ---
 layout: page
 authors: ["Karen Word"]
-teaser: "Fourteen new Carpentries Instructor Trainers badged!"
+teaser: "Fourteen new Carpentries Instructor Trainers have been badged!"
 title: "Welcome to our Newest Instructor Trainers!"
 date: 2020-12-03
 time: "09:00:00"
@@ -9,7 +9,7 @@ tags: ["Carpentries Trainers"]
 ---
 
 We are excited to announce that our most recent cohort of Instructor Trainers have completed their onboarding and received their badges! This most recent cohort includes
-10 based in North American time zones as well as expanding our Trainer communities in Australia, New Zealand, and Europe. Their unique expertise and perspectives on training and
+10 Trainers based in North American time zones as well as expanding our Trainer communities in Australia, New Zealand, and Europe. Their unique expertise and perspectives on training and
 community will be a tremendous resource for Carpentries Instructors to come! 
 
 Our new Trainers are:
