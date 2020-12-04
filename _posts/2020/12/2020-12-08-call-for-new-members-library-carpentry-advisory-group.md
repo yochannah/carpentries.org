@@ -1,14 +1,14 @@
 ---
 layout: page
 authors: ["Ariel Deardorff"]
-teaser: "Applications to join the Library Carpentry Advisory Group are open from now till January 18, 2021!"
+teaser: "Applications to join the Library Carpentry Advisory Group are open between now and 18 January 2021!"
 title: "Library Carpentry Advisory Group Call for New Members"
 date: 2020-12-08
 time: "09:00:00"
 tags: ["Community", "Library Carpentry"]
 ---
 
-The [Library Carpentry Advisory Group](https://librarycarpentry.org/advisory/) acts as a key friend to The Carpentries governance and staff and advises on ways to foster greater participation in the Library Carpentry community. The Advisory Group discusses, plans, and pursues strategies for involving new and current members in Library Carpentry. Members of the Group volunteer to serve three year terms, with increasing levels of responsibility and leadership each year.
+The [Library Carpentry Advisory Group](https://librarycarpentry.org/advisory/) acts as a key friend to The Carpentries governance and Core Team and advises on ways to foster greater participation in the Library Carpentry community. The Advisory Group discusses, plans, and pursues strategies for involving new and current members in Library Carpentry. Members of the Group volunteer to serve three year terms, with increasing levels of responsibility and leadership each year.
 
 ### Benefits of Being on the Advisory Group
 
