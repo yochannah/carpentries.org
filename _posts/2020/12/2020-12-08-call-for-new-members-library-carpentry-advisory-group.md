@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Ariel Deardorff"]
+authors: ["Birgit Schmidt", "Yared Abera Ergu", "Liz Stokes", "David Kane", "Julie Goldman", "Tim Ribaric", "Konrad Förstner", "Ariel Deardorff", "Jeff Oliver", "Catherine Nancarrow", "Tim Dennis", "Chris Erdmann", "Mark Laufersweiler", "Phil Reed",]
 teaser: "Applications to join the Library Carpentry Advisory Group are open between now and 18 January 2021!"
 title: "Library Carpentry Advisory Group Call for New Members"
 date: 2020-12-08
@@ -32,3 +32,5 @@ Other benefits include:
 ### Interested? Apply Today!
 
 We encourage anyone who is interested to fill out this [short application form](https://forms.gle/4oMgJ2QQFtk3uvpDA) by **end of day (anywhere on Earth) Jan 18, 2021**. We are particularly interested in new members who represent groups or regions not currently represented on the Advisory Group (such as Asia, South Asia, Middle East, Latin America, and Africa).
+
+If you have any questions, please reach out to the Library Carpentry Advisory Group Co-Chairs [Ariel Deardorff](Ariel.Deardorff@ucsf.edu) & [Liz Stokes](liz.stokes@ardc.edu.au)
