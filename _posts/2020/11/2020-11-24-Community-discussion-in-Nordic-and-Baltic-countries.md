@@ -3,9 +3,9 @@ layout: page
 authors: ["Naoe Tatara"]
 teaser: "Best practices on online teaching compared to in-person? How to build more visible community network? Nordic and Baltic community is moving forward"
 title: "Outcome of October Community Discussion for Nordic and Baltic Countries"
-date: 2020-11-24
+date: 2020-12-10
 time: "17:00:00"
-tags: ["Nordic", "Baltic", "Community", "online"]
+tags: ["Nordic", "Europe", "Online Workshops", "Community", "Discussion Sessions"]
 ---
 
 *This blogpost is repost of a blogpost at [CodeRefinery](coderefinery.org) and is based on the notes made on [Carpentries Community Discussion Etherpad](https://pad.carpentries.org/community-discussions) on the 30th Oct. 2020.*
