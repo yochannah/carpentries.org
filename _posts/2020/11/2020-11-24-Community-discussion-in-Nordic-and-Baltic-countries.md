@@ -1,8 +1,8 @@
 ---
 layout: page
 authors: ["Naoe Tatara"]
-teaser: "Best practice on online teaching compared to in-person? How to build more visible community network? Nordic and Baltic community is moving forward"
-title: "Community discussion in Nordic and Baltic countries"
+teaser: "Best practices on online teaching compared to in-person? How to build more visible community network? Nordic and Baltic community is moving forward"
+title: "Outcome of October Community Discussion for Nordic and Baltic Countries"
 date: 2020-11-24
 time: "17:00:00"
 tags: ["Nordic", "Baltic", "Community", "online"]
