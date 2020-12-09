@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Core Team"]
+authors: ["The Carpentries Team"]
 teaser: "Back to the future: Online Carpentries Workshops now and 2021"
 title: "Our community is resilient, patient and very resourceful"
 date: 2020-12-14
@@ -52,7 +52,7 @@ We have also learnt that:
 
 We are looking to update the Recommendations for Teaching Carpentries Workshops Online again in early 2021. With this update we hope to outline an example structure for an online workshop that draws upon the existing recommendations, offering a simpler template for those who don’t want to make every choice about workshop format on their own. We will also be revisiting options to improve accessibility in our online workshops. We will continue to update our new Bonus Module to support certified Instructors in teaching online, and will incorporate some online teaching advice into planned updates to our core Instructor Training curriculum as well. Further, in the new year, we are planning to explore if the move to online workshops has changed instructors’ motivation to teach or experience in workshops. 
 
-Also look out for the following: 
+You can also look out for the following: 
 
 - Implementation of new privacy and/or security policies which pertains to the impact on things like recording Zoom calls and sharing instructor/learner data (includes but is not limited to online workshops).
 - We will continue to collect feedback and investigate options to expand our scaffolds to support online workshops 
@@ -62,4 +62,4 @@ Also look out for the following:
 - As in-person workshops become possible again, we are excited to apply a fresh perspective and use some of the things we have learned through supporting online instruction to re-examine our in-person instruction as well! Cloud instances, formative assessment tools, and even structured breakout groups are all things that could be useful in a classroom as well.
 
 
-Thank you for all that you have done for the community during 2020 and contintue to encourage community members to attend Community Discussion sessions to share their experiences with online workshops. We would love to see more instructors and learners sharing these experiences because we know we do not reach everyone with our surveys. Sign up for a Community Discussion by visiting this [etherpad](https://pad.carpentries.org/community-discussions) 
+Thank you for all that you have done for the community during 2020 and contintue to encourage community members to attend Community Discussion sessions to share their experiences with online workshops. We would love to see more instructors and learners sharing these experiences because we know we do not reach everyone with our surveys. Sign up for a Community Discussion by visiting this [etherpad](https://pad.carpentries.org/community-discussions).
