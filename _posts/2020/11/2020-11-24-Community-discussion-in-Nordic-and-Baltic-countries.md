@@ -58,7 +58,7 @@ Experiences from two recently held online Carpentries workshops were shared and 
 
 ### Announcements
 
-- Nordic RSE (research software engineers) online get-together (Nov 30 - Dec 2): https://nordic-rse.org/events/2020-online-get-together/ (everybody welcome to attend and submit proposals or ideas)
+- Nordic RSE (research software engineers) online get-together (Nov 30 - Dec 2): https://nordic-rse.org/events/2020-online-get-together/ 
 - Local-nordic Carpentries mailing list: https://carpentries.topicbox.com/groups/local-nordic
 - CodeRefinery workshop in November 17-19, 24-26 (registration closed): https://coderefinery.github.io/2020-11-17-online/ 
 
