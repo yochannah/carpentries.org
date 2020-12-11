@@ -212,6 +212,8 @@ In Q4, the Community Development Team
 - updated our community communications guides to include [guidelines and best practices for sharing job posts](https://docs.carpentries.org/topic_folders/communications/guides/share-opportunities.html) in The Carpentries, and took on Jez Cope's suggestion and created an [opportunities mailing list on TopicBox](https://carpentries.topicbox.com/groups/opportunities).
 - supported the Instructor Development Committee Leaders in launching and announcing the first cycle of [Carpentries Mentoring Groups for 2021](https://carpentries.org/blog/2020/11/Mentoring-2021-Cycle1/), and in holding an information session for community members that expressed interest in the Mentoring groups
 
+</details>
+
 <details>
 <summary>
 <strong>July - September (Q3) 2020</strong>
@@ -224,6 +226,7 @@ In Q3, the Community Development Team
 - worked with the [Task Force](https://2020.carpentrycon.org/task-force) and community members to facilitate sessions at [CarpentryCon 2020](https://2020.carpentrycon.org/), ensure smooth running of the five-week virtual event, oversaw the creation and maintenance of the conference website, and kept the [event playlist on YouTube](https://youtube.com/playlist?list=PLXLapl_LKb4fx-t_4MBSPiefTraj5KdJ8) updated with session recordings.
 - worked with Lou Woodley from [CSCCE.org](https://cscce.org/) to write the first module of the Community Facilitators module around Feedback Facilitation, [introduced the program to our global community](https://carpentries.org/blog/2020/09/introducing-community-facilitators-program/) and [put out a call for community members to apply to participate in the pilot feedback facilitation cohort](https://carpentries.org/blog/2020/09/apply-feedback-facilitators-cohort/).
 - [reopened our Instructor Development Committee Leadership program](https://carpentries.org/blog/2020/08/IDC-leadership-call-for-applicants/) after a six month hiatus in the early days of the pandemic, and invited community members to apply to serve in the 2020-2021 cohort of IDC Leaders. We were able to onboard seven IDC Leaders in Q3 and [you can read more about the IDC Leaders in this blog post](https://carpentries.org/blog/2020/09/announcing-2020-idc-leaders/).
+</details>
 
 <details>
 <summary>
