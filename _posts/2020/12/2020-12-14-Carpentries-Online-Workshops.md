@@ -2,7 +2,7 @@
 layout: page
 authors: ["The Carpentries Team"]
 teaser: "Our community is resilient, patient and very resourceful"
-title: "Back to the future: Online Carpentries Workshops now and 2021Our community is resilient, patient and very resourceful"
+title: "Back to the future: Online Carpentries Workshops now and in 2021"
 date: 2020-12-14
 time: "09:00:00"
 tags: ["Online Workshops", "Instructor Development", "Carpentries Workshops", "Teaching"]
