@@ -13,7 +13,6 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Boise State University
 - Compute Canada
 - Curtin University
-- Macquarie University
 - University of Manchester
 - New Zealand eScience Infrastructure (NeSI)
 - Nordic eInfrastructure Collaboration (NeIC)
@@ -67,6 +66,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Institute of Environmental Science and Research Limited (ESR)
 - Kings College London
 - Lebanon Public Libraries
+- Macquarie University
 - NASA Develop
 - New York University
 - Ohio State University
