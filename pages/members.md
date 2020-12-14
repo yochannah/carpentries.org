@@ -87,7 +87,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - University of Colorado - STROBE
 - University of Connecticut
 - University of Georgia 
-- University of Göttingen State and University Library
+- University of Göttingen, State and University Library
 - University of Idaho
 - University of Illinois
 - University of Kansas
