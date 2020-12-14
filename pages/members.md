@@ -9,44 +9,41 @@ the growth and sustainability of The Carpentries and is building local capacity 
 
 ### Platinum Member Organisations
 
-- Arizona State University
 - Boise State University
 - Compute Canada
 - Curtin University
-- University of Manchester
 - New Zealand eScience Infrastructure (NeSI)
 - Nordic eInfrastructure Collaboration (NeIC)
 - North-West University
 - South African Centre for Digital Language Resources (SADiLaR)
 - Software Sustainability Institute
 - The University of Wisconsin Madison
-- University of Chicago, Center for Spatial Data Science
-- University of Oklahoma
+- The Jackson Laboratory
+- University of Maryland
+- Virginia Polytechnic Institute and State University
 
 ### Gold Member Organisations
 
+- Chan Zuckerburg Initiative
 - Columbia University
 - CSIRO
 - Delft University of Technology, 4TU.Center
-- University of Arizona/CyVerse
+- National Oceanic and Atmospheric Administration 
 - New England Software Carpentry Library Consortium
-- Nordic eInfrastructure Collaboration
+- Oak Ridge National Laboratory
 - Oklahoma State University
 - Smithsonian Institution
 - South Big Data Innovation Hub
-- The Jackson Laboratory
+- University of Arizona
 - University of California Santa Barbara
-- University of Florida
-- University of Georgia
+- University of Kansas
 - University of Technology Sydney
 - University of Washington eScience Institute
-- Virginia Polytechnic Institute and State University
 - West Big Data Hub
 
 ### Silver Member Organisations
 
 - Alan Turing Institute
-- American University
 - California Institute of Technology
 - California State University Humboldt
 - Carnegie Mellon University
@@ -70,9 +67,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - New York University
 - Ohio State University
 - Purdue University
-- Queensland Cyber Infrastructure Foundation
 - Rice University
-- Rutgers University - Camden
 - SUNY College of Environmental Science and Forestry
 - Texas State Library and Archives Commission
 - The National Institute of Standards and Technology
@@ -86,18 +81,17 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - University of Colorado-Boulder (Earth Lab & CIRES)
 - University of Colorado - STROBE
 - University of Connecticut
+- University of Florida
 - University of Georgia 
 - University of Göttingen, State and University Library
 - University of Idaho
 - University of Illinois
-- University of Kansas
 - University of Miami
 - University of Minnesota Libraries
 - University of New Mexico
 - University of Notre Dame
 - University of Oregon
 - University of Oslo
-- University of Otago
 - University of Texas Arlington
 - Utrecht University
 - VDB (Verein Deutscher Bibliothekarinnen und Bibliothekare - Association of German Libraries and Librarians)
