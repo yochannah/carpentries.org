@@ -1,8 +1,8 @@
 ---
 layout: page
 authors: ["The Carpentries Team"]
-teaser: "Back to the future: Online Carpentries Workshops now and 2021"
-title: "Our community is resilient, patient and very resourceful"
+teaser: "Our community is resilient, patient and very resourceful"
+title: "Back to the future: Online Carpentries Workshops now and 2021Our community is resilient, patient and very resourceful"
 date: 2020-12-14
 time: "09:00:00"
 tags: ["Online Workshops", "Instructor Development", "Carpentries Workshops", "Teaching"]
@@ -47,7 +47,7 @@ We have also learnt that:
 - We need to continue proactively engage our community to hear about needs arising so we can inform the rest of the Core Team and work to address them comprehensively. 
 
 
-### What activities are coming up in 2021 that you should look out for?
+### **What activities are coming up in 2021 that you should look out for?**
 
 
 We are looking to update the Recommendations for Teaching Carpentries Workshops Online again in early 2021. With this update we hope to outline an example structure for an online workshop that draws upon the existing recommendations, offering a simpler template for those who don’t want to make every choice about workshop format on their own. We will also be revisiting options to improve accessibility in our online workshops. We will continue to update our new Bonus Module to support certified Instructors in teaching online, and will incorporate some online teaching advice into planned updates to our core Instructor Training curriculum as well. Further, in the new year, we are planning to explore if the move to online workshops has changed instructors’ motivation to teach or experience in workshops. 
