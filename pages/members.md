@@ -58,7 +58,6 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Flatiron Institute
 - Genomics Aotearoa
 - George Mason University
-- George Washington University
 - Great Plains Network (GPN)
 - Helmholtz Centre Potsdam - GFZ German Research Centre for Geosciences
 - Helmholtz-Zentrum Dresden-Rossendorf
@@ -104,3 +103,8 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - VDB (Verein Deutscher Bibliothekarinnen und Bibliothekare - Association of German Libraries and Librarians)
 - West Virginia University
 - Woods Hole Oceanographic Institution
+
+### Bronze Member Organisations
+
+- George Washington University
+
