@@ -1,7 +1,7 @@
 ---
 layout: page
 authors: ["The Carpentries Team"]
-teaser: "The Carpentries Gratitudes project seeks to shine a spotlight on these efforts, allowing community members the opportunity to reflect on interactions with each other, accomplishments and lessons from serving on different committees and sub-communities in The Carpentries."
+teaser: "We spent some time reflecting on 2020 as a Team, and wrote thank you notes for our community."
 title: "Thank You SO MUCH Carpentries Community!"
 date: 2020-12-15
 time: "09:00:00"
