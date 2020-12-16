@@ -19,6 +19,19 @@ Led by Kari L. Jordan, the Executive Team proactively brings together perspectiv
 <summary>
 <strong>Executive Team's Quarterly Projects</strong>
 </summary>
+
+<details>
+<summary>
+<strong>October - December (Q4) 2020</strong>
+</summary>
+Erin Becker · François Michonneau · Kari L. Jordan
+
+#### New Core Team Member Recruitment
+In Q4 2020, The Carpentries Executive Team oversaw the recruitment of [two new members of our Core Team](https://carpentries.org/blog/2020/10/job-openings/), as well as three short-term positions. We hope to be able to announce new team members to the community near the end of Q1 2021.
+
+This quarter, the Executive Team has also helped to coordinate a cross-team effort to solidify our support of online workshops and integrate online offerings into all of our workflows and structures. You can read [ about this project in this blog post from December 14, 2020](https://carpentries.org/blog/2020/12/Carpentries-Online-Workshops/).
+
+
 <details>
 <summary>
 <strong>January - March (Q1) 2020</strong>
@@ -98,6 +111,19 @@ Led by Kari Jordan, the Business Team works on the legal and financial aspects o
 <summary>
 <strong>Business Team's Quarterly Projects</strong>
 </summary>
+
+<details>
+<summary>
+<strong>July - September (Q3) 2020 & October - December (Q4) 2020</strong>
+</summary>
+Kari L. Jordan · Talisha Sutton-Kennedy · Omar Khan
+
+#### Capacity Building
+Throughout Q2 and Q3 2020, The Business Team has been working with the Executive Council on Capacity Building. This work is driven by Goal 5 of The Carpentries Strategic Plan: Strengthen organisational structure and capacity to be strategic and responsive. In alignment with Goal 5,  the goal of the Capacity Building project was to pursue grant opportunities and explore ways to manage and diversify our revenue streams, including pursuing corporate sponsorships, that are aligned with our values and priorities.
+
+We began by exploring the revenue applications of The Carpentries current assets and organisational strengths. We researched fundraising strategies and took advantage of fundraising training opportunities offered to Chan Zuckerberg Initiative (CZI) grantees. The information from these initiatives was used to support the development of a fundraising plan. As part of this project, we worked very closely with our Communications Manager, Omar Khan, who led the development of The Carpentries Philanthropy. A newly launched mailing list for members of our community who are interested in learning more about how they can help support our mission of building global capacity in essential data and computational skills and broaden The Carpentries’ impact on the world around us. For more information, please view the blog post: [Announcing The Carpentries Philanthropy: A New Way to Get Involved with The Carpentries (2020-10-01)](https://carpentries.org/blog/2020/10/introducing-the-carpentries-philanthropy/)
+
+Our work in this project demonstrated the importance of fundraising through donation campaigns for non-profit organisations. Therefore as outlined in the fundraising plan, we began planning a donation campaign. On 2020-11-09, the blog post [A Call to Action: Donate to The Carpentries](https://carpentries.org/blog/2020/11/a-call-to-action-donate-to-the-carpentries/) went out to announce and launch our first donation campaign.
 
 <details>
 <summary>
@@ -211,6 +237,7 @@ In Q4, the Community Development Team
 - published [Community Facilitators Program content around Feedback Facilitation](https://carpentries.github.io/community-facilitators-program/02-0-feedback-facilitation/index.html) publicly on GitHub, onboarded and [formally introduced our first cohort of Community Facilitators in The Carpentries focusing on feedback facilitation](https://carpentries.org/blog/2020/11/introducing-carpentries-feedback-facilitators/)
 - updated our community communications guides to include [guidelines and best practices for sharing job posts](https://docs.carpentries.org/topic_folders/communications/guides/share-opportunities.html) in The Carpentries, and took on Jez Cope's suggestion and created an [opportunities mailing list on TopicBox](https://carpentries.topicbox.com/groups/opportunities).
 - supported the Instructor Development Committee Leaders in launching and announcing the first cycle of [Carpentries Mentoring Groups for 2021](https://carpentries.org/blog/2020/11/Mentoring-2021-Cycle1/), and in holding an information session for community members that expressed interest in the Mentoring groups
+- continued work on the semi-permanent Online Workshops Pilot, and organised a [blog post centred around communicating the core team's work](https://carpentries.org/blog/2020/12/Carpentries-Online-Workshops/) involving the Online Workshops Pilot.
 
 </details>
 
@@ -221,7 +248,7 @@ In Q4, the Community Development Team
 
 Angelique van Rensburg · Kari L. Jordan · Kelly Barnes · Omar Khan · Serah Rono · Toby Hodges
 
-In Q3, the Community Development Team 
+In Q3, the Community Development Team
 - continued to **support the online workshops pilot project** by (i)soliciting for feedback about instructor and learner experiences in online workshops, (ii)drafting, editing and publishing community posts on the subject of online workshops and [collating these community contributions in The Carpentries Handbook for ease of access](https://docs.carpentries.org/topic_folders/hosts_instructors/resources_for_online_workshops.html), and (iii)presenting prominently occurring questions and tips for addition to our formal Carpentries recommendations around running online workshops. We also spent time engaging our community [on the question of accessibility of Carpentries resources and tools to community members in different settings around the world](https://github.com/carpentries/conversations/issues/26).
 - worked with the [Task Force](https://2020.carpentrycon.org/task-force) and community members to facilitate sessions at [CarpentryCon 2020](https://2020.carpentrycon.org/), ensure smooth running of the five-week virtual event, oversaw the creation and maintenance of the conference website, and kept the [event playlist on YouTube](https://youtube.com/playlist?list=PLXLapl_LKb4fx-t_4MBSPiefTraj5KdJ8) updated with session recordings.
 - worked with Lou Woodley from [CSCCE.org](https://cscce.org/) to write the first module of the Community Facilitators module around Feedback Facilitation, [introduced the program to our global community](https://carpentries.org/blog/2020/09/introducing-community-facilitators-program/) and [put out a call for community members to apply to participate in the pilot feedback facilitation cohort](https://carpentries.org/blog/2020/09/apply-feedback-facilitators-cohort/).
@@ -386,6 +413,26 @@ about their quarterly projects work below.
 <summary>
 <strong>Curriculum Team's Quarterly Projects</strong>
 </summary>
+
+<details>
+<summary>
+<strong>October - December (Q3) 2020</strong>
+</summary>
+Erin Becker · François Michonneau · Zhian Kamvar · Toby Hodges
+
+#### New Maintainer Community Lead and Pilot Astronomy Curriculum
+In Q4, we onboarded [Daniel Chen as the new Maintainer Community Lead](https://carpentries.org/blog/2020/11/introducing-Dan-Chen-as-Maintainer-Community-Lead/), ran a first pilot for a [new Data Carpentry Astronomy curriculum](https://datacarpentry.org/astronomy-python/), and continued work on the new lesson template. We have also begun organizing pathways for community engagement around lessons in [The Carpentries Incubator](https://carpentries.org/community-lessons/). More information about those pathways will be available in Q1 2021.
+
+
+<details>
+<summary>
+<strong>July - September (Q3) 2020</strong>
+</summary>
+Erin Becker · François Michonneau · Zhian Kamvar · Toby Hodges
+
+#### Lesson Maintainers and Help Wanted Page
+In Q3, the Curriculum Team worked with Community member Angela Li to wrap up onboarding and certification for [23 new Lesson Maintainers](https://carpentries.org/blog/2020/07/maintainer-welcome-2020/), polished and publicised a new [help wanted page](https://carpentries.org/help-wanted-issues/) to make it easier for contributors to find places to contribute, and started recruiting users to test elements of our [upcoming new lesson template](https://carpentries.org/blog/2020/08/lesson-template-design/).
+
 
 <details>
 <summary>
@@ -595,6 +642,29 @@ Led by Karen Word, the Instructor Training Team manages our Instructor Training 
 
 <details>
 <summary>
+<strong>October - December (Q4) 2020</strong>
+</summary>
+Karen Word · Kelly Barnes · Maneesha Sane · Talisha Sutton-Kennedy · Sher! Hurt
+
+#### Trainer Badging and Assessment
+- Trained and badged 14 new Trainers
+- Provisional leadership for the Trainer community proposed a governance structure and are accepting nominations for an elected body
+- Across Q3 and Q4 we have been orienting our assessment for the Instructor Training program and beyond and we look forward to putting that to work in a more developed assessment project in 2021.
+
+<details>
+<summary>
+<strong>July - September (Q3) 2020</strong>
+</summary>
+Karen Word · Kelly Barnes · Maneesha Sane · Talisha Sutton-Kennedy · Sher! Hurt
+
+#### Trainer Training and Bonus Modules
+- Opened & reviewed Trainer Training Applications
+- Launched bonus module to support certified Instructors in preparing to teach online
+- Completed version 2 of Online Training Recommendations
+- The Trainer community ratified an updated Trainer Agreement
+
+<details>
+<summary>
 <strong>April - June (Q2) 2020</strong>
 </summary>
 Erin Becker · Karen Word · Sher! Hurt
@@ -688,6 +758,17 @@ Led by Erin Becker, the Membership Team coordinates the growing number of Carpen
 <summary>
 <strong>Membership Team's Quarterly Projects</strong>
 </summary>
+
+<details>
+<summary>
+<strong>October - December (Q4) 2020</strong>
+</summary>
+Erin Becker · François Michonneau · Karen Word · Kari L. Jordan · Serah Rono · Sher! Hurt · Angelique van Rensburg
+
+#### Platinum Membership Update and New Team Member
+In Q4, the Membership Team [updated our Platinum membership tier](https://carpentries.org/blog/2020/10/platinum-memberships/) to improve transparency of this customizable membership level and ensure the way we work with Platinum members is equitable across different organizations. We also reintroduced our Bronze tier as an entry-level membership for organizations who want to support The Carpentries and don't yet plan to train local Instructors. This quarter also saw the first pilot of a New Member Onboarding program - details to follow in Q1 2021!
+
+The Membership team is also currently recruiting a new Deputy Director or Director of Partnerships to provide planning, vision, and implementation of this program and represent the needs of member organisations in strategic development.
 
 <details>
 <summary>
