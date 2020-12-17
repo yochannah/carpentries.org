@@ -838,6 +838,26 @@ Led by SherAaron Hurt, the Workshop Team develops and implements workflows to ke
 
 <details>
 <summary>
+<strong>October - December (Q4) 2020</strong>
+</summary>
+Angelique van Rensburg · Maneesha Sane · SherAaron Hurt · Talisha Sutton-Kennedy
+
+#### Regional Coordinator Onboarding
+- Continued finalising the Automated Email project. During Q4 the WAT presented the work done so far to the RC. The RC were given a prelude to what their new workflow will consist of. This project will cut the time to process workshops coordination in half. 
+- The WAT developed a workflow for onboarding new Regional Coordinators. Previously, there was no official onboarding process. During this quarter, the official onboarding presentation was developed along with the agenda and content for a 4 hour session to introduce new RC's to our workflows. 
+- The WAT also updated several workflows that would help with the email automation project and the RC onboarding project. We had several outdated instructions that no longer applied to our current workflows. 
+
+<details>
+<summary>
+<strong>July - September (Q3) 2020</strong>
+</summary>
+Angelique van Rensburg · Maneesha Sane · SherAaron Hurt · Talisha Sutton-Kennedy
+
+#### Automated Emails
+The WAT worked on Automated Emails. This has been an ongoing project to transition the Regional Coordinators to use our automated email system for their workflow. We have been testing this on US/African based workshops.  
+
+<details>
+<summary>
 <strong>April - June (Q2) 2020</strong>
 </summary>
 Angelique van Rensburg · Maneesha Sane · SherAaron Hurt · Talisha Sutton-Kennedy
