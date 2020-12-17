@@ -2,7 +2,7 @@
 layout: page
 authors: ["Toby Hodges"]
 teaser: "Announcing a new program to support community members wishing to develop a new lesson in The Carpentries Incubator."
-title: "The Carpentries Lesson Development Study Groups"
+title: "Apply to Join The Carpentries Lesson Development Study Groups"
 date: 2020-12-17
 time: "09:00:00"
 tags: ["Curriculum Development", "Communications"]
