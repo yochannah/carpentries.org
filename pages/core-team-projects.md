@@ -545,6 +545,18 @@ Led by François Michonneau, the Infrastructure Team is behind all of the system
 
 <details>
 <summary>
+<strong>July - Septmeber (Q3) & October - December (Q4) 2020</strong>
+</summary>
+François Michonneau · Maneesha Sane · Zhian Kamvar
+
+#### Transitions to Online Workshops
+* Continued work in support of our transition to online workshops.  This includes updates to our database that allow us to track online workshops.
+* Began work to ensure all our systems are in compliance with privacy and security policies.  This includes drafting security and privacy policies and creating a risk assessment plan.  It also includes auditing our existing systems to track what levels of access individuals have on the platforms we use, and creating systems to modify account level access as appropriate.
+* Planning work to create a structure to manage our membership infrastructure, allowing us to better track our work with member organizations, reporting on their activity, and supporting their growth.  These systems will be implemented in 2021.
+* Training for Core Team to make best use of our technology platforms. Teaching specific skills like writing SQL queries to strengthen Core Team members capacity to access and analyze existing data.
+
+<details>
+<summary>
 <strong>April - June (Q2) 2020</strong>
 </summary>
 François Michonneau · Maneesha Sane · Zhian Kamvar
