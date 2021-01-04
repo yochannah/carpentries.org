@@ -13,7 +13,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Compute Canada
 - Curtin University
 - New Zealand eScience Infrastructure (NeSI)
-- Nordic eInfrastructure Collaboration (NeIC)
+- CodeRefinery (Nordic eInfrastructure Collaboration, NeIC)
 - North-West University
 - South African Centre for Digital Language Resources (SADiLaR)
 - Software Sustainability Institute
