@@ -3,7 +3,7 @@ layout: page
 authors: ["Elnaz Amanzadeh "]
 teaser: "This post covers the instructor's experiences teaching an online Data Carpentry workshop in Iran"
 title: "Running an Online Data Carpentry Workshop in Iran"
-date: 2020-1-05
+date: 2020-01-05
 time: "00:00:00"
 tags: ["Online Workshops", "Data Carpentry"]
 ---
