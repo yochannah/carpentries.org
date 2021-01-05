@@ -42,7 +42,7 @@ Each workshop day was split between two instructors. This helped planning the ti
 
 Instructors and helpers decided a designated person should be selected to be host for the virtual classroom and the primary person for managing breakout rooms needed for help and lesson exercises. This task required estimating, in advance, the approximate number of breakout rooms needed and the approximate time when they will be used during the lessons.   Designating a host was effective because this allowed the instructors to focus on teaching with minimal interruptions. The host worked out well as a direct contact for helpers and learners. 
 
-In addition to managing breakout rooms, we found it effective and necessary to identify the available helpers by their displayed names. All helpers and instructors were identified by their name, the star emoji [star], and the computer operating system they could support. Identifying helpers this way allowed  the lesson host to quickly match a helper to a learner with the same operating system. Communication between instructors and the host was done via Slack messaging. Answering general questions and assistance to learners by helpers was done  through the chat feature in Zoom.
+In addition to managing breakout rooms, we found it effective and necessary to identify the available helpers by their displayed names. All helpers and instructors were identified by their name, the star emoji star :star:, and the computer operating system they could support. Identifying helpers this way allowed  the lesson host to quickly match a helper to a learner with the same operating system. Communication between instructors and the host was done via Slack messaging. Answering general questions and assistance to learners by helpers was done  through the chat feature in Zoom.
 
 *Screen fatigue* is a real issue, especially by the last day, and though the plan for each day was to schedule short breaks every hour in order for participants to take a break from being online, a few times only one break was given halfway through each three hour session, which was during the instructor changeover, in order to get further through a lesson. It became clear through feedback that one break was not sufficient, and for future workshops sticking to a brief five to ten minute break every hour should be adhered to, even though more breaks will cut into the overall time available for teaching a three hour session.
 
@@ -56,17 +56,17 @@ The Git lesson was taught by Mark Matney, who used multiple cameras and a whiteb
 
 The instructors for the SQL lesson, Jamie Jamison and Stephanie Labou, had [a secondary data download location](https://ndownloader.figshare.com/articles/1314459/versions/10) and a [SQL Online IDE](https://sqliteonline.com/) ready as a backup if needed, and though there were a few setup issues, they did not need to move anyone to the IDE. Most of the setup issues had to do with macOS, and both Jamie and Stephanie were Win/Linux users, so they were not familiar with many of the issues that came up. The helpers were great in getting everything figured out, as they were throughout the entire workshop, but these issues highlighted the fact that it is good to have helpers and instructors familiar with both Windows and Mac machines. 
 
-## Week 2: R concurrent sessions
+## Week 2: R Concurrent Sessions
 
 R sections were based on the lessons from [R for Reproducible Scientific Analysis](https://swcarpentry.github.io/r-novice-gapminder/). Because two R sections were taught concurrently, instructors agreed beforehand on the content that would be covered. We decided, based on previous instructor experience teaching Carpentries content online, to cover a smaller subset of lessons than would be covered in a “full” R Carpentries session. The first day (3 hours) aimed to cover lessons one to six, concluding with a very brief introduction to `ggplot2` (lesson eight), and the second day (3 hours) devoted significant time to `dplyr` (lesson 13) and `ggplot2` (lesson eight).
 
-## Week 3: Python concurrent sessions 
+## Week 3: Python Concurrent Sessions 
 
 The instructors had a preliminary meeting to discuss what episodes to approach, and who would be responsible for each of them. We decided to use the lesson [Plotting and Programming in Python](http://swcarpentry.github.io/python-novice-gapminder/); this session is under design, and we considered that gathering feedback in it would be relevant. Instead of lecturing the whole workshop in one day, we divided the episodes in two mornings of three hours each, trying to decrease the screen fatigue.
 
 Since the pace of virtual sessions is often slower than the in person ones, we chose to approach less episodes: instead of the 20 episodes suggested, we lectured the first nine ones. Delivering less episodes, we had more time to answer questions and solve issues that the students had. Even approaching less material, we still taught important fundamental concepts on Python — for example, using variables, importing libraries, and plotting data.
 
-## Something new: open office hours
+## Something New: Open Office Hours
 
 The third morning for both R and Python consisted of “Open Office Hours” during the same time slot as the other workshop days (9am-12pm). This was an unstructured time for learners to join, if desired, and ask any additional questions of the instructors of those lessons. In practice, this ended up being a mix of recapping concepts covered in the previous two days, upon request by learners, and demonstrations of additional concepts from the lessons instructors did not have time to cover. This was also an opportunity to mention and/or demonstrate functionality beyond what is included in the lesson material (e.g., advanced plotting, adding model results to plots, etc.). 
 
@@ -91,7 +91,7 @@ As noted above in discussing the first week of this workshop, the R/Python cours
 * A Git instructor used two cameras with one focused on a whiteboard for the Git lesson
 
 
-### Red stickies
+### Red Stickies
 
 * Some of the instructors and helpers were not as familiar with operating systems outside of their own to effectively answer OS specific questions
 * Learners had errors specific to their operating systems, mainly on MacOS. On one machine was unable to run Anaconda from the command line after installing. To solve this issue, we followed the instructions on [this blog post](https://towardsdatascience.com/how-to-successfully-install-anaconda-on-a-mac-and-actually-get-it-to-work-53ce18025f97) 
@@ -103,7 +103,7 @@ As noted above in discussing the first week of this workshop, the R/Python cours
 * Episode 9, [Plotting](http://swcarpentry.github.io/python-novice-gapminder/09-plotting/index.html), combines pandas data cleaning and matplotlib plotting. Currently, these concepts are quickly presented, confusing the learners. A solution could be to explain the examples in that episode more thoroughly
 * Since we covered less content from the Python lesson, we had doubts on how to reorder or include fundamental concepts that were not in the episodes we chose —  for instance, we did not present functions and loops in this session
 
-## Building on this success story
+## Building on This Success Story
 
 This was the first Carpentries workshop that leveraged Carpentries communities across multiple UC campuses. We had enough volunteer instructors, helpers and interest from students and faculty that we were able to run concurrent sessions for high demand lessons. This allowed us to teach approximately 100 learners at one time and maintain a learner-to-instructor/helper ratio appropriate for the Carpentries hands-on pedagogical model. This was especially important for teaching in an online environment where large class sizes can easily turn into more of a webinar and less of a learner centered educational experience. We felt that this would be extremely challenging to do on a single campus but worked quite well in a virtual cross-campus environment.
 
