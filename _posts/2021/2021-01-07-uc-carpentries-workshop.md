@@ -30,7 +30,7 @@ Each Friday before a week of lessons an “installfest” was held for two hours
 
 Tim Dennis sent out reminder emails to learners each week and handled a lot of the logistics around the workshop using Eventbrite. Since the waitlist on Eventbrite did not easily specify what lesson in the workshop people were waitlisted for, this caused some confusion. As a result, we let everyone on the waitlist into the workshop. Tim also created a master etherpad for the workshop that connected to the etherpads for the individual lessons. This made all the etherpads easy to access and manage over the course of three weeks. 
 
-## Preserving instructor/student ratio 
+## Preserving Instructor/Student Ratio 
 
 One opportunity of hosting a workshop series across three institutions was that we could increase the number of instructors and offer more workshops sessions based on demand. We took advantage of this capacity and kept the workshop teacher/student ratio reasonable (under 50 learners in a workshop) by spinning up other sessions of a lesson if it was overfilled. For example, the R and Python workshops filled up and generated large waitlists beyond the 50 seat capacity, so we responded by creating another concurrent section of those sessions. This was only possible because we had extra instructors available to teach, which was also only possible because of the UC Carpentries instructor network. 
 
@@ -42,7 +42,7 @@ Each workshop day was split between two instructors. This helped planning the ti
 
 Instructors and helpers decided a designated person should be selected to be host for the virtual classroom and the primary person for managing breakout rooms needed for help and lesson exercises. This task required estimating, in advance, the approximate number of breakout rooms needed and the approximate time when they will be used during the lessons.   Designating a host was effective because this allowed the instructors to focus on teaching with minimal interruptions. The host worked out well as a direct contact for helpers and learners. 
 
-In addition to managing breakout rooms, we found it effective and necessary to identify the available helpers by their displayed names. All helpers and instructors were identified by their name, the star emoji star :star:, and the computer operating system they could support. Identifying helpers this way allowed  the lesson host to quickly match a helper to a learner with the same operating system. Communication between instructors and the host was done via Slack messaging. Answering general questions and assistance to learners by helpers was done  through the chat feature in Zoom.
+In addition to managing breakout rooms, we found it effective and necessary to identify the available helpers by their displayed names. All helpers and instructors were identified by their name, the emoji star :star:, and the computer operating system they could support. Identifying helpers this way allowed  the lesson host to quickly match a helper to a learner with the same operating system. Communication between instructors and the host was done via Slack messaging. Answering general questions and assistance to learners by helpers was done  through the chat feature in Zoom.
 
 *Screen fatigue* is a real issue, especially by the last day, and though the plan for each day was to schedule short breaks every hour in order for participants to take a break from being online, a few times only one break was given halfway through each three hour session, which was during the instructor changeover, in order to get further through a lesson. It became clear through feedback that one break was not sufficient, and for future workshops sticking to a brief five to ten minute break every hour should be adhered to, even though more breaks will cut into the overall time available for teaching a three hour session.
 
@@ -72,12 +72,11 @@ The third morning for both R and Python consisted of “Open Office Hours” dur
 
 For anyone considering implementing a similar portion to their own workshop, we suggest having a few concepts to demonstrate in mind (e.g., creating bar charts in `ggplot2` during the R Open Office Hours). Additionally, since this was an open time slot where people came and went, we did field the same questions a few times, which indicated concepts we should better emphasize next time (e.g. pipes using `%>%` in dplyr and the difference between `==` and `%in%` for subsetting, during the R Open Office Hours).
 
-
 ## Workshop Stickies
 
 As noted above in discussing the first week of this workshop, the R/Python courses also suffered from not having enough time to teach the material. In an in-person format, much less a virtual format where everything tends to move more slowly, three hours is barely enough to cover very basic fundamentals, much less more advanced concepts. Having three days of three hour sessions for R/Python, followed by a fourth day of Open Office Hours, may be a better option. While a time commitment of four mornings can be challenging for some researchers, it would allow more time to cover material and take additional screen breaks. 
 
-### Green stickies
+### Green Stickies
 
 * Co-teaching and dividing lessons between instructors for all lessons was effective to provide teaching opportunities for several instructors from the various UC campuses 
 * Assignment of room DJ worked well to manage the breakout rooms for exercises and troubleshooting
@@ -89,7 +88,6 @@ As noted above in discussing the first week of this workshop, the R/Python cours
 * Using Jupyter Notebooks as a companion, with headers and text corresponding to the lesson, was useful to approach what were the next steps. The instructors still typed all code, using empty code cells that were filled during the episodes
 * Learners liked the use of slides and whiteboard to illustrate git concepts
 * A Git instructor used two cameras with one focused on a whiteboard for the Git lesson
-
 
 ### Red Stickies
 
