@@ -1,11 +1,11 @@
 ---
 layout: page
 authors: ["Kari L. Jordan"]
-teaser: "New website for access to all things Carpentries"
+teaser: "Set your intentions for 2021"
 title: "A New Year Message from The Carpentries Executive Director"
 date: 2021-01-06
 time: "09:00:00"
-tags: ["Community]
+tags: ["Community"]
 ---
 
 Happy New Year Carpentries Community! I did a mindfulness exercise recently that helped me see all the possibilities the new year holds. Many of us set goals at the beginning of the year, or “resolutions”, but I was reminded that setting __intentions__ is an even more powerful exercise. Goals focus on what you want to achieve, while intentions focus on how you want to think, act, or be in the present moment.
