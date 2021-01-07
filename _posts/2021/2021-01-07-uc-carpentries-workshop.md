@@ -1,11 +1,11 @@
 ---
 layout: page
 authors: ["Tim Dennis", "Jamie Jamison", "Stephanie Labou", "Reid Otsuji", "Scott Peterson", "Justin Shaffer", "Rick Mccosh", "Alexandre de Siqueira"]
-teaser: ""
+teaser: "Instructors' experiences running Carpentries workshops in the University of California System"
 title: "I See, UC, We All See Carpentries: Collaboratively Scaling Workshop Instruction Across a University System"
 date: 2021-01-07
 time: "09:00:00"
-tags: ["Community", "Carpentries", "University of California"]
+tags: ["Community", "University of California"]
 ---
 ## Introduction
 This Carpentries workshop ran online over the course of 3 weeks. 
