@@ -46,6 +46,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Alan Turing Institute
 - California Institute of Technology
 - California State University Humboldt
+- California State University San Marcos
 - Carnegie Mellon University
 - College Board
 - Copenhagen University Library
