@@ -425,6 +425,7 @@ Erin Becker · François Michonneau · Zhian Kamvar · Toby Hodges
 In Q4, we onboarded [Daniel Chen as the new Maintainer Community Lead](https://carpentries.org/blog/2020/11/introducing-Dan-Chen-as-Maintainer-Community-Lead/), ran a first pilot for a [new Data Carpentry Astronomy curriculum](https://datacarpentry.org/astronomy-python/), and continued work on the new lesson template. We have also begun organizing pathways for community engagement around lessons in [The Carpentries Incubator](https://carpentries.org/community-lessons/). More information about those pathways will be available in Q1 2021.
 
 </details>
+
 <details>
 <summary>
 <strong>July - September (Q3) 2020</strong>
@@ -433,7 +434,7 @@ Erin Becker · François Michonneau · Zhian Kamvar · Toby Hodges
 
 #### Lesson Maintainers and Help Wanted Page
 In Q3, the Curriculum Team worked with Community member Angela Li to wrap up onboarding and certification for [23 new Lesson Maintainers](https://carpentries.org/blog/2020/07/maintainer-welcome-2020/), polished and publicised a new [help wanted page](https://carpentries.org/help-wanted-issues/) to make it easier for contributors to find places to contribute, and started recruiting users to test elements of our [upcoming new lesson template](https://carpentries.org/blog/2020/08/lesson-template-design/).
-
+</details>
 
 <details>
 <summary>
