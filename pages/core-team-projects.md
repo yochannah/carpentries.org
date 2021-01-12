@@ -30,7 +30,7 @@ Erin Becker · François Michonneau · Kari L. Jordan
 In Q4 2020, The Carpentries Executive Team oversaw the recruitment of [two new members of our Core Team](https://carpentries.org/blog/2020/10/job-openings/), as well as three short-term positions. We hope to be able to announce new team members to the community near the end of Q1 2021.
 
 This quarter, the Executive Team has also helped to coordinate a cross-team effort to solidify our support of online workshops and integrate online offerings into all of our workflows and structures. You can read [ about this project in this blog post from December 14, 2020](https://carpentries.org/blog/2020/12/Carpentries-Online-Workshops/).
-
+</details>
 
 <details>
 <summary>
@@ -124,6 +124,7 @@ Throughout Q2 and Q3 2020, The Business Team has been working with the Executive
 We began by exploring the revenue applications of The Carpentries current assets and organisational strengths. We researched fundraising strategies and took advantage of fundraising training opportunities offered to Chan Zuckerberg Initiative (CZI) grantees. The information from these initiatives was used to support the development of a fundraising plan. As part of this project, we worked very closely with our Communications Manager, Omar Khan, who led the development of The Carpentries Philanthropy. A newly launched mailing list for members of our community who are interested in learning more about how they can help support our mission of building global capacity in essential data and computational skills and broaden The Carpentries’ impact on the world around us. For more information, please view the blog post: [Announcing The Carpentries Philanthropy: A New Way to Get Involved with The Carpentries (2020-10-01)](https://carpentries.org/blog/2020/10/introducing-the-carpentries-philanthropy/)
 
 Our work in this project demonstrated the importance of fundraising through donation campaigns for non-profit organisations. Therefore as outlined in the fundraising plan, we began planning a donation campaign. On 2020-11-09, the blog post [A Call to Action: Donate to The Carpentries](https://carpentries.org/blog/2020/11/a-call-to-action-donate-to-the-carpentries/) went out to announce and launch our first donation campaign.
+</details>
 
 <details>
 <summary>
@@ -423,7 +424,7 @@ Erin Becker · François Michonneau · Zhian Kamvar · Toby Hodges
 #### New Maintainer Community Lead and Pilot Astronomy Curriculum
 In Q4, we onboarded [Daniel Chen as the new Maintainer Community Lead](https://carpentries.org/blog/2020/11/introducing-Dan-Chen-as-Maintainer-Community-Lead/), ran a first pilot for a [new Data Carpentry Astronomy curriculum](https://datacarpentry.org/astronomy-python/), and continued work on the new lesson template. We have also begun organizing pathways for community engagement around lessons in [The Carpentries Incubator](https://carpentries.org/community-lessons/). More information about those pathways will be available in Q1 2021.
 
-
+</details>
 <details>
 <summary>
 <strong>July - September (Q3) 2020</strong>
@@ -554,6 +555,7 @@ François Michonneau · Maneesha Sane · Zhian Kamvar
 * Began work to ensure all our systems are in compliance with privacy and security policies.  This includes drafting security and privacy policies and creating a risk assessment plan.  It also includes auditing our existing systems to track what levels of access individuals have on the platforms we use, and creating systems to modify account level access as appropriate.
 * Planning work to create a structure to manage our membership infrastructure, allowing us to better track our work with member organizations, reporting on their activity, and supporting their growth.  These systems will be implemented in 2021.
 * Training for Core Team to make best use of our technology platforms. Teaching specific skills like writing SQL queries to strengthen Core Team members capacity to access and analyze existing data.
+</details>
 
 <details>
 <summary>
@@ -662,6 +664,7 @@ Karen Word · Kelly Barnes · Maneesha Sane · Talisha Sutton-Kennedy · Sher! H
 - Trained and badged 14 new Trainers
 - Provisional leadership for the Trainer community proposed a governance structure and are accepting nominations for an elected body
 - Across Q3 and Q4 we have been orienting our assessment for the Instructor Training program and beyond and we look forward to putting that to work in a more developed assessment project in 2021.
+</details>
 
 <details>
 <summary>
@@ -781,6 +784,7 @@ Erin Becker · François Michonneau · Karen Word · Kari L. Jordan · Serah Ron
 In Q4, the Membership Team [updated our Platinum membership tier](https://carpentries.org/blog/2020/10/platinum-memberships/) to improve transparency of this customizable membership level and ensure the way we work with Platinum members is equitable across different organizations. We also reintroduced our Bronze tier as an entry-level membership for organizations who want to support The Carpentries and don't yet plan to train local Instructors. This quarter also saw the first pilot of a New Member Onboarding program - details to follow in Q1 2021!
 
 The Membership team is also currently recruiting a new Deputy Director or Director of Partnerships to provide planning, vision, and implementation of this program and represent the needs of member organisations in strategic development.
+</details>
 
 <details>
 <summary>
@@ -858,6 +862,7 @@ Angelique van Rensburg · Maneesha Sane · SherAaron Hurt · Talisha Sutton-Kenn
 - Continued finalising the Automated Email project. During Q4 the WAT presented the work done so far to the RC. The RC were given a prelude to what their new workflow will consist of. This project will cut the time to process workshops coordination in half. 
 - The WAT developed a workflow for onboarding new Regional Coordinators. Previously, there was no official onboarding process. During this quarter, the official onboarding presentation was developed along with the agenda and content for a 4 hour session to introduce new RC's to our workflows. 
 - The WAT also updated several workflows that would help with the email automation project and the RC onboarding project. We had several outdated instructions that no longer applied to our current workflows. 
+</details>
 
 <details>
 <summary>
