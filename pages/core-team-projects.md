@@ -678,6 +678,7 @@ Karen Word · Kelly Barnes · Maneesha Sane · Talisha Sutton-Kennedy · Sher! H
 - Launched bonus module to support certified Instructors in preparing to teach online
 - Completed version 2 of Online Training Recommendations
 - The Trainer community ratified an updated Trainer Agreement
+</details>
 
 <details>
 <summary>
