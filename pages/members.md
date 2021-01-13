@@ -64,7 +64,6 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Kings College London
 - Lebanon Public Libraries
 - Macquarie University
-- NASA Develop
 - New York University
 - Ohio State University
 - Purdue University
