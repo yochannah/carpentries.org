@@ -2,7 +2,7 @@
 layout: page
 authors: ["Kari L. Jordan", "Omar Khan"]
 teaser: "We raised $15,445. Thank You!"
-title: "Wrapping up The Carpentries FIRST fundraising campaign"
+title: "Wrapping up The Carpentries FIRST Fundraising Campaign"
 date: 2021-01-14
 time: "09:00:00"
 tags: ["Philanthropy"]
