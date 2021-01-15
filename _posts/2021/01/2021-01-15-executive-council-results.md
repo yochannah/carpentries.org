@@ -1,7 +1,7 @@
 ﻿---
 layout: page
 authors: ["Konrad Förstner", "Executive Council"]
-teaser: "Here are the memnbers of the 2021 Carpentries Executive Council"
+teaser: "Here are the members of the 2021 Carpentries Executive Council"
 title: "Announcing the 2021 Executive Council for The Carpentries"
 date: 2021-01-15
 time: "05:00:00"
