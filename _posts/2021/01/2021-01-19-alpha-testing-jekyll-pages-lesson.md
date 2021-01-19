@@ -8,16 +8,6 @@ time: "09:00:00"
 tags: ["Incubator", "Workshops", "Jekyll"]
 ---
 
----
-layout: page
-authors: ["Renato Alves", "Anne Fouilloux", "Toby Hodges", "Aleksandra Nenadic", "Sarah Stevens"]
-teaser: "Community members reflect on the experience of teaching a new lesson for the first time."
-title: "Alpha testing a Jekyll Pages lesson"
-date: 2021-01-19
-time: "09:00:00"
-tags: ["Incubator", "Workshops", "Jekyll"]
----
-
 In the past several months, we have been developing a lesson, [_Building Websites with Jekyll and GitHub Pages_](https://carpentries-incubator.github.io/jekyll-pages-novice/), in [The Carpentries Incubator](https://carpentries.org/community-lessons/#the-carpentries-incubator). In November 2020, we taught this material for the first time in [two mini-workshops hosted by UW-Madison](https://uw-madison-datascience.github.io/2020-09-16-uwmadison-mini/).
 
 The first time a lesson is taught is always an important step in its development. It is a chance to really assess how well the lesson objectives and material fit the target audience.
