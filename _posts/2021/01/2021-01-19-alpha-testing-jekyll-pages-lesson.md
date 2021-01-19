@@ -8,6 +8,16 @@ time: "09:00:00"
 tags: ["Incubator", "Workshops", "Jekyll"]
 ---
 
+---
+layout: page
+authors: ["Renato Alves", "Anne Fouilloux", "Toby Hodges", "Aleksandra Nenadic", "Sarah Stevens"]
+teaser: "Community members reflect on the experience of teaching a new lesson for the first time."
+title: "Alpha testing a Jekyll Pages lesson"
+date: 2021-01-19
+time: "09:00:00"
+tags: ["Incubator", "Workshops", "Jekyll"]
+---
+
 In the past several months, we have been developing a lesson, [_Building Websites with Jekyll and GitHub Pages_](https://carpentries-incubator.github.io/jekyll-pages-novice/), in [The Carpentries Incubator](https://carpentries.org/community-lessons/#the-carpentries-incubator). In November 2020, we taught this material for the first time in [two mini-workshops hosted by UW-Madison](https://uw-madison-datascience.github.io/2020-09-16-uwmadison-mini/).
 
 The first time a lesson is taught is always an important step in its development. It is a chance to really assess how well the lesson objectives and material fit the target audience.
@@ -18,7 +28,7 @@ In the [life cycle of a lesson](https://cdh.carpentries.org/the-lesson-life-cycl
 After reflecting on how valuable the experience was to the ongoing development of our lesson, we have written up these notes to share with the community.
 
 __We will also host an open themed community discussion on the related topic of _Teaching a new lesson for the first time_ at 15:00 UTC on 1st February ([check your local time here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Themed+Community+Discussion%3A+Teaching+a+new+lesson+for+the+first+time&iso=20210201T15&p1=%3A&ah=1)). If you would like to join that call, head over to the
-Community Discussions Etherpad to sign up!__
+[Community Discussions Etherpad](https://pad.carpentries.org/community-discussions) to sign up!__ (Thank you to Caroline F Ajilogba of the [Instructor Development Committee](https://carpentries.org/inst-dev/) for helping us organise this themed discussion.)
 
 ## What went well?
 
@@ -57,4 +67,4 @@ Huge thanks to Sarah Stevens for organising and hosting the two pilots, and the 
 
 We hope to run more alpha pilots very soon. In particular, we are aware that the second half of the material is less mature than the first as it has not yet been tried out "live" in a workshop. After these additional alpha pilots have been completed, you will hear from us again when we announce the lesson as ready for beta testing by other Instructors!
 
-Lastly, if you want to get invovled with the ongoing development of the lesson, we have more sprints planned for the first few months of 2021 - post in our [Slack channel](https://swcarpentry.slack.com/archives/C0186GK56UC), open an Issue/Pull Request on [the lesson repository](https://github.com/carpentries-incubator/jekyll-pages-novice/), or [send us an email](mailto:tobyhodges@carpentries.org) if you would like to join us. We would be delighted to hear from you!
+Lastly, if you want to get involved with the ongoing development of the lesson, we have more sprints planned for the first few months of 2021 - post in our [Slack channel](https://swcarpentry.slack.com/archives/C0186GK56UC), open an Issue/Pull Request on [the lesson repository](https://github.com/carpentries-incubator/jekyll-pages-novice/), or [send us an email](mailto:tobyhodges@carpentries.org) if you would like to join us. We would be delighted to hear from you!
