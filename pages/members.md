@@ -28,6 +28,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Chan Zuckerburg Initiative
 - Columbia University
 - CSIRO
+- Helmholtz Information & Data Science Academy (HIDA)
 - National Oceanic and Atmospheric Administration 
 - New England Software Carpentry Library Consortium
 - Oak Ridge National Laboratory
