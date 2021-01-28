@@ -8,7 +8,7 @@ time: "06:00:00"
 tags: ["internationalisation", "Community", "localisation"]
 ---
 
-Translation efforts in The Carpentries are community led, and we recommend that you consider joining our internationalisation community channel [in The Carpentries Slack](https://swc-slack-invite.herokuapp.com/) or the internationalisation mailing list on TopicBox to stay informed.
+Translation efforts in The Carpentries are community led, and we recommend that you consider joining our [internationalisation community channel](https://swcarpentry.slack.com/archives/CL357S0CD) in The Carpentries [Slack](https://swc-slack-invite.herokuapp.com/) to stay informed.
 
 To help inform the efforts of community members interested in translating (i)resources for use in local Carpentries events like CarpentryConnects and (ii) all other resources currently available for the global Carpentries community in English, we request your input on the set of questions below:
 
