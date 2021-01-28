@@ -3,9 +3,9 @@ layout: page
 authors: ["Serah Njambi Rono"]
 teaser: "We are keen to improve accessibility across our interactions and resources in The Carpentries,and invite you to help."
 title: "Improving Accessibility in The Carpentries"
-date: 2021-01-28
+date: 2021-02-01
 time: "06:00:00"
-tags: ["Accessibility", "Community"]
+tags: ["Accessibility"]
 ---
 Because The Carpentries has a [people-first and access-for-all](https://carpentries.org/values/) mindset, one of the considerations that guides our choice of online platforms for community use in The Carpentries is the ease, clarity and consistency with which people can interact and collaborate in real time (community calls, study groups, instructor training and workshop sessions, etc) and asynchronously (sharing opportunities, contributing to resources, asking questions etc). 
 
