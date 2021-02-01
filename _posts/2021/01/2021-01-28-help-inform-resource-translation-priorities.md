@@ -12,7 +12,7 @@ Translation efforts in The Carpentries are community-led, and we recommend that 
 
 To help inform the efforts of community members interested in translating (i)resources for use in local Carpentries events like CarpentryConnects and (ii) all other resources currently available for the global Carpentries community in English, we request your input on the set of questions below:
 
-We would like to hear about the relationship between spoken languages and the languages used for instruction in institutions where you are located. You can type your responses below or [in this Google Doc](https://docs.google.com/document/d/1HDoy3cKqC94jIK7LgtKLLUMQ5wzMXivWO4Zo8g7iHXk/edit?usp=sharing) using these prompts: 
+We would like to hear about the relationship between spoken languages and the languages used for instruction in institutions where you are located. You can type your responses [under issue 27 in The Carpentries Conversations repository](https://github.com/carpentries/conversations/issues/27) or [in this Google Doc](https://docs.google.com/document/d/1HDoy3cKqC94jIK7LgtKLLUMQ5wzMXivWO4Zo8g7iHXk/edit?usp=sharing) using these prompts: 
 - what language(s) do people primarily speak where you are ( city, country or region)? 
 - what language(s) are used in instruction in institutions of higher education? 
 - if spoken languages and languages of instruction are different, where would you suggest The Carpentries focus our translation priorities - spoken languages or languages used for instruction?
