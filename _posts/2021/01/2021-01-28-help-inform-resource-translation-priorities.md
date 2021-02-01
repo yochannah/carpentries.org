@@ -16,8 +16,8 @@ We would like to hear about the relationship between spoken languages and the la
 - what language(s) do people primarily speak where you are ( city, country or region)? 
 - what language(s) are used in instruction in institutions of higher education? 
 - if spoken languages and languages of instruction are different, where would you suggest The Carpentries focus our translation priorities - spoken languages or languages used for instruction?
- - for content and resources made available for local Carpentries events like CarpentryConnects?
- - for all other resources made available for the global Carpentries community
+  - for content and resources made available for local Carpentries events like CarpentryConnects?
+  - for all other resources made available for the global Carpentries community
 
 Thank you for your input!
 
