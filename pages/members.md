@@ -15,6 +15,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - New Zealand eScience Infrastructure (NeSI)
 - CodeRefinery (Nordic eInfrastructure Collaboration, NeIC)
 - North-West University
+- Queensland Cyber Infrastructure Foundation 
 - South African Centre for Digital Language Resources (SADiLaR)
 - Software Sustainability Institute
 - The University of Wisconsin Madison
