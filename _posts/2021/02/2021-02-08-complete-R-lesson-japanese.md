@@ -89,7 +89,10 @@ maintaining the lessons and using them with Japanese learners.
 See our posts on [how we got started](https://carpentries.org/blog/2019/11/local-team-japan/)
 and [how we manage collaborative translations](https://carpentries.org/blog/2019/11/translations-in-japanese/).
 In summary, you can contribute to Japanese lessons by submitting pull requests to
-the PO files in this github repository: [https://github.com/swcarpentry_ja/i18n](https://github.com/swcarpentry-ja/i18n)
+the PO files in this github repository:
+
+[https://github.com/swcarpentry_ja/i18n](https://github.com/swcarpentry-ja/i18n)
+
 Changes to PO files are now merged into lesson automatically by GitHub Actions. We may share how
 this works at a later date.
 
