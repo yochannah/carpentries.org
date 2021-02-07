@@ -89,27 +89,26 @@ maintaining the lessons and using them with Japanese learners.
 See our posts on [how we got started](https://carpentries.org/blog/2019/11/local-team-japan/)
 and [how we manage collaborative translations](https://carpentries.org/blog/2019/11/translations-in-japanese/).
 In summary, you can contribute to Japanese lessons by submitting pull requests to
-the PO files in this github repository:
+the PO files in this github repository<sup>[1](#i18n)<sup> :
 
 [https://github.com/swcarpentry_ja/i18n](https://github.com/swcarpentry-ja/i18n)
 
-Changes to PO files are now merged into lesson automatically by GitHub Actions. We may share how
-this works at a later date.
+Merging a change to the PO file automatically triggers GitHub Actions and generates the
+translated lesson content. We may share how this works at a later date.
 
-We are also interested in training instructors in Japan and holding workshops.Please contact us
-if you are able to support this in any way. We understand that this will be difficult with
-current restrictions on travel and large gatherings.
+We are also interested in training instructors in Japan and holding workshops. Please contact us
+if you are able to support this in any way. 
 
 We also actively contribute Japanese terms to the [Glosario](https://glosario.carpentries.org/)
 project and encourage pull requests to the [GitHub repository[(https://github.com/carpentries/glosario).
 
 ### Find Out More
 
-If you wish to get involved in the translations, please find us on Twitter, join us on Slack and send pull requests to our 
-lessons on GitHub. Please note that some translations are ongoing already (check the issues tab for which are assigned).
-We welcome help from anyone but English and Japanese skills are needed for many aspects. If you are fluent in Japanese,
-please give us feedback on our translations. We are also happy to share how we manage translations with PO files on GitHub, 
-please ask us if you have any questions about doing it in another language.
+If you wish to get involved in the translations, please find us on Twitter, join us on Slack,
+or send pull requests to our lessons on GitHub. Please note that some translations are ongoing
+already (check the issues tab for which are assigned). If you are fluent in Japanese, please
+give us feedback on our translations. We are also happy to share how we manage translations
+with PO files on GitHub, please ask us if you have any questions about doing it in another language.
 
 Follow us on Twitter [@swcarpentry_ja](twitter.com/swcarpentry_ja)<br>
 
@@ -124,7 +123,7 @@ Find out more about Tokyo.R on Twitter [@TokyoRCommunity](https://twitter.com/@T
 [#TokyoR](https://twitter.com/search?q=%23TokyoR&src=hashtag_click).
 
 Anyone is welcome to contribute to Japanese lessons or join the core team. You do not need to be located in Japan
-but strong English and Japanese language skills will be helpful. See our Github repository1 for more details on
+but strong English and Japanese language skills will be helpful. See our Github repository<sup>[1](#i18n)<sup> for more details on
 how to contribute to translated lessons.
 
 ---
