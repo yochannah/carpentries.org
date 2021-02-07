@@ -70,7 +70,7 @@ these tools to encourage new translators to join us. By making lesson materials 
 non-English majority speaking countries and international students, we believe The Carpentries
 can have a far wider benefit to communities around the world. Establishing a local community
 in Japan and considering equity with respect to language is in line with [The Carpentries
-Strategic Plan for 2020-2025](https://carpentries.org/blog/2020/01/strategic-plan-2020-2025/)
+Strategic Plan for 2020-2025](https://carpentries.org/blog/2020/01/strategic-plan-2020-2025/).
 
 ## Getting Involved in the Japanese Community
 
