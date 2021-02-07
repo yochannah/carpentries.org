@@ -26,6 +26,7 @@ towards our goal of a complete Software Carpentry core lessons in Japanese. We b
 R lessons are ready to share with the wider  community and welcome feedback. 
 
 English:   [https://swcarpentry-ja.github.io/r-novice-gapminder/](https://swcarpentry-ja.github.io/r-novice-gapminder/)
+<br>
 Japanese (日本語):    [https://swcarpentry-ja.github.io/r-novice-gapminder/ja/](https://swcarpentry-ja.github.io/r-novice-gapminder/ja/) 
 
 The R lesson that we translated is archived so the English and Japanese content matches.
