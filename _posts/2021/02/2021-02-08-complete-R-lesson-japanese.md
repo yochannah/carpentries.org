@@ -123,7 +123,7 @@ Find out more about Tokyo.R on Twitter [@TokyoRCommunity](https://twitter.com/@T
 [#TokyoR](https://twitter.com/search?q=%23TokyoR&src=hashtag_click).
 
 Anyone is welcome to contribute to Japanese lessons or join the core team. You do not need to be located in Japan
-but strong English and Japanese language skills will be helpful. See our Github repository<sup>[1](#i18n)<sup> for more details on
+but strong English and Japanese language skills will be helpful. See our Github repository<sup>[1](#i18n)</sup> for more details on
 how to contribute to translated lessons.
 
 ---
