@@ -37,9 +37,7 @@ user guides (in English and Japanese) on GitHub if anyone wishes to use them. In
 the Spanish lessons, we wish to include these lessons on the Software Carpentry website
 once they are finished.
 
-## Motivations for translation
-
-(\#TokyoR)](https://tokyor.connpass.com)
+### Motivations for translation
 
 We focused on the R lesson first because of growing demand to learn the R language in
 life sciences and data science. The Japanese translation team grew initially out of the
@@ -50,7 +48,7 @@ R and new packages that are typically announced in English. Similarly, thanks to
 of the Tokyo R community, resources are catching up in Japanese (such as translation of books)
 and they share their expertise with new users.
 
-##  Expected benefits to the community
+###  Expected benefits to the community
 
 We make these lessons available freely online for the benefit of the Japanese community,
 including Japanese diaspora, around the world. They are now able to learn Software Carpentry
@@ -85,7 +83,7 @@ skills) will be appreciated. We hope to keep up our momentum to soon have an act
 maintaining the lessons and using them with Japanese learners.
 
 
-## What You Can Do To Help
+### What You Can Do To Help
 
 See our posts on [how we got started](https://carpentries.org/blog/2019/11/local-team-japan/)
 and [how we manage collaborative translations](https://carpentries.org/blog/2019/11/translations-in-japanese/).
@@ -101,7 +99,7 @@ current restrictions on travel and large gatherings.
 We also actively contribute Japanese terms to the [Glosario](https://glosario.carpentries.org/)
 project and encourage pull requests to the [GitHub repository[(https://github.com/carpentries/glosario).
 
-## Find Out More
+### Find Out More
 
 If you wish to get involved in the translations, please find us on Twitter, join us on Slack and send pull requests to our 
 lessons on GitHub. Please note that some translations are ongoing already (check the issues tab for which are assigned).
