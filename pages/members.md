@@ -9,83 +9,69 @@ the growth and sustainability of The Carpentries and is building local capacity 
 
 ### Platinum Member Organisations
 
-- Arizona State University
 - Boise State University
 - Compute Canada
-- Macquarie University
-- University of Manchester
+- Curtin University
 - New Zealand eScience Infrastructure (NeSI)
-- Nordic eInfrastructure Collaboration (NeIC)
+- CodeRefinery (Nordic eInfrastructure Collaboration, NeIC)
 - North-West University
+- Queensland Cyber Infrastructure Foundation 
 - South African Centre for Digital Language Resources (SADiLaR)
 - Software Sustainability Institute
-- Stanford University
-- The University of Wisconsin
-- University of Chicago, Center for Spatial Data Science
-- University of Oklahoma
+- The University of Wisconsin Madison
+- The Jackson Laboratory
+- University of Maryland
+- Virginia Polytechnic Institute and State University
 
 ### Gold Member Organisations
 
+- 4TU.ResearchData/TU Delft
 - Chan Zuckerburg Initiative
 - Columbia University
 - CSIRO
-- Delft University of Technology, 4TU.Center
-- University of Arizona/CyVerse
-- National Institutes of Health (NIH)
+- Helmholtz Information & Data Science Academy (HIDA)
+- National Oceanic and Atmospheric Administration 
 - New England Software Carpentry Library Consortium
-- New York Data Carpentries Library Consortium (NYDCLC)
-- Nordic eInfrastructure Collaboration
+- Oak Ridge National Laboratory
 - Oklahoma State University
 - Smithsonian Institution
 - South Big Data Innovation Hub
-- The Jackson Laboratory
-- The University of Michigan
+- University of Arizona
 - University of California Santa Barbara
-- University of Edinburgh
-- University of Florida
-- University of Georgia
+- University of Kansas
 - University of Technology Sydney
-- University of Toronto
 - University of Washington eScience Institute
-- Virginia Polytechnic Institute and State University
 - West Big Data Hub
 
 ### Silver Member Organisations
 
 - Alan Turing Institute
-- American University
 - California Institute of Technology
- - California State University Humboldt
+- California State University Humboldt
+- California State University San Marcos
 - Carnegie Mellon University
-- Chan Zuckerberg Biohub
 - College Board
 - Copenhagen University Library
-- D-Lab Berkeley
 - Duke University
 - Erasmus University Rotterdam
 - European Economic Association
 - Flatiron Institute
-- Fred Hutchinson Cancer Research Center
+- Florida State University
 - Genomics Aotearoa
 - George Mason University
-- George Washington University
 - Great Plains Network (GPN)
 - Helmholtz Centre Potsdam - GFZ German Research Centre for Geosciences
 - Helmholtz-Zentrum Dresden-Rossendorf
 - Institute for Advanced Computational Science-Stony Brook University
 - Institute of Environmental Science and Research Limited (ESR)
 - Kings College London
-- KTH Royal Institute of Technology, University of Stockholm, Karolinska Institutet
 - Lebanon Public Libraries
-- Leibniz School of Education
+- Macquarie University
 - NASA Develop
 - New York University
 - Ohio State University
 - Purdue University
-- Queensland Cyber Infrastructure Foundation
-- Regeneron Pharmaceuticals
 - Rice University
-- Rutgers University - Camden
 - SUNY College of Environmental Science and Forestry
 - Texas State Library and Archives Commission
 - The National Institute of Standards and Technology
@@ -97,21 +83,27 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - University of California San Diego
 - University of Central Florida
 - University of Colorado-Boulder (Earth Lab & CIRES)
+- University of Colorado - STROBE
 - University of Connecticut
-- University of Göttingen State and University Library
+- University of Florida
+- University of Georgia 
+- University of Göttingen, State and University Library
 - University of Idaho
 - University of Illinois
-- University of Kansas
 - University of Miami
 - University of Minnesota Libraries
 - University of New Mexico
-- University of North Texas
 - University of Notre Dame
 - University of Oregon
 - University of Oslo
-- University of Otago
+- University of Reading
 - University of Texas Arlington
 - Utrecht University
 - VDB (Verein Deutscher Bibliothekarinnen und Bibliothekare - Association of German Libraries and Librarians)
 - West Virginia University
 - Woods Hole Oceanographic Institution
+
+### Bronze Member Organisations
+
+- George Washington University
+

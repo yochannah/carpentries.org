@@ -4,7 +4,7 @@ title: "Carpentries Governance"
 permalink: /governance/
 ---
 
-Governance of The Carpentries is undertaken by the **Executive Council**, to whom the Executive Director reports. The Council comprises nine members from the Software, Data, and Library Carpentry communities, four elected by the community, and five appointed from the Executive Council.
+Governance of The Carpentries is undertaken by the **Executive Council**, to whom the Executive Director reports. The Council comprises nine members, from The Carpentries community or others, four elected by the community, and five appointed from the Executive Council.
 
 ## Roles and Responsibilities of the Executive Council
 

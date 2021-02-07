@@ -106,7 +106,6 @@ people:
     - icon: fa fa-envelope
       url: mailto:serah@carpentries.org
 
-
 - name: Omar Khan
   pic: omarkhan
   position: Communications Manager
@@ -153,6 +152,15 @@ people:
       url: https://github.com/karenword
     - icon: fa fa-envelope
       url: mailto:krword@carpentries.org
+
+- name: Danielle Sieh
+  pic: daniellesieh
+  position: Workshop Administrator
+  social:
+    - icon: fab fa-github
+      url: https://github.com/danielle06
+    - icon: fa fa-envelope
+      url: mailto:danielle@carpentries.org
 
 - name: Angelique van Rensburg, PhD
   pic: angeliquevanrensburg

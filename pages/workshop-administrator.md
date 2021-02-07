@@ -6,6 +6,8 @@ permalink: /workshop-administrator/
 
 Posting date: 26 October 2020 
 
+**We are no longer reviewing applications for this position.**
+
 [The Carpentries](http://carpentries.org/) is committed to training and fostering an active, inclusive, diverse community of learners and 
 instructors who promote and model the importance of software and data in research. We seek an engaged and collaborative individual who shares
 this vision for a full-time position as the Workshop Administrator for The Carpentries (U.S. based). 

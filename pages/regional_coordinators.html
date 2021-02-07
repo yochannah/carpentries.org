@@ -33,51 +33,50 @@ Meet our Regional Coordinators and Carpentries communities in these regions.  Cl
 <!--  Begin Australia  -->    
     <tr>
         <td align="center"><h3><a href="{% link pages/regional_AU.html %}">Australia</a></h3><a href="mailto:{{site.contact_au}}">{{site.contact_au}}</a></td>
+
         <td>
-            <div class="medium columns">
-            <div class="team-member">
-            <img src="https://avatars.githubusercontent.com/DamienIrving" width=128 height=128 class="img-responsive img-circle lazyload" alt="GitHub profile photo of Damien Irving">
-            <h3>Damien Irving</h3>
-            <ul class="list-inline social-buttons">
-                <li><a href="https://twitter.com/DrClimate"><i class="fab fa-twitter"></i></a></li>
-                <li><a href="https://github.com/DamienIrving"><i class="fab fa-github"></i></a></li>
-                <li><a href="https://orcid.org/0000-0003-1258-5002"><i class="fab fa-orcid"></i></a></li>
-                <li><a href="http://www.drclimate.wordpress.com"><i class="fas fa-link"></i></a></li>
-            </ul>
-            </div>
-            </div>
+            {% assign regional_coordinators_au = site.data.regional_coordinators | where: "region", "Australia"  %}
+
+            {% for person in regional_coordinators_au %}
+
+                {% if regional_coordinators_au.size > 1 %}
+                <div class="medium-6 columns">
+                {% else %}
+                <div class="medium columns">
+                {% endif %}
+
+                <div class="team-member">
+                {% include single_profile.md %}
+                </div></div>
+
+            {% endfor %}
         </td>
+
     </tr>
 <!--  End Australia  -->  
 
-<!--  Begin Cananda  -->  
+<!--  Begin Canada  -->  
     <tr>
        <td align="center"><h3><a href="{% link pages/regional_CA.html %}">Canada</a></h3>   
         <a href="mailto:{{site.contact_ca}}">{{site.contact_ca}}</a></td>        
        <td>
-       <div class="medium-6 columns">
-            <div class="team-member">
-              <img data-src="https://avatars.githubusercontent.com/jadesjardins" width=128 height=128 class="img-responsive img-circle lazyload" alt="GitHub profile photo of James Desjardins">
-              <h3>James Desjardins</h3>
-              <ul class="list-inline social-buttons">
-                  <li> <a href="https://github.com/jadesjardins"> <i class="fab fa-github"></i> </a> </li>
-              </ul>
-            </div>
-            </div>
+        {% assign regional_coordinators_ca = site.data.regional_coordinators | where: "region", "Canada"  %}
 
-        <div class="medium-6 columns">
-            <div class="team-member">
-              <img data-src="https://avatars.githubusercontent.com/symulation" width=128 height=128 class="img-responsive img-circle lazyload" alt="GitHub profile photo of John Simpson">
-              <h3>John Simpson</h3>
-              <ul class="list-inline social-buttons">
-                  <li> <a href="https://twitter.com/@symulation"> <i class="fab fa-twitter"></i> </a> </li> 
-                  <li> <a href="https://github.com/symulation"> <i class="fab fa-github"></i> </a> </li> 
-              </ul>
-            </div>
-            </div>
+        {% for person in regional_coordinators_ca %}
+                {% if regional_coordinators_ca.size > 1 %}
+                <div class="medium-6 columns">
+                {% else %}
+                <div class="medium columns">
+                {% endif %}
+
+                <div class="team-member">
+                {% include single_profile.md %}
+                </div></div>
+
+            {% endfor %}
         </td>
     </tr>
-
+<!--  End Canada  -->  
 
 
 <!--  Begin DACH Countries  -->
@@ -85,15 +84,20 @@ Meet our Regional Coordinators and Carpentries communities in these regions.  Cl
 <tr>
     <td align="center"><h3><a href="{% link pages/regional_dach.html %}">DACH Countries</a></h3><a href="mailto:{{site.contact_dach}}">{{site.contact_dach}}</a></td>
     <td>
-            <div class="medium columns">
-            <div class="team-member">
-                <img data-src="https://avatars.githubusercontent.com/RabeaMue" width=128 height=128 class="img-responsive img-circle lazyload" alt="GitHub profile photo of Rabea ">
-                <h3>Rabea Müller</h3>
-                <ul class="list-inline social-buttons">
-                    <li> <a href="https://github.com/RabeaMue"> <i class="fab fa-github"></i> </a></li>
-                </ul>
-            </div>
-            </div>
+        {% assign regional_coordinators_dach = site.data.regional_coordinators | where: "region", "DACH Countries"  %}
+
+        {% for person in regional_coordinators_dach %}
+        {% if regional_coordinators_dach.size > 1 %}
+        <div class="medium-6 columns">
+        {% else %}
+        <div class="medium columns">
+        {% endif %}
+
+        <div class="team-member">
+        {% include single_profile.md %}
+        </div></div>
+
+    {% endfor %}
     </td>
 </tr>
 
@@ -105,15 +109,20 @@ Meet our Regional Coordinators and Carpentries communities in these regions.  Cl
     <tr>
         <td align="center"><h3><a href="{% link pages/regional_NZ.html %}">New Zealand</a></h3><a href="mailto:{{site.contact_nz}}">{{site.contact_nz}}</a></td>
         <td>
-                <div class="medium columns">
-                <div class="team-member">
-                    <img data-src="https://avatars.githubusercontent.com/megan-guidry" width=128 height=128 class="img-responsive img-circle lazyload" alt="GitHub profile photo of Megan Guidry">
-                    <h3>Megan Guidry</h3>
-                    <ul class="list-inline social-buttons">
-                        <li> <a href="https://github.com/megan-guidry"> <i class="fab fa-github"></i> </a></li>
-                    </ul>
-                </div>
-                </div>
+            {% assign regional_coordinators_nz = site.data.regional_coordinators | where: "region", "New Zealand"  %}
+
+            {% for person in regional_coordinators_nz %}
+            {% if regional_coordinators_nz.size > 1 %}
+            <div class="medium-6 columns">
+            {% else %}
+            <div class="medium columns">
+            {% endif %}
+
+            <div class="team-member">
+            {% include single_profile.md %}
+            </div></div>
+
+        {% endfor %}
         </td>
     </tr>
 
@@ -126,15 +135,20 @@ Meet our Regional Coordinators and Carpentries communities in these regions.  Cl
     <tr>
         <td align="center"><h3><a href="{% link pages/regional_nordic.html %}">Nordic Countries</a></h3><a href="mailto:{{site.contact_nordic}}">{{site.contact_nordic}}</a></td>
         <td>
-                <div class="medium columns">
-                <div class="team-member">
-                    <img data-src="https://avatars.githubusercontent.com/naoe-tatara" width=128 height=128 class="img-responsive img-circle lazyload" alt="GitHub profile photo of Naoe Tatara">
-                    <h3>Naoe Tatara</h3>
-                    <ul class="list-inline social-buttons">
-                        <li> <a href="https://github.com/naoe-tatara"> <i class="fab fa-github"></i> </a></li>
-                    </ul>
-                </div>
-                </div>
+            {% assign regional_coordinators_nordic = site.data.regional_coordinators | where: "region", "Nordic Countries"  %}
+
+            {% for person in regional_coordinators_nordic %}
+            {% if regional_coordinators_nordic.size > 1 %}
+            <div class="medium-6 columns">
+            {% else %}
+            <div class="medium columns">
+            {% endif %}
+
+            <div class="team-member">
+            {% include single_profile.md %}
+            </div></div>
+
+        {% endfor %}
         </td>
     </tr>
 
@@ -143,28 +157,25 @@ Meet our Regional Coordinators and Carpentries communities in these regions.  Cl
 
 <!-- Begin South Africa -->
 
-
-
     <tr>
         <td align="center"><h3><a href="{% link pages/regional_ZA.html %}">South Africa</a></h3><a href="mailto:{{site.contact_afr}}">{{site.contact_afr}}</a></td>
         <td>
-                <div class="medium columns">
-                <div class="team-member">
-                <img data-src="https://avatars.githubusercontent.com/elletjies" width="128" height="128" class="img-responsive img-circle lazyload" alt="GitHub profile photo of Angelique van Rensburg" />
-                <h3>Angelique van Rensburg</h3>
-                <ul class="list-inline social-buttons">
-                <li> <a href="https://github.com/elletjies"> <i class="fab fa-github"></i> </a> </li>
-      </ul>
-                </div>
-                </div>
+            {% assign regional_coordinators_za = site.data.regional_coordinators | where: "region", "South Africa"  %}
+
+            {% for person in regional_coordinators_za %}
+            {% if regional_coordinators_za.size > 1 %}
+            <div class="medium-6 columns">
+            {% else %}
+            <div class="medium columns">
+            {% endif %}
+
+            <div class="team-member">
+            {% include single_profile.md %}
+            </div></div>
+
+        {% endfor %}
         </td>
     </tr>
-
-
-
-
-
-
 
 <!-- End South Africa -->
 
@@ -174,26 +185,20 @@ Meet our Regional Coordinators and Carpentries communities in these regions.  Cl
         <td align="center !important"><h3><a href="{% link pages/regional_UK.html %}">United Kingdom</a></h3>
             <a href="mailto:{{site.contact_uk}}">{{site.contact_uk}}</a></td>
         <td>
-            <div class="medium-6 columns">
-            <div class="team-member">
-            <img data-src="https://avatars.githubusercontent.com/anenadic" width="128" height="128" class="img-responsive img-circle lazyload" alt="GitHub profile photo of Aleks Nenadic" />
-            <h3>Aleksandra Nenadic</h3>
-                <ul class="list-inline social-buttons">
-                    <li> <a href="https://github.com/anenadic"> <i class="fab fa-github"></i> </a> </li>
-                    <li> <a href="https://orcid.org/0000-0002-2269-3894"> <i class="fab fa-orcid"></i> </a> </li>
-                </ul>
-            </div>
-            </div>
+            {% assign regional_coordinators_uk = site.data.regional_coordinators | where: "region", "United Kingdom"  %}
 
-           <div class="medium-6 columns">
-           <div class="team-member">
-            <img data-src="https://avatars.githubusercontent.com/gperu" width="128" height="128" class="img-responsive img-circle lazyload" alt="GitHub profile photo of Giacomo Peru" />
-            <h3>Giacomo Peru</h3>
-            <ul class="list-inline social-buttons">
-                <li> <a href="https://github.com/gperu"> <i class="fab fa-github"></i> </a> </li>
-            </ul>
-            </div>
-            </div>
+            {% for person in regional_coordinators_uk %}
+            {% if regional_coordinators_uk.size > 1 %}
+            <div class="medium-6 columns">
+            {% else %}
+            <div class="medium columns">
+            {% endif %}
+
+            <div class="team-member">
+            {% include single_profile.md %}
+            </div></div>
+
+        {% endfor %}
        </td>
     </tr>
 
@@ -203,16 +208,22 @@ Meet our Regional Coordinators and Carpentries communities in these regions.  Cl
     <tr>
         <td align="center"><h3><a href="{% link pages/regional_global.html %}">Global</a></h3><a href="mailto:{{site.contact}}">{{site.contact}}</a></td>
         <td>
+
+
+            {% assign regional_coordinators_global = site.data.regional_coordinators | where: "region", "Global"  %}
+
+            {% for person in regional_coordinators_global %}
+            {% if regional_coordinators_global.size > 1 %}
+            <div class="medium-6 columns">
+            {% else %}
             <div class="medium columns">
+            {% endif %}
+
             <div class="team-member">
-                <img data-src="https://avatars.githubusercontent.com/sheraaronhurt" width=128 height=128 class="img-responsive img-circle lazyload" alt="GitHub profile photo of SherAaron Hurt">
-                <h3>SherAaron Hurt</h3>
-            <ul class="list-inline social-buttons">
-                <li> <a href="https://twitter.com/SherAaronHurt"> <i class="fab fa-twitter"></i> </a></li>
-                <li> <a href="https://github.com/sheraaronhurt"> <i class="fab fa-github"></i> </a></li>
-            </ul>
-            </div>
-            </div>
+            {% include single_profile.md %}
+            </div></div>
+
+        {% endfor %}
         </td>
     </tr>
 
