@@ -42,7 +42,7 @@ once they are finished.
 
 We focused on the R lesson first because of growing demand to learn the R language in
 life sciences and data science. The Japanese translation team grew initially out of the
-(\#TokyoR)](https://tokyor.connpass.com) community. The #TokyoR meetings and their Slack
+[\#TokyoR](https://tokyor.connpass.com) community. The #TokyoR meetings and their Slack
 workspace (both mainly in Japanese) share updates in the R community and aid new R users.
 These activities are hugely beneficial for the community in Japan to learn about 
 R and new packages that are typically announced in English. Similarly, thanks to efforts
@@ -120,7 +120,7 @@ Chat with the core team on the our slack channel (日本語でも大丈夫).
 Join in [English](https://carpentries-jp-en.herokuapp.com/) or [Japanese](https://carpentries-ja.herokuapp.com/).
 
 Find out more about Tokyo.R on Twitter [@TokyoRCommunity](https://twitter.com/@TokyoRCommunity) or
-[#TokyoR](https://twitter.com/search?q=%23TokyoR&src=hashtag_click).
+[\#TokyoR](https://twitter.com/search?q=%23TokyoR&src=hashtag_click).
 
 Anyone is welcome to contribute to Japanese lessons or join the core team. You do not need to be located in Japan
 but strong English and Japanese language skills will be helpful. See our Github repository<sup>[1](#i18n)</sup> for more details on
