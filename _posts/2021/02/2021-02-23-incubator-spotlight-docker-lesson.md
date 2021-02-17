@@ -14,7 +14,7 @@ The Incubator Lesson Spotlight highlights a lesson under development by our comm
 ## Lesson Profile
 
 - **Title:** {{page.lesson_title}}
-- **Lesson Pages:” https://carpentries-incubator.github.io/docker-introduction/
+- **Lesson Pages:** https://carpentries-incubator.github.io/docker-introduction/
 - **Lesson Repository:** https://github.com/carpentries-incubator/docker-introduction
 
 ### Learning Objectives
