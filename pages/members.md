@@ -12,6 +12,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Boise State University
 - Compute Canada
 - Curtin University
+- Fred Hutchinson Cancer Research Center
 - New Zealand eScience Infrastructure (NeSI)
 - CodeRefinery (Nordic eInfrastructure Collaboration, NeIC)
 - North-West University
