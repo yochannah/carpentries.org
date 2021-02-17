@@ -3,7 +3,7 @@ layout: page
 authors: ["Tom Kelly", "Joel Nitta", "Masami Yamaguchi", "Maki Arakaki", "Bagus Tris Atmaja", "Manabu Ishii", "Kozo Nishida", "Dai Saito", "Riku Takei", "Atsushi Yamamoto", "Satoshi Yokota"] 
 teaser: "We share a complete bilingual R lesson in English and Japanese"
 title: "Introducing R lessons in Japanese"
-date: 2021-02-07 
+date: 2021-02-22 
 time: "00:00:00" 
 tags: ["Community", "Internationalisation", "Curriculum", "Japan", "R"]
 ---
