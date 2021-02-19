@@ -4,6 +4,8 @@ title: "Podcasts by The Carpentries"
 permalink: "/podcasts/"
 ---
 
+{% include open-embed.html %} 
+
 [introductory paragraph goes here]
 
 
