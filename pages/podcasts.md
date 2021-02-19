@@ -21,13 +21,16 @@ permalink: "/podcasts/"
 <details>
 <summary>
 <strong>Podcast 1 transcript in language 1 goes here</strong>
-</summary>
+</summary> 
+
+[ add transcript text here please ]
 </details>
 
 <details>
 <summary>
 <strong>links to all resources mentioned in the podcast go here</strong>
 </summary>
+[ link to all resources mentioned in the podcast chronologically ]
 </details>
 
 
@@ -47,12 +50,15 @@ permalink: "/podcasts/"
 <summary>
 <strong>podcast episode transcript in specific language goes here</strong>
 </summary> 
+
+[ add transcript text here please ]
 </details>
 
 <details>
 <summary>
 <strong>links to all resources mentioned in the podcast go here</strong>
 </summary>
+[ link to all resources mentioned in the podcast chronologically ]
 </details>
 
 -->
