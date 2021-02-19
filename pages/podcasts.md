@@ -12,13 +12,23 @@ permalink: "/podcasts/"
 ## Podcast 1 Title
 <br/> Host 1 · Guest 1 · Guest 2 · Guest 3
 
-Summary text about the episode
-[embed audio here]
+[3-4 sentence summary text about the episode goes here]
+
+
+<audio src="/files/audio/test.mp3?autoplay=1&loop=1&controls=0" controls preload></audio>
+
 
 <details>
 <summary>
 <strong>Podcast 1 transcript in language 1 goes here</strong>
 </summary>
+</details>
+
+<details>
+<summary>
+<strong>links to all resources mentioned in the podcast go here</strong>
+</summary>
+</details>
 
 
 
@@ -28,12 +38,23 @@ Summary text about the episode
 ## Podcast 2 Title
 <br/> Host 1 · Guest 1 · Guest 2 · Guest 3
 
-Summary text about the episode
-[embed audio here]
+[3-4 sentence summary text about the episode goes here]
+
+[embed your audio below]
+<audio src="linktoyour.mp3?autoplay=1&loop=1&controls=0" controls preload></audio>
 
 <details>
 <summary>
 <strong>podcast episode transcript in specific language goes here</strong>
 </summary> 
+</details>
+
+<details>
+<summary>
+<strong>links to all resources mentioned in the podcast go here</strong>
+</summary>
+</details>
 
 -->
+
+https://drive.google.com/file/d/1jLLW8FIdE9_fuRbFPL_SS_0zEpzfnH_0/view?usp=sharing
