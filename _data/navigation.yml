@@ -112,6 +112,8 @@
     url: "https://docs.carpentries.org/"
   - title: "Newsletter"
     url: "/newsletter/"
+  - title: "Carpentries Podcast"
+    url: "/podcasts/"
   - title: "Twitter"
     url: "https://twitter.com/thecarpentries/"
 
