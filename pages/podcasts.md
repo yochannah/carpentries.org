@@ -56,5 +56,3 @@ permalink: "/podcasts/"
 </details>
 
 -->
-
-https://drive.google.com/file/d/1jLLW8FIdE9_fuRbFPL_SS_0zEpzfnH_0/view?usp=sharing
