@@ -56,7 +56,7 @@ Here are ways you can prioritise accessibility as you plan virtual events:
   - multiple ways for people to ask and answer questions, meet and collaborate during sessions at your virtual event
 - Make transcripts available alongside audio and visual content after the event on your website.  
 
->[Here is a PDF version of the checklist that you can download and use as you plan your virtual events](https://files.carpentries.org/pdf/accessibility-checklist-virtual-events.pdf).
+>[Here is a PDF version of the checklist that you can download and use as you plan your virtual events](http://carpentries.org/files/pdf/accessibility-checklist-virtual-events.pdf).
 
 We would love to hear from you: how has accessibility been prioritised in the virtual events you have attended? Tweet [@thecarpentries](https://twitter.com/thecarpentries) to share! We also [invite your participation to help us improve accessibility across all our resources in The Carpentries](https://carpentries.org/blog/2021/02/improving-accessibility-across-carpentries-resources/).
 
