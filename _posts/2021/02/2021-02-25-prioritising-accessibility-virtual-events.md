@@ -8,19 +8,19 @@ time: "06:00:00"
 tags: ["Accessibility", "Events", "Community"]
 ---
 
-Accessibility is to equity as a foundation is to a house. A well-rounded and  intentional approach to making your community spaces and resources accessible levels the playing field for all in your community, and benefits everyone in the long-run.
+Accessibility is to equity as a foundation is to a house. A well-rounded and intentional approach to making your community spaces and resources accessible levels the playing field for all in your community, and benefits everyone in the long-run.
 
-December 3, 2020 was last year's International Day for People with Disabilities. Under the theme,  ‘Not all Disabilities are Visible,’ the day's focus was on spreading awareness and understanding of disabilities that are not immediately apparent, such as mental illness, chronic pain or fatigue, sight or hearing impairments, diabetes, brain injuries, neurological disorders, learning differences and cognitive dysfunctions, among others.
+December 3, 2020 was last year's International Day for People with Disabilities. Under the theme, ‘Not all Disabilities are Visible,’ the day's focus was on spreading awareness and understanding of disabilities that are not immediately apparent, such as mental illness, chronic pain or fatigue, sight or hearing impairments, diabetes, brain injuries, neurological disorders, learning differences and cognitive dysfunctions, among others.
 
 This is an important reminder for us all as community conveners - assumptions and observational insight are not enough in helping us put together accessible events.  We have a responsibility to educate ourselves on matters of accessibility continually. We can do this by:
 
 1. asking well-crafted questions that invite the perspectives of the communities we are hoping to bring together,
-1. paying attention to the accessibility needs and requests for accommodation that our community members make of us,
-1. enlisting the services of subject experts,
-1. committing to apply what we learn, no matter how hard we perceive the work to be, and
-1. communicating clearly and consistently about the approaches we are taking, the challenges we are faced with, and how we hope to overcome these.
+2. paying attention to the accessibility needs and requests for accommodation that our community members make of us,
+3. enlisting the services of subject experts,
+4. committing to apply what we learn, no matter how hard we perceive the work to be, and
+5. communicating clearly and consistently about the approaches we are taking, the challenges we are faced with, and how we hope to overcome these.
 
-To audit your processes and decisions and ensure you are centering accessibility in your event planning, a good question to keep in mind as as an event organiser would be: _Can people with disabilities get the same information, perform the same interactions, and function as others with comparable ease?_
+To audit your processes and decisions and ensure you are centering accessibility in your event planning, a good question to keep in mind as an event organiser would be: _Can people with disabilities get the same information, perform the same interactions, and function as others with comparable ease?_
 
 >“At the heart of accessibility is the notion of designing a diversity of ways for people to participate in an experience so that everyone has a sense of belonging.” ([Susan Goltsman](https://g.co/kgs/FfuVxn), Play for All Guidelines and The Inclusive City).
 
