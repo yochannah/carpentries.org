@@ -1,7 +1,7 @@
 ---
 layout: page
-authors: ["Serah Njambi Rono"]
-teaser: "In this post, Serah and Emily summarise Serah's presentation and discussions from her Code for Science and Society community talk on accessibility in virtual events, and share a accessibility checklist to guide you as you plan virtual events."
+authors: ["Serah Njambi Rono", "Emily Lescak"]
+teaser: "In this post, Serah Rono and Emily Lescak summarise Serah's presentation and discussions from her Code for Science and Society community talk on accessibility in virtual events, and share a accessibility checklist to guide you as you plan virtual events."
 title: "Prioritising Accessibility in Organising Online Events"
 date: 2021-02-25
 time: "06:00:00"
