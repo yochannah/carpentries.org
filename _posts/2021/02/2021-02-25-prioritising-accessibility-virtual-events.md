@@ -8,6 +8,8 @@ time: "06:00:00"
 tags: ["Accessibility", "Events", "Community"]
 ---
 
+_This blog post was also [cross-posted on Code for Science and Society's Event Fund blog](https://eventfund.codeforscience.org/prioritising-accessibility/) and [the CSCCE blog](https://www.cscce.org/2021/02/26/prioritizing-accessibility-in-organizing-online-events/)._
+
 Accessibility is to equity as a foundation is to a house. A well-rounded and intentional approach to making your community spaces and resources accessible levels the playing field for all in your community, and benefits everyone in the long-run.
 
 December 3, 2020 was last year's International Day for People with Disabilities. Under the theme, ‘Not all Disabilities are Visible,’ the day's focus was on spreading awareness and understanding of disabilities that are not immediately apparent, such as mental illness, chronic pain or fatigue, sight or hearing impairments, diabetes, brain injuries, neurological disorders, learning differences and cognitive dysfunctions, among others.
@@ -76,7 +78,4 @@ Here are some additional resources that expound on various aspects of accessibil
 - On connectivity ( low-bandwidth) challenges
   - [Detailed guide from the University of Cape Town on low-tech online teaching resources](https://docs.google.com/document/d/1zPN7XUitOCw75FW6UeqrYAcWl41UqgKoZ_HRoYTKFZI/edit)
   - Daniel Stanford's [Videoconferencing Alternatives: How Low-Bandwidth Teaching Will Save Us All](https://www.iddblog.org/videoconferencing-alternatives-how-low-bandwidth-teaching-will-save-us-all/)
-
-  
-_This blog post was also [cross-posted on Code for Science and Society's Event Fund blog](https://eventfund.codeforscience.org/prioritising-accessibility/)._
   
