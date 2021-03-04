@@ -218,7 +218,7 @@ Just like in a fire drill, everyone should know where to go in the event of an e
 Be sure to have a plan in place for how to get in touch with each other and your learners should you be unable to access your video conferencing platform. Make sure all important links are prominently posted and accessible. It is also useful to advise your learners on how to proceed if they are unable to connect.
 
 ##### Set up for feedback collection
-At in-person workshops, we use sticky notes for gathering feedback after each module. The Carpentries offers a [Google Form](https://docs.google.com/forms/d/1p7iOV5HNvy4POS4g6eottY8RSfKq4kaoKz1-jIFYTMI/edit) template for this purpose. If choosing an alternative, the key elements of this are:
+At in-person workshops, we use sticky notes for gathering feedback after each module. The Carpentries offers a [Google Form](https://docs.google.com/forms/d/1p7iOV5HNvy4POS4g6eottY8RSfKq4kaoKz1-jIFYTMI/template/preview) template for this purpose. If choosing an alternative, the key elements of this are:
  * Respondent anonymity 
  * Classifying feedback as positive/constructive (or learned/question or keep/change etc)
  * Timestamping or other way of matching feedback to specific workshop sessions
