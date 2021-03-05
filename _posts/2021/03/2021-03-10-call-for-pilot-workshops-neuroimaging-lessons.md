@@ -3,7 +3,7 @@ layout: page
 authors: ["Jerrold Jeyachandra", "Toby Hodges"]
 teaser: "Help with the further improvement of these lessons from The Carpentries Incubator"
 title: "Call for Pilot Workshops: Neuroimaging Lessons"
-date: 2021-02-DD
+date: 2021-03-10
 time: "09:00:00"
 tags: ["Carpentries Incubator", "Pilot Workshops"]
 ---
