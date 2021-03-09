@@ -25,4 +25,4 @@ Joining The Carpentries family as the Director of Partnerships is truly an amazi
 
 I am so humbled by the warm welcome, and excited for the opportunity to do impactful work on a global scale.  They say if you want to go fast go alone, if you want to go far go together!
 
-Cheers to the journey :)
+Cheers to the journey :smile:
