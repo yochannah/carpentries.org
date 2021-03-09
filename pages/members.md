@@ -37,6 +37,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Oklahoma State University
 - Smithsonian Institution
 - South Big Data Innovation Hub
+- The Carpentries in Austria
 - University of Arizona
 - University of California Santa Barbara
 - University of Kansas
