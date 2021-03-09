@@ -8,7 +8,7 @@ time: "09:00:00"
 tags: ["Library Carpentry", "Community"]
 ---
 
-Following on from January's[Call for Applications](https://carpentries.org/blog/2020/12/call-for-new-members-library-carpentry-advisory-group/) The [Library Carpentry Advisory Group](https://librarycarpentry.org/) is pleased to welcome seven new members to our team. Selected from a pool of excellent applicants, they will begin their 3-year terms this month. Please join us in welcoming:
+Following on from January's [Call for Applications](https://carpentries.org/blog/2020/12/call-for-new-members-library-carpentry-advisory-group/) The [Library Carpentry Advisory Group](https://librarycarpentry.org/) is pleased to welcome seven new members to our team. Selected from a pool of excellent applicants, they will begin their 3-year terms this month. Please join us in welcoming:
 
 **Sara King** -  Australia
 
