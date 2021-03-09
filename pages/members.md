@@ -71,6 +71,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - NASA Develop
 - New York University
 - Ohio State University
+- Openscapes
 - Purdue University
 - Rice University
 - SUNY College of Environmental Science and Forestry
