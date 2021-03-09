@@ -161,3 +161,12 @@ people:
       url: https://github.com/danielle06
     - icon: fa fa-envelope
       url: mailto:danielle@carpentries.org
+
+
+- name: Al Obayuwana
+  pic: alobayuwana
+  position: Director of Partnerships
+  social:
+    - icon: fa fa-envelope
+      url: mailto:alobayuwana@carpentries.org
+
