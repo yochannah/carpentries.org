@@ -166,6 +166,7 @@ people:
 - name: Al Obayuwana
   pic: alobayuwana
   position: Director of Partnerships
+  lead: Membership Team Lead
   social:
     - icon: fa fa-envelope
       url: mailto:alobayuwana@carpentries.org
