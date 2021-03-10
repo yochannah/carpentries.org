@@ -3,7 +3,7 @@ layout: page
 authors: ["Al Obayuwana", "Erin Becker"]
 teaser: "Al Obayuwana joins The Carpentries as Director of Partnerships"
 title: "Introducing our new Director of Partnerships"
-date: 2021-03-09
+date: 2021-03-10
 time: "09:00:00"
 tags: ["Carpentries Team","Carpentries Membership"]
 ---
