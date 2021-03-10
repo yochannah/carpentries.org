@@ -39,7 +39,7 @@ please contact [Jerrold Jeyachandra][jj-email].
 
 [beta-pilot-host-application]: https://forms.gle/YjkicPj98YLK5xgJA
 [cdh-life-cycle]: https://cdh.carpentries.org/the-lesson-life-cycle.html#overview-and-definitions
-[deadline]: https://www.timeanddate.com/worldclock/fixedtime.html?msg=Deadline%3A+Neuroimaging+Lessons+Beta+Pilot+Host+Applications&iso=20210303T2359&p1=3914
+[deadline]: https://www.timeanddate.com/worldclock/fixedtime.html?msg=Deadline%3A+Neuroimaging+Lessons+Beta+Pilot+Host+Applications&iso=20210324T2359&p1=3914
 [fMRI-lesson]: https://carpentries-incubator.github.io/SDC-BIDS-fMRI/
 [incubator]: https://github.com/carpentries-incubator/
 [introMRI-lesson]: https://carpentries-incubator.github.io/SDC-BIDS-IntroMRI/
