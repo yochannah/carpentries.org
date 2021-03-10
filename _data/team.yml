@@ -169,4 +169,5 @@ people:
   social:
     - icon: fa fa-envelope
       url: mailto:alobayuwana@carpentries.org
-
+    - icon: fab fa-github
+      url: https://github.com/Al-Obayuwana
