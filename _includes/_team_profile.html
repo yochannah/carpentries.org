@@ -1,22 +1,30 @@
+{% assign loopindex = forloop.index | modulo: 3 %}
 {% assign is_last_row = forloop.length | divided_by: 3 %}
 {% assign is_last_row = is_last_row | times: 3 %}
+
 {% if forloop.index <= is_last_row %}
-{% assign row_align = "" %}
+  {% assign row_align = "" %}
 {% else %}
-{% assign n_last_row = forloop.length | modulo: 3 %}
-{% if n_last_row == 0 %}
-{% assign row_align = "" %}
-{% elsif n_last_row == 1 %}
-{% assign row_align = "medium-offset-4" %}
+  {% assign n_last_row = forloop.length | modulo: 3 %}
+  {% if n_last_row == 0 or loopindex > 1 %}
+    {% assign row_align = "" %}
+  {% elsif n_last_row == 1 %}
+    {% assign row_align = " medium-offset-4" %}
+  {% else %}
+    {% assign row_align = " medium-offset-2" %}
+  {% endif %}
+{% endif %}
+
+{% if forloop.index == forloop.length %}
+  {% assign last_row_item = " end" %}
 {% else %}
-{% assign row_align = "medium-offset-2" %}
+  {% assign last_row_item = "" %}
 {% endif %}
-{% endif %}
-                {% assign loopindex = forloop.index | modulo: 3 %}
+
                 {% if loopindex == 1 %}
                 <div class="row align-center">
                 {% endif %}
-                <div class="medium-4 columns  {{ row_align }}">
+                <div class="medium-4 columns{{ row_align }}{{ last_row_item }}">
                     <div class="team-member">
                         <img src="{{ site.filesurl }}/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
                         <h4>{{ member.name }}</h4>
@@ -35,7 +43,6 @@
                                 </a>
                             </li>
                             {% endfor %}
-
                         </ul>
                     </div>
                 </div>
