@@ -69,4 +69,4 @@ As well as our Code of Conduct, we have a number of [policies that govern how we
 
 ## Contacting the Executive Council
 
-The Executive Council can be contacted submitting [an issue to their GitHub repository](https://github.com/carpentries/executive-council-info/issues); sending them [an email](mailto:carpentries-executive-council@carpentries.org); or by [filling this form](https://docs.google.com/forms/d/e/1FAIpQLScdo7AlYfeQN-z5dnO-p8KVI8t17kQUc1VH-Cvrlga5txIwCA/viewform?usp=sf_link).  [Read more about how to contact the Executive Council](https://github.com/carpentries/executive-council-info).
+The Executive Council can be contacted submitting [an issue to their GitHub repository](https://github.com/carpentries/executive-council-info/issues); sending them [an email](mailto:carpentries-executive-council@carpentries.org); or by [filling this form](https://forms.gle/Adi54ESBi5hHmcdu5). [Read more about how to contact the Executive Council](https://docs.carpentries.org/topic_folders/governance/executive-council.html#contacting-the-executive-council).
