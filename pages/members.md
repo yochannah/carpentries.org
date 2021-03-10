@@ -73,7 +73,6 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - New York University
 - Ohio State University
 - Openscapes
-- Oxford University
 - Purdue University
 - Rice University
 - SUNY College of Environmental Science and Forestry
@@ -100,6 +99,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - University of Notre Dame
 - University of Oregon
 - University of Oslo
+- University of Oxford
 - University of Reading
 - University of Texas Arlington
 - Utrecht University
