@@ -15,6 +15,8 @@ The Carpentries Executive Council is the highest leadership body of The Carpentr
 In addition to [publicly posting meeting minutes](https://github.com/carpentries/executive-council-info/tree/master/minutes), the Executive Council reports on its activities periodically in [Carpentry Clippings](https://carpentries.org/newsletter/) (the organizational newsletter) as well as through [blog posts](https://carpentries.org/posts-by-tags/#blog-tag-governance).
 The council also prepares [Yearly Summaries](https://github.com/carpentries/executive-council-info/tree/master/year-in-review) of its activities.
 
+## Executive Council Members
+
 ### Current Executive Council Members
 
 - Cedric Chambers [Appointed since 2020]
@@ -27,40 +29,9 @@ The council also prepares [Yearly Summaries](https://github.com/carpentries/exec
 - Sarah Stevens [Elected since 2021]
 - Masami Yamaguchi [Appointed since 2021], 2021 [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) committee liaison
 
-### 2020 Executive Council
+### Past Executive Council Members
 
-- Cedric Chambers [Appointed since 2020]
-- Mesfin Diro Chaka [Appointed since 2019], 2019 Secretary
-- Konrad Förstner [Appointed since 2020], 2020 [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) committee liaison
-- Amy Hodge [Elected since 2018], 2019 Chair
-- Joslynn Lee [Appointed since 2019], 2020 Secretary
-- Paula Andrea Martinez [Elected since 2020]
-- Lex Nederbragt [Elected since 2018], 2020 Vice Chair, 2018 Secretary
-- Juan Steyn [Appointed since 2019], 2020 Treasurer
-- Elizabeth Wickes [Elected since 2018], 2020 Chair, 2019 [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) committee liaison
-
-### 2019 Executive Council
-
-- Amy Hodge [Elected] - Chair
-- Kate Hertweck [Appointed] - Vice Chair
-- Mesfin Diro Chaka [Appointed] - Secretary
-- Raniere Silva [Elected] - Treasurer
-- Karen Cranston [Appointed] - [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) committee liaison
-- Juan Steyn [Appointed]
-- Joslynn Lee [Appointed]
-- Lex Nederbragt [Elected]
-- Elizabeth Wickes [Elected]
-
-### 2018 Executive Council
-
-- Karen Cranston [Appointed] - Chair
-- Kate Hertweck [Appointed] - Vice Chair
-- Sue McClatchy [Appointed] - Treasurer
-- Mateusz Kuzak [Appointed]
-- Ethan White [Appointed]
-- Amy Hodge [Elected]
-- Elizabeth Wickes [Elected]
-- Raniere Silva [Elected]
+You will find our past Executive Council members [on the Carpentries Governance History page](/governance-history/).
 
 ## Carpentries Bylaws and Policies
 
