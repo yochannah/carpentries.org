@@ -69,7 +69,7 @@ And then, to really help with that, I find it makes a big difference if you can 
 
 ## Equity & Inclusion in Online Communities
 
-Serah Rono · Toby Hodges · Naomi Penfold · Angela Li · Marlene Mhangami · Abigail Mayes
+Serah Rono · Toby Hodges · Naomi Penfold · Kate Hertweck · Angela Li · Marlene Mhangami · Abigail Mayes
 
 In this episode, consisting of excerpts of discussions from the two Fireside Chat sessions during CarpentryCon @ Home 2020, we will be hearing from Naomi Penfold, Marlene Mhangami, Kate Hertweck, Angela Li, Toby Hodges and Abigail Mayes on topics related to Equity and Inclusion in online communities.
 
