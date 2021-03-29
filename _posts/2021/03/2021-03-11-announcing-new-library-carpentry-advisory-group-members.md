@@ -8,7 +8,7 @@ time: "09:00:00"
 tags: ["Library Carpentry", "Community"]
 ---
 
-Following on from January's [Call for Applications](https://carpentries.org/blog/2020/12/call-for-new-members-library-carpentry-advisory-group/) The [Library Carpentry Advisory Group](https://librarycarpentry.org/) is pleased to welcome seven new members to our team. Selected from a pool of excellent applicants, they will begin their 3-year terms this month. Please join us in welcoming:
+Following on from January's [Call for Applications](https://carpentries.org/blog/2020/12/call-for-new-members-library-carpentry-advisory-group/), the [Library Carpentry Advisory Group](https://librarycarpentry.org/) is pleased to welcome seven new members to our team. Selected from a pool of excellent applicants, they will begin their 3-year terms this month. Please join us in welcoming:
 
 **Sara King** -  Australia
 
@@ -16,7 +16,7 @@ Dr Sara King is the Training and Engagement Lead for AARNet. She is focused on o
 
 **Mary Filsell** - Australia
 
-Mary Filsell is a research librarian & futurist focused on providing academic library research services for researchers, staff, masters by research and PHD students at Flinders University, South Australia. Personal research interests include: Library Carpentry, Open Access Research & Data, the FAIR principles for research data, and Extinction Rebellion. This year she is looking forward to working with digital humanities and GLAMR (Galleries, Libraries, Archives, Museums, Records) communities, especially opportunities related to AI and TDM (text and data mining).
+Mary Filsell is a research librarian & futurist focused on providing academic library research services for researchers, staff, masters by research and PhD students at Flinders University, South Australia. Personal research interests include: Library Carpentry, Open Access Research & Data, the FAIR principles for research data, and Extinction Rebellion. This year she is looking forward to working with digital humanities and GLAMR (Galleries, Libraries, Archives, Museums, Records) communities, especially opportunities related to AI and TDM (text and data mining).
 
 **Annajiat Alim Rasel** - Bangladesh
 
