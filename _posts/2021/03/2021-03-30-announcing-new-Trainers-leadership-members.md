@@ -3,7 +3,7 @@ layout: page
 authors: ["Karen Word"]
 teaser: "Please welcome the 5 new members of the Trainers Leadership group"
 title: "Welcome to Trainers Leadership!"
-date: 2021-03-25
+date: 2021-03-30
 time: "09:00:00"
 tags: ["Instructor Trainers", "Community"]
 ---
