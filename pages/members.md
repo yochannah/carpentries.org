@@ -75,6 +75,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Openscapes
 - Purdue University
 - Rice University
+- Space Telescope Science Institute
 - SUNY College of Environmental Science and Forestry
 - Texas State Library and Archives Commission
 - The National Institute of Standards and Technology
