@@ -34,7 +34,7 @@ _Our Governance Structure:_ Please see the [Code of Conduct Committee Governance
 
 [**Francois Michonneau**](https://github.com/fmichonneau) is the Senior Director of Technology for The Carpentries, and serves as the [core team](https://carpentries.org/team/) liaison to the Code of Conduct Committee.
 
-[**Konrad Förstner**](https://github.com/konrad) is the [Executive Council](https://carpentries.org/governance/) liaison to the Code of Conduct Committee.
+[**Masami Yamaguchi**](https://github.com/masamiy) is the [Executive Council](https://carpentries.org/governance/) liaison to the Code of Conduct Committee.
 
 [**Karin Lagesen**](https://github.com/karinlag) is a bioinformatician working at the Norwegian Veterinary Institute. Her time is spent building pipelines, teaching people how to analyze their data, and finding new and better ways of using bioinformatics for microbial surveillance. She was the chair of the CoC committee for 2 years, member of the Software Carpentry Steering Committee for three years, and is also an instructor trainer. Karin is part of this committee because she believes it is very important to ensure that The Carpentries is a safe and inclusive community. 
 
