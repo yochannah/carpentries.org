@@ -110,5 +110,6 @@ the growth and sustainability of The Carpentries and is building local capacity 
 
 ### Bronze Member Organisations
 
+- Data Science Initiative, Atlanta University Center Consortium
 - George Washington University
 
