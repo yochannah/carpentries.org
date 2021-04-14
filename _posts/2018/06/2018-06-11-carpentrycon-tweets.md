@@ -3,7 +3,6 @@ layout: page
 title: "A summary of the tweets generated at CarpentryCon 2018, Dublin"
 authors: ["François Michonneau"]
 category: ["blog"]
-permalink: "/2018/06/carpentrycon-tweets"
 comments: true
 show_meta: true
 ---
