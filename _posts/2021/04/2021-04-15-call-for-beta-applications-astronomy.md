@@ -8,7 +8,7 @@ time: "09:00:00"
 tags: ["Curriculum", "Pilot Workshops"]
 ---
 
-The [Astronomy Data Carpentry curriculum](astronomy-lesson), “Foundations of Astronomical Data Science”  successfully held two alpha workshops in November 2020 and January 2021.
+The [Astronomy Data Carpentry curriculum](https://datacarpentry.org/astronomy-python/), “Foundations of Astronomical Data Science”  successfully held two alpha workshops in November 2020 and January 2021.
 
 We are seeking community members to host and teach [beta pilot workshops](https://cdh.carpentries.org/the-lesson-life-cycle.html#overview-and-definitions) with the revised [Foundations of Astronomical Data Science](https://datacarpentry.org/astronomy-python/) curriculum in June - August 2021. Continue reading for more information on the lessons, the alpha workshops, and to apply to host a beta pilot workshop.
 
@@ -32,8 +32,9 @@ We are extremely grateful to all the pilot alpha learners for being enthusiastic
 Special thanks is due to our workshop helpers Drs. Iva Momcheva (Space Telescope Science Institute), Meredith Rawls (University of Washington), Phil Rosenfield, Rodolfo Montez Jr, and Erin Becker for answering many questions, troubleshooting, and supporting learners throughout the two alpha pilots.
 
 ### What Went Well
-Learners unanimously agreed that the workshop taught skills that are currently important or will be important for astronomers to know in the next 5+ years and would recommend this workshop to a colleague at their level of programming experience.
-A majority of learners gained confidence in the following key skills from the lessons: writing database queries, performing database join operations, using Astropy Tables, Panda DataFrames, FITS and HDF5 files, and Astropy coordinates and units.
+- Learners unanimously agreed that the workshop taught skills that are currently important or will be important for astronomers to know in the next 5+ years and would recommend this workshop to a colleague at their level of programming experience.
+
+- A majority of learners gained confidence in the following key skills from the lessons: writing database queries, performing database join operations, using Astropy Tables, Panda DataFrames, FITS and HDF5 files, and Astropy coordinates and units.
 
 ![Pie chart showing all 33 learners agreed the workshop taught skills important for astronomers to know.]({{ site.urlimg }}/blog/2021/04/acdc_510years.png)
 
