@@ -14,6 +14,8 @@ The privilege to be part of this community for a fraction of that time and in th
 
 [In mid-March 2021, we had the opportunity to meet](https://researchsoft.github.io/community-ws/) with Research Software Engineers who are interested in or currently building Research Software communities. This blog post summarises our discussion and resources shared in the Community Sustainability session.
 
+[_Update: [video recordings of the workshop sessions are now available to watch on the SORSE website](https://sorse.github.io/programme/workshops/event-031/)._]
+
 ## Our Working Definition of Community Sustainability
 
 Our working definition of community sustainability for this session was _**the ability for a community, online or offline, to continue serving value to its incoming and existing members over time.**_ 
