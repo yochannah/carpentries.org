@@ -18,14 +18,14 @@ permalink: /workshops-curricula/
 
 
 ## <a id="dc-ecology"></a> Data Carpentry: Ecology
-This workshop covers data organisation with spreadsheets, data cleaning with OpenRefine, and some data analysis and plotting (with your
+This [workshop][dc-ecology] covers data organisation with spreadsheets, data cleaning with OpenRefine, and some data analysis and plotting (with your
 choice of R or Python). This workshop is intended for anyone working with tabular data (data with rows and columns, e.g. Excel). The data
 used for this workshop is an ecology dataset - counts of animal species that were observed in different locations over time, along with
 information about their sex, weight, etc. This data is easily understandable by non-ecologists and is considered our most general-purpose
 workshop.
 
 ## <a id="dc-genomics"></a>Data Carpentry: Genomics
-This workshop is intended for people working with high-throughput sequencing data and focuses on helping them upgrade their workflow from
+This [workshop][dc-genomics] is intended for people working with high-throughput sequencing data and focuses on helping them upgrade their workflow from
 relying on spreadsheets and GUI platforms to using command-line tools and remote computing power. This workshop is taught using Amazon
 Web Services. Learners will be introduced to core Bash commands and will learn to write custom Bash scripts to automate an analysis
 pipeline. They will be introduced to some commonly used command-line bioinformatics tools and file formats. This workshop does not cover
@@ -33,21 +33,21 @@ individual methods for working with RNA-seq, ChIP-seq, or other specialized data
 efficient and reproducible research with sequencing data.
 
 ## <a id="dc-geospatial"></a>Data Carpentry: Geospatial
-This workshop is intended for people working with geospatial data (i.e. data that can be plotted on a map). It starts out with a short
+This [workshop][dc-geospatial] is intended for people working with geospatial data (i.e. data that can be plotted on a map). It starts out with a short
 introduction to essential geospatial concepts and a shortened version of our core R lesson before progressing into working with
 specialized geospatial packages in R. This workshop gets learners to a fairly advanced stage of creating geospatial plots (i.e. maps of
 data distributions), but does not cover data organisation or cleaning. For a more general workshop covering these topics, please check
 out our [Ecology](#dc-ecology) and [Social Sciences](#dc-socialsci) curricula.
 
 ## <a id="dc-socialsci"></a>Data Carpentry: Social Sciences
-This workshop covers data organisation with spreadsheets, data cleaning with OpenRefine, and some data analysis and plotting with R. This
+This [workshop][dc-socialsci] covers data organisation with spreadsheets, data cleaning with OpenRefine, and some data analysis and plotting with R. This
 workshop is very similar to our [Ecology](#dc-ecology) workshop, but uses a dataset more relevant for social scientists, particularly those working with
 interview data. The data used for this workshop is a set of interview responses from interviews of farmers in two countries in eastern
 Africa about their agricultural practices and household resources. This workshop uses restricted-response data and does not cover
 qualitative data analysis or analysis of free-text responses.
 
 ## <a id="lc"></a>Library Carpentry
-This workshop is intended for people working in libraries and the information sciences. It introduces terms, phrases, and concepts in
+This [workshop][lc] is intended for people working in libraries and the information sciences. It introduces terms, phrases, and concepts in
 software development and data science, how to best work with data structures, and use regular expressions in searches. We introduce the
 Unix-style command line interface, and teach basic shell navigation, as well as the use of loops and pipes for linking shell commands.
 We also introduce grep for searching and subsetting data across files. Exercises cover the counting and mining of data. In addition, we
@@ -55,7 +55,7 @@ cover working with OpenRefine to transform and clean data, and the benefits of w
 control to track your work.
 
 ## <a id="swc-all"></a>Software Carpentry (All Workshops)
-All Software Carpentry workshops include an introduction to Bash shell scripting and version control with Git, along with your choice of
+All [Software Carpentry workshops][swc-all] include an introduction to Bash shell scripting and version control with Git, along with your choice of
 either R or Python. Learners will gain confidence in using the command-line to navigate their file structure and work with files on their
 computer, culminating in writing custom Bash scripts to automate repetitive analyses. They will learn the core concepts of version
 control and be able to implement a simple Git workflow for tracking their own work. Software Carpentry workshops also include your
@@ -108,3 +108,9 @@ If you do learn or teach from any lesson under community development,
 please take the time to provide feedback on your experience to the authors.
 
 [community-lessons]: https://carpentries.org/community-lessons/
+[dc-ecology]: https://datacarpentry.org/lessons/#ecology-workshop
+[dc-genomics]: https://datacarpentry.org/lessons/#genomics-workshop
+[dc-geospatial]: https://datacarpentry.org/lessons/#geospatial-curriculum
+[dc-socialsci]: https://datacarpentry.org/lessons/#social-science-curriculum
+[lc]: https://librarycarpentry.org/lessons/
+[swc-all]: https://software-carpentry.org/lessons/
