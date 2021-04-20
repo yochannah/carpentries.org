@@ -8,12 +8,18 @@ time: "09:00:00"
 tags: ["Accessibility", "Carpentries Lessons"]
 ---
 
-At the end of March, the Core Team had an "Acc-athon", or accessibility hackathon, led by Erin, where we worked together to add and improve alt text across Carpentries curricula. 
+At the end of March, the Core Team had an "Acc-athon", or accessibility hackathon, led by Erin, where we worked together to add and improve alt text across 
+Carpentries curricula. 
 
 ## What is alt text?
-Alternative text or alt text is an HTML element that describes the appearance and function of an image on a page. Alt text serves several functions. It appears in place of an image if the image is broken. It enhances the discoverability of content, because search engines can index alt text. But, perhaps most crucially, alt text makes web content more accessible. If someone uses a screen reader, when the screen reader gets to an image, it will dictate the alt text in place instead.  
+Alternative text or alt text is an HTML element that describes the appearance and function of an image on a page. Alt text serves several functions. It appears 
+in place of an image if the image is broken. It enhances the discoverability of content, because search engines can index alt text. But, perhaps most crucially, 
+alt text makes web content more accessible. If someone uses a screen reader, when the screen reader gets to an image, it will dictate the alt text in place 
+instead.  
 
-While alt text is vital for accessibility when communicating with images, it is often overlooked. Many people do not realize it exists and most of us do not know how to write alt text well. Images often omit alt text and, when they do include it, it is often not descriptive enough to be useful. It is common for alt text to include only the name of the image file.   
+While alt text is vital for accessibility when communicating with images, it is often overlooked. Many people do not realize it exists and most of us do not know
+how to write alt text well. Images often omit alt text and, when they do include it, it is often not descriptive enough to be useful. It is common for alt text 
+to include only the name of the image file.   
 
 ## Why is good alt text important?
 Including descriptive alt text alongside images makes content more accessible to people who:
@@ -22,7 +28,9 @@ Including descriptive alt text alongside images makes content more accessible to
 * have slow internet connections, and
 * everyone when images are broken or missing!  
 
-Prioritising descriptive alt text that adequately conveys the meaning of an image is an important way to make web content more inclusive. Inclusivity is a core value of The Carpentries, so we believe that ensuring all images in our lessons have descriptive alt text creates a more welcoming space for everyone and allows more people to learn from our lessons.
+Prioritising descriptive alt text that adequately conveys the meaning of an image is an important way to make web content more inclusive. Inclusivity is a [core 
+value of The Carpentries](https://carpentries.org/values/), so we believe that ensuring all images in our lessons have descriptive alt text creates a more welcoming space for everyone and allows 
+more people to learn from our lessons.
 
 ## How can we write good alt text?
 The guidelines the Core Team followed during our "Acc-athon" included several basic "Dos" and "Don'ts" to follow. These included:
@@ -45,11 +53,17 @@ Context matters! So, we were ready to get down to business with the contextualiz
 François created a spreadsheet with links to all of the images in Carpentries curricula that currently lacked alt text. We engaged in a 3 step process:
 - One person drafts alt-text and adds it to the spreadsheet
 - Another person is recruited to discuss and approve. We used Zoom breakout rooms to talk with each other as we finished drafting our text.
-- Once many alt text additions had been approved in the spreadsheet, we began adding them as pull requests to the curricula on GitHub. (This was mostly done in a second session.)
+- Once many alt text additions had been approved in the spreadsheet, we began adding them as pull requests to the curricula on GitHub. (This was mostly done 
+in a second session.)
 ## How did we do?
-In total, we submitted captions to 83 images over the course of our two acc-athon sessions. To date, 80 of these submissions have been reviewed and merged, thanks to the prompt attention of the volunteer Maintainers of these lessons! At the beginning of our efforts, 53% of the images in Carpentries lessons considered "stable" (as opposed to Alpha, Beta, etc.) lacked acceptable alt text, or a total of 323 images. We did not get them all, but by the end we were down to 40%, or 239 that need work. 
+In total, we submitted captions to 83 images over the course of our two acc-athon sessions. To date, 80 of these submissions have been reviewed and merged, 
+thanks to the prompt attention of the volunteer Maintainers of these lessons! At the beginning of our efforts, 53% of the images in Carpentries lessons 
+considered "stable" (as opposed to Alpha, Beta, etc.) lacked acceptable alt text, or a total of 323 images. We did not get them all, but by the end we were 
+down to 40%, or 239 that need work. 
 ## How can you help? 
-We still have many images to work on! Adding alt text is a quick way to make a big difference, and is an **ideal contribution for Instructor checkout!** Not feeling qualified? Rest assured: we were totally unqualified as well. Improving on alt text submitted by Core-Team members is *also* a great way to contribute. But keep in mind that *any* new submission is going to be better than nothing.
+We still have many images to work on! Adding alt text is a quick way to make a big difference, and is an **ideal contribution for Instructor checkout!** 
+Not feeling qualified? Rest assured: we were totally unqualified as well. Improving on alt text submitted by Core-Team members is *also* a great way to 
+contribute. But keep in mind that *any* new submission is going to be better than nothing.
 ### Technical Guidance
 Carpentries lesson pages are mostly formatted in Markdown, but occasionally you may come across some sections in HTML. 
 #### Markdown
