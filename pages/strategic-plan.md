@@ -137,5 +137,7 @@ To become the leading inclusive community teaching computing and data skills, we
   - serve on advisory boards of other organisations to provide guidance and advocacy in areas key to The Carpentries mission and vision and
   - respond to requests for comments in these areas.
 
+The Strategic Plan for the 2020-2025 period was approved by the Carpentries Executive Council on [January 3rd, 2020](https://github.com/carpentries/executive-council-info/issues/31). It will be updated each third year, with the next update scheduled to be approved at the end of 2022/beginning of 2023. No amendments will be made in the intermediate.
+
 <br>
 For all communications around The Carpentries Strategic Plan, [please contact The Carpentries Executive Council](mailto:carpentries-executive-council@carpentries.org).
