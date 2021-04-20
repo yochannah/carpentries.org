@@ -1,7 +1,7 @@
 ---
 layout: page
 authors: ["Robert Brunner", "Neal Davis", "Linden Lu", "Hao Xi"]
-teaser: "FIXME"
+teaser: "Highlighting this lesson from The Carpentries Incubator, teaching Python for Business."
 title: "Incubator Lesson Spotlight: Python for Business"
 date: 2021-04-20
 time: "09:00:00"
