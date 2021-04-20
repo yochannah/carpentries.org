@@ -23,7 +23,7 @@ run through this [etherpad](https://pad.carpentries.org/scf-mentoring).
 For more about committee roles, see the [Handbook](https://docs.carpentries.org/topic_folders/mentoring/mentoring-subcommittee-roles.html#discussion-session-coordinators). We also organise information about our work though this [GitHub repo](https://github.com/carpentries/mentoring).
 
 **_Our Leadership:_**    
-There are two co-Chairs. Toby Hodges is one of the current co-Chairs. The other co-Chair position is vacant.
+There are two co-Chairs. Annajiat Alim Rasel is one of the current co-Chairs. The other co-Chair is Maria Prokofieva.
 In addition, a Carpentries staff member is part of the committee as a staff liaison.
 
 **_Contacting the Committee:_**
@@ -32,10 +32,13 @@ In addition, a Carpentries staff member is part of the committee as a staff liai
 
 **_Current Committee Leadership_**
 
-* Sarah Stevens (Co-Chair)
-* Arindam Basu (Co-Chair)
-* Megbowon Kemi (Secretary)
-* Tobin Magle (Communications Chair)
-* Marco Chiapello (Mentoring Chair)
-* Martin Dreyer (Discussion Session Coordinator)
-* Kari L. Jordan (Staff liaison)
+* Annajiat Alim Rasel (Co-Chair)
+* Maria Prokofieva (Co-Chair)
+* Yared Abera (Communications Chair)
+* Samar Elsheikh (Mentoring Co-chair)
+* Katherine Simeon (Mentoring Co-chair)
+* Caroline Fadeke Ajilogba (Discussion Session Coordinator)
+* Rohit Goswami (Special Projects Chair)
+* Serah Rono (Staff liaison)
+
+The secretary role is a rotating role.
