@@ -91,15 +91,15 @@ The Carpentries workshops are offered on-demand, not on a set schedule. We ask f
 
 If your organization does not accept invoices in USD, please let us know. The Workshop Administration Team will connect you with the Business Team, who will work with you in coordinating invoicing. To keep workshops accessible, The Carpentries will take responsibility for standard fees that arise due to an organisation’s location outside of the US. We see this as a good business practice within a global community.
 
-## Self Organised Workshops
+## Self-Organised Workshops
 
 ### Is there a fee for running a Self-Organised workshop?
 
-Self-organised workshops are managed by the instructor/organiser. Since you will be taking care of all the logistics, there is no administrative fee due to The Carpentries for running a Self-Organised workshop. Visit our [website](https://carpentries.org/workshops/#workshop-organising) for more information.
+Self-Organised workshops are managed by the instructor/organiser. Since you will be taking care of all the logistics, there is no administrative fee due to The Carpentries for running a Self-Organised workshop. Visit our [website](https://carpentries.org/workshops/#workshop-organising) for more information.
 
-### How do I inform you I am running a self-organised workshop?
+### How do I inform you I am running a Self-Organised workshop?
 
-When planning a Self-Organised workshop, we ask that you notify us of your planned workshop. Once the workshop webpage is created, please share the link with us and notify us of your planned workshop via the [self-organised workshop form](https://amy.carpentries.org/forms/self-organised/). Once we receive the link to the workshop webpage, we will be able to [add your workshop to our website](https://carpentries.org/upcoming_workshops/), provide support (in the form of survey result links and AMI instances for Genomics workshops), and get Instructors and helpers credit for the workshops they teach.
+When planning a Self-Organised workshop, we ask that you notify us of your planned workshop. Once the workshop webpage is created, please share the link with us and notify us of your planned workshop via the [Self-Organised workshop form](https://amy.carpentries.org/forms/self-organised/). Once we receive the link to the workshop webpage, we will be able to [add your workshop to our website](https://carpentries.org/upcoming_workshops/), provide support (in the form of survey result links and AMI instances for Genomics workshops), and get Instructors and helpers credit for the workshops they teach.
 
 ### If I need help recruiting Instructors, Supporting Instructors, and/or Helpers for a Self-Organised workshop, what are my options?
 

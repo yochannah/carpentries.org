@@ -31,7 +31,7 @@ The program subcommittee has been very busy this Fall - putting together forms t
 
 ### Local
 
-Sarah Stevens’ involvement in the Task Force has been phenomenal! As co-chair of the local subcommittee, she and Christina Koch are working with a self-organised local team of the Carpentries members and enthusiasts in University of Wisconsin, and continue to provide context, recommendations and bookings that are meaningful for our planning. Thank you so much Christina and Sarah!
+Sarah Stevens’ involvement in the Task Force has been phenomenal! As co-chair of the local subcommittee, she and Christina Koch are working with a Self-Organised local team of the Carpentries members and enthusiasts in University of Wisconsin, and continue to provide context, recommendations and bookings that are meaningful for our planning. Thank you so much Christina and Sarah!
 
 ### Communications
 

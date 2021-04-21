@@ -1,7 +1,7 @@
 ---
 layout: page
 authors: ["Sher! Hurt"]
-teaser: "Here are a set of resources to help you recruit instructors for self-organised workshops"
+teaser: "Here are a set of resources to help you recruit instructors for Self-Organised workshops"
 title: "How to Recruit Instructors for Self-Organised Workshops"
 date: 2020-08-05
 time: "09:00:00"
@@ -16,7 +16,7 @@ If you are organising a Self-Organised workshop, there are resources for you to 
 - Any **local or group-specific** mailing list on [TopicBox](https://carpentries.topicbox.com/groups).
 - Any **local or group-specific** slack channel.
 
-We ask that you only use the resources listed above. Please **do not** use the following channels to recruit instructors or helpers for self-organised workshops:
+We ask that you only use the resources listed above. Please **do not** use the following channels to recruit instructors or helpers for Self-Organised workshops:
 - [Discuss list](https://carpentries.topicbox.com/groups/discuss) on TopicBox.
 - [General Channel](https://swcarpentry.slack.com/archives/C03LE48AY) on Slack.
 - [Instructors Channel](https://swcarpentry.slack.com/archives/C08BVNU00) on Slack.

@@ -27,7 +27,7 @@ Experiences from two recently held online Carpentries workshops were shared and 
 
 ### Sweden, Stockholm -- Mix and Match (SQL, OpenRefine, Python programming and plotting)
 
-[A self-organized workshop by KTH, Stockholm University, and Karolinska Institute](https://linajandren.github.io/2020-09-22-stockholmtrio-online/)
+[A Self-Organised workshop by KTH, Stockholm University, and Karolinska Institute](https://linajandren.github.io/2020-09-22-stockholmtrio-online/)
 
 - (Lina, instructor of this workshop) Felt it was hard to teach online, as she was unsure if it reached to the audience. But it went fine. 
 - (Radovan) (In his experiences from teaching online workshops in [CodeRefinery](coderefinery.org)) Jumping into breakout rooms to see how the participants did in exercise sessions helped a lot. Also being able to ask/answer questions asynchronously via HackMD hopefully lowers barrier to ask (does not delay others).

@@ -132,7 +132,7 @@ Kari Jordan · SherAaron Hurt · Talisha Sutton-Kennedy ·Maneesha Sane
 In Q2 and Q3, we have [redesigned our workshop request form!](https://carpentries.org/blog/2019/08/workshop-request-form-updates-teaser/). Our old form was unwieldy, providing a single point of input to serve at least three distinct needs:
 
 * workshop request
-* reporting self-organised workshop
+* reporting Self-Organised workshop
 * request for workshop consult and info 
 
 This meant users had to answer a number of questions that weren’t relevant to them, and also made form responses more difficult to process on the back-end. We’ve separated out these three use cases, reducing the number of questions users will see, while keeping everything centralized with [a single landing page](https://carpentries.org/request-workshop). As part of this project, we’ve also updated our [workshops page](https://carpentries.org/workshops/) and begun a pilot to track (and give our Instructors credit for!) non-standard workshops. We are very excited to have these changes go live, and are now moving on to other projects focused on improving our community’s experience around workshops.  Read more in this [blog post](https://carpentries.org/blog/2019/09/Workshop-request-forms-and-more/).

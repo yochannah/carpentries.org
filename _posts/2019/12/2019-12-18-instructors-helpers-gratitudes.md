@@ -12,7 +12,7 @@ We would like to express our deepest appreciation to instructors and helpers in 
 
 Throughout 2019, nearly 1000 Instructors and 1000 helpers have supported more than:
 
-* 350 Self-organised workshops
+* 350 Self-Organised workshops
 * 200 Centrally organised workshops
 * 13,000 Learners
  

@@ -459,7 +459,7 @@ Erin Becker · François Michonneau
 
 #### Image Analysis Curriculum Beta Release
 
-Data Carpentry’s Image Analysis curriculum has started piloting with Instructors who are not the original lesson authors. In Q1 2020, we hope to publish it on Zenodo, add it to our lesson page, and announce it to the community as a “BETA” lesson. Beta lessons are NOT available upon request (i.e. through the workshop request form), but are considered stable enough for experienced Instructors to teach in self-organised workshops.
+Data Carpentry’s Image Analysis curriculum has started piloting with Instructors who are not the original lesson authors. In Q1 2020, we hope to publish it on Zenodo, add it to our lesson page, and announce it to the community as a “BETA” lesson. Beta lessons are NOT available upon request (i.e. through the workshop request form), but are considered stable enough for experienced Instructors to teach in Self-Organised workshops.
 
 </details>
 
@@ -929,7 +929,7 @@ Maneesha Sane · SherAaron Hurt · Talisha Sutton-Kennedy
 In Q2 and Q3, we have [redesigned our workshop request form!](https://carpentries.org/blog/2019/08/workshop-request-form-updates-teaser/). Our old form was unwieldy, providing a single point of input to serve at least three distinct needs:
 
 * workshop request
-* reporting self-organised workshop
+* reporting Self-Organised workshop
 * request for workshop consult and info
 
 This meant users had to answer a number of questions that weren’t relevant to them, and also made form responses more difficult to process on the back-end. We’ve separated out these three use cases, reducing the number of questions users will see, while keeping everything centralised with [a single landing page](https://carpentries.org/request-workshop). As part of this project, we’ve also updated our [workshops page](https://carpentries.org/workshops/) and begun a pilot to track (and give our Instructors credit for!) non-standard workshops. We are very excited to have these changes go live, and are now moving on to other projects focused on improving our community’s experience around workshops.  Read more in this [blog post](https://carpentries.org/blog/2019/09/Workshop-request-forms-and-more/).
@@ -944,7 +944,7 @@ Maneesha Sane · SherAaron Hurt · Talisha Sutton-Kennedy
 
   In the first quarter of 2019, the Workshop Administration team, including the [Regional Coordinators](https://carpentries.org/regionalcoordinators/), developed a [list](https://docs.google.com/spreadsheets/d/1e62jof6IgIu6Y-2sz2jZmb_ayLJVOU_UxihEiKZOnSs/edit#gid=0) of all of the tasks that they would like to have automated. We feel strongly about the need for continued human interaction with the community, so our list also includes tasks that should not be automated. In addition to creating the list, we ranked our ideas in order of priority. We then worked with the Infrastructure team to review these two lists and decided on items to be automated in Q2.
 
-  In Q2, the Workshop Administration team will work with the Infrastructure, Membership and Community Development teams to update the Workshop Request Form. Currently, the [single form](https://amy.carpentries.org/forms/workshop/) is used to notify us of centrally-organised workshops, self-organised workshops and inquiries. To ensure that The Carpentries Staff captures the information needed and the Requester/Informer fills out only the necessary fields, we will recreate the one form and divide it into 3 forms:
+  In Q2, the Workshop Administration team will work with the Infrastructure, Membership and Community Development teams to update the Workshop Request Form. Currently, the [single form](https://amy.carpentries.org/forms/workshop/) is used to notify us of centrally-organised workshops, Self-Organised workshops and inquiries. To ensure that The Carpentries Staff captures the information needed and the Requester/Informer fills out only the necessary fields, we will recreate the one form and divide it into 3 forms:
       <ol style="list-style-type: lower-alpha;">
         <li>Workshop Request Form, </li>
         <li>Workshop Inquiry Form and </li>

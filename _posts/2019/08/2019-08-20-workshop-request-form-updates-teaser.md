@@ -8,7 +8,7 @@ time: "09:00:00"
 tags: ["Carpentries Workshops"]
 ---
 
-Have you had a desire to request a Carpentries workshop but weren’t sure where to go? Wanted to notify us of a self-organised workshop without having to complete an extensive form? Taught a self-organized workshop that was shorter or longer than the standard, or mixed and matched curriculum? Have you had questions regarding the logistics of a workshop and weren't sure where to go? 
+Have you had a desire to request a Carpentries workshop but weren’t sure where to go? Wanted to notify us of a Self-Organised workshop without having to complete an extensive form? Taught a Self-Organised workshop that was shorter or longer than the standard, or mixed and matched curriculum? Have you had questions regarding the logistics of a workshop and weren't sure where to go? 
 
 If you said *YES* to any of these questions, then continue reading! In the upcoming weeks we will be updating several processes as it relates to The Carpentries workshops. We want to be sure you are aware of the changes before they happen :) 
 
@@ -24,7 +24,7 @@ Does that mean you will have to keep track of 3 separate links? No, there will b
 
 # Tracking non-standard Workshops
 
-The Carpentries is excited to let our community members know that we will be piloting tracking non-standard workshops. Non-standard workshops can only be self-organized and includes any of the following:
+The Carpentries is excited to let our community members know that we will be piloting tracking non-standard workshops. Non-standard workshops can only be Self-Organised and includes any of the following:
 * taught only one day or over a longer period of time than two days
 * teaches individual modules 
 * Mix &  Match Curriculums - Combining modules from any lesson programs ([DC](https://datacarpentry.org/lessons/), [LC](https://librarycarpentry.org/lessons/), [SWC](https://software-carpentry.org/lessons/)) to teach one workshop

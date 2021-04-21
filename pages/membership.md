@@ -16,7 +16,7 @@ We offer several levels of Memberships, based on training activities expected an
 | ------|:------:|:------:|:------:|:------:|
 |Number of coordinated workshops|2|4|6|6|
 |Discount for additional <br>coordinated workshops|20%|33%|50%|50%|
-|Self-organised workshops**|no-charge|no-charge|no-charge|no-charge|
+|Self-Organised workshops**|no-charge|no-charge|no-charge|no-charge|
 |Number of instructors <br>trained***|0|6 online|15 with possibility <br>for in-person^<br>training event|15-100 - see below|
 |Train an in-house Instructor Trainer|No|No|No|Available|
 |Seat on Member Council|Yes|Yes|Yes|Yes|
@@ -62,12 +62,12 @@ generally pays for itself within two years.
 
 <strong>Workshops</strong>
 
-Each Platinum membership includes 6 centrally-organised workshops\* and unlimited self-organised workshops.\*\* 
+Each Platinum membership includes 6 centrally-organised workshops\* and unlimited Self-Organised workshops.\*\* 
 
 <strong>Discounts</strong>
 
 * Instructor Trainers - Organisations supporting [Instructor Trainers](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html) earn a $5,000 discount on membership per active Instructor Trainer. This discount does not apply to potential future Instructor Trainers who will take part in Instructor Trainer Training during the membership year.
-* Regional Coordinators - Organisations supporting a [Regional Coordinator](https://docs.carpentries.org/topic_folders/regional_communities/regional_coordinators.html) earn a $10,000 discount on membership. The typical workload for a Regional Coordinator is 35 centrally-organised workshops per year (not including self-organised workshops). If workshop demand rises above that level, we may bring on a second Regional Coordinator in your region.
+* Regional Coordinators - Organisations supporting a [Regional Coordinator](https://docs.carpentries.org/topic_folders/regional_communities/regional_coordinators.html) earn a $10,000 discount on membership. The typical workload for a Regional Coordinator is 35 centrally-organised workshops per year (not including Self-Organised workshops). If workshop demand rises above that level, we may bring on a second Regional Coordinator in your region.
 * Community Leaders - In limited cases, individuals carrying out significant community leadership roles may earn a $10,000 discount on membership for their institution. 
 
 Discounts listed above are limited and available only in cases where a potential member organisation's 
@@ -100,7 +100,7 @@ Read more about how our workshops are run [here](/workshops/).
 
 \* For Coordinated workshops, we will find instructors for the workshop, set up and handle registration, support instructor logistics and coordinate and share assessment results with the member organisation. A designated contact approves coordinated workshop requests for that organisation. Instructor travel expenses are the responsibility of the member and are not covered in membership fees.
 
-\*\* For Self-organised workshops, the organisation is responsible for finding local Instructors and handling the logistics of workshop coordination, including registration and registering the workshop with Software, Data, and Library Carpentry. As long at least one Instructor is Carpentries-certified, and either the Software, Data, or Library Carpentry content is fully taught, the workshop can be labeled a Carpentries workshop.
+\*\* For Self-Organised workshops, the organisation is responsible for finding local Instructors and handling the logistics of workshop coordination, including registration and registering the workshop with Software, Data, and Library Carpentry. As long at least one Instructor is Carpentries-certified, and either the Software, Data, or Library Carpentry content is fully taught, the workshop can be labeled a Carpentries workshop.
 
 \*\*\* Any Instructor training includes the instructor mentorship and support of the Instructors through the Instructor development program.
 
