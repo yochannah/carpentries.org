@@ -64,6 +64,9 @@ down to 40%, or 239 that need work.
 We still have many images to work on! Adding alt text is a quick way to make a big difference, and is an **ideal contribution for Instructor checkout!** 
 Not feeling qualified? Rest assured: we were totally unqualified as well. Improving on alt text submitted by Core-Team members is *also* a great way to 
 contribute. But keep in mind that *any* new submission is going to be better than nothing.
+[Remaining images are detailed in this spreadsheet](https://docs.google.com/spreadsheets/d/11s7rzIMSlhAkNl8BKeWffnHirP7N2_E4SXFRPrArUqY/edit?usp=sharing). 
+When you start work on a pull request, please write "yes" in the column labeled "Claimed?" for the images you plan
+to address in your PR. When your PR is submitted, please add a link to your PR in each of the rows to which it applies in the column labeled "PR link."
 ### Technical Guidance
 Carpentries lesson pages are mostly formatted in Markdown, but occasionally you may come across some sections in HTML. 
 #### Markdown
