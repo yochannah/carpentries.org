@@ -32,7 +32,7 @@ If you answered yes to one or more of those questions, then consider applying fo
 Do you currently have the time to:
 
 - Prepare for and attend a total of eight weekly meetings, starting in September, for Trainer certification?
-- Prepare, teach, and provide feedback on at least two Instructor Training workshops per year? (these will be centrally organised)
+- Prepare, teach, and provide feedback on at least two Instructor Training workshops per year? (these will be Centrally-Organised)
 - Host at least four teaching demonstration sessions within a year?
 - Attend meetings of, and/or actively participate with, the Trainer community on our Slack channel or through other channels?
 

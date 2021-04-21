@@ -16,8 +16,8 @@ If you said *YES* to any of these questions, then continue reading! In the upcom
 
 The Carpentries understand that completing forms requires a lot of time. We want to ensure you are providing us with only the information needed. With this in mind, we will be updating our [Workshop Request Form](https://amy.carpentries.org/forms/workshop/) and separating into 3 different forms: 
 
-*  _Workshop Request Form_ - Use when you are ready to request a centrally organised workshop and you have all of the information needed (date, location, curriculum, etc.) to begin the process.
-*  _Workshop Inquiry Form_ - Use when you want to host a centrally organised workshop but do not have all of the information or would like to speak to someone to discuss options.
+*  _Workshop Request Form_ - Use when you are ready to request a Centrally-Organised workshop and you have all of the information needed (date, location, curriculum, etc.) to begin the process.
+*  _Workshop Inquiry Form_ - Use when you want to host a Centrally-Organised workshop but do not have all of the information or would like to speak to someone to discuss options.
 * _Self-Organised Notification Form_ - For intructors to use when you have created the workshop website page using our [template](https://github.com/carpentries/workshop-template), would like to get survey links and have the workshop listed on [The Carpentries website](https://carpentries.org/).
 
 Does that mean you will have to keep track of 3 separate links? No, there will be a landing page that will direct you to the proper form. We have heard the comments and concerns about having to complete a long form when the required questions are not applicable to you. So these should reduce the amount of time spent completing a form, allowing more time to plan! 

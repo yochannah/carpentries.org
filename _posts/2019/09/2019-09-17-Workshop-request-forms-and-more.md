@@ -14,8 +14,8 @@ I am sooooooooooooooooo excited! I get to be the first one to tell you that the 
 
 With the new changes, workshop organisers no longer have to complete long forms with fields that are not applicable to them. We have made it so that you provide us with only the information needed to process your workshop. We have separated the [Workshop Request Forms](https://amy.carpentries.org/forms/workshop/) based on the various kinds of workshops that you organise: 
 
-*  _Workshop Request Form_ - Use when you are ready to request a centrally organised workshop and you have all of the information we need to begin the process (date, location, curriculum, etc.)
-*  _Workshop Inquiry Form_ - Use when you  want to host a centrally organised workshop, but you do not have all of the  information we need, or you would like to speak with someone to discuss your options
+*  _Workshop Request Form_ - Use when you are ready to request a Centrally-Organised workshop and you have all of the information we need to begin the process (date, location, curriculum, etc.)
+*  _Workshop Inquiry Form_ - Use when you  want to host a Centrally-Organised workshop, but you do not have all of the  information we need, or you would like to speak with someone to discuss your options
 * _Self-Organised Notification Form_ - Self-Organised Notification Form - For Certified Instructors and Member Organisations to use to register a Self-Organised workshop. Submit your workshop website from our [template](https://github.com/carpentries/workshop-template) to share the information about your workshop and get survey links.
 
 You now only need to bookmark [one link](https://amy.carpentries.org/forms/workshop/) that will direct you to the form that matches your request. 

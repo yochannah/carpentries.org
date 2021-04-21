@@ -128,7 +128,7 @@ Where you do have choices with regard to these platforms, our advice is as follo
 The Carpentries recommends, in order:
 
 1. Any service that your institution recommends and provides support for and has the minimum and recommended features listed below.
-1. Zoom. This is the platform used by The Carpentries. For centrally organised workshops, a Zoom room can be scheduled with The Carpentries. Depending on demand, schedules may be constrained to 2 consecutive days. Self-Organised workshops without institutional access to Zoom would need to purchase a pro account to run a workshop. We are looking into scholarship options and will update if these become available. For more Zoom tips, see [The Carpentries Handbook](https://docs.carpentries.org/topic_folders/communications/tools/zoom_rooms.html#zoom-manual).
+1. Zoom. This is the platform used by The Carpentries. For Centrally-Organised workshops, a Zoom room can be scheduled with The Carpentries. Depending on demand, schedules may be constrained to 2 consecutive days. Self-Organised workshops without institutional access to Zoom would need to purchase a pro account to run a workshop. We are looking into scholarship options and will update if these become available. For more Zoom tips, see [The Carpentries Handbook](https://docs.carpentries.org/topic_folders/communications/tools/zoom_rooms.html#zoom-manual).
 1. Google Hangouts or Skype, depending on local access, permissions, and expertise.
 
 **Your conferencing platform needs to have:**

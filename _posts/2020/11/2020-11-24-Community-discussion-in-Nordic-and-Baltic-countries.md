@@ -35,7 +35,7 @@ Experiences from two recently held online Carpentries workshops were shared and 
 
 ### Norway, Bodø -- DC social science
 
-[A centrally-organized workshop at Bodø University](https://mchiapello.github.io/2020-09-16-nord-online/)
+[A Centrally-Organised workshop at Bodø University](https://mchiapello.github.io/2020-09-16-nord-online/)
 
 - (Lars, instructor of this workshop) Breakout rooms helped as it enhanced dialog. One of the key issues in the Carpentries. Remote control function worked well. The other instructor used this function to help a learner in the main room. It took some time to build trust.
 - (Anne) "Taking over learner's keyboard on an in-person workshop should never happen", the Carpentries says! But this concept could be too rigid. This should be given back as feedback to the Carpentries.

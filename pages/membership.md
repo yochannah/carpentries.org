@@ -62,12 +62,12 @@ generally pays for itself within two years.
 
 <strong>Workshops</strong>
 
-Each Platinum membership includes 6 centrally-organised workshops\* and unlimited Self-Organised workshops.\*\* 
+Each Platinum membership includes 6 Centrally-Organised workshops\* and unlimited Self-Organised workshops.\*\* 
 
 <strong>Discounts</strong>
 
 * Instructor Trainers - Organisations supporting [Instructor Trainers](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html) earn a $5,000 discount on membership per active Instructor Trainer. This discount does not apply to potential future Instructor Trainers who will take part in Instructor Trainer Training during the membership year.
-* Regional Coordinators - Organisations supporting a [Regional Coordinator](https://docs.carpentries.org/topic_folders/regional_communities/regional_coordinators.html) earn a $10,000 discount on membership. The typical workload for a Regional Coordinator is 35 centrally-organised workshops per year (not including Self-Organised workshops). If workshop demand rises above that level, we may bring on a second Regional Coordinator in your region.
+* Regional Coordinators - Organisations supporting a [Regional Coordinator](https://docs.carpentries.org/topic_folders/regional_communities/regional_coordinators.html) earn a $10,000 discount on membership. The typical workload for a Regional Coordinator is 35 Centrally-Organised workshops per year (not including Self-Organised workshops). If workshop demand rises above that level, we may bring on a second Regional Coordinator in your region.
 * Community Leaders - In limited cases, individuals carrying out significant community leadership roles may earn a $10,000 discount on membership for their institution. 
 
 Discounts listed above are limited and available only in cases where a potential member organisation's 
@@ -84,7 +84,7 @@ They plan to train a total of 50 Instructors in-house. The
 total cost for University A's membership is ( $500 x 30 ) + ( $450 x 20 ) - ( $5,000 x 2) = $14,000 USD.
 
 University B supports a Regional Coordinator and wants to train 20 Instructors. Because University B does not support any Instructor Trainers, 
-they will use The Carpentries centrally-organised Instructor Training. The total cost for University B's membership is ( $1000 x 15 ) + ( $900 x 5 ) -
+they will use The Carpentries Centrally-Organised Instructor Training. The total cost for University B's membership is ( $1000 x 15 ) + ( $900 x 5 ) -
 $10,000 = $9,500 USD. 
 
 [Please reach out to us](mailto:membership@carpentries.org) for assistance in designing a Platinum membership that best serves your team's needs. 

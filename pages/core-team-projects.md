@@ -503,7 +503,7 @@ Thanks to the more than 1100 of you who contributed, twenty-seven Data Carpentry
 
 #### Image Analysis Curriculum
 
-With [funding from the Alfred P. Sloan Foundation](https://datacarpentry.org/blog/2018/02/curriculum-dev-scaling) and the NSF, Data Carpentry has been collaborating with Dr. Tessa Durham Brooks and Dr. Mark Meysenburg at Doane College, Nebraska, USA to develop new lessons in image processing. Drs. Durham Brooks and Meysenburg have piloted this workshop at Doane and are now working with Constantin Pape and Dominik Kutra at EMBL, Germany, to translate the materials to a different Python library, based on pilot feedback. This lesson is considered to be in alpha stage and is cannot be requested as a centrally-organised Data Carpentry workshop, but community members are encouraged to work through the material and provide [feedback on its GitHub repository](https://datacarpentry.org/image-processing/). We anticipate a beta-release and pilot workshops at multiple institutions in early 2020.
+With [funding from the Alfred P. Sloan Foundation](https://datacarpentry.org/blog/2018/02/curriculum-dev-scaling) and the NSF, Data Carpentry has been collaborating with Dr. Tessa Durham Brooks and Dr. Mark Meysenburg at Doane College, Nebraska, USA to develop new lessons in image processing. Drs. Durham Brooks and Meysenburg have piloted this workshop at Doane and are now working with Constantin Pape and Dominik Kutra at EMBL, Germany, to translate the materials to a different Python library, based on pilot feedback. This lesson is considered to be in alpha stage and is cannot be requested as a Centrally-Organised Data Carpentry workshop, but community members are encouraged to work through the material and provide [feedback on its GitHub repository](https://datacarpentry.org/image-processing/). We anticipate a beta-release and pilot workshops at multiple institutions in early 2020.
 
 #### Economics Curriculum
 
@@ -691,7 +691,7 @@ In Q2 2020, The Instructor Training team worked on the following items:
 - Collaborating with The Carpentries Online Workshops Task Force to prepare the initial [Recommendations for Teaching Carpentries Workshops Online](https://carpentries.org/online-workshop-recommendations/)
 - Developing and implementing assessment strategies to evaluate and improve the Recommendations
 - Drafting a pilot 3-hour workshop for certified Instructors to support preparation to teach online
-- Collaborating with the Workshop Administration Team to add a Supporting Instructor role for centrally organised workshops to ease the transition to online teaching for inexperienced Carpentries Instructors
+- Collaborating with the Workshop Administration Team to add a Supporting Instructor role for Centrally-Organised workshops to ease the transition to online teaching for inexperienced Carpentries Instructors
 
 </details>
 
@@ -886,7 +886,7 @@ In Q2 2020, the Workshop Administration team worked on the following items to su
 - Developed an FAQ page to help people navigate the differences between the types of workshops offered
 - Created a Self-Organised resource section in the HandBook to help coordinate Self-Organised workshops
 - Developed the Supporting Instructor Role to offer more opportunities for instructors to teach
-- Updated the Centrally Organised Workshop to include Supporting Instructor
+- Updated the Centrally-Organised Workshop to include Supporting Instructor
 - Updated all email templates to include online verbiage
 
 </details>
@@ -944,7 +944,7 @@ Maneesha Sane · SherAaron Hurt · Talisha Sutton-Kennedy
 
   In the first quarter of 2019, the Workshop Administration team, including the [Regional Coordinators](https://carpentries.org/regionalcoordinators/), developed a [list](https://docs.google.com/spreadsheets/d/1e62jof6IgIu6Y-2sz2jZmb_ayLJVOU_UxihEiKZOnSs/edit#gid=0) of all of the tasks that they would like to have automated. We feel strongly about the need for continued human interaction with the community, so our list also includes tasks that should not be automated. In addition to creating the list, we ranked our ideas in order of priority. We then worked with the Infrastructure team to review these two lists and decided on items to be automated in Q2.
 
-  In Q2, the Workshop Administration team will work with the Infrastructure, Membership and Community Development teams to update the Workshop Request Form. Currently, the [single form](https://amy.carpentries.org/forms/workshop/) is used to notify us of centrally-organised workshops, Self-Organised workshops and inquiries. To ensure that The Carpentries Staff captures the information needed and the Requester/Informer fills out only the necessary fields, we will recreate the one form and divide it into 3 forms:
+  In Q2, the Workshop Administration team will work with the Infrastructure, Membership and Community Development teams to update the Workshop Request Form. Currently, the [single form](https://amy.carpentries.org/forms/workshop/) is used to notify us of Centrally-Organised workshops, Self-Organised workshops and inquiries. To ensure that The Carpentries Staff captures the information needed and the Requester/Informer fills out only the necessary fields, we will recreate the one form and divide it into 3 forms:
       <ol style="list-style-type: lower-alpha;">
         <li>Workshop Request Form, </li>
         <li>Workshop Inquiry Form and </li>

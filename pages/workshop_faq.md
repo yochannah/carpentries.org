@@ -51,13 +51,13 @@ If you are planning a workshop, please notify the Workshop Administration Team o
 
 It is important that we know about workshops being publicised because people often contact us to report that they will be unable to attend a workshop or to ask questions and if we do not know about planned workshops, we can not provide support or share information with Instructors.
 
-If you are teaching a portion of The Carpentries curriculum or if the workshop does not align with the [Core Curriculum](https://carpentries.org/workshops/#workshop-core) we ask that you still [register](https://amy.carpentries.org/forms/self-organised/) your workshop and select the “Mix & Match” option for the question “Which Carpentries workshop are you teaching?”. *This option is only available for Self-Organised workshops. Centrally-organised workshops are required to follow the Core Curricula.*
+If you are teaching a portion of The Carpentries curriculum or if the workshop does not align with the [Core Curriculum](https://carpentries.org/workshops/#workshop-core) we ask that you still [register](https://amy.carpentries.org/forms/self-organised/) your workshop and select the “Mix & Match” option for the question “Which Carpentries workshop are you teaching?”. *This option is only available for Self-Organised workshops. Centrally-Organised workshops are required to follow the Core Curricula.*
 
 ### When we teach our workshops, how closely do we have to stick to the Carpentries lesson plans?
 
 To be considered an official Carpentries workshop, you must follow the [Core Curricula](https://carpentries.org/workshops/#workshop-core). If you teach something other than what is listed on our webpage, we ask that you acknowledge that your workshop is "inspired by SWC/DC/LC" or "based on SWC/DC/LC". You can still [register](https://amy.carpentries.org/forms/self-organised/) your workshop and select the workshop you are teaching is “Mix & Match”, so that we can show others how you use The Carpentries resources.
 
-## Centrally Organised Workshops
+## Centrally-Organised Workshops
 
 ### How much does a workshop cost?
 
