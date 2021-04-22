@@ -58,3 +58,4 @@ These awards were given under the aegis of the Software Carpentry Foundation and
 
 * [2016](https://software-carpentry.org/blog/2016/12/community-service-awards.html)
 * [2017](https://software-carpentry.org/blog/2017/12/csa-awarded.html)
+* [2018](https://carpentries.org/blog/2018/12/community-service-award/)
