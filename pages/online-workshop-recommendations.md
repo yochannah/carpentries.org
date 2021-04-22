@@ -128,7 +128,7 @@ Where you do have choices with regard to these platforms, our advice is as follo
 The Carpentries recommends, in order:
 
 1. Any service that your institution recommends and provides support for and has the minimum and recommended features listed below.
-1. Zoom. This is the platform used by The Carpentries. For centrally organised workshops, a Zoom room can be scheduled with The Carpentries. Depending on demand, schedules may be constrained to 2 consecutive days. Self-organised workshops without institutional access to Zoom would need to purchase a pro account to run a workshop. We are looking into scholarship options and will update if these become available. For more Zoom tips, see [The Carpentries Handbook](https://docs.carpentries.org/topic_folders/communications/tools/zoom_rooms.html#zoom-manual).
+1. Zoom. This is the platform used by The Carpentries. For Centrally-Organised workshops, a Zoom room can be scheduled with The Carpentries. Depending on demand, schedules may be constrained to 2 consecutive days. Self-Organised workshops without institutional access to Zoom would need to purchase a pro account to run a workshop. We are looking into scholarship options and will update if these become available. For more Zoom tips, see [The Carpentries Handbook](https://docs.carpentries.org/topic_folders/communications/tools/zoom_rooms.html#zoom-manual).
 1. Google Hangouts or Skype, depending on local access, permissions, and expertise.
 
 **Your conferencing platform needs to have:**
@@ -239,7 +239,7 @@ For more advice on holding effective meetings, see [this section](http://teachto
 After a workshop, everyone will be tired and (hopefully) basking in the success of a job well done! Often, we have intentions to follow-up on things after a workshop, but the demands of our day-to-day work often step in to get in the way. If you would like anything to happen after a workshop, planning ahead to schedule and delegate is the best way to make sure these things get done! 
 
 ### How to register your online workshop
-Please be sure to [register](https://amy.carpentries.org/forms/self-organised/) your self-organised workshop, as you begin planning your Carpentries online event. It is important that you use a unique workshop id so that we can add your workshop to our database and provide the proper communications with you. 
+Please be sure to [register](https://amy.carpentries.org/forms/self-organised/) your Self-Organised workshop, as you begin planning your Carpentries online event. It is important that you use a unique workshop id so that we can add your workshop to our database and provide the proper communications with you. 
 
 When creating your workshop website, please use the following naming convention: **YYYY-MM-DD-sitename-online**
 

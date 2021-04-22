@@ -10,7 +10,7 @@ tags: ["Online Workshops", "Instructor Development"]
 
 As The Carpentries Core Team continues to transition to offering online workshops, the Workshop Administration Team would like to share additional information pertaining to Instructors to help you prepare for your workshops. Information shared in this blog post is a supplement to the [Recommendations for Teaching Carpentries Workshops Online](https://carpentries.org/online-workshop-recommendations/). Most importantly, we want to update Instructors on a few logistical workflows we have changed to support online workshops.
 
-## Registering your self-organised online workshop
+## Registering your Self-Organised online workshop
 
 Please be sure to [register your Self-Organised workshop](https://amy.carpentries.org/forms/self-organised/), as you begin planning your Carpentries online event. It is important that you use a unique workshop ID so that we can add your workshop to our database and provide the proper communications to you.
 

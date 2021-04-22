@@ -27,7 +27,7 @@ Experiences from two recently held online Carpentries workshops were shared and 
 
 ### Sweden, Stockholm -- Mix and Match (SQL, OpenRefine, Python programming and plotting)
 
-[A self-organized workshop by KTH, Stockholm University, and Karolinska Institute](https://linajandren.github.io/2020-09-22-stockholmtrio-online/)
+[A Self-Organised workshop by KTH, Stockholm University, and Karolinska Institute](https://linajandren.github.io/2020-09-22-stockholmtrio-online/)
 
 - (Lina, instructor of this workshop) Felt it was hard to teach online, as she was unsure if it reached to the audience. But it went fine. 
 - (Radovan) (In his experiences from teaching online workshops in [CodeRefinery](coderefinery.org)) Jumping into breakout rooms to see how the participants did in exercise sessions helped a lot. Also being able to ask/answer questions asynchronously via HackMD hopefully lowers barrier to ask (does not delay others).
@@ -35,7 +35,7 @@ Experiences from two recently held online Carpentries workshops were shared and 
 
 ### Norway, Bodø -- DC social science
 
-[A centrally-organized workshop at Bodø University](https://mchiapello.github.io/2020-09-16-nord-online/)
+[A Centrally-Organised workshop at Bodø University](https://mchiapello.github.io/2020-09-16-nord-online/)
 
 - (Lars, instructor of this workshop) Breakout rooms helped as it enhanced dialog. One of the key issues in the Carpentries. Remote control function worked well. The other instructor used this function to help a learner in the main room. It took some time to build trust.
 - (Anne) "Taking over learner's keyboard on an in-person workshop should never happen", the Carpentries says! But this concept could be too rigid. This should be given back as feedback to the Carpentries.

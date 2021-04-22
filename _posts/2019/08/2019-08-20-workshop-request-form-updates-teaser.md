@@ -8,7 +8,7 @@ time: "09:00:00"
 tags: ["Carpentries Workshops"]
 ---
 
-Have you had a desire to request a Carpentries workshop but weren’t sure where to go? Wanted to notify us of a self-organised workshop without having to complete an extensive form? Taught a self-organized workshop that was shorter or longer than the standard, or mixed and matched curriculum? Have you had questions regarding the logistics of a workshop and weren't sure where to go? 
+Have you had a desire to request a Carpentries workshop but weren’t sure where to go? Wanted to notify us of a Self-Organised workshop without having to complete an extensive form? Taught a Self-Organised workshop that was shorter or longer than the standard, or mixed and matched curriculum? Have you had questions regarding the logistics of a workshop and weren't sure where to go? 
 
 If you said *YES* to any of these questions, then continue reading! In the upcoming weeks we will be updating several processes as it relates to The Carpentries workshops. We want to be sure you are aware of the changes before they happen :) 
 
@@ -16,15 +16,15 @@ If you said *YES* to any of these questions, then continue reading! In the upcom
 
 The Carpentries understand that completing forms requires a lot of time. We want to ensure you are providing us with only the information needed. With this in mind, we will be updating our [Workshop Request Form](https://amy.carpentries.org/forms/workshop/) and separating into 3 different forms: 
 
-*  _Workshop Request Form_ - Use when you are ready to request a centrally organised workshop and you have all of the information needed (date, location, curriculum, etc.) to begin the process.
-*  _Workshop Inquiry Form_ - Use when you want to host a centrally organised workshop but do not have all of the information or would like to speak to someone to discuss options.
+*  _Workshop Request Form_ - Use when you are ready to request a Centrally-Organised workshop and you have all of the information needed (date, location, curriculum, etc.) to begin the process.
+*  _Workshop Inquiry Form_ - Use when you want to host a Centrally-Organised workshop but do not have all of the information or would like to speak to someone to discuss options.
 * _Self-Organised Notification Form_ - For intructors to use when you have created the workshop website page using our [template](https://github.com/carpentries/workshop-template), would like to get survey links and have the workshop listed on [The Carpentries website](https://carpentries.org/).
 
 Does that mean you will have to keep track of 3 separate links? No, there will be a landing page that will direct you to the proper form. We have heard the comments and concerns about having to complete a long form when the required questions are not applicable to you. So these should reduce the amount of time spent completing a form, allowing more time to plan! 
 
 # Tracking non-standard Workshops
 
-The Carpentries is excited to let our community members know that we will be piloting tracking non-standard workshops. Non-standard workshops can only be self-organized and includes any of the following:
+The Carpentries is excited to let our community members know that we will be piloting tracking non-standard workshops. Non-standard workshops can only be Self-Organised and includes any of the following:
 * taught only one day or over a longer period of time than two days
 * teaches individual modules 
 * Mix &  Match Curriculums - Combining modules from any lesson programs ([DC](https://datacarpentry.org/lessons/), [LC](https://librarycarpentry.org/lessons/), [SWC](https://software-carpentry.org/lessons/)) to teach one workshop
