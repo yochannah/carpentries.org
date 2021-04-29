@@ -65,6 +65,7 @@ encountered, and lessons learned through this work.
 ## CarpentryCon Reports
 
 - [CarpentryCon 2018 Post-Conference Report](https://carpentries.org/blog/2018/09/carpentrycon-call/)
+- [CarpentryCon 2020 Post-Conference Report](/files/reports/2020CarpentryCon.pdf)
 
 ## Code of Conduct Reports
 
