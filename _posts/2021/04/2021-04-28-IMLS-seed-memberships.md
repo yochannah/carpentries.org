@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Al Obayuwana", "Erin Becker"]
+authors: ["Al Obayuwana", "Catherine Nancarrow"]
 teaser: "Read on to learn about Library Carpentry's expansion, funded by the Institute of Museum and Library Services"
 title: "Library Carpentry’s Journey: Seeding the Future"
 date: 2021-04-28
