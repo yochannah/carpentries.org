@@ -9,7 +9,8 @@ excerpt: testimonials about The Carpentries from our community
     Ethan White
 </h3>
 
-> <h4 style="color:#071159">"Software Carpentry training has had a tremendous influence on the productivity of the students in my lab and several other labs on campus...
+> "Software Carpentry training has had a tremendous influence on the productivity of the students in my lab and several other labs on campus...
+{: .testimonial}
 
 <details>
 <summary>
