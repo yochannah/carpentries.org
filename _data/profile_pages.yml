@@ -25,6 +25,13 @@
   website_link: https://carpentries.org/community/#instructor-development
   handbook_link: https://docs.carpentries.org/topic_folders/instructor_development/index.html
 
+- name: Mentees  
+  name_singular: Mentee
+  starts_with_vowel: False
+  description: Whether you are a new Instructor preparing to teach your first workshop, a seasoned Instructor hoping to launch workshops in a new community, or an Instructor excited about getting involved with lesson development and maintenance, mentees work with Mentors to gain the confidence, technical skills, and teaching skills you need to reach your goal.
+  website_link: https://carpentries.org/community/#instructor-development
+  handbook_link: https://docs.carpentries.org/topic_folders/instructor_development/index.html  
+
 - name: Maintainers
   name_singular: Maintainer
   starts_with_vowel: False
