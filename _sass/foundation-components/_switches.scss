@@ -67,7 +67,7 @@ $switch-active-color: $primary-color !default;
     @include single-transition(left, $transition-speed, $transition-ease);
   }
 
-  // So that we don't need to recreate the form with any JS, we use the
+  // So that we do not need to recreate the form with any JS, we use the
   // existing checkbox or radio button, but we cleverly position and hide it.
   input {
     opacity: 0;

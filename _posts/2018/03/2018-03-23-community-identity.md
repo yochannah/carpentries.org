@@ -18,7 +18,7 @@ But we cannot do these things alone!  We're looking to the community to help us 
 
 We'd like to now take action to make our first goal happen.  Moving forward, over the next 6-8 weeks, we'd like to invite all members of the Software Carpentry community to join us in thinking about our identity and what we are hoping to accomplish as Software Carpentry lesson developers, maintainers, instructors, workshop organisers, learners, and champions.  Whether you're a newly trained instructor, have commented on the lessons many times, or are just organising your first workshop -- we want to hear from you; all are welcome.
 
-Ideas, suggestions and concerns from the community will be gathered in two ways. The first way is to talk with us "in person" by joining one of the hour-long calls that we'll be scheduling.  If you don't have the time for a call, we will also have a form with suggested questions to fill out.  
+Ideas, suggestions and concerns from the community will be gathered in two ways. The first way is to talk with us "in person" by joining one of the hour-long calls that we'll be scheduling.  If you do not have the time for a call, we will also have a form with suggested questions to fill out.  
 
 We know that this is a bit of an ask -- everyone is busy (who wants another meeting or form to fill out?).  However, based on my past experience in workshops, trainings, and the mentoring-hosted discussion sessions, I *always* leave a conversation with fellow "carpenters" with new ideas, new connections and a lot of hope about the world.  This is an invitation to give that to yourself by joining the conversation, with the added bonus of helping us craft a summary of this community's mission and values that truly reflects its members.
 

@@ -113,7 +113,7 @@ There are lots of way to contribute:
     you can send us a pull request.
     If you're not,
     please file an issue that includes the key of the term and the change you want to make.
-    (Please don't include multiple changes in a single issue:
+    (Please do not include multiple changes in a single issue:
     they're a lot easier to manage if they aren't bundled together.)
 
 2.  Work on the supporting tools in the [glosario](https://carpentries.github.io/glosario/),
@@ -127,7 +127,7 @@ There are lots of way to contribute:
 -   **Why not just use Wikipedia?**
     We expect that many glossary definitions will link to Wikipedia,
     but its articles are explanations, not definitions.
-    (This is why we don't support diagrams in glossary entries.)
+    (This is why we do not support diagrams in glossary entries.)
 
 -   **YAML is hard for people to edit---why not use something else for the glossary file?**
     Because other formats are just as hard to edit (e.g., JSON)

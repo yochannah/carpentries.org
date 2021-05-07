@@ -82,7 +82,7 @@ $close-reveal-modal-class: "close-reveal-modal" !default;
       min-height:100vh;
     }
 
-    // Make sure rows don't have a min-width on them
+    // Make sure rows do not have a min-width on them
     .column, .columns { min-width: 0; }
 
     // Get rid of margin from first and last element inside modal

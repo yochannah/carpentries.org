@@ -37,7 +37,7 @@ excerpt: testimonials about The Carpentries from our community
     undocumented, and completely lacking in version control is alarming. New
     projects are starting to incorporate better practices, but over and over
     again, students and new staff members show up ready to implement advanced
-    numerical methods but don't have a handle on version control. I've found that
+    numerical methods but do not have a handle on version control. I've found that
     the time it takes to train new researchers to adopt essential software
     practices is vastly reduced by the workshops and online resources provided by
     Software Carpentry. By directing colleagues to the online lectures instead of
@@ -63,7 +63,7 @@ excerpt: testimonials about The Carpentries from our community
     Software Carpentry. Long, slow, frustrating experience left me well prepared
     to appreciate this course. What has changed? I work more quickly, and re-use
     my own code; I find more errors, and spend less time fixing them; I trust my
-    results more; I don't mind revisiting and revising old work; collaborators and
+    results more; I do not mind revisiting and revising old work; collaborators and
     potential employers are more impressed; and I'm happier.</p>
   <em>Josie Hughes develops models of mountain pine beetles and other outbreaking forest insects</em>
 <hr>

@@ -92,7 +92,7 @@ Only for original tweets (retweets excluded)
 
 ## Most favourited/retweeted users
 
-The figures below only include users who tweeted 5+ times, and don't include
+The figures below only include users who tweeted 5+ times, and do not include
 retweets.
 
 ### Number of favourites received by users

@@ -24,7 +24,7 @@ One of the major reasons to charge for a workshop is to cover costs. Common cost
 
 While coffee or food is not strictly necessary to run a Carpentries workshop (and shouldn't be the deciding factor in whether or not you can run one!), many Carpentries instructors have found that having coffee, snacks, or other food adds to the workshop experience for participants. Eating together builds community and also makes the classroom into a more welcoming, friendly place. 
 
-If you don't have an external source (grant funding, or money from a budget) to cover workshop costs, charging for the workshop is a good way to make back some or all of that money, and make sure that your workshops are sustainable, which is important if you want to keep offering them on a regular basis. 
+If you do not have an external source (grant funding, or money from a budget) to cover workshop costs, charging for the workshop is a good way to make back some or all of that money, and make sure that your workshops are sustainable, which is important if you want to keep offering them on a regular basis. 
 
 > Neal Davis: At the University of Illinois, we have determined that coffee/light breakfast and a catered lunch for two days can be gotten for about $40 per participant.  We thus charge $40 and students get an additional tangible benefit from their participation. 
 

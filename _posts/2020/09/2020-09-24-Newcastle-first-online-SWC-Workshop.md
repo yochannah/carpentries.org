@@ -41,7 +41,7 @@ I tried to get the participants to use the non-verbal feedback icons but in the 
 
 I recorded the sessions every day and a couple of students who had to miss sessions during the week requested those to catch up with the material covered.
 I took the first 20 minutes or so of every day to do a recap of the previous day's work. The recaps received some positive comments in the feedback.
-The sessions were 2.5 hours, but I don't think that was enough. In future, I would make it at least 3.5 to four hours. Considering that this group were IT savvy, and we didn't manage to get through everything, I believe it will be even more difficult with people whose background is not in computing.
+The sessions were 2.5 hours, but I do not think that was enough. In future, I would make it at least 3.5 to four hours. Considering that this group were IT savvy, and we didn't manage to get through everything, I believe it will be even more difficult with people whose background is not in computing.
 Overall, I felt that the workshop went well, and the feedback was very positive. It went so well that my friend, who introduced the idea of the workshop to her colleagues, scored kudos with them for knowing me!!
 
 Now what more can one ask for :-)

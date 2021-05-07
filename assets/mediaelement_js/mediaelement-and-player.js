@@ -5,7 +5,7 @@
  * http://mediaelementjs.com/
  *
  * Creates a JavaScript object that mimics HTML5 MediaElement API
- * for browsers that don't understand HTML5 or cannot play the provided codec
+ * for browsers that do not understand HTML5 or cannot play the provided codec
  * Can play MP4 (H.264), Ogg, WebM, FLV, WMV, WMA, ACC, and MP3
  *
  * Copyright 2010-2014, John Dyer (http://j.hn)
@@ -2853,7 +2853,7 @@ if (typeof jQuery != 'undefined') {
 				// adjust controls whenever window sizes (used to be in fullscreen only)
 				t.globalBind('resize', function() {
 
-					// don't resize for fullscreen mode
+					// do not resize for fullscreen mode
 					if ( !(t.isFullScreen || (mejs.MediaFeatures.hasTrueNativeFullScreen && document.webkitIsFullScreen)) ) {
 						t.setPlayerSize(t.width, t.height);
 					}
@@ -3935,7 +3935,7 @@ if (typeof jQuery != 'undefined') {
 	$.extend(MediaElementPlayer.prototype, {
 		buildvolume: function(player, controls, layers, media) {
 				
-			// Android and iOS don't support volume controls
+			// Android and iOS do not support volume controls
 			if ((mejs.MediaFeatures.isAndroid || mejs.MediaFeatures.isiOS) && this.options.hideVolumeOnTouchDevices)
 				return;
 			
@@ -4389,7 +4389,7 @@ if (typeof jQuery != 'undefined') {
 						// restore controls anytime the user enters or leaves fullscreen
 						media.addEventListener('fullscreenchange', function(e) {
 							t.isFullScreen = !t.isFullScreen;
-							// don't allow plugin click to pause video - messes with
+							// do not allow plugin click to pause video - messes with
 							// plugin's controls
 							if (t.isFullScreen) {
 								t.media.removeEventListener('click', t.clickToPlayPauseCallback);
@@ -4814,7 +4814,7 @@ if (typeof jQuery != 'undefined') {
 
 		tracksText: mejs.i18n.t('Captions/Subtitles'),
 
-		// By default, no WAI-ARIA live region - don't make a
+		// By default, no WAI-ARIA live region - do not make a
 		// screen reader speak captions over an audio track.
 		tracksAriaLive: false,
 

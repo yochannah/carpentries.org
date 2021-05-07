@@ -273,7 +273,7 @@ not the contributor, i.e., you will loose attribution.
 
 ## Conclusion
 
-There are so many small details about being a maintainer people don't realize until they've accepted the role.
+There are so many small details about being a maintainer people do not realize until they've accepted the role.
 But treat it as a great learning opportunity!
 If you've done instructor training, the core Git concepts are there, practice will lead to mastery.
 What better way to practice than working on a massive open-source project with 100s of contributors?

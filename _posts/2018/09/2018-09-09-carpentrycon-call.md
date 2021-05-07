@@ -80,7 +80,7 @@ A few notable comments in the post-conference survey by the participants as thei
 
 * getting a better idea of who are allies and what are their roles
 * all the keynote talks, they were fantastic
-* realising that the folks in Africa don't have computers when teaching programming
+* realising that the folks in Africa do not have computers when teaching programming
 * final feedback session where people shared their personal stories
 * getting to hear participant stories of how the conference and its associated activities impacted their lives by attending
 * meeting all the people I only knew via tele-conferences

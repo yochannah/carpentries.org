@@ -21,7 +21,7 @@ SBDH uses their own workshop assessments and photo release forms. They asked the
 
 The workshop had learners across two UVI campuses, so we planned for a virtual conference room so each instructor could teach to both campuses. Kevin travelled to St. Croix and Kunal to St. Thomas; SBDH provided for travel and lodging. One representative from SBDH (Carolyn Young) also attended the second day of the workshop at UVI St. Thomas campus.
 
-Kevin and Kunal also had a call with a technologist (Aleksandr Blekh) from SBDH. He was very friendly and helped us navigate the JupyterHub cluster and answered all our questions. Learners can use the Jupyter notebooks and JupyterLab interface on remote HPC managed via GitHub OAuth tokens and Docker instances. How handy is that? This cloud system allows anyone who has been through an SWC workshop to access HPC resources without them needing to learn new tools on top of what we teach (i.e. `ssh`). HPC site supervisors don't need to manage \*nix logins manually.
+Kevin and Kunal also had a call with a technologist (Aleksandr Blekh) from SBDH. He was very friendly and helped us navigate the JupyterHub cluster and answered all our questions. Learners can use the Jupyter notebooks and JupyterLab interface on remote HPC managed via GitHub OAuth tokens and Docker instances. How handy is that? This cloud system allows anyone who has been through an SWC workshop to access HPC resources without them needing to learn new tools on top of what we teach (i.e. `ssh`). HPC site supervisors do not need to manage \*nix logins manually.
 
 ## During the workshop
 
@@ -65,7 +65,7 @@ Regardless, when the video link was working properly it was great to virtually s
 * understanding gitbash well enough to explain it (and ask questions) to someone who already knows it
 * bash - easy and very undsrstandable, broken down and had time for us to understand
 * thorough walkthrough and instruction
-* everything was well put together. content easy to understand and programs don't give us difficulty
+* everything was well put together. content easy to understand and programs do not give us difficulty
 * learned different ways of navigating profiles and directories, learned how to code
 * hands on of the special coding for Git Bash, programming concepts
 * snacks, breaks scheduled well, good simple introduction

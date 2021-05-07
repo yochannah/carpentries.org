@@ -776,7 +776,7 @@ MarkerClusterer.prototype.createClusters_ = function() {
   }
 
   // Get our current map view bounds.
-  // Create a new bounds object so we don't affect the map.
+  // Create a new bounds object so we do not affect the map.
   var mapBounds = new google.maps.LatLngBounds(this.map_.getBounds().getSouthWest(),
       this.map_.getBounds().getNorthEast());
   var bounds = this.getExtendedBounds(mapBounds);

@@ -37,7 +37,7 @@ or just heard that The Carpentries do amazing things to help researchers.
 Come to CarpentryCon and find out more about what we do, how you can get involved, and how being part of 
 this great community can change your skill levels, your career trajectory, and maybe even your life. Lots of 
 people have changed careers after attending our workshops, after finding that the coding and data skills they 
-thought were unattainable were actually well within their grasp. So don't let being new to our community be a barrier - 
+thought were unattainable were actually well within their grasp. So do not let being new to our community be a barrier - 
 we have all kinds of plans to help even the newest members of our community feel that they belong with us.
 
 Maybe you are based somewhere that *has* no Carpentries community. If so, then joining our community - our 

@@ -18,7 +18,7 @@ relationship while this incident remains unresolved.
 
 We also know that many of our community members have interacted with the company, either as course developers or by 
 taking courses. In addition, the victim of the assault is a member of our community. We appreciate and support the 
-stances that many of these people and others in our community have made. See Noam Ross’ post [Don't Take My DataCamp 
+stances that many of these people and others in our community have made. See Noam Ross’ post [do not Take My DataCamp 
 Course, There Must be Consequences for Sexual Assault](https://noamross.github.io/datacamp-sexual-assault/) for a summary 
 of the overall community response.
 

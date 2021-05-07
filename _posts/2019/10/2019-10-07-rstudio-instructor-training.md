@@ -40,14 +40,14 @@ candidates must prepare a 15-minute demonstration lesson
 and then answer a few written questions related to pedagogical best practices.
 The tidyverse exam is based on the book [*R for Data Science*][r4ds],
 and on the excellent [study guide][r4ds-solutions] that Jeffrey Arnold and others have put together.
-We don't yet have a similarly definitive reference for the Shiny exam,
+We do not yet have a similarly definitive reference for the Shiny exam,
 though we hope that [this book][shiny-book] will eventually fill that gap.
 
 If you would like to find out more about this program,
 we have assembled an [FAQ][faq].
 Perhaps the most important thing in it is that
 if you are already a certified Carpentries instructor,
-you don't need to do RStudio's training course,
+you do not need to do RStudio's training course,
 but can skip directly to the exams.
 For more information,
 please email [Greg Wilson](mailto:greg.wilson@rstudio.com).

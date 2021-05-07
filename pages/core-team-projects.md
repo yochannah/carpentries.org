@@ -783,7 +783,7 @@ Led by Erin Becker, the Membership Team coordinates the growing number of Carpen
 Erin Becker · François Michonneau · Karen Word · Kari L. Jordan · Serah Rono · Sher! Hurt · Angelique van Rensburg
 
 #### Platinum Membership Update and New Team Member
-In Q4, the Membership Team [updated our Platinum membership tier](https://carpentries.org/blog/2020/10/platinum-memberships/) to improve transparency of this customizable membership level and ensure the way we work with Platinum members is equitable across different organizations. We also reintroduced our Bronze tier as an entry-level membership for organizations who want to support The Carpentries and don't yet plan to train local Instructors. This quarter also saw the first pilot of a New Member Onboarding program - details to follow in Q1 2021!
+In Q4, the Membership Team [updated our Platinum membership tier](https://carpentries.org/blog/2020/10/platinum-memberships/) to improve transparency of this customizable membership level and ensure the way we work with Platinum members is equitable across different organizations. We also reintroduced our Bronze tier as an entry-level membership for organizations who want to support The Carpentries and do not yet plan to train local Instructors. This quarter also saw the first pilot of a New Member Onboarding program - details to follow in Q1 2021!
 
 The Membership team is also currently recruiting a new Deputy Director or Director of Partnerships to provide planning, vision, and implementation of this program and represent the needs of member organisations in strategic development.
 </details>

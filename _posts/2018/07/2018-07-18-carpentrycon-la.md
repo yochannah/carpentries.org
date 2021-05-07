@@ -83,7 +83,7 @@ they introduced me to The Carpentries.
 
 I realised working in the private industry,
 that each group of people has its own personality, its own dynamics.
-It is an entity even if we don't notice.
+It is an entity even if we do not notice.
 That is the same everywhere at home, in the university, in the industry.
 The personality and the dynamics that I found in the Carpentry group is the closest that I found to satisfy my need of sharing and receiving,
 in this group this dynamic is very well balanced so it makes this initiative sustainable.
@@ -95,7 +95,7 @@ But when I faced real life challenges,
 I learnt that experiments are the only way to prove our theories
 so to me The Carpentry is the best way to prove that it is easy to learn new skills,
 it is fun to do it together,
-and that you don't need to be a super specialist to help other people to solve their problems. 
+and that you do not need to be a super specialist to help other people to solve their problems. 
 
 CarpentryCon 2018, to me, gave faces to this wonderful community.
 The dynamic of this community makes us feel closer and familiar.

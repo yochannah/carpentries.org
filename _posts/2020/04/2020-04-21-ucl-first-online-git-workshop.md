@@ -96,14 +96,14 @@ The workshop was a success! Though we had some hiccups, nothing was too disrupti
 
 - We should have practised setting up [break-out rooms on Blackboard][bbc-breakout] more. We would have noticed that the people in each room changes each time you separate them.
 - Explain better to everyone how to use the communication channels (e.g., chat feature on Blackboard)[^1].
-- [shellshare] worked, but not for all. We also need to explain its purpose better (e.g., if a learner uses a different terminal we don't see it anymore).
+- [shellshare] worked, but not for all. We also need to explain its purpose better (e.g., if a learner uses a different terminal we do not see it anymore).
 
 
 [^1]: It turns out that on Blackboard you need to click a back arrow on the top of the chats to exit from the "Everyone" chat!
 
 ### Other thoughts
 
-We cannot have this high ratio between helpers and learners, and probably we don't need as many. Next week we will experiment with one helper for every four students.
+We cannot have this high ratio between helpers and learners, and probably we do not need as many. Next week we will experiment with one helper for every four students.
 
 Most issues happened at the start. Not everyone installed all they needed beforehand. A "compulsory" drop-in where the setup is checked and explained will give more time to focus on the content of the lesson. Additionally, a self-check script, as [in the carpentry workshops][swc-selfcheck], that tells whether the installation has been successful would help.
 

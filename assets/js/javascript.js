@@ -71,7 +71,7 @@ function FastClick(a,b){"use strict";function c(a,b){return function(){return a.
 
   $(function() {
     if (typeof FastClick !== 'undefined') {
-      // Don't attach to body if undefined
+      // do not attach to body if undefined
       if (typeof document.body !== 'undefined') {
         FastClick.attach(document.body);
       }
@@ -419,7 +419,7 @@ function FastClick(a,b){"use strict";function c(a,b){return function(){return a.
     set_namespace: function () {
 
       // Description:
-      //    Don't bother reading the namespace out of the meta tag
+      //    do not bother reading the namespace out of the meta tag
       //    if the namespace has been set globally in javascript
       //
       // Example:
@@ -2632,7 +2632,7 @@ function FastClick(a,b){"use strict";function c(a,b){return function(){return a.
         var open_modal = self.S('[' + self.attr_name() + '].open'),
             settings = open_modal.data(self.attr_name(true) + '-init') || self.settings ;
         // PATCH #2: making sure that the close event can be called only while unlocked,
-        //           so that multiple keyup.fndtn.reveal events don't prevent clean closing of the reveal window.
+        //           so that multiple keyup.fndtn.reveal events do not prevent clean closing of the reveal window.
         if ( settings && event.which === 27  && settings.close_on_esc && !self.locked) { // 27 is the keycode for the Escape key
           self.close.call(self, open_modal);
         }
@@ -3094,7 +3094,7 @@ function FastClick(a,b){"use strict";function c(a,b){return function(){return a.
     this.$container = $(container);
     this.$root = this.isBody ? supportsFixedPosition ? $(window) : $(document) : this.$container;
 
-    // Don't create a new wrap if one already exists (from a previous instance of Backstretch)
+    // do not create a new wrap if one already exists (from a previous instance of Backstretch)
     var $existing = this.$container.children(".backstretch").first();
     this.$wrap = $existing.length ? $existing : $('<div class="backstretch"></div>').css(styles.wrap).appendTo(this.$container);
 

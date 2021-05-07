@@ -40,7 +40,7 @@ A learners arrives in my training room. They:
 
 2. **Code of Conduct**
     - All workshops need a [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html), which establishes the norms of behaviour you expect to support everyone's learning. Online, I add information about expectations for private messaging and screen sharing, as well as recording (nope!).
-    - I also ask people to let me know (via a private chat message, at any point in the workshop) if they're uncomfortable with me explicitly calling on them, as one of the biggest challenges of teaching online (and off) is extroverts dominating the conversation. To prevent this, I keep a tally of who I've called on, but I also want to make sure I don't make someone who's wrangling a child or responding to 50 emails about a grant deadline to feel uncomfortable or pressured.
+    - I also ask people to let me know (via a private chat message, at any point in the workshop) if they're uncomfortable with me explicitly calling on them, as one of the biggest challenges of teaching online (and off) is extroverts dominating the conversation. To prevent this, I keep a tally of who I've called on, but I also want to make sure I do not make someone who's wrangling a child or responding to 50 emails about a grant deadline to feel uncomfortable or pressured.
 
 3. **Schedule**
     - Just like a "normal" class, I use a slide to walk learners through the schedule, explain how the course content is linked and when breaks will happen.
@@ -91,7 +91,7 @@ And this is what the learners' screens looked like:
 2. During the training, start by showing learners how best to set up their screens for learning.
 
 
-3. If you do decide (or your learners just go) to move to more of a watch me narrate and code, I highly recommend having the challenge tasks commented out in a single code file you distribute throughout the day - so a .py or a .R or (possibly) even a .sh script, although I'm not sure about the latter, as most intro Unix courses don't necessarily work a lot with shell scripts. Learners can then uncomment the challenges as they go, and work through them at the appropriate times.
+3. If you do decide (or your learners just go) to move to more of a watch me narrate and code, I highly recommend having the challenge tasks commented out in a single code file you distribute throughout the day - so a .py or a .R or (possibly) even a .sh script, although I'm not sure about the latter, as most intro Unix courses do not necessarily work a lot with shell scripts. Learners can then uncomment the challenges as they go, and work through them at the appropriate times.
 
 
 ## Breakout rooms and challenge tasks
@@ -211,7 +211,7 @@ What does that instructor do? Small talk at the least, and - usually - after get
 
 - The official solution recommended by the University of Sydney is a Microsoft Office Online Word document.
 
-- I have had success using Google Docs. I provide a link to a public doc, so learners don't have to log in with their Google Account, and ensure that no student data is collected in the doc (i.e. learners can use first names or pseudonyms only on the doc). Most people have used Docs, so there is no overhead in figuring out how to use the tool - we can just dive in and move on.  
+- I have had success using Google Docs. I provide a link to a public doc, so learners do not have to log in with their Google Account, and ensure that no student data is collected in the doc (i.e. learners can use first names or pseudonyms only on the doc). Most people have used Docs, so there is no overhead in figuring out how to use the tool - we can just dive in and move on.  
 
 - There are tools like the [Etherpad](https://etherpad.org/), [hack.md](https://hackmd.io) and an open-source, self-hosted version called [CodiMD](https://demo.codimd.org/). The latter two support document creation in markdown, which is great because it's plain text, but also not so great, because it uses more screen real estate than Google docs (especially with the preview pane open side by side with the markdown itself).
 

@@ -31,7 +31,7 @@ however our instructor trainers indicated that they'd like more opportunities to
 It was also identified that while it's exciting that Carpentries materials
 are now being used in many different contexts/settings,
 shorter offerings (e.g. half-day workshops) represent a challenge in terms of both quality control
-(participants don't learn all the core Carpentries skills) and workshop recording in our database.
+(participants do not learn all the core Carpentries skills) and workshop recording in our database.
 
 In terms of specific action items, as Regional Coordinator for Australia I'll be doing the following over the coming months: 
 

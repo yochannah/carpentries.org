@@ -23,7 +23,7 @@ a 'consent to publish profile' checkbox to Instructor profiles, and we'll use th
 on our website.
 
 We use some of the information you provide in our lesson release. To associate your contributions on our lessons with your research 
-papers, we encourage you to provide us with your ORCID identifier. If you don't already have one, 
+papers, we encourage you to provide us with your ORCID identifier. If you do not already have one, 
 consider [creating one](https://orcid.org/register), it only takes a few seconds and helps you get credit for all 
 your research, software/code contributions and these curriculum products.
 

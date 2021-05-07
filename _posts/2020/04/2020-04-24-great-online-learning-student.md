@@ -23,10 +23,10 @@ First and foremost, triple-check that you have installed *everything* your instr
 #### Versions matter!
 Make sure you check which versions of particular tools or software packages your instructors need you to have. Note: it's almost always prudent to update to the *latest* ones, since this is often what your instructors will test with (unless they have *explicitly* specified not to!).
 
-#### Don't panic - let your instructor know ASAP
+#### do not panic - let your instructor know ASAP
 If you have an older machine, cannot update some packages OR are getting errors:
 
-1. Don't panic!
+1. do not panic!
 2. Google the error: solve it if you can, or copy the links to the top hits if the proposed solutions make no sense to you.
 3. Let your instructors/TAs know as soon as possible, for example via email. Attach a screenshot of the error, and a link to any Google stuff you found - this will help them solve the problem faster.
 4. If you're working on an older machine and cannot get the things you need working: if you email them your instructors will know in advance. This means they may be able to provide you with access to Google Colab or RStudio Cloud or another platform, where you are likely to be able to do most if not all of the things - but these require advanced setup, so it's very helpful to give your instructor a heads up!
@@ -42,13 +42,13 @@ If at all possible, try to use a pair of USB or Bluetooth headphones, ideally wi
 #### Use two screens (if you can)
 In a workshop that involves live coding you'll want to have you instructor's video open as well as some place on your local machine that you're following along and reproducing their code. In the case of R and python this can be especially challenging, as you'd normally want to use and IDE like RStudio or the Jupyter notebook or VSCode, all of which take *a lot* of screen real estate. Your instructor may also be using one of these IDEs for teaching, which means if you shrink their video too much you won't be able to see what you're typing! So if at all possible - use two screens: one for video, and one for coding.
 
-If you don't have a secondary monitor, there are a few things you can still do. First, you can use a tablet, such as an iPad, or even a mobile phone (if it has a big screen) to show your instructor's video, as you code along on your primary machine. This will be especially helpful if you've got a small-screen laptop. Second, you can tweak some settings in your video conferencing tool of choice, outlined below, to help you make the most of the screen real estate you do have!
+If you do not have a secondary monitor, there are a few things you can still do. First, you can use a tablet, such as an iPad, or even a mobile phone (if it has a big screen) to show your instructor's video, as you code along on your primary machine. This will be especially helpful if you've got a small-screen laptop. Second, you can tweak some settings in your video conferencing tool of choice, outlined below, to help you make the most of the screen real estate you do have!
 
 #### Tweak your Zoom
 
 *Note: These instructions are for Zoom, but from what I've seen of Cisco Webex, Microsoft Teams and other tools, most of this applies too:*
 
-1. **Don't** enter full-screen by default when joining a meeting. You can configure this in the Zoom Settings tab. This will allow you to have your instructor's video on 1/2 of your screen, and your own code on the other half.
+1. **do not** enter full-screen by default when joining a meeting. You can configure this in the Zoom Settings tab. This will allow you to have your instructor's video on 1/2 of your screen, and your own code on the other half.
 
 ![General Zoom Settings](https://daryavanichkina.com/images/2003_zoomsettingsGeneral.png)
 
@@ -90,7 +90,7 @@ At the beginning of class your instructor will most likely introduce the norms o
 - Ask for and get help?
 - Communicate with other learners?
 
-Make sure to pay attention to this bit, since - just like an airplane - different instructors will use the same tools differently sometimes, and you don't want to use the "Hand up" feature for 2 hours waiting for someone to help you if you were supposed to paste into the chat instead.
+Make sure to pay attention to this bit, since - just like an airplane - different instructors will use the same tools differently sometimes, and you do not want to use the "Hand up" feature for 2 hours waiting for someone to help you if you were supposed to paste into the chat instead.
 
 
 ***

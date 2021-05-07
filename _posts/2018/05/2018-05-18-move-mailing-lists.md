@@ -30,7 +30,7 @@ link you to a web-based view of your subscriptions and account.
 You can access your profile and read lists publicly at [https://carpentries.topicbox.com](https://carpentries.topicbox.com).
 
 For most of you, we hope this will prove to be a relatively transparent transition. 
-You don't have to take any action to continue to receive our community conversations in your inbox. 
+You do not have to take any action to continue to receive our community conversations in your inbox. 
 Creating a web account will however give you a new and consolidated window on the buzz of activities going on in and 
 around The Carpentries and will help you stay on top of new threads and conversations.
 

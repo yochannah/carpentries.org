@@ -24,7 +24,7 @@ be part of, and a great opportunity to get to know other instructors and the tip
 their workshops. Each session is one hour long, with a short questionnaire for the host to fill out after the call has 
 finished. You can sign up to host whenever is convenient for you. 
 
-To host a session, you don't need to be a Trainer or a member of the Mentoring Subcommittee, or have an encyclopaedic 
+To host a session, you do not need to be a Trainer or a member of the Mentoring Subcommittee, or have an encyclopaedic 
 knowledge of The Carpentries - you only need enough experience of teaching/organising workshops to feel confident when 
 answering questions. For more information about the sessions/hosting, see the relevant section of the 
 Carpentries Handbook: https://docs.carpentries.org/topic_folders/mentoring/discussion_session.html

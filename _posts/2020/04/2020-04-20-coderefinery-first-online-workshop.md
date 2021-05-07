@@ -50,7 +50,7 @@ and references therein).
   about something informally considering that the first time participants
   possibly ever experience a breakout room is in the first exercise (they may not
   know how breakout rooms work, they need to find the exercise in the material,
-  they don't know anybody). We want people to feel comfortable and to ask
+  they do not know anybody). We want people to feel comfortable and to ask
   questions.
 
 
@@ -85,7 +85,7 @@ little while ago.
 - To keep a high quality of the workshop each group should have one
   helper/instructor. But this places limits on scalability - we cannot have too
   many participants and must maintain a 1:5 helper:participant ratio.
-- Helpers were important for our breakout room systems to work. They don't have
+- Helpers were important for our breakout room systems to work. They do not have
   to be the absolute experts: primary instructors can rotate between breakout
   rooms and help with hard questions, also having typically more experience with the material
   and exercise goals.
@@ -126,7 +126,7 @@ getting used to. We found an interesting semi-flipped classroom mechanic.
   - This only works when things are clear enough that people cannot get too lost.
   - (\*) One learner shares screen, others follow along discussing, asking
     question, and typing along themselves.  Emphasize "it's easiest to share
-    the screen since you don't have to do the thinking".
+    the screen since you do not have to do the thinking".
   - (\*) Instructor flips between the rooms every 1-2 minutes answering hard
     questions and following progress.
   - Join the end for a wrap-up where best questions are discussed.

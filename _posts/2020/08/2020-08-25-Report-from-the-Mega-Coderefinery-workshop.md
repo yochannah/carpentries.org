@@ -26,7 +26,7 @@ we had to accept that everyone could be both a helper and learner and
 create a hierarchical support structure.
 
 Online is not simply a temporary substitute for in-person.
-Mega-online is not simply a way to reach more people because we don't
+Mega-online is not simply a way to reach more people because we do not
 have instructors.  This concept fundamentally takes us closer to the
 promise of technology for teaching: being able to reach everyone
 regardless of location and physical limitations.
@@ -102,7 +102,7 @@ regardless of location and physical limitations.
     - Expert helpers (special ops)
     - Instructors
     - Helpers
-    - It is best if these roles don't overlap, because they require
+    - It is best if these roles do not overlap, because they require
       different types of focus.  Zoom host and HackMD master are
       easiest to combine.  Then, instructor and expert helpers.
 
@@ -172,7 +172,7 @@ Our recruitment/sign-up strategy was twofold.
 - When people register as a team together, keep them together unless
   explicitly asked.  For others, do what you need, but realize that
   the social aspect becomes important.
-- Some people don't join with the right Zoom name.
+- Some people do not join with the right Zoom name.
     - Other co-hosts can browse the registration list and manually
       rename participants who didn't name themselves correctly.
     - Then, the Zoom host only has to worry about assigning them into
@@ -211,7 +211,7 @@ Our recruitment/sign-up strategy was twofold.
       something will take more than a minute to resolve.
 - Helper training is focused on:
     - Motivation of learners and teaching psychology.
-    - How to help: don't do it for them, etc.
+    - How to help: do not do it for them, etc.
     - Keeping the flow going, encourage everyone to speak up and
       share.
     - Knowing when and how to call for an expert helper to come to the
@@ -351,7 +351,7 @@ Our recruitment/sign-up strategy was twofold.
   answers later as workshop outcomes.
     - After the workshop we add questions and answers from the HackMD
       document to the workshop page.
-    - We go through these to make sure that we don't publish names or
+    - We go through these to make sure that we do not publish names or
       any sensitive information or any information that would violate
       our Code of Conduct.
     - But even though we take the effort of checking the questions and
@@ -406,7 +406,7 @@ Our recruitment/sign-up strategy was twofold.
       meeting room (not only breakout room), and tries to join in the
       meeting room again with waiting room enabled, then that
       participant was kicked out from the meeting room. 
-    - We don't still understand the mechanism behind, but once we disabled the
+    - We do not still understand the mechanism behind, but once we disabled the
       waiting room function (right before opening breakout rooms until
       they are closed), it went totally fine.
     - Even after opening breakout rooms, people can join in the
@@ -464,7 +464,7 @@ it's a question of if it matches our vision.
 - Risks of streaming
     - When the main room is streamed, people are more cautious about
       saying things.  But once we get to 100 participants, the main
-      room is quiet anyway, so we don't lose too much.
+      room is quiet anyway, so we do not lose too much.
     - Risk of the stream going off-track from what learners need.  You
       need a good support system of expert helpers and feedback tools
       to keep this working, if it was a stream-only workshop.

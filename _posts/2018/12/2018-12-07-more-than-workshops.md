@@ -66,7 +66,7 @@ The community is more than just Instructors.
 * Folks feel part of the community because they're on email lists, getting Carpentry Clippings, and/or engaging with lesson materials
 * Running regular workshops helps get new instructors teaching
 * What works locally: Local communication channels. Maybe a website. Quarterly meetups. A challenge is to keep track of workshops being taught, and getting people to teach. More about the time than the wanting to teach. (Try postdocs!) Selling the teaching as teaching experience.
-* You can bridge out from one institution to others. Don't think you only have to teach locally - sign up when there is a call for instructors elsewhere! It's a great experience to see how others do it and teach in new environments. And your travel will be paid for!
+* You can bridge out from one institution to others. do not think you only have to teach locally - sign up when there is a call for instructors elsewhere! It's a great experience to see how others do it and teach in new environments. And your travel will be paid for!
 * Came for the teaching (pedagogy), stayed for the community. How do you go from "consumer" to "producer"/"creator"?
 
 
