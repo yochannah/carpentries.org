@@ -60,7 +60,7 @@ Since we knew most of the learners hadn't used a Unix shell before, we added to 
 
 We used [socrative] to run quizzes during the class, where most of the questions are asked twice, the first one to answer individually and the second one to answer after discussing it with a peer. We tried to translate that to the online world using the [breakout rooms capability of Blackboard][bbc-breakout]. However, it didn't work well. We hadn't tested before with that many participants in a call and the room creation and assigning people to the room was not as smooth as we would have liked it. In part, this was because we were not too familiar with this tool, but it may also be a limitation of the tool itself (how can we keep the custom assignment of participants to breakout rooms over the whole session?).
 
-During the workshop we had some learners having problems which we tried to help using breakout rooms. The problem there is that the helper loses track of what's happening in the main room and can't - as they would do in a physical classroom - point the learner to pay attention to something that's being explained at the moment, and help after that bit.
+During the workshop we had some learners having problems which we tried to help using breakout rooms. The problem there is that the helper loses track of what's happening in the main room and cannot - as they would do in a physical classroom - point the learner to pay attention to something that's being explained at the moment, and help after that bit.
 
 Finally, the workshop finished almost on time (+5 min) and we covered most of the material.
 Learners gave positive feedback and appreciated the number of helpers we had in place.
@@ -103,7 +103,7 @@ The workshop was a success! Though we had some hiccups, nothing was too disrupti
 
 ### Other thoughts
 
-We can't have this high ratio between helpers and learners, and probably we don't need as many. Next week we will experiment with one helper for every four students.
+We cannot have this high ratio between helpers and learners, and probably we don't need as many. Next week we will experiment with one helper for every four students.
 
 Most issues happened at the start. Not everyone installed all they needed beforehand. A "compulsory" drop-in where the setup is checked and explained will give more time to focus on the content of the lesson. Additionally, a self-check script, as [in the carpentry workshops][swc-selfcheck], that tells whether the installation has been successful would help.
 

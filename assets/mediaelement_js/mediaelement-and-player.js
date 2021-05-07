@@ -5,7 +5,7 @@
  * http://mediaelementjs.com/
  *
  * Creates a JavaScript object that mimics HTML5 MediaElement API
- * for browsers that don't understand HTML5 or can't play the provided codec
+ * for browsers that don't understand HTML5 or cannot play the provided codec
  * Can play MP4 (H.264), Ogg, WebM, FLV, WMV, WMA, ACC, and MP3
  *
  * Copyright 2010-2014, John Dyer (http://j.hn)
@@ -526,7 +526,7 @@ mejs.MediaFeatures = {
 		}
 		
 		
-		// OS X 10.5 can't do this even if it says it can :(
+		// OS X 10.5 cannot do this even if it says it can :(
 		if (t.hasSemiNativeFullScreen && ua.match(/mac os x 10_5/i)) {
 			t.hasNativeFullScreen = false;
 			t.hasSemiNativeFullScreen = false;
@@ -564,7 +564,7 @@ mejs.HtmlMediaElement = {
 	// or an array [{src:'file.mp4',type:'video/mp4'},{src:'file.webm',type:'video/webm'}]
 	setSrc: function (url) {
 		
-		// Fix for IE9 which can't set .src when there are <source> elements. Awesome, right?
+		// Fix for IE9 which cannot set .src when there are <source> elements. Awesome, right?
 		var 
 			existingSources = this.getElementsByTagName('source');
 		while (existingSources.length > 0){
@@ -2415,7 +2415,7 @@ if (typeof jQuery != 'undefined') {
 				// move the <video/video> tag into the right spot
 				if (mf.isiOS) {
 
-					// sadly, you can't move nodes in iOS, so we have to destroy and recreate it!
+					// sadly, you cannot move nodes in iOS, so we have to destroy and recreate it!
 					var $newMedia = t.$media.clone();
 
 					t.container.find('.mejs-mediaelement').append($newMedia);
@@ -2627,7 +2627,7 @@ if (typeof jQuery != 'undefined') {
 				featureIndex,
 				feature;
 
-			// make sure it can't create itself again if a plugin reloads
+			// make sure it cannot create itself again if a plugin reloads
 			if (t.created) {
 				return;
 			} else {
@@ -2863,7 +2863,7 @@ if (typeof jQuery != 'undefined') {
 				});
 
 				// This is a work-around for a bug in the YouTube iFrame player, which means
-				//  we can't use the play() API for the initial playback on iOS or Android;
+				//  we cannot use the play() API for the initial playback on iOS or Android;
 				//  user has to start playback directly by tapping on the iFrame.
 				if (t.media.pluginType == 'youtube' && ( mf.isiOS || mf.isAndroid ) ) {
 					t.container.find('.mejs-overlay-play').hide();
@@ -2949,7 +2949,7 @@ if (typeof jQuery != 'undefined') {
 					parentHeight = t.container.parent().closest(':visible').height(),
 					newHeight = t.isVideo || !t.options.autosizeProgress ? parseInt(parentWidth * nativeHeight/nativeWidth, 10) : nativeHeight;
 
-				// When we use percent, the newHeight can't be calculated so we get the container height
+				// When we use percent, the newHeight cannot be calculated so we get the container height
 				if (isNaN(newHeight)) {
 					newHeight = parentHeight;
 				}
@@ -4482,7 +4482,7 @@ if (typeof jQuery != 'undefined') {
 
 			var t = this;
 
-			// firefox+flash can't adjust plugin sizes without resetting :(
+			// firefox+flash cannot adjust plugin sizes without resetting :(
 			if (t.media.pluginType !== 'native' && (mejs.MediaFeatures.isFirefox || t.options.usePluginFullScreen)) {
 				//t.media.setFullscreen(true);
 				//player.isFullScreen = true;
@@ -4632,7 +4632,7 @@ if (typeof jQuery != 'undefined') {
             // Prevent container from attempting to stretch a second time
             clearTimeout(t.containerSizeTimeout);
 
-			// firefox can't adjust plugins
+			// firefox cannot adjust plugins
 			if (t.media.pluginType !== 'native' && mejs.MediaFeatures.isFirefox) {
 				t.media.setFullscreen(false);
 				//player.isFullScreen = false;

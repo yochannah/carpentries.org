@@ -380,7 +380,7 @@ if (typeof jQuery != 'undefined') {
 				// move the <video/video> tag into the right spot
 				if (mf.isiOS) {
 
-					// sadly, you can't move nodes in iOS, so we have to destroy and recreate it!
+					// sadly, you cannot move nodes in iOS, so we have to destroy and recreate it!
 					var $newMedia = t.$media.clone();
 
 					t.container.find('.mejs-mediaelement').append($newMedia);
@@ -592,7 +592,7 @@ if (typeof jQuery != 'undefined') {
 				featureIndex,
 				feature;
 
-			// make sure it can't create itself again if a plugin reloads
+			// make sure it cannot create itself again if a plugin reloads
 			if (t.created) {
 				return;
 			} else {
@@ -828,7 +828,7 @@ if (typeof jQuery != 'undefined') {
 				});
 
 				// This is a work-around for a bug in the YouTube iFrame player, which means
-				//  we can't use the play() API for the initial playback on iOS or Android;
+				//  we cannot use the play() API for the initial playback on iOS or Android;
 				//  user has to start playback directly by tapping on the iFrame.
 				if (t.media.pluginType == 'youtube' && ( mf.isiOS || mf.isAndroid ) ) {
 					t.container.find('.mejs-overlay-play').hide();
@@ -914,7 +914,7 @@ if (typeof jQuery != 'undefined') {
 					parentHeight = t.container.parent().closest(':visible').height(),
 					newHeight = t.isVideo || !t.options.autosizeProgress ? parseInt(parentWidth * nativeHeight/nativeWidth, 10) : nativeHeight;
 
-				// When we use percent, the newHeight can't be calculated so we get the container height
+				// When we use percent, the newHeight cannot be calculated so we get the container height
 				if (isNaN(newHeight)) {
 					newHeight = parentHeight;
 				}
@@ -2447,7 +2447,7 @@ if (typeof jQuery != 'undefined') {
 
 			var t = this;
 
-			// firefox+flash can't adjust plugin sizes without resetting :(
+			// firefox+flash cannot adjust plugin sizes without resetting :(
 			if (t.media.pluginType !== 'native' && (mejs.MediaFeatures.isFirefox || t.options.usePluginFullScreen)) {
 				//t.media.setFullscreen(true);
 				//player.isFullScreen = true;
@@ -2597,7 +2597,7 @@ if (typeof jQuery != 'undefined') {
             // Prevent container from attempting to stretch a second time
             clearTimeout(t.containerSizeTimeout);
 
-			// firefox can't adjust plugins
+			// firefox cannot adjust plugins
 			if (t.media.pluginType !== 'native' && mejs.MediaFeatures.isFirefox) {
 				t.media.setFullscreen(false);
 				//player.isFullScreen = false;

@@ -310,7 +310,7 @@ Our recruitment/sign-up strategy was twofold.
       this without any other distractions (but of course many others
       help, too).
 - Be careful about answering questions in too much depth, more than is
-  needed.  If you do, text becomes overwhelming and people can't
+  needed.  If you do, text becomes overwhelming and people cannot
   follow.  Be strategic: if an answer isn't needed for following the
   course, say so (and if you want, come back and answer later).
   Answer the minimum to let someone follow the course, and inspire
@@ -424,7 +424,7 @@ it's a question of if it matches our vision.
 
 - We are worried about trolls in our Zoom meetings, but that is
   because the Zoom mechanics is many-to-many, while for a public
-  meeting you need a one-to-many mechanic where learners can't
+  meeting you need a one-to-many mechanic where learners cannot
   interact with each other.  Streaming provides this mechanic, at a
   loss of interactivity.  In principle, it can co-exist with breakout
   rooms.
@@ -451,7 +451,7 @@ it's a question of if it matches our vision.
     - We emphasized that the experience would not be the same, and
       they should try to come to another workshop later.
     - The stream can also be good for lurkers and passive attendees,
-      who can't go through the effort of attending but would like to
+      who cannot go through the effort of attending but would like to
       follow along.
 - Interacting with stream viewers
     - We got questions and comments on the stream chat.
@@ -535,7 +535,7 @@ it's a question of if it matches our vision.
       material from scratch, they are probably very useful to an
       existing learner who wants to review something they already saw,
       teach others, etc.
-    - When we can't provide them quickly, their usefulness is much
+    - When we cannot provide them quickly, their usefulness is much
       reduced.
 
 ### Recommendations

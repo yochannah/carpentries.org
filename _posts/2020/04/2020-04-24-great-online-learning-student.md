@@ -24,12 +24,12 @@ First and foremost, triple-check that you have installed *everything* your instr
 Make sure you check which versions of particular tools or software packages your instructors need you to have. Note: it's almost always prudent to update to the *latest* ones, since this is often what your instructors will test with (unless they have *explicitly* specified not to!).
 
 #### Don't panic - let your instructor know ASAP
-If you have an older machine, can't update some packages OR are getting errors:
+If you have an older machine, cannot update some packages OR are getting errors:
 
 1. Don't panic!
 2. Google the error: solve it if you can, or copy the links to the top hits if the proposed solutions make no sense to you.
 3. Let your instructors/TAs know as soon as possible, for example via email. Attach a screenshot of the error, and a link to any Google stuff you found - this will help them solve the problem faster.
-4. If you're working on an older machine and can't get the things you need working: if you email them your instructors will know in advance. This means they may be able to provide you with access to Google Colab or RStudio Cloud or another platform, where you are likely to be able to do most if not all of the things - but these require advanced setup, so it's very helpful to give your instructor a heads up!
+4. If you're working on an older machine and cannot get the things you need working: if you email them your instructors will know in advance. This means they may be able to provide you with access to Google Colab or RStudio Cloud or another platform, where you are likely to be able to do most if not all of the things - but these require advanced setup, so it's very helpful to give your instructor a heads up!
 
 
 ![setup](https://images.unsplash.com/photo-1428223501723-d821c5d00ca3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=100)

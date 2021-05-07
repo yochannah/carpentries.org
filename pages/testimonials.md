@@ -11,7 +11,7 @@ excerpt: testimonials about The Carpentries from our community
     repetitive tasks that they used to spend hours on (now they spend minutes). In
     addition, we are now reusing code much more often, because the code is written
     in such a way that the students can remember what they did and other students
-    can understand exactly how the code works. I can't recommend Software
+    can understand exactly how the code works. I cannot recommend Software
     Carpentry strongly enough.</p>
   <em>Ethan White's lab is part of an <a href="https://www.weecology.org/">interdisciplinary ecology research group</a> at the University of Florida.</em>
 

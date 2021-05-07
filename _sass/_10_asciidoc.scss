@@ -438,7 +438,7 @@ table.pyhltable td.code {
   padding-right: 0;
 }
 
-// QUESTION can't td:not(.code) be written as td.linenos?
+// QUESTION cannot td:not(.code) be written as td.linenos?
 pre.pygments .lineno,
 table.pyhltable td:not(.code) {
   color: #999;

@@ -83,7 +83,7 @@ to pay forward but also learn more for someone who finished CodeRefinery a
 little while ago.
 
 - To keep a high quality of the workshop each group should have one
-  helper/instructor. But this places limits on scalability - we can't have too
+  helper/instructor. But this places limits on scalability - we cannot have too
   many participants and must maintain a 1:5 helper:participant ratio.
 - Helpers were important for our breakout room systems to work. They don't have
   to be the absolute experts: primary instructors can rotate between breakout
@@ -123,7 +123,7 @@ getting used to. We found an interesting semi-flipped classroom mechanic.
   term though)
   - Initial motivation in the main room.
   - Switch to breakout rooms early to go through the type-along exercises.
-  - This only works when things are clear enough that people can't get too lost.
+  - This only works when things are clear enough that people cannot get too lost.
   - (\*) One learner shares screen, others follow along discussing, asking
     question, and typing along themselves.  Emphasize "it's easiest to share
     the screen since you don't have to do the thinking".
@@ -151,7 +151,7 @@ getting used to. We found an interesting semi-flipped classroom mechanic.
   - Richard: at least when I was main host in another meeting, I could join a
     breakout room and not lose host. I think. Needs more testing.
 - Co-hosts seem to be able to jump between rooms freely *after* first joining
-  the room they were originally assigned to (i.e. can't select any group from
+  the room they were originally assigned to (i.e. cannot select any group from
   the main room).
 - At one point, Zoom dropped the whole meeting and everyone re-joined
   (automatically).  Pre-assembled breakout rooms got lost, which was annoying.
@@ -225,7 +225,7 @@ does what.
   - Host person in charge of overall schedule, timekeeping, breakout rooms and
     Zoom chat/participant reactions, clearing feedback, balancing answering
     questions, moderating, etc.
-  - Instructor and upcoming instructors (they can't at the same time prepare
+  - Instructor and upcoming instructors (they cannot at the same time prepare
     their material, follow questions, and do one of the other jobs). One of our
     instructors managed to do both: teach and manage breakout rooms, so it is
     possible, but easier if somebody else takes the charge.
@@ -262,7 +262,7 @@ The requirements and recommendations are roughly like in-person.
   people.  A small workshop where we can individually interact with everyone is
   amazing, but the promise of digital technology is that we can reach everyone in
   the world.  How can we get the best of both?  Can we also do something for
-  everyone else who can't attend but might want to watch later?  This is
+  everyone else who cannot attend but might want to watch later?  This is
   something to think about.
 - How can we make this more scalable?  This workshop was quite labor-intensive.
   You could probably do it with two instructors (instructor + HackMD watcher) + 1

@@ -5,7 +5,7 @@
  * http://mediaelementjs.com/
  *
  * Creates a JavaScript object that mimics HTML5 MediaElement API
- * for browsers that don't understand HTML5 or can't play the provided codec
+ * for browsers that don't understand HTML5 or cannot play the provided codec
  * Can play MP4 (H.264), Ogg, WebM, FLV, WMV, WMA, ACC, and MP3
  *
  * Copyright 2010-2014, John Dyer (http://j.hn)
@@ -526,7 +526,7 @@ mejs.MediaFeatures = {
 		}
 		
 		
-		// OS X 10.5 can't do this even if it says it can :(
+		// OS X 10.5 cannot do this even if it says it can :(
 		if (t.hasSemiNativeFullScreen && ua.match(/mac os x 10_5/i)) {
 			t.hasNativeFullScreen = false;
 			t.hasSemiNativeFullScreen = false;
@@ -564,7 +564,7 @@ mejs.HtmlMediaElement = {
 	// or an array [{src:'file.mp4',type:'video/mp4'},{src:'file.webm',type:'video/webm'}]
 	setSrc: function (url) {
 		
-		// Fix for IE9 which can't set .src when there are <source> elements. Awesome, right?
+		// Fix for IE9 which cannot set .src when there are <source> elements. Awesome, right?
 		var 
 			existingSources = this.getElementsByTagName('source');
 		while (existingSources.length > 0){
