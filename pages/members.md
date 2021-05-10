@@ -26,7 +26,6 @@ the growth and sustainability of The Carpentries and is building local capacity 
 
 ### Gold Member Organisations
 
-- Chan Zuckerburg Initiative
 - Columbia University
 - CSIRO
 - Delft University of Technology | 4TU.ResearchData
