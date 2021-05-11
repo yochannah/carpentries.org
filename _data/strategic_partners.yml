@@ -1,10 +1,12 @@
 people:
-  - name: Angelique van Rensburg, PhD
-    pic: angeliquevanrensburg
+  - name: Angelique Trusler, PhD
+    pic: angeliquetrusler
     position: Regional Consultant for Southern Africa
     social:
+      - icon: fab fa-github
+        url: https://github.com/elletjies
       - icon: fab fa-twitter
-        url: https://twitter.com/AngvanRensburg
+        url: https://twitter.com/AngeliquePhd
       - icon: fa fa-envelope
         url: mailto:angelique@carpentries.org
   - name: Michael Culshaw-Maurer, PhD
