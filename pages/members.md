@@ -111,4 +111,5 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Auraria Library
 - Data Science Initiative, Atlanta University Center Consortium
 - George Washington University
+- University of Amsterdam
 
