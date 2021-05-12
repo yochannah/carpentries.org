@@ -25,6 +25,6 @@ The only thing you need to keep in mind before joining a Data Carpentry Workshop
 
 If you are looking to learn some skills to help you effectively manage datasets on any project, I would recommend you attend a Carpentries Workshop. If you are in Africa and you want to learn more about the Carpentries in Africa, [you can find details to attend the monthly calls](https://docs.carpentries.org/topic_folders/regional_communities/african_task_force.html).
 
-I would like to thank [Selassie David Opoku](https://medium.com/u/b0605bb9bbaf?source=post_page-----a853ccbcde44--------------------------------) for telling me about Data Carpentry, and [Angelique van Rensburg](https://angeliquevanrensburg.com/about/) for inviting me to join my first Data Carpentry Workshop.
+I would like to thank [Selassie David Opoku](https://medium.com/u/b0605bb9bbaf?source=post_page-----a853ccbcde44--------------------------------) for telling me about Data Carpentry, and [Angelique Trusler](https://angeliquevanrensburg.com/about/) for inviting me to join my first Data Carpentry Workshop.
 
 I am considering facilitating the first edition of a Ghana hosted Data Carpentry Workshop. You can comment below to express your interest.

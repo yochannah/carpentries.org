@@ -1,7 +1,7 @@
 ---
 layout: page
-authors: ["Angelique van Rensburg"]
-teaser: "Wondering what lists to subscribe to in The Carpentries TopicBox? Read this helpful guide by Angelique van Rensburg "
+authors: ["Angelique Trusler"]
+teaser: "Wondering what lists to subscribe to in The Carpentries TopicBox? Read this helpful guide by Angelique Trusler "
 title: "A Brief Guide to Lists in The Carpentries' TopicBox"
 date: 2020-04-23
 time: "00:00:00"

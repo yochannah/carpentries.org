@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Jannetta Steyn", "Benson Muite", "Marissa Griesel", "Maggi Mars", "Lactatia Motsuku", "Varshita Sher", "Marissa Griesel", "Samuel Lelièvre", "Angelique van Rensburg"]
+authors: ["Jannetta Steyn", "Benson Muite", "Marissa Griesel", "Maggi Mars", "Lactatia Motsuku", "Varshita Sher", "Marissa Griesel", "Samuel Lelièvre", "Angelique Trusler"]
 teaser: "This post covers instructors' experiences teaching a Data Carpentries workshop for the South African Centre for Digital Language Resources in August 2020"
 title: "Lessons Learned - Data Carpentries Workshop for SADiLaR (August 31, 2020)"
 date: 2020-10-07
@@ -16,7 +16,7 @@ The call went out for instructors and helpers to cover the Data Carpentries Work
 
 ### Preparation for the workshop
 
-The workshop was organised by Angelique van Rensburg, the Regional Consultant for Southern Africa.  Attendees were sent instructions in an email on how to download and install the data and software required. A couple of weeks before the workshop the instructors and helpers were put into contact with one another via email to decide who would do what during the workshop. We used a shared online spreadsheet to indicate which parts we would like to teach and who would be able to act as helpers on what days.
+The workshop was organised by Angelique Trusler, the Regional Consultant for Southern Africa.  Attendees were sent instructions in an email on how to download and install the data and software required. A couple of weeks before the workshop the instructors and helpers were put into contact with one another via email to decide who would do what during the workshop. We used a shared online spreadsheet to indicate which parts we would like to teach and who would be able to act as helpers on what days.
 
 In the week before the workshop, we met online with Zoom and it was suggested that we meet every day 15 minutes before the session started. We organised ourselves such that there were four instructors/helpers around every day. One person would be teaching, one would act as the host for Zoom while the other two watched the chat and added notes and links to the Etherpad. We decided to use Jamboard stickies for end-of-day feedback.
 

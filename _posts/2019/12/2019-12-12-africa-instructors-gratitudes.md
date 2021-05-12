@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Yared Abera", "Ayansina Ayangbenro", "Mamsi Khantsi", "Samar Elsheikh", "Margareth Gfrerer", "Martin Dreyer", "Mesfin Diro", "Abisola Regina Sholeye", "Bianca Peterson", "Nobubele Shozi", "Angelique van Rensburg"]
+authors: ["Yared Abera", "Ayansina Ayangbenro", "Mamsi Khantsi", "Samar Elsheikh", "Margareth Gfrerer", "Martin Dreyer", "Mesfin Diro", "Abisola Regina Sholeye", "Bianca Peterson", "Nobubele Shozi", "Angelique Trusler"]
 title: "With Thanks from Carpentries Instructors in Africa"
 teaser: " “Sithanda ukudlulisa amazwi ukubonga ku Carpentries!” from Carpentries Instructors in Africa"
 date: 2019-12-12

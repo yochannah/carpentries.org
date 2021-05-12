@@ -41,7 +41,7 @@ To help you accomplish the above ideas, consider organizing a meeting or co-work
 
 ## 4. Lead a discussion
 
-The community knowledge sharing from CarpentryCon @ Home can continue through themed community discussion sessions! If there is a topic you would like to share on or revisit, consider volunteering to lead a community discussion. Sign ups are closed for the fall, but you can contact [Angelique van Rensburg](mailto:angelique@carpentries.org) about additional sessions or joining a mailing list for future sign ups.
+The community knowledge sharing from CarpentryCon @ Home can continue through themed community discussion sessions! If there is a topic you would like to share on or revisit, consider volunteering to lead a community discussion. Sign ups are closed for the fall, but you can contact [Angelique Trusler](mailto:angelique@carpentries.org) about additional sessions or joining a mailing list for future sign ups.
 
 ## 5. Check out The Carpentries blog
 

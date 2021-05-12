@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Angelique van Rensburg", "Sarah Stevens"]
+authors: ["Angelique Trusler", "Sarah Stevens"]
 teaser: "Looking to host a Carpentries Community Discussion?"
 title: "Carpentries Community Discussion Host Onboarding Now Open!"
 date: 2020-07-27
