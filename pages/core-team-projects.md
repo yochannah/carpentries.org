@@ -242,7 +242,7 @@ In Q1 2021,
 - Serah prepared guidelines to empower our community to collectively improve accessibility of resources in The Carpentries - https://carpentries.org/blog/2021/02/improving-accessibility-across-carpentries-resources/ 
 - At our Core Team Virtual Retreat in March 2021
   - Omar led a Brand Identity workshop with the goal to give the team a shared understanding of the work and process around developing an organisation’s brand
-  - Angelique led a resilience and stress management session that helped the team develop and cement strategies for nurturing resilience, countering stress and identifying practices that bring us joy 
+  - Angelique led a session in resilience that included activities encouraging positive adjustment to challenging life circumstances. The session was based on the intervention strategy entitled "Khazimula!" which originated from the Pathways to Resilience project that took place in South Africa from 2009 to 2014. 
   - Serah and Toby led a two-hour workshop at The Carpentries Core Team retreat in March 2021. The goal of the session was two-fold:
     1. to give an orientation on the different [sub-communities in The Carpentries](http://carpentries.org/community/), and expound on how they interact to support our programming as an organisation, and 
     2. to create a shared understanding of our role as Core Team in informing and enabling community efforts in a volunteer/community-led organisation.
