@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Julie Vecchio", "Hanna Varachkina", "Darya Vanichkina", "Angelique van Rensburg", "Serah Njambi Rono"]
+authors: ["Julie Vecchio", "Hanna Varachkina", "Darya Vanichkina", "Angelique Trusler", "Serah Njambi Rono"]
 teaser: "This post  is the second in our round of invaluable community-contributed tips for teaching online."
 title: "More Community-Contributed Tips for Teaching Online"
 date: 2020-03-30
@@ -11,7 +11,7 @@ tags: ["Community", "Teaching", "Online Workshops"]
 
 As communicated by Omar Khan on TopicBox on 26 March, [The Carpentries has now set up a COVID-19 Response Task Force](https://carpentries.topicbox.com/groups/discuss/Tbefe934513043c1d-M2f0d4aa4186d370fc67d0b27), and a more elaborate set of recommendations will be shared by its members in the coming weeks.
 
-This post has been made possible by contributions from Julie Vecchio, Hanna Varachkina, Darya Vanichkina, Angelique van Rensburg and two anonymous contributors. Thank you!
+This post has been made possible by contributions from Julie Vecchio, Hanna Varachkina, Darya Vanichkina, Angelique Trusler and two anonymous contributors. Thank you!
 
 ## Online Instruction in Low Bandwidth Environments
 

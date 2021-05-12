@@ -34,6 +34,6 @@ We are both saddened to see Tracy leave,
 but also very excited to see what the future holds for her as the new 
 [Executive Director at Dryad](https://blog.datadryad.org/2019/12/19/tracy-teal-named-new-dryad-ed/).
 
-We thank Kari Jordan, Erin Becker, Elizabeth Williams, Maneesha Sane, Serah Rono, SherAaron Hurt, Talisha Sutton-Kennedy, François Michonneau, Karen Word, Angelique van Rensburg, and Tracy Teal.
+We thank Kari Jordan, Erin Becker, Elizabeth Williams, Maneesha Sane, Serah Rono, SherAaron Hurt, Talisha Sutton-Kennedy, François Michonneau, Karen Word, Angelique Trusler, and Tracy Teal.
 
 

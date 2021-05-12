@@ -162,7 +162,7 @@ In November 2019, [we announced](https://carpentries.org/blog/2019/11/czi-moore-
 
 #### Growing our Core Team
 
-At the end of Q3 2019, we bid [a bittersweet farewell to Chris Erdmann](https://carpentries.org/blog/2019/09/thank-you-all/) as he moved on from his role as Library Carpentry Community & Development Director. This quarter, we [brought on-board Angelique van Rensburg](https://carpentries.org/blog/2019/11/introducing-angelique/) as Regional Consultant for Southern Africa and [announced four new open positions](https://carpentries.org/blog/2019/11/job-opportunities-with-the-carpentries) with our team. We also announced that our Executive Director, Tracy Teal, [will be moving on from her position](https://carpentries.org/blog/2019/12/executive-director-transition) in January. We are grateful for Tracy’s transformative leadership and for Chris’s contributions to building the Library Carpentry community. In the new year, we look forward to finding our five new Core Team members. Will you be one of them?
+At the end of Q3 2019, we bid [a bittersweet farewell to Chris Erdmann](https://carpentries.org/blog/2019/09/thank-you-all/) as he moved on from his role as Library Carpentry Community & Development Director. This quarter, we [brought on-board Angelique Trusler](https://carpentries.org/blog/2019/11/introducing-angelique/) as Regional Consultant for Southern Africa and [announced four new open positions](https://carpentries.org/blog/2019/11/job-opportunities-with-the-carpentries) with our team. We also announced that our Executive Director, Tracy Teal, [will be moving on from her position](https://carpentries.org/blog/2019/12/executive-director-transition) in January. We are grateful for Tracy’s transformative leadership and for Chris’s contributions to building the Library Carpentry community. In the new year, we look forward to finding our five new Core Team members. Will you be one of them?
 
 #### Preparing to Report on our Programs
 
@@ -215,9 +215,9 @@ In Q1 2019, the business Team worked on updating our grants collaboration workfl
 </details>
 
 ## Community Development Team
-<br>Angelique van Rensburg · Kari L. Jordan · Kelly Barnes · Omar Khan · Serah Rono · Toby Hodges
+<br>Angelique Trusler · Kari L. Jordan · Kelly Barnes · Omar Khan · Serah Rono · Toby Hodges
 
-Led by Serah Njambi Rono, the Community Development Team works to develop and maintain an open and welcoming community culture by developing, testing and implementing various communication strategies, supporting our various committees and task forces, and by introducing and running various initiatives that result in increased pathways for collaboration in our community, as well as equitable  distribution of resources, opportunities and access to inclusive spaces for our community members globally. The Carpentries Executive Director - Kari Jordan, Communications Manager - Omar Khan, Regional Consultant for Southern Africa - Angelique van Rensburg, Deputy Director of Instructor Training - Kelly Barnes and our incoming Curriculum Community Developer all sit on this team. Chris Erdmann and Tracy Teal also served in this team in 2019. Some of the projects the Community Development Team has embarked on since January 2019 include:
+Led by Serah Njambi Rono, the Community Development Team works to develop and maintain an open and welcoming community culture by developing, testing and implementing various communication strategies, supporting our various committees and task forces, and by introducing and running various initiatives that result in increased pathways for collaboration in our community, as well as equitable  distribution of resources, opportunities and access to inclusive spaces for our community members globally. The Carpentries Executive Director - Kari Jordan, Communications Manager - Omar Khan, Regional Consultant for Southern Africa - Angelique Trusler, Deputy Director of Instructor Training - Kelly Barnes and our incoming Curriculum Community Developer all sit on this team. Chris Erdmann and Tracy Teal also served in this team in 2019. Some of the projects the Community Development Team has embarked on since January 2019 include:
 developing and implementing a communications strategy for The Carpentries, updating our Code of Conduct documentation with the Code of Conduct Committee, The Carpentries Values Project, The Carpentries Tagathon, The Carpentries Gratitudes project among others. You can find more details about their quarterly project work below.
 
 <details>
@@ -230,7 +230,7 @@ developing and implementing a communications strategy for The Carpentries, updat
 <strong>October - December (Q4) 2020</strong>
 </summary>
 
-Angelique van Rensburg · Kelly Barnes · Omar Khan · Serah Rono · Toby Hodges
+Angelique Trusler · Kelly Barnes · Omar Khan · Serah Rono · Toby Hodges
 
 In Q4, the Community Development Team
 - worked with Toby Hodges and Zhian Kamvar to prepare a video presentation aimed at introducing SORSE community members to The Carpentries. [You can watch the video here](https://youtu.be/ANxr38dx9rw).
@@ -247,7 +247,7 @@ In Q4, the Community Development Team
 <strong>July - September (Q3) 2020</strong>
 </summary>
 
-Angelique van Rensburg · Kari L. Jordan · Kelly Barnes · Omar Khan · Serah Rono · Toby Hodges
+Angelique Trusler · Kari L. Jordan · Kelly Barnes · Omar Khan · Serah Rono · Toby Hodges
 
 In Q3, the Community Development Team
 - continued to **support the online workshops pilot project** by (i)soliciting for feedback about instructor and learner experiences in online workshops, (ii)drafting, editing and publishing community posts on the subject of online workshops and [collating these community contributions in The Carpentries Handbook for ease of access](https://docs.carpentries.org/topic_folders/hosts_instructors/resources_for_online_workshops.html), and (iii)presenting prominently occurring questions and tips for addition to our formal Carpentries recommendations around running online workshops. We also spent time engaging our community [on the question of accessibility of Carpentries resources and tools to community members in different settings around the world](https://github.com/carpentries/conversations/issues/26).
@@ -306,7 +306,7 @@ CarpentryConnects are community convenings, organised to bring together communit
 
 #### Carpentries in Africa Community
 
-Angelique van Rensburg
+Angelique Trusler
 
 In Q1 2020, we assessed the communications platforms that were available to the [Carpentries Community in Africa](https://docs.carpentries.org/topic_folders/regional_communities/african_task_force.html#what-we-do). Two additional platforms (i.e. African Carpentries Calendar and Slack Channel) were added to align with that of the rest of Global Carpentries Community. These platforms were updated with among others, general Carpentries announcements (i.e. uniquely African topics, Carpentries Blog posts), funding and scholarship and upcoming Carpentries teaching opportunities. Three successful African Carpentry meet-up sessions were hosted in Q1, attended by Carpentry Community members, Instructors and Trainers from South Africa, Zimbabwe, Ethiopia, Kenya and Nigeria (with the odd audience from Europe and the United States).  We are currently gathering information from the African Carpentries Community on what they want an [African Carpentries Meetup 2020](https://forms.gle/qCaVejLdXiZjdxYN8) to look like.
 
@@ -767,7 +767,7 @@ In Q1 2019, the Instructor Training Team worked on producing a workflow for offe
 </details>
 
 ## Membership Team
-<br/>Erin Becker · François Michonneau · Karen Word · Kari L. Jordan · Serah Rono · Sher! Hurt · Angelique van Rensburg
+<br/>Erin Becker · François Michonneau · Karen Word · Kari L. Jordan · Serah Rono · Sher! Hurt · Angelique Trusler
 
 Led by Erin Becker, the Membership Team coordinates the growing number of Carpentries Member Organisations, which build local communities and bring together all The Carpentries programs at organisations across the globe. Some of the projects the Membership Team has embarked on since January 2019 include: creating and deploying a membership survey. You can find more details about their quarterly projects work below.
 
@@ -780,7 +780,7 @@ Led by Erin Becker, the Membership Team coordinates the growing number of Carpen
 <summary>
 <strong>October - December (Q4) 2020</strong>
 </summary>
-Erin Becker · François Michonneau · Karen Word · Kari L. Jordan · Serah Rono · Sher! Hurt · Angelique van Rensburg
+Erin Becker · François Michonneau · Karen Word · Kari L. Jordan · Serah Rono · Sher! Hurt · Angelique Trusler
 
 #### Platinum Membership Update and New Team Member
 In Q4, the Membership Team [updated our Platinum membership tier](https://carpentries.org/blog/2020/10/platinum-memberships/) to improve transparency of this customizable membership level and ensure the way we work with Platinum members is equitable across different organizations. We also reintroduced our Bronze tier as an entry-level membership for organizations who want to support The Carpentries and do not yet plan to train local Instructors. This quarter also saw the first pilot of a New Member Onboarding program - details to follow in Q1 2021!
@@ -845,9 +845,9 @@ In Q1 2019, the Membership Team worked on [creating and deploying a membership s
 </details>
 
 ## Workshop Administration Team
-<br/>Angelique van Rensburg · Maneesha Sane · SherAaron Hurt · Danielle Sieh · Talisha Sutton-Kennedy
+<br/>Angelique Trusler · Maneesha Sane · SherAaron Hurt · Danielle Sieh · Talisha Sutton-Kennedy
 
-Led by SherAaron Hurt, the Workshop Team develops and implements workflows to keep our workshops running smoothly. This team also supports the work of regional workshop administrators. Angelique van Rensburg, Maneesha Sane and Talisha Sutton-Kennedy are members of the Workshop Administration Team.  Some of the projects the Workshop Team has embarked on since January 2019 include: working with the workshop administrators, they will be developing a workshop workflow automation priority list. You can find more details about their quarterly projects work below.
+Led by SherAaron Hurt, the Workshop Team develops and implements workflows to keep our workshops running smoothly. This team also supports the work of regional workshop administrators. Angelique Trusler, Maneesha Sane and Talisha Sutton-Kennedy are members of the Workshop Administration Team.  Some of the projects the Workshop Team has embarked on since January 2019 include: working with the workshop administrators, they will be developing a workshop workflow automation priority list. You can find more details about their quarterly projects work below.
 
 <details>
 <summary>
@@ -858,7 +858,7 @@ Led by SherAaron Hurt, the Workshop Team develops and implements workflows to ke
 <summary>
 <strong>October - December (Q4) 2020</strong>
 </summary>
-Angelique van Rensburg · Maneesha Sane · SherAaron Hurt · Talisha Sutton-Kennedy
+Angelique Trusler · Maneesha Sane · SherAaron Hurt · Talisha Sutton-Kennedy
 
 #### Regional Coordinator Onboarding
 - Continued finalising the Automated Email project. During Q4 the WAT presented the work done so far to the RC. The RC were given a prelude to what their new workflow will consist of. This project will cut the time to process workshops coordination in half. 
@@ -870,7 +870,7 @@ Angelique van Rensburg · Maneesha Sane · SherAaron Hurt · Talisha Sutton-Kenn
 <summary>
 <strong>July - September (Q3) 2020</strong>
 </summary>
-Angelique van Rensburg · Maneesha Sane · SherAaron Hurt · Talisha Sutton-Kennedy
+Angelique Trusler · Maneesha Sane · SherAaron Hurt · Talisha Sutton-Kennedy
 
 #### Automated Emails
 The WAT worked on Automated Emails. This has been an ongoing project to transition the Regional Coordinators to use our automated email system for their workflow. We have been testing this on US/African based workshops.  
@@ -879,7 +879,7 @@ The WAT worked on Automated Emails. This has been an ongoing project to transiti
 <summary>
 <strong>April - June (Q2) 2020</strong>
 </summary>
-Angelique van Rensburg · Maneesha Sane · SherAaron Hurt · Talisha Sutton-Kennedy
+Angelique Trusler · Maneesha Sane · SherAaron Hurt · Talisha Sutton-Kennedy
 
 #### Workshop Administration for Online Workshops Pilot
 In Q2 2020, the Workshop Administration team worked on the following items to support the Online Workshops Pilot
@@ -895,7 +895,7 @@ In Q2 2020, the Workshop Administration team worked on the following items to su
 <summary>
 <strong>January - March (Q1) 2020</strong>
 </summary>
-Angelique van Rensburg · Maneesha Sane · SherAaron Hurt · Talisha Sutton-Kennedy
+Angelique Trusler · Maneesha Sane · SherAaron Hurt · Talisha Sutton-Kennedy
 
 #### Automating Routine Emails for Workshops
 
