@@ -8,8 +8,9 @@ time: "09:00:00"
 tags: ["Africa", "Community", "Carpentries Workshop"]
 ---
 
-*“Alone we can do so little; together we can do so much.”* That’s what we can say about our first R workshop, which was also our first workshop as the Bioinformatics Hub of Kenya
-(BHKi). We gathered the knowledge and experience we all had as a committee and put it together to deliver the two-day workshop. 
+*This blog post was originally posted on the [Bioinformatics Hub of Kenya website](https://bhki.org/). The Bioinformatics Hub of Kenya aims in bridging the gap between well established bioinformaticians and aspiring ones through peer training and mentorship so as to enhance collaborations to foster quality scientific research and innovations and promote the sharing of data, skills and codes.*
+
+*“Alone we can do so little; together we can do so much.”* That’s what we can say about our first R workshop, which was also our first workshop as the Bioinformatics Hub of Kenya (BHKi). We gathered the knowledge and experience we all had as a committee and put it together to deliver the two-day workshop. 
 It happened on the 24th and 25th of March 2021, and it was such a journey. So let us take you through it.
 
 ### The Planning ###
