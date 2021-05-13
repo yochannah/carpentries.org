@@ -28,7 +28,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 
 - Columbia University
 - CSIRO
-- Delft University of Technology | 4TU.ResearchData
+- Delft University of Technology - 4TU.ResearchData
 - Helmholtz Information & Data Science Academy (HIDA)
 - National Oceanic and Atmospheric Administration 
 - New England Software Carpentry Library Consortium
