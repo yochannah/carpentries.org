@@ -38,7 +38,7 @@ We developed three sections aiming for a full metagenomic workshop divided into 
 
 ## How You Can Help Develop This Lesson
 
-To take our lesson to beta status, we would love to bring instructors from the Carpentries community to teach this lesson in their city and to contribute to its development. Also, we welcome feedback related to the contents and the ways of approaching issues related to Unix and R programming.
+To take our lesson to beta status, we would love to bring instructors from the Carpentries community to teach this lesson in their city and to contribute to its development. Also, we welcome feedback related to the contents and the user-friendly tools for metagenomics as well as direct contributions to solving already identified Issues (https://github.com/carpentries-incubator/metagenomics/issues).
 
 
 Please contact us to collaborate:
