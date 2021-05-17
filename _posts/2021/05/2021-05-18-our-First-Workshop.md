@@ -1,9 +1,9 @@
 ---
 layout: page
 authors: ["Pauline Karega ","Michael Kofia", "Festus Nyasimi" ]
-teaser: "Before the actual training, we did a pre-training on the 22nd and 23rd of March"
+teaser: "Originally posted on the Bioinformatics Hub of Kenya website, this blog post highlights learnings from the BHKi's first R workshop on 24 and 25 March 2021"
 title: "Our First Workshop - Bioinformatics Hub of Kenya"
-date: 2021-05-17
+date: 2021-05-18
 time: "09:00:00"
 tags: ["Africa", "Community", "Carpentries Workshop"]
 ---
