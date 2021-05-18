@@ -8,18 +8,18 @@ time: "09:00:00"
 tags: ["Africa", "Community", "Carpentries Workshop"]
 ---
 
-*This blog post was originally posted on the [Bioinformatics Hub of Kenya website](https://bhki.org/). The Bioinformatics Hub of Kenya aims in bridging the gap between well established bioinformaticians and aspiring ones through peer training and mentorship so as to enhance collaborations to foster quality scientific research and innovations and promote the sharing of data, skills and codes.*
+*This blog post was originally posted on the [Bioinformatics Hub of Kenya website](https://bhki.org/). The Bioinformatics Hub of Kenya aims to bridge the gap between well-established bioinformaticians and aspiring ones through peer training and mentorship, so as to enhance collaborations to foster quality scientific research and innovations and promote the sharing of data, skills, and codes.*
 
-*“Alone we can do so little; together we can do so much.”* That’s what we can say about our first R workshop, which was also our first workshop as the Bioinformatics Hub of Kenya (BHKi). We gathered the knowledge and experience we all had as a committee and put it together to deliver the two-day workshop. 
+*“Alone we can do so little; together we can do so much.”* That is what we can say about our first R workshop, which was also our first workshop as the Bioinformatics Hub of Kenya (BHKi). We gathered the knowledge and experience we all had as a committee and put it together to deliver the two-day workshop. 
 It happened on the 24th and 25th of March 2021, and it was such a journey. So let us take you through it.
 
 ### The Planning ###
 
-The idea was in mind and we had conversations with The Carpentries for months. The assistance was impeccable, special thanks to Angelique without whom we would not have managed 
+The idea was in mind and we had conversations with The Carpentries for months. The assistance was impeccable, special thanks to Angelique Trusler, without whom we would not have managed 
 to move with the grace we did. All that was left was the execution. We first set our dates and began our planning. We approached our very capable trainers, Benson Muite, 
 Jennifer Shelton, and Beatrice Waweru. Cut to amazing women in data science, it was such an honour to have two female instructors. They graciously accepted the 
 call and we were set on instructors. Curriculum development was step two. The Carpentries curriculum was modified to fit our curriculum, with additions and 
-removal of some items to ensure the best learning outcome for our trainees. Find our curriculum and program [here](https://bioinformatics-hub-ke.github.io/2021-03-24-BHKi-Online/). 
+removal of some items to ensure the best learning outcome for our trainees. Find our [curriculum and program](https://bioinformatics-hub-ke.github.io/2021-03-24-BHKi-Online/) at the Bioinformatics Hub of Kenya website. 
 The call to our members was the next step. We designed a registration form to call out for attendees which had an amazing response. Our Twitter analytics showed massive 
 responses from the platform which says something about how we can reach more people and expand our network. The applications were also quite diverse in terms of fields of study, which speaks volumes about the need for R knowledge 
 in several fields. 
