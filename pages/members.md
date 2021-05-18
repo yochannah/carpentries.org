@@ -39,6 +39,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - The Carpentries in Austria
 - University of Arizona
 - University of California Santa Barbara
+- University of Edinburgh
 - University of Kansas
 - University of Technology Sydney
 - University of Washington eScience Institute
