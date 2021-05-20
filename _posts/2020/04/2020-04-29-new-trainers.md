@@ -13,7 +13,7 @@ We are excited to announce that our most recent cohort of Instructor Trainers ha
 Our new Trainers are:
 
 - **Angela Li** (University of Chicago, USA)
-- **Angelique van Rensburg** (The Carpentries, South Africa)
+- **Angelique Trusler** (The Carpentries, South Africa)
 - **Ann Backhaus** (Pawsey Supercomputing Centre	Perth, Australia)
 - **Annika Rockenberger** (University of Oslo, Norway)
 - **Ariel Deardorff**	(University of California, San Francisco, USA)

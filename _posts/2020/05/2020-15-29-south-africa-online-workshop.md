@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Samar Elsheikh","Caroline Fadeke Ajilogba","Martin Dreyer","Angelique van Rensburg"]
+authors: ["Samar Elsheikh","Caroline Fadeke Ajilogba","Martin Dreyer","Angelique Trusler"]
 teaser: "This post covers learners' experiences and feedback from SADiLaR's first three-day online Data Carpentry workshop in early May"
 title: "Learners' Experiences from South Africa's Online Workshop"
 date: 2020-05-28
@@ -94,4 +94,4 @@ In what follows we summarise the learner experiences from the [Data Carpentry On
 >"*Overall this is the best workshop I have been to in a long time and 100% the best online workshop ever*."
 
 
-Overall the feedback was generally really positive and we are looking forward to implementing our findings in the next online workshop! Do you want to host a online workshop in South Africa or learn more about teaching Carpentries workshops online? Contact [Angelique van Rensburg](mailto:admin-afr@carpentries.org).
+Overall the feedback was generally really positive and we are looking forward to implementing our findings in the next online workshop! Do you want to host a online workshop in South Africa or learn more about teaching Carpentries workshops online? Contact [Angelique Trusler](mailto:admin-afr@carpentries.org).

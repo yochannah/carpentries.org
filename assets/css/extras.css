@@ -192,3 +192,12 @@ div.checklist  {
 .checklist li {
 
 }
+
+blockquote.testimonial {
+    margin-top: 30px;
+}
+
+blockquote.testimonial p {
+    font-size: 1.25rem;
+    color: #071159;
+}

@@ -17,7 +17,7 @@ The Regional Coordinators are:
 - *James Desjardins and John Simpson* in [Canada](https://carpentries.org/regions_ca/)
 - *Megan Guidry* in [New Zealand](https://carpentries.org/regions_nz/)
 - *Naoe Tatara* in [Nordic Countries](https://carpentries.org/regions_nordic/)
-- *Angelique van Rensburg* in [South Africa](https://carpentries.org/regions_za/)
+- *Angelique Trusler* in [South Africa](https://carpentries.org/regions_za/)
 - *Aleksandra Nenadic and Giacomo Peru* in [United Kingdom](https://carpentries.org/regions_uk/)
 
 The work [our team](https://carpentries.org/team/) does to reach our global community would not be possible without the input of our regional coordinators. Each Regional Coordinator brings enthusiasm, innovation and commitment to their role. They are able to share with us how to improve our processes and workflows to better accommodate our community!

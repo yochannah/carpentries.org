@@ -28,7 +28,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 
 - Columbia University
 - CSIRO
-- Delft University of Technology | 4TU.ResearchData
+- Delft University of Technology - 4TU.ResearchData
 - Helmholtz Information & Data Science Academy (HIDA)
 - National Oceanic and Atmospheric Administration 
 - New England Software Carpentry Library Consortium
@@ -39,6 +39,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - The Carpentries in Austria
 - University of Arizona
 - University of California Santa Barbara
+- University of Edinburgh
 - University of Kansas
 - University of Technology Sydney
 - University of Washington eScience Institute
@@ -65,7 +66,6 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Helmholtz-Zentrum Dresden-Rossendorf
 - Institute for Advanced Computational Science-Stony Brook University
 - Institute of Environmental Science and Research Limited (ESR)
-- Kings College London
 - Lebanon Public Libraries
 - Macquarie University
 - NASA Develop
@@ -96,6 +96,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - University of Miami
 - University of Minnesota Libraries
 - University of New Mexico
+- University of North Texas
 - University of Notre Dame
 - University of Oregon
 - University of Oslo

@@ -16,7 +16,7 @@ Key achievements by this cohort of Instructor Development Committee (IDC) Leader
   - [mid-point check in call](https://youtu.be/-bh_h7oKJuU), where the discussion zeroed in on organising workshops,
   - the [first virtual mentoring groups showcase](https://youtu.be/Y-dvLm6zgaU), and
   - the [second virtual mentoring groups showcase](https://youtu.be/U87YkA81eZY) at the end of the program
-- led by Martin Dreyer, supporting the demand for our community discussion sessions by onboarding new community discussion hosts and managing our community discussions Etherpad throughout 2019. A big thank you to Angelique van Rensburg for overseeing this work in 2020. You can find out more about Discussion Sessions in The Carpentries [in this set of blog posts](https://carpentries.org/posts-by-tags/#blog-tag-discussion-sessions).
+- led by Martin Dreyer, supporting the demand for our community discussion sessions by onboarding new community discussion hosts and managing our community discussions Etherpad throughout 2019. A big thank you to Angelique Trusler for overseeing this work in 2020. You can find out more about Discussion Sessions in The Carpentries [in this set of blog posts](https://carpentries.org/posts-by-tags/#blog-tag-discussion-sessions).
 - carrying out a formal assessment of community discussions in The Carpentries and reporting their findings [in this blog post](https://carpentries.org/blog/2019/08/IDC-discussion-survey/).
 - facilitating topical discussions with other instructors in bi-monthly calls in 2019.
 - brainstorming extensively about ways to improve instructor resources and experiences in The Carpentries.

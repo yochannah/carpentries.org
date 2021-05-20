@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Angelique van Rensburg", "Omar Khan"]
+authors: ["Angelique Trusler", "Omar Khan"]
 teaser: "We have hosted more than 50 pre- and post-workshop discussions between January and June 2020"
 title: "Pre- and Post-workshop discussions : Six months into 2020"
 date: 2020-07-17
