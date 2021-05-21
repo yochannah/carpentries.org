@@ -24,7 +24,7 @@ You have probably experienced both of these yourself.
 I was lucky during my three years as a professor to meet a few members of the computing education research community,
 and through them,
 to discover that we know a lot more about how people learn than most of us realize.
-Books like [*How Learning Works*][hlw], [*Small Teaching*][small], and [*Teaching What You do not Know*][twydk],
+Books like [*How Learning Works*][hlw], [*Small Teaching*][small], and [*Teaching What You Don't Know*][twydk],
 and the work of [Sally Fincher][fincher] and [Mark Guzdial][guzdial],
 taught me that adopting a few evidence-based practices would produce more effective lessons with less effort.
 Just as importantly,

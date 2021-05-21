@@ -1,7 +1,7 @@
 ---
 layout: page
 authors: ["Raniere Silva"]
-teaser: "Deadline is next week. do not miss the opportunity to recognise members contribution"
+teaser: "Deadline is next week. Do not miss the opportunity to recognise members contribution"
 title: "Nominate a member to Community Service Award before 19 November"
 date: 2018-11-13
 time: "09:00:00"

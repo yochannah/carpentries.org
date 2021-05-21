@@ -41,7 +41,7 @@ Make.
 I was planning to cover more topics,
 for example, testing your Python code and continuous integration,
 based on my conversation with Professor Tshiamo Motshegwa
-but I had to slow do not the speed of the workshop
+but I had to slow down the speed of the workshop
 because of the heterogeneous classroom.
 On the feedback,
 learners with experience programming in other languages reported the pace was too slow

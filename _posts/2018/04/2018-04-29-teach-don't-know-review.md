@@ -2,16 +2,16 @@
 layout: page
 authors: ["Neal Davis"]
 teaser: "Many Carpentries instructors may find themselves in the position of teaching material they do not know all that well"
-title: "Book Review: Teaching What You do not Know"
+title: "Book Review: Teaching What You Don't Know"
 date: 2018-04-29
 time: "09:00:00"
 tags: [ "Instructor Development", "Books"]
 comments: true
 ---
 
-A review of *Teaching What You do not Know* by Therese Huston
+A review of *Teaching What You Do Not Know* by Therese Huston
 
-With such an intriguing premise and promise, how could I fail to pause over Therese Huston's _Teaching What You do not Know_? I have found myself in this situation several times in the past, either through hubris or bureaucracy, and the hopeful existence of a manual to smooth my way was too much to pass up. Huston presents a practical survey of the reality of teaching a subject in which one is not an expert, as well as a number of strategies for mitigating classroom disarray and providing a solid learning experience for students.
+With such an intriguing premise and promise, how could I fail to pause over Therese Huston's _Teaching What You Don't Know_? I have found myself in this situation several times in the past, either through hubris or bureaucracy, and the hopeful existence of a manual to smooth my way was too much to pass up. Huston presents a practical survey of the reality of teaching a subject in which one is not an expert, as well as a number of strategies for mitigating classroom disarray and providing a solid learning experience for students.
 
 Much of the beginning of the book is an _apologia_ for the affront the premise surely makes: after all, as professors and postdocs and lecturers, members and administrators of the academy, certainly we would not expect a non-expert to teach an expert subject? Of course, the reality is that the show must go on, and if there is no one else it must inevitably fall to you, Dear Reader, to teach the topic at hand. All in all, this section is a bit longer than it probably needs to be for the book's target audience, but perhaps serves as justificatory prose for committee meetings on teaching assignments. (Administrators are also addressed again at the end of the text.)
 
@@ -21,11 +21,11 @@ Many of Huston's recommendations will come as no surprise to Carpentries instruc
 
 - Create a positive learning environment, which stems from many factors other than expertise, many environmental.
 - Proceed inductively, from concrete examples to theory, rather than deductively. In particular, invite students to participate in the process of generating examples and scenarios.
-- Gauge student expectations and manage them by being transparent about your own familiarity and competence. do not present yourself as more capable in the domain than you are, and conversely do not undermine your rôle as instructor through self-deprecation.
+- Gauge student expectations and manage them by being transparent about your own familiarity and competence. Do not present yourself as more capable in the domain than you are, and conversely do not undermine your rôle as instructor through self-deprecation.
 - Manage imposter syndrome by facing it directly. Instructors who most enjoyed teaching outside of their expertise were those who "truly enjoyed being content novices" (p. 39) and had developed philosophies of teaching that didn't require expertise for success.
 - Focus on aspects of the material that you find interesting (and also those that engage your students).
 - Handle questions you do not know the answer to. (Her answer is on pages 121–128.)
-- do not over prepare, and do not focus too much on enumerated lists and outlines. These are both crutches. So what do you do if you have too much time on your hands? Have an emergency (undated) activity ready to go.
+- Do not over prepare, and do not focus too much on enumerated lists and outlines. These are both crutches. So what do you do if you have too much time on your hands? Have an emergency (undated) activity ready to go.
 - Use activities which involve discussion, peer review, and other student initiatives.
 - Solicit feedback, early and often. 'Nuff said.
 
