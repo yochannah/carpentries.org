@@ -1,6 +1,6 @@
 ---
 layout: reactable
-permalink: community-lessons
+permalink: community-lessons/
 title: Community Developed Lessons
 ---
 

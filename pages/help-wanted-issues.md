@@ -1,6 +1,6 @@
 ---
 layout: reactable
-permalink: help-wanted-issues
+permalink: help-wanted-issues/
 title: List of GitHub issues with the tag 'help wanted'
 ---
 
