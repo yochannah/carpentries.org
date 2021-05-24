@@ -215,15 +215,41 @@ In Q1 2019, the business Team worked on updating our grants collaboration workfl
 </details>
 
 ## Community Development Team
-<br>Angelique Trusler · Kari L. Jordan · Kelly Barnes · Omar Khan · Serah Rono · Toby Hodges
 
-Led by Serah Njambi Rono, the Community Development Team works to develop and maintain an open and welcoming community culture by developing, testing and implementing various communication strategies, supporting our various committees and task forces, and by introducing and running various initiatives that result in increased pathways for collaboration in our community, as well as equitable  distribution of resources, opportunities and access to inclusive spaces for our community members globally. The Carpentries Executive Director - Kari Jordan, Communications Manager - Omar Khan, Regional Consultant for Southern Africa - Angelique Trusler, Deputy Director of Instructor Training - Kelly Barnes and our incoming Curriculum Community Developer all sit on this team. Chris Erdmann and Tracy Teal also served in this team in 2019. Some of the projects the Community Development Team has embarked on since January 2019 include:
-developing and implementing a communications strategy for The Carpentries, updating our Code of Conduct documentation with the Code of Conduct Committee, The Carpentries Values Project, The Carpentries Tagathon, The Carpentries Gratitudes project among others. You can find more details about their quarterly project work below.
+<br>Angelique Trusler · Kelly Barnes · Omar Khan · Serah Rono · Toby Hodges
+
+Led by Serah Njambi Rono, the Community Development Team works to develop and maintain an open and welcoming community culture by developing, testing and implementing various communication strategies, supporting our various committees and task forces, and by introducing and running various initiatives that result in increased pathways for collaboration in our community, as well as equitable  distribution of resources, opportunities and access to inclusive spaces for our community members globally. Communications Manager - Omar Khan, Regional Consultant for Southern Africa - Angelique van Rensburg, Deputy Director of Instructor Training - Kelly Barnes and our incoming Curriculum Community Developer all sit on this team. Kari L. Jordan served in this team in 2019 and 2020. Chris Erdmann and Tracy Teal also served in this team in 2019. Some of the projects the Community Development Team has embarked on since January 2019 include:
+setting up the Community Facilitators Program in The Carpentries, developing and implementing a communications strategy for The Carpentries, updating our Code of Conduct documentation with the Code of Conduct Committee, The Carpentries Values Project, The Carpentries Tagathon, The Carpentries Gratitudes project among others. You can find more details about their quarterly project work below.
 
 <details>
 <summary>
 <strong>Community Development Team's Quarterly Projects</strong>
 </summary>
+
+
+<details>
+<summary>
+<strong>January - March (Q1) 2021</strong>
+</summary>
+
+Angelique Trusler · Kelly Barnes · Omar Khan · Serah Rono · Toby Hodges
+
+In Q1 2021,
+- Led by Angelique Trusler, planning work around CarpentryConnect South Africa began. CarpentryConnects are local and regional community events, organised to bring together community members of The Carpentries that are in close proximity geographically for knowledge exchange, collaboration, and networking. CarpentryConnect South Africa [is funded by Code for Science and Society’s Event Fund](https://eventfund.codeforscience.org/announcing/).
+- Omar and Angelique prepared communications resources to support outreach efforts for The Carpentries Membership program,
+- Serah and Toby facilitated a workshop on Community Sustainability for Research Software Engineers in the SORSE community. [The session recording is available on YouTube](https://youtu.be/jEfIKuxCcM0), and here is a summary [blog post from the discussion on community sustainability](https://carpentries.org/blog/2021/04/community-sustainability/).
+- Serah worked on a first draft of the Code of Conduct facilitators module. The Code of Conduct facilitation module of the Community Facilitators Program hopes to prepare community members to bridge between community members at events and our Code of Conduct processes. The resource draft is currently being reviewed by Core Team and the Code of Conduct committee. Once ready, [the module will be published here on GitHub](https://carpentries.github.io/community-facilitators-program/03-0-code-of-conduct-facilitation/index.html) in May 2021.
+- Serah gave a talk and developed a checklist on prioritising accessibility in online events at a session targeted at Code for Science and Society’s Event Fund grantees. Here’s a blog post summarising nuggets from the talk, and detailing the checklist https://carpentries.org/blog/2021/02/prioritising-accessibility-virtual-events/
+- Serah prepared guidelines to empower our community to collectively improve accessibility of resources in The Carpentries - https://carpentries.org/blog/2021/02/improving-accessibility-across-carpentries-resources/ 
+- At our Core Team Virtual Retreat in March 2021
+  - Omar led a Brand Identity workshop with the goal to give the team a shared understanding of the work and process around developing an organisation’s brand
+  - Angelique led a session in resilience that included activities encouraging positive adjustment to challenging life circumstances. The session was based on the intervention strategy entitled "Khazimula!" which originated from the Pathways to Resilience project that took place in South Africa from 2009 to 2014. 
+  - Serah and Toby led a two-hour workshop at The Carpentries Core Team retreat in March 2021. The goal of the session was two-fold:
+    1. to give an orientation on the different [sub-communities in The Carpentries](http://carpentries.org/community/), and expound on how they interact to support our programming as an organisation, and 
+    2. to create a shared understanding of our role as Core Team in informing and enabling community efforts in a volunteer/community-led organisation.
+
+</details>
+
 
 <details>
 <summary>
