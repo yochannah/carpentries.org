@@ -24,4 +24,4 @@ Its target audience is researchers who have little to no prior computational exp
 enable them to quickly apply skills learned to their own research. Participants are encouraged to help one another and to apply what they have learned to their 
 own research problems.Lessons included data organising and cleaning in spreadsheets and with OpenRefine, and data analysis and visualisation with R and RStudio. 
 
-Please contact [eresearch-support@uwc.ac.za](eresearch-support@uwc.ac.za) if you would like to be added to the UWC Carpentries mailing list.
+Please contact [eresearch-support@uwc.ac.za](mailto:eresearch-support@uwc.ac.za) if you would like to be added to the UWC Carpentries mailing list.
