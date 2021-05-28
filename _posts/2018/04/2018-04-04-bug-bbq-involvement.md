@@ -37,9 +37,9 @@ We will use Slack to communicate and coordinate. Feel free to ask questions in t
 
 We suggest you coordinate with your co-maintainers to decide who will be online when. If at least one member of your lesson can check-in every few hours to review pull requests, provide feedback on the issues that are being opened, and monitor the Slack channels that would be great. If you can spread the load of this work among the maintainers that makes it easier. We [prepared a spreadsheet](https://docs.google.com/spreadsheets/d/1FRsvOara8gTHqHEHoVNi9nBhsk2UXSb2tBmxHCIO1D8/edit?usp=sharing) for you to complete so that you can indicate your availability. This spreadsheet has tabs for Geospatial and Social Sciences (which are preparing for their first publication) and another tab for the other lessons that are part of the event.
 
-We also suggest that you prepare your repository for the Bug BBQ. Close stale issues and pull requests, assign at least one of each "type" and "status" GitHub label to the relevant issues, open issues for things you know need to be addressed. do not forget to add the "good first issue" and "help wanted" labels to the relevant issues to make it easier for new contributors to identify things they can work on relatively easily.
+We also suggest that you prepare your repository for the Bug BBQ. Close stale issues and pull requests, assign at least one of each "type" and "status" GitHub label to the relevant issues, open issues for things you know need to be addressed. Do not forget to add the "good first issue" and "help wanted" labels to the relevant issues to make it easier for new contributors to identify things they can work on relatively easily.
 
-do not hesitate to contact [François](mailto:francois@carpentries.org) or [Erin](mailto:ebecker@carpentries), or leave a message on Slack if you have any questions. If there is anything we can do to make it easier for you to participate in the Bug BBQ, let us know.
+Do not hesitate to contact [François](mailto:francois@carpentries.org) or [Erin](mailto:ebecker@carpentries), or leave a message on Slack if you have any questions. If there is anything we can do to make it easier for you to participate in the Bug BBQ, let us know.
 
 
 ## I'm a maintainer, what do I need to do during the Bug BBQ?

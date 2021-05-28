@@ -28,7 +28,7 @@ description: "The Carpentries is a fiscally sponsored project of <a href='http:/
 # See > authors.yml
 author: admin
 
-# This URL is the main address for absolute links. do not include a slash at the end.
+# This URL is the main address for absolute links. Do not include a slash at the end.
 #
 url: 'https://carpentries.org'
 baseurl: ''
@@ -130,7 +130,7 @@ jekyll_get_json:
 # The language setting is used in /includes/header.html for html-settings
 language: "en"
 
-# do not display future posts
+# Do not display future posts
 future: false
 
 # Used › default.html front-matter and compress.html
