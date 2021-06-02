@@ -26,14 +26,14 @@ and research software development through building local and global communities 
 
 * Supporting regional communities of practice:
 	* [Carpentries en Latinoamérica](#carpentries-en-latinoamérica) - building The Carpentries community across Latin America
-	* Carpentries community in Africa  - building The Carpentries community across Africa
-	* Carpentries community in Middle East and North Africa 
-	* Carpentries community in New Zealand and Australia
-	* Carpentries community in the Nordics and Baltics
-	* Carpentries community in Japan
-	* Carpentries community in DACH countries
-	* Carpentries community in the UK
-	* Carpentries community in Canada
+	* [Carpentries community in Africa](#carpentries-in-africa)  - building The Carpentries community across Africa
+	* [Carpentries community in Middle East and North Africa](#carpentries-in-middle-east-and-north-africa)
+	* [Carpentries community in New Zealand and Australia](#carpentries-in-new-zealand-and-australia)
+	* [Carpentries community in the Nordics and Baltics](#carpentries-in-the-nordics-and-baltics)
+	* [Carpentries community in Japan](#carpentries-in-japan)
+	* [Carpentries community in DACH countries](#carpentries-in-dach-countries)
+	* [Carpentries community in the UK](#carpentries-in-the-uk)
+	* [Carpentries community in Canada](#carpentries-in-canada)
 
 * Keeping our community strong and connected through meetups (virtual and in-person) and interest-specific mailing lists
 	*	[CarpentryCon](#carpentrycon) - our annual in-person meetup for our global community
@@ -207,13 +207,6 @@ The Carpentries is a community-led project. We are committed to creating a frien
 * Mailing list: This mailing list is confidential.
 * For more information contact [Karin Lagesen](mailto:karin.lagesen@gmail.com).
 
-### Carpentries en Latinoamérica
-
-This group works to build a sustainable and active community in Latin America.
-
-* [Mailing list](https://carpentries.topicbox.com/groups/local-latinoamerica)
-* For more information contact [Rayna Harris](mailto:rayna.harris@gmail.com).
-
 ### Spanish Translators Team
 
 The Spanish Translators Team translates and maintains Spanish-language lessons for The Carpentries lesson programs. They are a part of The Carpentries en Latinoamérica group.
@@ -223,14 +216,80 @@ The Spanish Translators Team translates and maintains Spanish-language lessons f
 * [Meeting minutes](https://github.com/carpentries/latinoamerica/tree/master/traducciones/minutos)
 * For more information contact [Rayna Harris](mailto:rayna.harris@gmail.com).
 
-### The Carpentries in Africa
+### Regional Communities
+
+#### Carpentries en Latinoamérica
+
+This group works to build a sustainable and active community in Latin America.
+
+* [Mailing list](https://carpentries.topicbox.com/groups/local-latinoamerica)
+* For more information contact [Rayna Harris](mailto:rayna.harris@gmail.com).
+
+#### Carpentries in Africa
 
 The Carpentries Instructor community in Africa is growing, with over a hundred certified instructors in 2018!
 
 * [Activities](https://docs.carpentries.org/topic_folders/regional_communities/african_task_force.html#what-we-do)
-* [Join](https://docs.carpentries.org/topic_folders/regional_communities/african_task_force.html#join-us)
-* [Upcoming meetings](http://pad.software-carpentry.org/ZA-community-call)
+* [Join Slack and Mailing List](https://docs.carpentries.org/topic_folders/regional_communities/african_task_force.html#join-us)
+* [Community Etherpad](http://pad.software-carpentry.org/ZA-community-call)
 * [Contact](mailto:admin-afr@carpentries.org)
+
+#### Carpentries in Canada
+
+Here are details about The Carpentries Instructor community in  Canada:
+
+* [Join Vancouver's mailing list](https://carpentries.topicbox.com/groups/local-vancouver)
+* [Contact](mailto:admin-ca@carpentries.org)
+
+#### Carpentries in Middle East and North Africa 
+
+We have a budding Carpentries Instructor community in Middle East and North Africa, here is how to join in:
+
+* [Activities and collaborative work on GitHub](https://github.com/The-Carpentries-Community-in-MENA)
+* [Join mailing list](https://carpentries.topicbox.com/groups/local-middle-east)
+* [Community Etherpad](https://pad.carpentries.org/local-middle-east)
+* [Contact](mailto:local-middle-east@lists.carpentries.org)
+
+#### Carpentries in New Zealand and Australia
+
+Here are details about The Carpentries Instructor community in Australia and New Zealand:
+
+* [Join Carpentries AU-NZ on Slack](https://swcarpentry.slack.com/archives/CH9MDCTSM)
+* [Join mailing list](https://carpentries.topicbox.com/groups/local-aunz)
+* [Contact](mailto:local-aunz@lists.carpentries.org)
+
+
+#### Carpentries in the Nordics and Baltics
+
+Here are details about The Carpentries Instructor community in the Nordics:
+
+* [Join Carpentries Nordics on Slack](https://swcarpentry.slack.com/archives/CH9MDCTSM)
+* [Join mailing list](https://carpentries.topicbox.com/groups/local-nordic)
+* [Contact](mailto:local-nordic@lists.carpentries.org)
+* [Carpentries Nordics CodiMD](https://codimd.carpentries.org/nordic-community-call)
+
+
+#### Carpentries in Japan
+
+Here are details about The Carpentries Instructor community in the Nordics:
+
+* [Activities and collaborative work on GitHub](https://github.com/swcarpentry-ja)
+* Join Carpentries Japan on Slack - English](https://carpentries-jp-en.herokuapp.com/)
+* [Join Carpentries Japan on Slack - 日本語](https://carpentries-ja.herokuapp.com/)
+* [Carpentries Japan on Twitter](https://twitter.com/swcarpentry_ja)
+
+
+#### Carpentries in DACH countries
+
+* [Join mailing list](https://carpentries.topicbox.com/groups/local-dach)
+* [Contact](mailto:local-dach@lists.carpentries.org)
+
+
+#### Carpentries in the UK
+
+* [Join Carpentries UK on Slack](https://swcarpentry.slack.com/archives/CLE8WUGMA)
+* [Join mailing list](https://carpentries.topicbox.com/groups/local-uk)
+* [Contact](mailto:local-uk@lists.carpentries.org)
 
 ### CarpentryCon
 
