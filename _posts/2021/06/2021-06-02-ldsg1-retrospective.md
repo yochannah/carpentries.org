@@ -84,6 +84,7 @@ and to the following people who provided ideas and support at various stages of 
 [it]: https://carpentries.github.io/instructor-training/
 [ldsg-announcement-post]: https://carpentries.org/blog/2020/12/lesson-development-study-groups/
 [ldsg-repo]: https://github.com/carpentries-incubator/study-groups/
+[lesson-example]: https://carpentries.github.io/lesson-example/
 [lesson-template-redesign-post]: https://carpentries.org/blog/2020/08/lesson-template-design/
 [study-groups]: https://carpentries-incubator.github.io/study-groups/
 [toby]: mailto:tobyhodges@carpentries.org
