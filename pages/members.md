@@ -35,6 +35,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - New England Software Carpentry Library Consortium
 - Oak Ridge National Laboratory
 - Oklahoma State University
+- Tree of Life Program, Wellcome Sanger Institute
 - Smithsonian Institution
 - South Big Data Innovation Hub
 - The Carpentries in Austria
