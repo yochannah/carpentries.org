@@ -11,7 +11,8 @@ To make sure work that is important, but not urgent, is prioritised and gets don
 You can read more about the thought process and rollout behind this current strategy [in this 2019 blog post](https://carpentries.org/blog/2019/02/projects-teams-job-plans/).
 
 ## Executive Team
-<br/> Erin Becker · François Michonneau · Kari L. Jordan
+<br>Team Lead: Kari L. Jordan
+<br>Team Members: Erin Becker · François Michonneau
 
 Led by Kari L. Jordan, the Executive Team proactively brings together perspectives from all individual programmatic teams and established community segments. They discuss and resolve ongoing challenges, develop and implement a shared approach to management and leadership, review and make decisions on budget, oversee and make decisions on Core Team roles and responsibilities, establish and support how the Core Team works together, oversee project work, support the development of revenue opportunities including grants, and support the Executive Director in their work with the Executive Council.
 
@@ -103,7 +104,8 @@ Each staff team project will need sign-off from the Assessment and Equity and In
 </details>
 
 ## Business Team
-<br/> Kari L. Jordan · Talisha Sutton-Kennedy
+<br/>Team Lead: Kari L. Jordan
+<br/>Team Members: Talisha Sutton-Kennedy
 
 Led by Kari Jordan, the Business Team works on the legal and financial aspects of our project and coordinates with our fiscal sponsor, Community Initiatives. Together with her team member, Talisha Sutton-Kennedy, Kari consistently evaluates and plans for our financial sustainability. Elizabeth Williams and Tracy Teal previously served on this team. Some of the projects the Business Team has embarked on since January 2019 include updating our grants collaboration workflow and producing a 2018 Annual Financial Report to support the Executive Council in strategic planning. More details about their quarterly projects is available below.
 
@@ -216,7 +218,8 @@ In Q1 2019, the business Team worked on updating our grants collaboration workfl
 
 ## Community Development Team
 
-<br>Angelique Trusler · Kelly Barnes · Omar Khan · Serah Rono · Toby Hodges
+<br>Team Lead: Serah Rono
+<br>Team Members: Angelique Trusler · Kelly Barnes · Omar Khan · Toby Hodges
 
 Led by Serah Njambi Rono, the Community Development Team works to develop and maintain an open and welcoming community culture by developing, testing and implementing various communication strategies, supporting our various committees and task forces, and by introducing and running various initiatives that result in increased pathways for collaboration in our community, as well as equitable  distribution of resources, opportunities and access to inclusive spaces for our community members globally. Communications Manager - Omar Khan, Regional Consultant for Southern Africa - Angelique van Rensburg, Deputy Director of Instructor Training - Kelly Barnes and our incoming Curriculum Community Developer all sit on this team. Kari L. Jordan served in this team in 2019 and 2020. Chris Erdmann and Tracy Teal also served in this team in 2019. Some of the projects the Community Development Team has embarked on since January 2019 include:
 setting up the Community Facilitators Program in The Carpentries, developing and implementing a communications strategy for The Carpentries, updating our Code of Conduct documentation with the Code of Conduct Committee, The Carpentries Values Project, The Carpentries Tagathon, The Carpentries Gratitudes project among others. You can find more details about their quarterly project work below.
@@ -421,12 +424,14 @@ In Q1 2019,  the Community Development Team worked on developing a communication
 </details>
 
 ## Curriculum Team
-<br/>Erin Becker · François Michonneau · Zhian Kamvar · Toby Hodges
+<br>Team Lead: Toby Hodges
+<br>Team Members: François Michonneau · Zhian Kamvar
 
-Led by Erin Becker, the Curriculum Team guides and oversees curriculum
+Led by Toby Hodges, the Curriculum Team guides and oversees curriculum
 development and maintenance and works closely with our Maintainer community and
-Curriculum Advisor committees. François Michonneau, Toby Hodges, and Zhian
-Kamvar are members of the Curriculum Team. Some of the projects the Curriculum
+Curriculum Advisor committees. François Michonneau and Zhian
+Kamvar are members of the Curriculum Team. Erin Becker previously 
+served on this team. Some of the projects the Curriculum
 Team has embarked on since January 2019 include: updating the format of
 Maintainer meetings, producing a first draft of a Curriculum Development
 Handbook, working with the Genomics R Maintainers to make progress towards
@@ -562,7 +567,8 @@ In Q1 2019, the Curriculum Team worked on updating the format of [Maintainer mee
 </details>
 
 ## Infrastructure Team
-<br>François Michonneau · Maneesha Sane · Zhian Kamvar
+<br>Team Lead: François Michonneau
+<br>Team Members: Maneesha Sane
 
 Led by François Michonneau, the Infrastructure Team is behind all of the systems that keep our organisation running (including Etherpads, lesson templates, database management and more!). Maneesha Sane and Zhian Kamvar are members of the Infrastructure Team. Tracy Teal previously served in this team. Some of the projects the Infrastructure Team has embarked on since January 2019 include: organising and documenting our infrastructure systems, and migrating our surveys from SurveyMonkey to Typeform. You can find more details about their quarterly projects work below.
 
@@ -672,9 +678,10 @@ In Q1 2019, the Infrastructure Team worked on organising and documenting our inf
 </details>
 
 ## Instructor Training Team
-<br> Karen Word · Kelly Barnes · Maneesha Sane · Talisha Sutton-Kennedy · Sher! Hurt
+<br> Team Lead: Karen Word
+<br> Team Members: Kelly Barnes · Maneesha Sane · Talisha Sutton-Kennedy 
 
-Led by Karen Word, the Instructor Training Team manages our Instructor Training and Trainer Training programs and curricula and works closely with our Trainer community. The members of the Instructor Training Team are Talisha Sutton-Kennedy, Sher! Hurt, Maneesha Sane and Kelly Barnes. Some of the projects the Instructor Training Team has embarked on since January 2019 include: a workflow for offering a-la carte Instructor Trainings outside of our membership program. You can find more details about their quarterly projects work below.
+Led by Karen Word, the Instructor Training Team manages our Instructor Training and Trainer Training programs and curricula and works closely with our Trainer community. The members of the Instructor Training Team are Kelly Barnes, Maneesha Sane, and Talisha Sutton-Kennedy.  Sher! Hurt previously served on this team. Some of the projects the Instructor Training Team has embarked on since January 2019 include: a workflow for offering a-la carte Instructor Trainings outside of our membership program. You can find more details about their quarterly projects work below.
 
 <details>
 <summary>
@@ -793,9 +800,10 @@ In Q1 2019, the Instructor Training Team worked on producing a workflow for offe
 </details>
 
 ## Membership Team
-<br/>Erin Becker · François Michonneau · Karen Word · Kari L. Jordan · Serah Rono · Sher! Hurt · Angelique Trusler
+<br>Team Lead: Al Obayuwana 
+<br>Team Members: Angelique Trusler · Kari Jordan · Talisha Sutton-Kennedy
 
-Led by Erin Becker, the Membership Team coordinates the growing number of Carpentries Member Organisations, which build local communities and bring together all The Carpentries programs at organisations across the globe. Some of the projects the Membership Team has embarked on since January 2019 include: creating and deploying a membership survey. You can find more details about their quarterly projects work below.
+Led by Al Obayuwana, the Membership Team coordinates the growing number of Carpentries Member Organisations, which build local communities and bring together all The Carpentries programs at organisations across the globe. Some of the projects the Membership Team has embarked on since January 2019 include: creating and deploying a membership survey. You can find more details about their quarterly projects work below.
 
 <details>
 <summary>
@@ -871,9 +879,10 @@ In Q1 2019, the Membership Team worked on [creating and deploying a membership s
 </details>
 
 ## Workshop Administration Team
-<br/>Angelique Trusler · Maneesha Sane · SherAaron Hurt · Danielle Sieh · Talisha Sutton-Kennedy
+<br>Team Lead: SherAaron Hurt
+<br>Team Members:  Angelique Trusler · Danielle Sieh · Maneesha Sane · Talisha Sutton-Kennedy
 
-Led by SherAaron Hurt, the Workshop Team develops and implements workflows to keep our workshops running smoothly. This team also supports the work of regional workshop administrators. Angelique Trusler, Maneesha Sane and Talisha Sutton-Kennedy are members of the Workshop Administration Team.  Some of the projects the Workshop Team has embarked on since January 2019 include: working with the workshop administrators, they will be developing a workshop workflow automation priority list. You can find more details about their quarterly projects work below.
+Led by SherAaron Hurt, the Workshop Team develops and implements workflows to keep our workshops running smoothly. This team also supports the work of regional workshop administrators. Angelique Trusler, Danielle Sieh, Maneesha Sane and Talisha Sutton-Kennedy are members of the Workshop Administration Team.  Some of the projects the Workshop Team has embarked on since January 2019 include: working with the workshop administrators, they will be developing a workshop workflow automation priority list. You can find more details about their quarterly projects work below.
 
 <details>
 <summary>
