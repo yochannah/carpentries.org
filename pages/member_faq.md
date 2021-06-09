@@ -6,8 +6,8 @@ permalink: /member_faq/
 
 
 - [Memberships](#memberships)
-- [Technical Workshops](#technical-workshops)
-- [Instructor Training Workshops](#instructor-training-workshops)
+- [Workshops](#technical-workshops)
+- [Instructor Training](#instructor-training-workshops)
 - [Contact us](#contact-us)
 
 
@@ -17,28 +17,28 @@ permalink: /member_faq/
 We offer Bronze, Silver and Gold membership packages, each with an allotted number of seats in our [Instructor Training](https://carpentries.github.io/instructor-training/) program, and with an allotted number of [workshops](/workshops) we will coordinate for you. We also offer Platinum plans, which we customize based on an individual institution’s needs.  Read more about the costs and benefits of each plan on our [membership](/membership) page.  
 
 1. **What if those membership packages do not fit my institution’s needs?**<br>
-We’d be happy to talk with you to learn more about your institution’s goals and create a custom plan that works for you. However, this can take some time as we currently receive more inquiries than we have the staffing to address. Contact us at [membership@carpentries.org](mailto:membership@carpentries.org) to learn more.
+We’d be happy to talk with you to learn more about your institution’s goals and create a custom plan that works for you.  Contact our membership team to schedule a meeting at [membership@carpentries.org](mailto:membership@carpentries.org).
 
 1. **Do I need to renew my membership each year?**<br>
-Yes, annual memberships expire one year from the date the agreement is signed.  Contact our Membership team at [membership@carpentries.org](mailto:membership@carpentries.org) to learn more.
+Yes, annual memberships expire one year from the date the agreement is signed. However, in some cases multiple years of a membership can be purchased up front. Contact our Membership team at [membership@carpentries.org](mailto:membership@carpentries.org) to learn more.
 
-## Technical Workshops
+## Workshops
 
-1. **How do your technical workshops run? Does this differ based on my membership package?**<br>
+1. **How do your workshops run? Does this differ based on my membership package?**<br>
 [Centrally-Organised workshops](/workshops/#workshop-organising) receive the same level of support under all circumstances.  The only difference based on membership level is the number of workshops organised for you.  Silver members receive four Centrally-Organised workshops; Gold members receive six. Workshops can cover curricula from any of our lesson programs: [Data Carpentry](https://datacarpentry.org/lessons/), [Library Carpentry](https://librarycarpentry.org/lessons/), or [Software Carpentry](https://software-carpentry.org/lessons/).  Contact us at [{{ site.contact }}](mailto:{{ site.contact }}) to learn more about our workshop operations.<br><br>
 Centrally-Organised workshops can also be purchased [a-la-carte](/workshops/#workshop-organising), or added to an existing membership at a discount determined by the membership level. If you would like to run a Centrally-Organised workshop in order to demonstrate the value of Carpentries Membership at your organisation, we will count the workshop fee paid at the time towards a membership if purchased within the next calendar year.
 
 
-1. **How soon after signing my membership can I get started with hosting technical workshops?**<br>
-Right away! You can request technical workshops as soon as your membership agreement is in place by completing [this form]({{ site.wrf_landing }}). To allow us time to recruit instructors and give them time to plan the workshop with you, we generally require 2-3 months lead time to schedule a workshop.  
+1. **How soon after signing my membership can I get started with hosting workshops?**<br>
+Right away! You can request workshops as soon as your membership agreement is in place by completing [this form]({{ site.wrf_landing }}). To allow us time to recruit instructors and give them time to plan the workshop with you, we generally require 2-3 months lead time to schedule a workshop.  
 
-1. **Can I run my own technical workshops without organisational support from The Carpentries?**<br>
-Yes! Once you start building a team of trained and certified Instructors, you can work with them to run Self-Organised workshops. The Carpentries staff does not offer organisational support in running Self-Organised workshops, beyond providing survey links and tracking Instructor and Helper participation. Self-Organised workshops do not count against the number of workshops included in your membership agreement.  There is no limit to the number of Self-Organised workshops you can run, regardless of your membership status.
+1. **Can I run my own workshops without organisational support from The Carpentries?**<br>
+Yes! Once you start building a team of trained and certified Instructors, you can work with them to run Self-Organised workshops. The Carpentries staff will still provide survey links and tracking of Instructor and Helper participation. Self-Organised workshops do not count against the number of workshops included in your membership agreement.  There is no limit to the number of Self-Organised workshops you can run, regardless of membership type.
 
 1. **What happens if I want to run more Centrally-Organised workshops than my agreement allows?**<br>
 You are welcome to request more workshops. After you have completed your allotted workshops, any additional workshops are billed at a discount. Our current [workshop fee schedule is here](/workshops/#workshop-organising).
 
-## Instructor Training Workshops
+## Instructor Training
 
 1. **How do your Instructor Training workshops run? Does this differ based on my membership package?**<br>
 The [Carpentries Instructor Training workshop](https://carpentries.github.io/instructor-training/) is fundamentally the same for all sites and membership packages; only the mode of delivery differs between in-person and online workshops, and both are highly rated by trainees. This is a high-engagement, interactive, multi-day workshop, led by pedagogically trained community members. The number of seats and potential for in-person training depends on your membership package. Silver members receive 6 Instructor Training seats; Gold members receive 15. We encourage all of our members to participate in our online training program. For Gold and Platinum member sites, there may also be opportunities to schedule in-person training events locally, contingent upon availability of Instructor Trainers.  <br>Contact us at [{{ site.contact }}](mailto:{{ site.contact }}) to learn more about our Instructor Training program.
@@ -61,7 +61,7 @@ The choice of trainees is at the discretion of the member organisation. We recom
 For best results, we recommend tracking this locally. Keeping in touch with trainees can have additional value in building your local community. Due to regional variation in privacy laws and delays in our registration workflows, not all information from our database is guaranteed to be available or fully up to date. You are welcome to email us at [{{ site.contact }}](mailto:{{ site.contact }}) at any time with a request for information. We will reply within 3-5 business days with the information we can provide.
 
 1. **What if I do not use all of my training seats before the end of my membership?**<br>
-The success of our program depends on accurately predicting our capacity needs, so we may not be able to accommodate all situations.  However, we know unexpected things can come up. If you are nearing the end of your membership term and have not used all your seats, please contact us at [{{ site.contact }}](mailto:{{ site.contact }}) so we can consider extending your term or rolling your seats over to a new term.  
+The success of our program depends on accurately predicting our capacity needs, so we may not be able to accommodate all situations.  However, we know unexpected things can come up. If you are nearing the end of your membership term and have not used all your seats, please contact us at [{{ site.contact }}](mailto:{{ site.contact }}).
 
 1. **What happens if I want to train more people at my site than my agreement allows?**<br>
 You are welcome to purchase additional seats in our instructor training program. Please contact [membership@carpentries.org](membership@carpentries.org) if you would like to customize a member agreement with additional seats for Instructor Training.
