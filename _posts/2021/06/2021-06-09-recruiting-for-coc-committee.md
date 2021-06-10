@@ -5,7 +5,7 @@ teaser: "Code of Conduct Committee is recruiting new members. Attend one of our 
 title: "Recruiting new members to the Code of Conduct Committee"
 date: 2021-06-09
 time: "00:00:00"
-tags: ["Community", "Code of Conduct"]
+tags: ["Community", "Code of Conduct", "Discussion Sessions"]
 ---
 
 The Carpentries are committed to providing a welcoming and supportive environment for all people, and our [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) (CoC) is the framework for this commitment. The [Code of Conduct Committee](https://carpentries.org/coc-ctte/) (CoCC) is responsible for managing the Code of Conduct, handling reports of conduct violations, and advocating for the CoC in the community.
