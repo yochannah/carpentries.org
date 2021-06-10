@@ -85,7 +85,8 @@ If you are scheduled to teach a Carpentries workshop and the host cancels, you w
 
 ### How soon can I request a Carpentries workshop?
 
-The Carpentries workshops are offered on-demand, not on a set schedule. We ask for a minimum of 2-3 months lead time to organise the workshop. If a request is less than 2 months, there will be no guarantee that we will be able to provide Instructors for your workshop.
+The Carpentries workshops are offered on-demand, not on a set schedule. We ask for a minimum of 2-3 months lead time to organise the workshop. If a request is less than 2 months, there will be no guarantee that we will be able to provide Instructors for your workshop. Please be advised that a workshop will not be scheduled until it has been confirmed by the host and The Carpentries Workshop Administrator. Our workshops are organised based on the order the Workshop Request Form is received and finalized. 
+
 
 ### My currency is not USD, will I get invoiced in USD or my local currency?
 
