@@ -43,9 +43,9 @@ Other sessions include:
 
 ### Volunteer as instructor, helper or trainer ###
 
-This event can happen only with your help. [Sign up here](https://docs.google.com/spreadsheets/d/1YhTAzEalDqKUowgej7aRa7E1K0XcB6ZezoVUt6VN2qY/edit#gid=757335911) or reach out to the organising committee to hear how you can volunteer as an instructor, helper or trainer at admin-afr@carpentries.org 
+This event can happen only with your help. [Sign up here](https://docs.google.com/spreadsheets/d/1YhTAzEalDqKUowgej7aRa7E1K0XcB6ZezoVUt6VN2qY/edit#gid=757335911) or reach out to the organising committee to hear how you can volunteer as an instructor, helper or trainer at <admin-afr@carpentries.org> 
 
 
 ### More information ###
 
-If you have any questions or would like more information about CarpentryConnect South Africa, please email visit the [website](http://za2021.carpentryconnect.org/) or email admin-afr@carpentries.org. Additionally, consider subscribing to the [African Carpentries mailing list](https://carpentries.topicbox.com/groups/local-africa) to stay updated about future training opportunities and community events.
+If you have any questions or would like more information about CarpentryConnect South Africa, please email visit the [website](http://za2021.carpentryconnect.org/) or email <admin-afr@carpentries.org>. Additionally, consider subscribing to the [African Carpentries mailing list](https://carpentries.topicbox.com/groups/local-africa) to stay updated about future training opportunities and community events.
