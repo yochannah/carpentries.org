@@ -20,7 +20,7 @@ Date and time reflected in other time zones:
 -	Europe/London:  Thursday 24 June 2021 3:00 AM
 -	Africa/Johannesburg:  Thursday 24 June 2021 4:00 AM
 -	Australia/Sydney:  Thursday 24 June 2021 12:00 PM
--	[See the start time in your time zone] (https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Community+Discussion&iso=20210624T0200)
+-	[See the start time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Community+Discussion&iso=20210624T0200)
 
 ### Session 2: Tuesday 29 June 2021 at 2:00 PM UTC
 Date and time reflected in other time zones:
@@ -29,7 +29,7 @@ Date and time reflected in other time zones:
 -	Europe/London:  Tuesday 29 June 2021 3:00 PM
 -	Africa/Johannesburg:  Tuesday 29 June 2021 4:00 PM
 -	Australia/Sydney:  Wednesday 30 June 2021 12:00 AM
--	[See the start time in your time zone] (https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Community+Discussion&iso=20210608T1400)
+-	[See the start time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Community+Discussion&iso=20210608T1400)
 
 Mark your calendar and sign up to attend on the [community discussion etherpad](https://pad.carpentries.org/community-discussions).
 
