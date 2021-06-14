@@ -2,7 +2,7 @@
 layout: page
 authors: ["Talisha Sutton-Kennedy"]
 teaser: "We have two themed discussions on the financial report scheduled for June."
-title: "2020 Financial Report Carpentries Conversations”
+title: "2020 Financial Report Carpentries Conversations"
 date: 2021-06-15
 time: "00:00:00"
 tags: ["Communications", "Reports"]
