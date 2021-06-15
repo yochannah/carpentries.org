@@ -28,7 +28,7 @@ Other sessions include:
 
 **Keynote:** CarpentryConnect South Africa's blurb in 2021 will be delivered by Dr Kari L. Jordan, Executive Director at The Carpentries on *Monday 6 September at 14:00 SAST*. [Register here](https://www.eventbrite.com/e/carpentryconnect-south-africa-2021-registration-159159960727).
 
-**Networking events**: The CarpentryConnect South Africa organising team will also host two networking events (*Tuesday 7 and Thursday 16 September at 14:00 SAST*) for our Carpentries community. These will be great opportunities to connect with like-minded people in a fun, collaborative and interactive online events. [Register here](https://www.eventbrite.com/e/carpentryconnect-south-africa-2021-registration-159159960727).
+**Networking events**: The CarpentryConnect South Africa organising team will also host two networking events (*Tuesday 7 and Thursday 16 September at 14:00 SAST*) for our Carpentries community. These will be great opportunities to connect with like-minded people in fun, collaborative and interactive online events. [Register here](https://www.eventbrite.com/e/carpentryconnect-south-africa-2021-registration-159159960727).
 
 **Closing**: On *Friday 17 September at 14:00 SAST* we would like to create a space for community members to offer feedback and lessons learned on CarpentryConnect South Africa 2021 at the end of the two weeks. [Register here](https://www.eventbrite.com/e/carpentryconnect-south-africa-2021-registration-159159960727).
 
