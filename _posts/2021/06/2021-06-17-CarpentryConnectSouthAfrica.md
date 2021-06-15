@@ -3,7 +3,7 @@ layout: page
 authors: ["Angelique Trusler"]
 teaser: "The main goal of CarpentryConnect South Africa 2021 is to build capacity for workshops through instructor training, and establish a network for the regional Carpentries community."
 title: "Registration for CarpentryConnect South Africa 2021 now open!"
-date: 2021-06-17
+date: 2021-06-21
 time: "09:00:00"
 tags: ["Africa", "Community", "CarpentryConnect"]
 ---
