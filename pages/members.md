@@ -59,7 +59,6 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Duke University
 - Erasmus University Rotterdam
 - European Economic Association
-- Flatiron Institute
 - Florida State University
 - Genomics Aotearoa
 - George Mason University
