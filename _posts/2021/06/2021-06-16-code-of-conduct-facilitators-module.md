@@ -25,8 +25,8 @@ In July 2019, we determined it necessary to recruit community members to constit
 After a round of community input, the incident-response Task Force [published a set of recommendations](https://github.com/carpentries/task-forces/blob/master/2019/incidents-outside-cocc/2019-09-19-cocc-taskforce-summary-recommendations.md) on guidelines, approaches, support structures or policies that could be developed to respond to incidents that happen outside the mandate of the Carpentries Code of Conduct Committee. Two out of the six recommendations pointed at **the need for empowering more community members to facilitate some Code of Conduct processes in our community spaces as our community continues to grow**, more specifically:
 
 1. [As Code of Conduct facilitators](https://github.com/carpentries/task-forces/blob/master/2019/incidents-outside-cocc/2019-09-19-cocc-taskforce-summary-recommendations.md#recommendation-2-volunteer-code-of-conduct-facilitators) trained and prepared to
-  1. share any incidents or concerns to an ombudsperson, directly with the Code of Conduct Committee, and
-  2. actively monitor of online Carpentries channels, and representatives in community calls, local, regional and global Carpentries events
+   1. share any incidents or concerns to an ombudsperson, directly with the Code of Conduct Committee, and
+   2. actively monitor of online Carpentries channels, and representatives in community calls, local, regional and global Carpentries events
 2. as counselors trained and prepared to guide community members who might want to discuss potential incidents before reporting them to the Code of Conduct Committee, in addition to facilitating the reporting process
 
 We are pleased to share that the Code of Conduct module in The Carpentries Community Facilitators Program is designed to prepare community members to step in and serve as a bridge between our community and the Code of Conduct Committee (CoCc), and with a scope that covers the two recommendations above. **Community members trained to serve in this role will be called Carpentries Code of Conduct Facilitators**.
@@ -37,8 +37,8 @@ More often than not, we hear of incidents that arise that require the attention 
  
 1. A question of trust of the reporting, the handling process and the community this happened in when an incident affects someone new to the community, 
 2. An uncertainty either 
-  1. about the gravity of a situation or one’s experience and whether it warrants reporting, either gauged against other experiences or informal discussion with others or
-  2. the environment in which an incident occurs, especially in community events or spaces created as a cross-community effort
+   1. about the gravity of a situation or one’s experience and whether it warrants reporting, either gauged against other experiences or informal discussion with others or
+   2. the environment in which an incident occurs, especially in community events or spaces created as a cross-community effort
 3. a lack of confidence as a bystander around stepping up to diffuse a situation without the right tools or know-how, and with a fear that it might make things worse
 
 Other contributing reasons include:
