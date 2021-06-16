@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Serh Njambi Rono"]
+authors: ["Serah Njambi Rono"]
 teaser: "Code of Conduct facilitation is part of the Carpentries Community Facilitators Program. We welcome your review and suggestions on our new Carpentries Code of Conduct Facilitators module"
 title: "Sharing our new Code of Conduct Facilitators Module"
 date: 2021-06-16
@@ -12,7 +12,7 @@ tags: ["Community", "Code of Conduct", "Community Facilitators"]
 
 In September 2020, we [introduced the Carpentries Community Facilitators Program](https://carpentries.org/blog/2020/09/introducing-community-facilitators-program/), a new initiative in The Carpentries that seeks to create new pathways for active involvement in everyday community activities by more community members. We [put out a call for](https://carpentries.org/blog/2020/09/apply-feedback-facilitators-cohort/), and [onboarded our inaugural cohort of feedback facilitators](https://carpentries.org/blog/2020/11/introducing-carpentries-feedback-facilitators/) shortly after. 
 
-Today, we are pleased to share the [first version of the Code of Conduct facilitation module](https://carpentries.github.io/community-facilitators-program/03-0-code-of-conduct-facilitation/index.html) with you. This module was co-created by Serah Njambi Rono, Director of Community Development and Engagement at The Carpentries and Code of Conduct committee members Malvika Sharan and Karin Lagesen in Q1 2O21. This current version is the result of extensive feedback from The Carpentries Core Team.
+Today, we are pleased to share the [first version of the Code of Conduct facilitation module](https://carpentries.github.io/community-facilitators-program/03-0-code-of-conduct-facilitation/index.html) with you. This module was co-created by Serah Njambi Rono and Code of Conduct committee members Malvika Sharan and Karin Lagesen in Q1 2O21. This current version is the result of extensive feedback from [The Carpentries Core Team](https://carpentries.org/team/).
 
 ## Why this Code of Conduct facilitation module exists
 
