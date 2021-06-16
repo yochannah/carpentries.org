@@ -5,7 +5,7 @@ teaser: "Call for applications to join our 2020 cohort of Carpentries Feedback F
 title: "Apply to Become a Carpentries Feedback Facilitator"
 date: 2020-09-16
 time: "00:00:00"
-tags: ["Community"]
+tags: ["Community", "Community Facilitators"]
 ---
 
 > We invite you to complete [this short form](https://forms.gle/mSh6zj7LYvmjFpuS8). Deadline for applications is at the end of day, Wednesday, 7 October 2020, anywhere on Earth.

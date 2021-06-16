@@ -5,7 +5,7 @@ teaser: "Read on and find out how to collaborate with us to develop resources un
 title: "Introducing The Carpentries Community Facilitators Program"
 date: 2020-09-15
 time: "00:00:00"
-tags: ["Community"]
+tags: ["Community", "Community Facilitators"]
 ---
 
 The Community Facilitators Program is a new initiative in The Carpentries that seeks to create new pathways for active involvement in everyday community activities by more community members. This program will help sustain the growing Carpentries community and support other core programs that contribute to the advancement of our mission.

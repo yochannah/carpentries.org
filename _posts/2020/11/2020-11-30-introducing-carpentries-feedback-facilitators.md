@@ -5,7 +5,7 @@ teaser: "We have now selected and onboarded our first cohort of community facili
 title: "Meet The Carpentries Feedback Facilitators"
 date: 2020-11-30
 time: "09:00:00"
-tags: ["Community"]
+tags: ["Community", "Community Facilitators"]
 ---
 Community Facilitators in The Carpentries are people who are empowered to advocate for others in the community and guide community members as they navigate The Carpentries global community. When we set out to start designing [The Carpentries Community Facilitators program](https://carpentries.org/blog/2020/09/introducing-community-facilitators-program/) in Q2 2020, one of our main goals was to onboard our first cohort of community facilitators, focussing on Feedback Facilitation, before the close of 2020. We are very pleased to introduce the first ten Carpentries Feedback Facilitators in this blog post. 
 
