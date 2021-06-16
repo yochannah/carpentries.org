@@ -12,7 +12,7 @@ tags: ["Community", "Code of Conduct", "Community Facilitators"]
 
 In September 2020, we [introduced the Carpentries Community Facilitators Program](https://carpentries.org/blog/2020/09/introducing-community-facilitators-program/), a new initiative in The Carpentries that seeks to create new pathways for active involvement in everyday community activities by more community members. We [put out a call for](https://carpentries.org/blog/2020/09/apply-feedback-facilitators-cohort/), and [onboarded our inaugural cohort of feedback facilitators](https://carpentries.org/blog/2020/11/introducing-carpentries-feedback-facilitators/) shortly after. 
 
-Today, we are pleased to share the [first version of the Code of Conduct facilitation module](https://carpentries.github.io/community-facilitators-program/03-0-code-of-conduct-facilitation/index.html) with you. This module was co-created by Serah Njambi Rono and Code of Conduct committee members Malvika Sharan and Karin Lagesen in Q1 2O21. This current version is the result of extensive feedback from [The Carpentries Core Team](https://carpentries.org/team/).
+Today, we are pleased to share the [first version of the Code of Conduct facilitation module](https://carpentries.github.io/community-facilitators-program/03-0-code-of-conduct-facilitation/index.html) with you. This module was co-created by Serah Njambi Rono and [Code of Conduct Committee](https://carpentries.org/coc-ctte/) members Malvika Sharan and Karin Lagesen in Q1 2O21. This current version is the result of extensive feedback from [The Carpentries Core Team](https://carpentries.org/team/).
 
 ### Why this Code of Conduct facilitation module exists
 
@@ -29,7 +29,7 @@ After a round of community input, the incident-response Task Force [published a 
    2. actively monitor of online Carpentries channels, and representatives in community calls, local, regional and global Carpentries events
 2. as counselors trained and prepared to guide community members who might want to discuss potential incidents before reporting them to the Code of Conduct Committee, in addition to facilitating the reporting process
 
-We are pleased to share that the Code of Conduct module in [The Carpentries Community Facilitators Program](https://carpentries.github.io/community-facilitators-program/) is designed to prepare community members to step in and serve as a bridge between our community and the Code of Conduct Committee (CoCc), and with a scope that covers the two recommendations above. **Community members trained to serve in this role will be called Carpentries Code of Conduct Facilitators**.
+We are pleased to share that the Code of Conduct module in [The Carpentries Community Facilitators Program](https://carpentries.github.io/community-facilitators-program/) is designed to prepare community members to step in and serve as a bridge between our community and the [Code of Conduct Committee](https://carpentries.org/coc-ctte/) (CoCc), and with a scope that covers the two recommendations above. **Community members trained to serve in this role will be called Carpentries Code of Conduct Facilitators**.
 
 ### Why the need to bridge the gap between facilitators and CoCc
 
@@ -50,12 +50,12 @@ Other contributing reasons include:
 
 ### Expanding the scope of CoC facilitation role for our CoCc
 	
-Code of Conduct Committee (CoCc) members are a group of volunteers from the community who have been trained to handle CoC reports and have gained further experience through handling incidents as a group. Up until this point, you may notice that the CoCc has had little to no interaction with our global community outside the scope of investigating, addressing and resolving conflict; and interactions that affect our collaboration-driven ethos and impact our interactions negatively. The CoCc has [proactively engaged](https://carpentries.org/posts-by-tags/#blog-tag-code-of-conduct) the community in Code of Conduct policy development and maintenance, but **formal opportunities for the CoCc to mentor and guide others in The Carpentries have been missing**. 
+[Code of Conduct Committee](https://carpentries.org/coc-ctte/) (CoCc) members are a group of volunteers from the community who have been trained to handle CoC reports and have gained further experience through handling incidents as a group. Up until this point, you may notice that the CoCc has had little to no interaction with our global community outside the scope of investigating, addressing and resolving conflict; and interactions that affect our collaboration-driven ethos and impact our interactions negatively. The CoCc has [proactively engaged](https://carpentries.org/posts-by-tags/#blog-tag-code-of-conduct) the community in Code of Conduct policy development and maintenance, but **formal opportunities for the CoCc to mentor and guide others in The Carpentries have been missing**. 
 The work of the CoCc is non-trivial - in fact, because conflict can make or break a community, we view the work of the CoCc as core to the continuity and sustainability of our community. We also think it is important to cultivate positive interactions between the CoCc and our global community. Having the CoCc lead the onboarding and oversight of Code of Conduct facilitators in The Carpentries will help make this possible. 
 
 ### How Code of Conduct facilitation will be carried out in The Carpentries
 
-In the coming days, Code of Conduct facilitation training will be available to as many as are interested in stepping up and facilitating Code of Conduct processes in the community. We envision that the facilitation training sessions will span two- three hours at a time, and will be carried out every 8 weeks. The CoCc will be leaders and owners of the Code of Conduct facilitation process, and will be the official mentors for all Code of Conduct facilitators in The Carpentries.
+In the coming days, Code of Conduct facilitation training will be available to as many as are interested in stepping up and facilitating Code of Conduct processes in the community. We envision that the facilitation training sessions will span two- three hours at a time, and will be carried out every 8 weeks. The [Code of Conduct Committee](https://carpentries.org/coc-ctte/) will be leaders and owners of the Code of Conduct facilitation process, and will be the official mentors for all Code of Conduct facilitators in The Carpentries.
 
 ### We need your input
 
