@@ -218,10 +218,10 @@ In Q1 2019, the business Team worked on updating our grants collaboration workfl
 
 ## Community Development Team
 
-<br>Team Lead: Serah Rono
+<br>Team Lead: Erin Becker
 <br>Team Members: Angelique Trusler · Kelly Barnes · Omar Khan · Toby Hodges
 
-Led by Serah Njambi Rono, the Community Development Team works to develop and maintain an open and welcoming community culture by developing, testing and implementing various communication strategies, supporting our various committees and task forces, and by introducing and running various initiatives that result in increased pathways for collaboration in our community, as well as equitable  distribution of resources, opportunities and access to inclusive spaces for our community members globally. Communications Manager - Omar Khan, Regional Consultant for Southern Africa - Angelique van Rensburg, Deputy Director of Instructor Training - Kelly Barnes and our incoming Curriculum Community Developer all sit on this team. Kari L. Jordan served in this team in 2019 and 2020. Chris Erdmann and Tracy Teal also served in this team in 2019. Some of the projects the Community Development Team has embarked on since January 2019 include:
+The Community Development Team works to develop and maintain an open and welcoming community culture by developing, testing and implementing various communication strategies, supporting our various committees and task forces, and by introducing and running various initiatives that result in increased pathways for collaboration in our community, as well as equitable  distribution of resources, opportunities and access to inclusive spaces for our community members globally. Serah Njambi Rono led this team between January 2019 and June 2021. Communications Manager - Omar Khan, Regional Consultant for Southern Africa - Angelique Trusler, Deputy Director of Instructor Training - Kelly Barnes and our incoming Curriculum Community Developer all sit on this team. Kari L. Jordan served in this team in 2019 and 2020. Chris Erdmann and Tracy Teal also served in this team in 2019. Some of the projects the Community Development Team has embarked on since January 2019 include:
 setting up the Community Facilitators Program in The Carpentries, developing and implementing a communications strategy for The Carpentries, updating our Code of Conduct documentation with the Code of Conduct Committee, The Carpentries Values Project, The Carpentries Tagathon, The Carpentries Gratitudes project among others. You can find more details about their quarterly project work below.
 
 <details>
@@ -232,10 +232,36 @@ setting up the Community Facilitators Program in The Carpentries, developing and
 
 <details>
 <summary>
+<strong>April - June (Q2) 2021</strong>
+</summary>
+
+Angelique Trusler · Kelly Barnes · Omar Khan · Serah Njambi Rono · Toby Hodges
+
+In Q2 2021,
+- Kelly completed work on, and released the Internal Instructor Training Report for the attention of The Carpentries Core Team and Executive Council,
+- Omar worked on the [Financial and Annual Reports](https://carpentries.org/reports/) for the year 2020 in collaboration with the Business Team and the Executive Team, 
+- Angelique continued to prepare for CarpentryConnect South Africa 2021, focussing on organising committee coordination, volunteer recruitment, developing outreach material, and managing the event budget,
+- Serah Rono developed the [CarpentryConnect ZA 2021 website](https://za2021.carpentryconnect.org) in an iterative process that incorporated feedback from the organising committee,
+- Kelly designed and facilitated three skill-up sessions on the Community Development Team about Universal Design,
+- Omar developed a workflow to guide the Carpentries Core Team in delivering urgent communications,
+- Angelique continued to steer Instructor Training and instructor checkout efforts in South Africa by hosting two trainings in Q2 2021, 
+- Serah completed work on the [Code of Conduct Facilitators training resource](https://carpentries.github.io/community-facilitators-program/03-0-code-of-conduct-facilitation/index.html), incorporating feedback from the Code of Conduct committee and Carpentries Core Team,  and [shared it with the community for review and feedback](https://carpentries.org/blog/2021/06/code-of-conduct-facilitators-module/), 
+- Angelique continued to support the African Carpentries Monthly meetups and facilitated monthly skill-up sessions whose details can be found in [the ZA community Etherpad](https://pad.carpentries.org/ZA-community-call).
+- Kelly successfully recruited and began training a cohort of 14 new Trainers
+- Serah successfully co-organised and held [csv,conf,v6](https://csvconf.com), 
+- Serah worked with Samar Elsheikh and Katherine Simeon from the [Instructor Development Committee](https://carpentries.org/inst-dev/) to host a Mentoring Groups showcase,
+- Serah worked with Carol Fadeke from the [Instructor Development Committee](https://carpentries.org/inst-dev/) to onboard 17 new discussion hosts,
+- Serah [shared from her experience in co-organising online events with the Disruptive Labs community](https://youtu.be/Jzz2pqJs-bA),
+- Serah [facilitated the first FORCE11/REPO working group Fireside Chat with FSCI's Martin Brennan](https://www.force11.org/blog/talking-open-scholarship-and-online-training-serah-rono-and-martin-brennan)
+- Serah [hang her boots as Director of Community Development and Engagement, and lead of the Community Development Team](https://carpentries.org/blog/2021/06/director-of-community-development-transition/).
+
+</details>
+<details>
+<summary>
 <strong>January - March (Q1) 2021</strong>
 </summary>
 
-Angelique Trusler · Kelly Barnes · Omar Khan · Serah Rono · Toby Hodges
+Angelique Trusler · Kelly Barnes · Omar Khan · Serah Njambi Rono · Toby Hodges
 
 In Q1 2021,
 - Led by Angelique Trusler, planning work around CarpentryConnect South Africa began. CarpentryConnects are local and regional community events, organised to bring together community members of The Carpentries that are in close proximity geographically for knowledge exchange, collaboration, and networking. CarpentryConnect South Africa [is funded by Code for Science and Society’s Event Fund](https://eventfund.codeforscience.org/announcing/).
