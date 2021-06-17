@@ -12,7 +12,8 @@ It is hard to believe that from a vision of wanting to teach members of the comm
 
 As we reflect on this historic achievement, it is important to note the significant role of our volunteers. To date we have trained and certified over 3,000 instructors. Our instructors’ unrivaled commitment is unrivaled; they are at the center of our workshops delivering quality skills and inspiring new learners. To all of our instructors WE say thank you, and well done.
 
-Celebrating this 100 member organisation milestone is indeed special, because our membership program  fosters community engagement all over the world. That makes us unique. This is not just a moment for The Carpentries organisation alone, but for the global open science community at large. Congratulations and thank you, WE have reached 100 memberships!
+Celebrating this 100 member organisation milestone is indeed special, because our 
+[membership program](https://carpentries.org/membership/) fosters community engagement all over the world. That makes us unique. This is not just a moment for The Carpentries organisation alone, but for the global open science community at large. Congratulations and thank you, WE have reached 100 memberships!
 
 If we are to reach the next 100 it is going to take an even deeper community effort to amplify our values, our training and our approach. We have exciting work upcoming specifically around widening/diversifying our instructor community and connecting with more historically underserved institutions. Please [contact us](mailto:membership@carpentries.org) with ideas, questions, or to be part of a working group.
 
