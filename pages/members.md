@@ -18,6 +18,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Netherlands eScience Center
 - North-West University
 - Queensland Cyber Infrastructure Foundation 
+- Smithsonian Institution
 - South African Centre for Digital Language Resources (SADiLaR)
 - Software Sustainability Institute
 - The University of Wisconsin Madison
@@ -36,7 +37,6 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Oak Ridge National Laboratory
 - Oklahoma State University
 - Tree of Life - Aquatic Symbiosis Genomics
-- Smithsonian Institution
 - South Big Data Innovation Hub
 - The Carpentries in Austria
 - University of Arizona
