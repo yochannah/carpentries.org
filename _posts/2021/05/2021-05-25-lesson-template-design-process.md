@@ -5,7 +5,7 @@ teaser: "Emily de la Mettrie shares her process behind the design of the next it
 title: "From research to final product: the path to the design for the next lesson template"
 date: 2021-05-25
 time: "06:00:00"
-tags: ["Accessibility", "Infrastructure"]
+tags: ["Accessibility", "Infrastructure", "Lesson Infrastructure"]
 ---
 
 I was so excited to take on this lesson template redesign project with The Carpentries! As with any design project, it was paramount to define our objectives from the start to ensure success. This template redesign began with the below objectives that informed all of my process and choices:
