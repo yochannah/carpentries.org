@@ -37,7 +37,7 @@ We anticipated that the online teaching format would limit the amount of materia
 
 ## Summary
 
-Overall, we were very happy with our first workshop in Japanese. There were some limitations because we only have a single lesson translated so far, but hopefully that will change soon. We are looking forward to growing the Japanese language Carpentries community, and hope you can join us!
+Overall, we were very happy with our first workshop in Japanese. We received very positive feedback from participants about their satisfaction with the course [^survey]. There were some limitations because we only have a single lesson translated so far, but hopefully that will change soon. We are looking forward to growing the Japanese language Carpentries community, and hope you can join us!
 
 ## Find out more
 
@@ -54,3 +54,5 @@ Anyone is welcome to contribute to translating lessons into Japanese. If you hav
 [^prev-blog]: You can read more about [how we translated the lesson here](https://carpentries.org/blog/2021/02/complete-R-lesson-japanese/).
 
 [^links]: The following blog posts were very helpful: [Online Workshop Logistics and Screen Layouts](https://carpentries.org/blog/2020/06/online-workshop-logistics-and_screen-layouts/), [Recommendations for Teaching Carpentries Workshops Online](https://carpentries.org/online-workshop-recommendations/), [Mapping & Planning a Live Coding Workshop for Digital Delivery](https://carpentries.org/blog/2020/04/plan-map-live-coding-workshop/#my-personal-teaching-setup)
+
+[^survey]: Analysis results of the workshop survey [are available here](https://github.com/swcarpentry-ja/2021-04-02-todai-assessment/blob/main/survey_report_ja.md) (Japanese only)

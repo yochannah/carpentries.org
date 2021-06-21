@@ -37,7 +37,7 @@ category: ["Community", "Internationalisation", "Curriculum", "Japan", "Online"]
 
 ## まとめ
 
-初の日本語SWCワークショップは全体的に上手く行ったと思います。翻訳が完成したレッスンは今のところ一つしかないことで多少困りましたが、近い将来、他のレッスンもどんどん翻訳したいと思います。皆様から日本語カーペントリーズのコミュニティーのご参加をお待ちしています！
+初の日本語SWCワークショップは全体的に上手く行ったと思います。アンケートでは参加者から非常に高い評価をいただきました[^survey]。翻訳が完成したレッスンは今のところ一つしかないことで多少困りましたが、近い将来、他のレッスンもどんどん翻訳したいと思います。皆様から日本語カーペントリーズのコミュニティーのご参加をお待ちしています！
 
 ## 参加方法
 
@@ -53,3 +53,5 @@ category: ["Community", "Internationalisation", "Curriculum", "Japan", "Online"]
 [^prev-blog]: レッスンの翻訳についてのブログポストは[こちらです](https://carpentries.org/blog/2021/02/complete-R-lesson-japanese/)（英語）。
 
 [^links]: これらのブログポストは特に参考になりました：[Online Workshop Logistics and Screen Layouts](https://carpentries.org/blog/2020/06/online-workshop-logistics-and_screen-layouts/), [Recommendations for Teaching Carpentries Workshops Online](https://carpentries.org/online-workshop-recommendations/), [Mapping & Planning a Live Coding Workshop for Digital Delivery](https://carpentries.org/blog/2020/04/plan-map-live-coding-workshop/#my-personal-teaching-setup)
+
+[^survey]: ワークショップに関する[アンケートの解析結果はこちらです](https://github.com/swcarpentry-ja/2021-04-02-todai-assessment/blob/main/survey_report_ja.md)（日本語のみ）。
