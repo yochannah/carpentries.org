@@ -1,7 +1,6 @@
 ---
 layout: page
-authors: ["Zhian N.
-Kamvar"]
+authors: ["Zhian N. Kamvar"]
 teaser: "Ensuring our redesign is friendly and usable for maintainers at all skill levels."
 title: "Alpha Testing the Lesson Infrastructure Redesign"
 date: 2021-07-06
