@@ -15,7 +15,7 @@ The second South African CarpentryConnect will be held virtually and will bring 
 develop new skills, and develop strategies for building strong local communities around digital and computational literacy at universities. 
 
 The main goal of CarpentryConnect South Africa 2021 is to build capacity for workshops through instructor training and establish a network for the regional Carpentries
-community. The first South African CarpentryConnect took place in Johannesburg, South Africa in [September 2018](https://carpentries.org/blog/2019/01/carpentryconnect-jhb2018/). CarpentryConnect South Africa 2021 will build on the successes of that first event, to bring together and grow the Carpentries community in Africa even further. **Workshop fees** and **mobile data provided to attend this event** is funded by Code for Science and Society [Event Fund](https://eventfund.codeforscience.org/announcing/). 
+community. The first South African CarpentryConnect took place in Johannesburg, South Africa in [September 2018](https://carpentries.org/blog/2019/01/carpentryconnect-jhb2018/). CarpentryConnect South Africa 2021 will build on the successes of that first event, to bring together and grow the Carpentries community in Africa even further. **Workshop fees** and **mobile data provided to attend this event** for African participants is funded by Code for Science and Society [Event Fund](https://eventfund.codeforscience.org/announcing/). 
 
 
 ### What can one expect from CarpentryConnect South Africa 2021? 
