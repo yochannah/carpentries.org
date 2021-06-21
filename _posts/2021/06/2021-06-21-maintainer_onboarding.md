@@ -3,7 +3,7 @@ layout: page
 authors: ["Daniel Chen"]
 teaser: "The Carpentries is preparing to onboard the next round of Maintainers. Applications due XXXXXXXXXX"
 title: "Carpentries Community Conversation with the Executive Council "
-date: 2021-06-17
+date: 2021-06-21
 time: "00:00:00"
 tags: ["Community", "Maintainer", "On-Boarding"]
 ---
