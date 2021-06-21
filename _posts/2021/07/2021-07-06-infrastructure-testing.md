@@ -30,10 +30,109 @@ We proposed [design principles of the next iteration of the lesson template][dep
 Of course, [as we have learned from previous iterations of the lesson template][previous-iteration], if we create something that does not work for the community, it is useless.
 This is why, when we had a stable (but not necessarily pretty) framework, we needed to test it with the community.
 
+After investigating several options from our lesson infrastructure, we realized that the [R publishing ecosystem][rmd] aligned best with our values because it has friendly communities, is available as a binary application on all operating systems, and allows us to integrate with all the features we currently offer. 
+From this idea, we created three R packages to host the engine, validator, and styling, called [{sandpaper}], [{pegboard}], and [{varnish}], respectively.
+
 ## Alpha Testing
 
+The alpha testing is a 'bare bones' testing that is designed to identify common stumbling blocks and any unforseen difficulties that arise from real user experiences.
+We wanted to assess three major aspects of lesson development: infrastructure installation, lesson creation, and lesson contribution.
+
+### Challenge Syntax
+
+Our first challenge was to assess alternatives to the callout block quote 
+syntax, which was difficult to construct if you were creating a 
+challenge/solution pair of nested block quotes: 
+
+```markdown
+> ## Challenge Example
+>
+> This is challenge text
+>
+> > ## Solution example
+> >
+> > This is the solution
+> >
+> {: .solution}
+{: .challenge}
+```
+
+We proposed three potential solutions for this syntax:
+
+<div class='row'>
+<div class="col-sm-4">
+
+#### 1. HTML `<div>` tags
+
+```markdown
+<div class="challenge">
+
+## Challenge Example
+
+This is challenge text
+
+<div class="solution">
+
+## Solution example
+
+This is the solution
+
+</div>
+</div>
+```
+
+</div>
+<div class="col-sm-4">
+
+#### 2. Oxygen-style code blocks
+
+````markdown
+```{r setup, include=FALSE}
+library(dovetail)
+```
+
+```{challenge}
+#' ## Challenge Example
+#' 
+#' This is challenge text
+#' 
+#' @solution
+#' 
+#' This is the solution
+```
+````
+
+</div>
+<div class="col-sm-4">
+
+
+#### 3. Pandoc fenced-div tags
+
+```markdown
+:::::: challenge
+
+## Challenge Example
+
+This is challenge text
+
+::: solution
+
+## Solution example
+
+This is the solution
+
+:::
+::::::
+```
+
+</div>
+</div>
 
 
 [depr]: https://carpentries.org/blog/2020/08/lesson-template-design/
 [ux-path]: https://carpentries.org/blog/2021/05/lesson-template-design-process/
 [previous-iteration]: https://software-carpentry.org/blog/2015/07/pushing-back.html
+[rmd]: https://bookdown.org/yihui/rmarkdown/
+[{sandpaper}]: https://carpentries.github.io/sandpaper
+[{pegboard}]: https://carpentries.github.io/pegboard
+[{varnish}]: https://github.com/carpentries/varnish
