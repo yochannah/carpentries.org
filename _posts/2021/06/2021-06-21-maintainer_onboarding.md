@@ -2,7 +2,7 @@
 layout: page
 authors: ["Daniel Chen"]
 teaser: "The Carpentries is preparing to onboard the next round of Maintainers. Applications due 16 July, 2021"
-title: "Carpentries Community Conversation with the Executive Council "
+title: "Apply for the current round of Carpentries Maintainer Onboarding!"
 date: 2021-06-21
 time: "00:00:00"
 tags: ["Community", "Maintainer", "On-Boarding"]
