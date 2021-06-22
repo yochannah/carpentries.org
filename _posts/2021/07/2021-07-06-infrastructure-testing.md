@@ -93,9 +93,9 @@ For this testing phase, we recruited people from all across our community includ
 Another aspect was understanding how comfortable the participants were with using our current infrastructure AND how comfortable they were with R.
 Our goal was to assess three salient aspects:
 
-1. Is the infrastructure installable?
-2. Can participants create a lesson?
-3. Can participants contribute to a lesson?
+1. Is the infrastructure [installable?](https://github.com/carpentries/sandpaper-docs/issues/33)
+2. Can participants [create a lesson?](https://tang0008.github.io/buoyant-barnacle/)
+3. Can participants [contribute to a lesson?](https://github.com/carpentries/sandpaper-docs/pull/34)
 
 Beyond that, we conducted 20 minute post-feedback interviews to assess how comfortable they were with the new infrastructure and how it compared with the previous iterations.
 
@@ -104,7 +104,9 @@ Beyond that, we conducted 20 minute post-feedback interviews to assess how comfo
 We recurited a total of 19 volunteers to test the infrastructure. 
 Every single participant was able to install the infrastructure successfully.
 
-![Scatter plot showing no correlation between infrastructure installation success and Jekyll comfort level (y axis) or R comfort level (x axis).]({{ site.baseurl }}/images/blog/2021/07/infra-alpha-results.svg)
+![Scatter plot showing no correlation between infrastructure installation success and Jekyll comfort level (y axis) or R comfort level (x axis).]({{ site.baseurl }}/images/blog/2021/07/infra-alpha-results.svg).
+
+
 
 
 [depr]: https://carpentries.org/blog/2020/08/lesson-template-design/
