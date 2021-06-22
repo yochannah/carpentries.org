@@ -9,13 +9,13 @@ category: ["Community", "Internationalisation", "Curriculum", "Japan", "Online"]
 
 ([Read this post in English](https://carpentries.org/blog/2021/06/first-japanese-r-workshop-en/))
 
-この間、初めて日本語で[ソフトウェアカーペントリー（SWC）](https://software-carpentry.org/)のワークショップをオンラインで開催しました。今回のワークショップは[Beyond AI](https://beyondai.jp/)という、東京大学と[ソフトバンク株式会社](https://www.softbank.jp)による連帯事業との共同開催でした。[「Rによるデータ解析入門」](https://swcarpentry-ja.github.io/2021-04-02-todai-online-ja/)というタイトルで、[今まで翻訳してきたRレッスン](https://swcarpentry-ja.github.io/r-novice-gapminder/ja/)を元に行いました[^prev-blog]。以下、[カーペントリーズ形式](https://datacarpentry.org/blog/2017/06/minute-cards)で「緑付箋」（上手く行ったこと）と「赤付箋」（上手く行かなかったこと）に分けて感想をまとめました。
+この間、初めて日本語で[ソフトウェアカーペントリー（SWC）](https://software-carpentry.org/)のワークショップをオンラインで開催しました。今回のワークショップは、[東京大学](https://www.u-tokyo.ac.jp/)と[ソフトバンク](https://www.softbank.jp)が共同で立ち上げた[Beyond AI研究推進機構](https://beyondai.jp/)の中の研究グループ、[B'AI Global Forum](https://baiforum.jp/)との共同開催でした。[「Rによるデータ解析入門」](https://swcarpentry-ja.github.io/2021-04-02-todai-online-ja/)というタイトルで、[今まで翻訳してきたRレッスン](https://swcarpentry-ja.github.io/r-novice-gapminder/ja/)を元に行いました[^prev-blog]。以下、[カーペントリーズ形式](https://datacarpentry.org/blog/2017/06/minute-cards)で「緑付箋」（上手く行ったこと）と「赤付箋」（上手く行かなかったこと）に分けて感想をまとめました。
 
 ## 緑付箋（上手く行ったこと）
 
 ### 共同主催者と密接な連携
 
-今回の共同主催者の[Beyond AI](https://beyondai.jp/)には大変お世話になりました。Beyond AIが参加者（主に東京大学文系大学院生）を募集して、重要な連絡をしてくれたので、ワークショップの準備に集中することが出来ました。対応がいつも丁寧かつプロフェッショナルでした。パートナーは大事です。　
+今回の共同主催者の[B'AI Global Forum](https://baiforum.jp/)には大変お世話になりました。B'AI Global Forumが参加者（主に東京大学文系大学院生）を募集して、重要な連絡をしてくれたので、ワークショップの準備に集中することが出来ました。対応がいつも丁寧かつプロフェッショナルでした。パートナーは大事です。　
 
 ### オンラインで行うワークショップの知識
 
@@ -54,4 +54,4 @@ category: ["Community", "Internationalisation", "Curriculum", "Japan", "Online"]
 
 [^links]: これらのブログポストは特に参考になりました：[Online Workshop Logistics and Screen Layouts](https://carpentries.org/blog/2020/06/online-workshop-logistics-and_screen-layouts/), [Recommendations for Teaching Carpentries Workshops Online](https://carpentries.org/online-workshop-recommendations/), [Mapping & Planning a Live Coding Workshop for Digital Delivery](https://carpentries.org/blog/2020/04/plan-map-live-coding-workshop/#my-personal-teaching-setup)
 
-[^survey]: ワークショップに関する[アンケートの解析結果はこちらです](https://github.com/swcarpentry-ja/2021-04-02-todai-assessment/blob/main/survey_report_ja.md)（日本語のみ）。
+[^survey]: ワークショップに関するアンケートの解析結果は[こちらです](https://github.com/swcarpentry-ja/2021-04-02-todai-assessment/blob/main/survey_report_ja.md)（日本語のみ）。

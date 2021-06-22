@@ -9,13 +9,13 @@ category: ["Community", "Internationalisation", "Curriculum", "Japan", "Online"]
 
 （[このブログポストを日本語で読む](https://carpentries.org/blog/2021/06/first-japanese-r-workshop-ja/)）
 
-We recently held the first ever [Software Carpentry (SWC)](https://software-carpentry.org/) workshop in Japanese (online). The workshop was co-hosted with [Beyond AI](https://beyondai.jp/?lang=en), a joint project between the [University of Tokyo](https://www.u-tokyo.ac.jp/en/) and [Softbank](https://www.softbank.jp/en/). The title of the workshop was ["Introduction to Data Analysis with R"](https://swcarpentry-ja.github.io/2021-04-02-todai-online-en/), with content based on the [one lesson we’ve translated so far](https://swcarpentry-ja.github.io/r-novice-gapminder/ja/), SWC "R for Reproducible Scientific Analysis"[^prev-blog]. Below, we summarize how the workshop went, using the [tried-and-true feedback format](https://datacarpentry.org/blog/2017/06/minute-cards) of "Green Sticky Notes" (things that went well) and "Red Sticky Notes" (things that didn’t go so well).
+We recently held the first ever [Software Carpentry (SWC)](https://software-carpentry.org/) workshop in Japanese (online). The workshop was co-hosted with [B'AI Global Forum](https://baiforum.jp/en/), a research group within the [Institute for AI and Beyond](https://beyondai.jp/?lang=en), which is a joint project between the [University of Tokyo](https://www.u-tokyo.ac.jp/en/) and [Softbank](https://www.softbank.jp/en/). The title of the workshop was ["Introduction to Data Analysis with R"](https://swcarpentry-ja.github.io/2021-04-02-todai-online-en/), with content based on the [one lesson we’ve translated so far](https://swcarpentry-ja.github.io/r-novice-gapminder/ja/), SWC "R for Reproducible Scientific Analysis"[^prev-blog]. Below, we summarize how the workshop went, using the [tried-and-true feedback format](https://datacarpentry.org/blog/2017/06/minute-cards) of "Green Sticky Notes" (things that went well) and "Red Sticky Notes" (things that didn’t go so well).
 
 ## Green sticky notes
 
 ### Close contact with co-host
 
-Our co-host, the [Beyond AI project](https://beyondai.jp/?lang=en), was instrumental in advertising the workshop and communicating with participants. This allowed us to focus on lesson content and preparation. Having a well-organized, professional co-host goes a long way towards ensuring a workshop’s success.
+Our co-host, the [B'AI Global Forum](https://baiforum.jp/en/), was instrumental in advertising the workshop and communicating with participants. This allowed us to focus on lesson content and preparation. Having a well-organized, professional co-host goes a long way towards ensuring a workshop’s success.
 
 ### Making the most of the online experience
 
