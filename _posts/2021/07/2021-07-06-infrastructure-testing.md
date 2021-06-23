@@ -28,7 +28,7 @@ This is why, when we had a stable (but not necessarily pretty) framework, we nee
 
 After investigating several options from our lesson infrastructure, we realized that the [R publishing ecosystem][rmd] aligned best with our values because it has friendly communities, is available as a binary application on all operating systems, and allows us to integrate with all the features we currently offer. 
 From this idea, we created three R packages to host the engine, validator, and styling, called [{sandpaper}], [{pegboard}], and [{varnish}], respectively.
-We have not yet officially released these packages, but you are free to try them out for yourself! You can get started by visiting https://carpentries.github.io/sandpaper-docs/.
+We have not yet officially released these packages, but you are free to try them out for yourself! You can get started by visiting <https://carpentries.github.io/sandpaper-docs/>.
 This post describes our efforts to test changes coming to [callout blocks][bq] and the overall infrastructure.
 
 ## Alpha Testing
@@ -112,7 +112,7 @@ Our goal was to assess three salient aspects:
 2. Can participants [create a lesson?](https://tang0008.github.io/buoyant-barnacle/)
 3. Can participants [contribute to a lesson?](https://github.com/carpentries/sandpaper-docs/pull/34)
 
-Participants were asked to complete these tasks on their own, following the instructions at https://carpentries.github.io/sandpaper-docs/
+Participants were asked to complete these tasks on their own, following the instructions at <https://carpentries.github.io/sandpaper-docs/>
 Afterwards, we conducted 20 minute post-feedback open-ended interviews to assess how comfortable they were with the new infrastructure and how it compared with the previous iterations.
 We asked them five questions:
 
@@ -146,7 +146,7 @@ During alpha tests, we fully expect _some_ difficulty
 
 Many of the initial problems arose from unclear instructions, which is exemplified in [this pull request that adds 484 lines to the setup page][pr-30].
 Other issues occured when packages like [stringi](https://cran.r-project.org/package=stringi) were in the process of being updated on CRAN, during which users would be asked if they wanted to build from source.
-To alleviate this particular issue, we set up our own [R Universe][r-universe] that contains binaries of our own infrastructure packages along with the latest versions of packages that are frequenly updated: https://carpentries.r-universe.dev/ui#builds.
+To alleviate this particular issue, we set up our own [R Universe][r-universe] that contains binaries of our own infrastructure packages along with the latest versions of packages that are frequenly updated: <https://carpentries.r-universe.dev/ui#builds>.
 Several participants expressed initial discomfort with the pandoc fenced section syntax, but were quickly able to recover from any formatting issues thanks to messages from our validator.
 Still other problems arose from [problems with git installations on user machines and knowing how to connect to GitHub][git-problems].
 
