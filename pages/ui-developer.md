@@ -41,15 +41,17 @@ organisations from research institutions around the world.
 
 #### Required
 
-Demonstrated experience writing clear and well-documented HTML, CSS and JS.
-Solid understanding of WCAG 2.1 standards and demonstrated ability putting them
-into practise Excellent written communication skills Ability to work remotely
-with a distributed team
+* Demonstrated experience writing clear and well-documented HTML, CSS, and JS.
+* Solid understanding of WCAG 2.1 standards and demonstrated ability to put them
+  into practise.
+* Excellent written communication skills.
+* Ability to work remotely with a distributed team.
 
 #### Preferred
 
-Knowledge of [Bootstrap](https://getbootstrap.com/) Knowledge of static site
-generators (e.g., Jekyll) Experience developing websites for offline use
+* Knowledge of [Bootstrap](https://getbootstrap.com/)
+* Knowledge of static site generators (e.g., Jekyll)
+* Experience developing websites for offline use
 
 Our team values openness, honesty, fairness, and transparency as the keys to
 fostering trust. We believe that the individuals who make up our community are
