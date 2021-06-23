@@ -1,14 +1,14 @@
 ---
 layout: page
-authors: ["SherAaron Hurt"]
+authors: ["SherAaron Hurt", "Angelique Trusler"]
 teaser: "Channels/resources available for recruiting Instructors"
 title: "Recruiting Instructors for Self-Organised Workshops"
-date: 2021-06-24
+date: 2021-06-23
 time: "00:00:00"
 tags: ["Carpentries Workshops", " Instructors"]
 ---
 
-*The original blog post was posted on [2020-08-05](https://carpentries.org/blog/2020/08/recruiting-instructors-for-self-organised-workshops/), in what follows is an update*
+*The original blog post was posted on [2020-08-05](https://carpentries.org/blog/2020/08/recruiting-instructors-for-self-organised-workshops/), what follows is an update to the original post*
 
 While [Self-Organised workshops are not managed by The Carpentries Workshop Administration Team](https://carpentries.org/workshops/#workshop-organising), we want to be 
 able to provide you with resources to make the load lighter.  When hosting a Carpentries workshop there are many steps in the coordination process. One of the most 
