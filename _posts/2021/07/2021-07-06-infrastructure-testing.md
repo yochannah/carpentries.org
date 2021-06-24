@@ -137,7 +137,8 @@ We found that _every single participant_ was able to install the infrastructure 
 ![Scatter plot showing no correlation between infrastructure installation success and Jekyll comfort level (y axis) or R comfort level (x axis).]({{ site.baseurl }}/images/blog/2021/07/infra-alpha-results.svg).
 
 This is not to say that there were no bumps along the road.
-During alpha tests, we fully expect _some_ difficulty
+During alpha tests, we fully expect _some_ difficulty due to missing documentation and unfamiliar tools.
+These are some of the responses that we got regarding difficulty.
 
 > my R version and RStudio version were older that the minimum required versions 
 
@@ -149,15 +150,15 @@ During alpha tests, we fully expect _some_ difficulty
 
 > It would be good to have a "nerd's guide" to the infrastructure.
 
-Many of the initial problems arose from unclear instructions, which is exemplified in [this pull request that adds 484 lines to the setup page][pr-30].
+Many of the initial problems arose from unclear instructions, which is exemplified in [this pull request that significantly rearranges the setup instructions][pr-30].
+The next most frequent problems were coming from connecting to GitHub and even from [the Git installation itself][git-problems].
 Other issues occured when packages like [stringi](https://cran.r-project.org/package=stringi) were in the process of being updated on CRAN, during which users would be asked if they wanted to build from source.
 To alleviate this particular issue, we set up our own [R Universe][r-universe] that contains binaries of our own infrastructure packages along with the latest versions of packages that are frequenly updated: <https://carpentries.r-universe.dev/ui#builds>.
-Several participants expressed initial discomfort with the pandoc fenced section syntax, but were quickly able to recover from any formatting issues thanks to messages from our validator.
-Still other problems arose from [problems with git installations on user machines and knowing how to connect to GitHub][git-problems].
+While several participants expressed initial discomfort with the pandoc fenced section syntax, they were quickly able to recover from any formatting issues thanks to messages from our validator (which highlights [point number 8 from our design principles](https://carpentries.org/blog/2020/08/lesson-template-design/#human-centered-lesson-template)).
 
-I will reiterate here: despite these issues, every participant was able to install the infrastructure correctly and create a lesson for themselves.
+I will reiterate here: despite these issues, every participant was able to install the infrastructure correctly.
+Once they did this, they were able to quickly create and preview a lesson.
 Overall, the experience from the participants was largely positive.
-M
 
 > Once I correctly set up my R and RStudio, the rest was self-explanatory.
 
