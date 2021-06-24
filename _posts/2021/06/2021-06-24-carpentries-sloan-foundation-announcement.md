@@ -25,7 +25,7 @@ The Carpentries will partner with four U.S.-based organisations serving Black, L
 
 ## Creation of an Equity Council
 
-To advise on the implementation of this program, we will establish an Equity Council. The council will be composed of 1-2 persons per partner organization, one member of The Carpentries Executive Council, and 2-3 [Core Team](https://carpentries.org/team/) members. The establishment of an Equity Council is one step toward achieving [goal #2 in The Carpentries strategic plan for 2020-2025](https://carpentries.org/strategic-plan/): Intentionally incorporate equity, inclusion, and accessibility to support a diverse community. We will use this work as a template to create similar efforts across our community to understand  equity and inclusion needs beyond those in the U.S.
+To advise on the implementation of this program, we will establish an Equity Council. The council will be composed of 1-2 persons per partner organization, one member of The Carpentries Executive Council, and 2-3 [Core Team](https://carpentries.org/team/) members. The establishment of an Equity Council is one step toward achieving [goal #2 in The Carpentries strategic plan for 2020-2025](https://carpentries.org/strategic-plan/): **Intentionally incorporate equity, inclusion, and accessibility to support a diverse community**. We will use this work as a template to create similar efforts across our community to understand  equity and inclusion needs beyond those in the U.S.
 
 ## Intended Outcomes.
 Our grant term begins 1 July 2021 and runs through 31 December 2022. As always, stay tuned to learn more about the work of the Equity Council, and the impact we are making in communities of color. Through this work, The Carpentries will:
