@@ -2,7 +2,7 @@
 layout: page
 authors: ["Zhian N. Kamvar"]
 teaser: "Ensuring our redesign is friendly and usable for maintainers at all skill levels."
-title: "Alpha Testing the Lesson Infrastructure Redesign"
+title: "Reflecting on our first Alpha Test of the Lesson Infrastructure Redesign"
 date: 2021-07-06
 time: "00:00:00"
 tags: 
@@ -21,10 +21,10 @@ tags:
 > Find more about our [Design Principles][depr] and our [Path to the Design for the Lesson Website][ux-path]
 
 As our community has grown, it became evident that our infrastructure would not easily scale as lessons would rapidly fall out-of-date with the current toolchains and styling. 
-It was also evident that the lesson development toolchain was intimidating enough that it was in and of itself a barrier to contribution.
+It was also evident that the lesson development toolchain was intimidating enough that it was---in and of itself---a barrier to contribution.
 We proposed [design principles of the next iteration of the lesson template][depr] to guide us in making lesson contribution a better experience for all involved.
 Of course, [as we have learned from previous iterations of the lesson template][previous-iteration], if we create something that does not work for the community, it is useless.
-This is why, when we had a stable (but not necessarily pretty) framework, we needed to test it with the community.
+This is why, when we had a stable (but not necessarily fully-featured) framework, we needed to test it with the community.
 
 After investigating several options from our lesson infrastructure, we realized that the [R publishing ecosystem][rmd] aligned best with our values because it has friendly communities, is available as a binary application on all operating systems, and allows us to integrate with all the features we currently offer. 
 From this idea, we created three R packages to host the engine, validator, and styling, called [{sandpaper}], [{pegboard}], and [{varnish}], respectively.
@@ -33,8 +33,10 @@ This post describes our efforts to test changes coming to [callout blocks][bq] a
 
 ## Alpha Testing
 
-The alpha testing is a 'bare bones' testing that is designed to identify common stumbling blocks and any unforseen difficulties that arise from real user experiences.
-We wanted to assess three major aspects of lesson development: infrastructure installation, lesson creation, and lesson contribution.
+Alpha testing is a 'bare bones' testing where participants complete a set of tasks with functional, but not fully-featured product.
+The participants in the tests are given a set of pre-defined tasks to accomplish and asked about how they felt about their experiences vs. what their expectations.
+These tests are designed identify common stumbling blocks and any unforseen difficulties that arise from user experiences by reducing the feature space to the core functionality.
+In this way, we could be sure that the solutions we come up with were stable before spending time adding extra features that depend on the base design.
 
 ### Challenge Syntax
 
@@ -102,17 +104,20 @@ Once we identified the appropriate syntax, we could further refine our design fo
 ### Infrastructure Testing
 
 Our new infrastructure consists of R and pandoc with our three in-house packages to coordinate, validate, and style our lessons.
+We wanted to assess three major aspects of lesson development: infrastructure installation, lesson creation, and lesson contribution.
 
-We tested the alpha version of our infrastructure between May and June 2021.
-For this testing phase, we recruited people from all across our community including maintainers, instructors, core team members, and even people who were brand new to The Carpentries.
-Another aspect was understanding how comfortable the participants were with using our current infrastructure AND how comfortable they were with R.
-Our goal was to assess three salient aspects:
+We tested the alpha version of our infrastructure between April and June 2021.
+For this testing phase, we wanted to be absolutely certain that our infrastructure was easy to use from the start, so we recruited people from all across our community.
+This includes maintainers, instructors, core team members, incubator maintainers, and even people who were brand new to The Carpentries.
+Because our new infrastructure centered around the R publishing ecosystem, we wanted to recruit people with varying expertise in R.
+
+Our goal for testing  was to assess three salient aspects:
 
 1. Is the infrastructure [installable?](https://github.com/carpentries/sandpaper-docs/issues/33)
 2. Can participants [create a lesson?](https://tang0008.github.io/buoyant-barnacle/)
 3. Can participants [contribute to a lesson?](https://github.com/carpentries/sandpaper-docs/pull/34)
 
-Participants were asked to complete these tasks on their own, following the instructions at <https://carpentries.github.io/sandpaper-docs/>
+Participants were asked to complete these tasks on their own, following the instructions at <https://carpentries.github.io/sandpaper-docs/>.
 Afterwards, we conducted 20 minute post-feedback open-ended interviews to assess how comfortable they were with the new infrastructure and how it compared with the previous iterations.
 We asked them five questions:
 
