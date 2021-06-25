@@ -20,15 +20,22 @@ tags:
 > This is an ongoing series of blog posts about the next iteration of the [Lesson Infrastructure]({{ site.url }}/posts-by-tags/#lesson-infrastructure).
 > Find more about our [Design Principles][depr] and our [Path to the Design for the Lesson Website][ux-path]
 
-As our community has grown, it became evident that our current lesson infrastructure would not scale well as implementing updates involves complex manual steps.
+As our community has grown in the past few years, it became evident that our current lesson infrastructure---where implementing updates involves complex manual steps---would not scale well.
 It was also evident that the lesson development toolchain was intimidating enough that it was---in and of itself---a barrier to contribution.
 When this infrastructure was created back in 2016, we had only a few lessons that were maintained by a small group of maintainers who were able to install the toolchain and render them locally.
 We now have more than 100 official and community-developed lessons combined and it's clear that the ability to install and keep the infrastructure up-to-date on one's machine is a rare trait.
 
-![A stacked area chart showing the growth in the number of lessons from 2015 to present day. 
+<figure>
+<img alt='A stacked area chart showing the growth in the number of lessons from 2015 to present day. 
 There is an arrow pointing to the top of the data that says "139 lessons". 
 The data are stratified by our four programs: Software Carpentry on bottom, followed by Data Carpentry, Library Carpentry, and Incubator. 
-The incubator comprises of more than one half of all lessons in the current day.]({{ site.baseurl }}/images/blog/2021/07/lesson-growth.png).
+The incubator comprises of more than one half of all lessons in the current day.' 
+src='{{ site.baseurl }}/images/blog/2021/07/lesson-growth.png'>
+<figcaption class='text-center'>
+The growth in the number of lessons has drastically increased between December 2014 to June 2021. 
+(Note: data excludes lessons from <https://github.com/carpentries> and <https://github.com/carpentrieslab>)
+</figcaption>
+</figure>
 
 Thus, We proposed [design principles of the next iteration of the lesson template][depr] to guide us in making lesson contribution a better experience for all involved.
 Of course, [as we have learned from previous iterations of the lesson template][previous-iteration], we need to create something that works *for the community*.
