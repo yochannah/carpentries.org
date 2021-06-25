@@ -20,11 +20,13 @@ tags:
 > This is an ongoing series of blog posts about the next iteration of the [Lesson Infrastructure]({{ site.url }}/posts-by-tags/#lesson-infrastructure).
 > Find more about our [Design Principles][depr] and our [Path to the Design for the Lesson Website][ux-path]
 
-As our community has grown, it became evident that our infrastructure would not easily scale as lessons would rapidly fall out-of-date with the current toolchains and styling. 
+As our community has grown, it became evident that our current lesson infrastructure would not scale well as implementing updates involves complex manual steps.
 It was also evident that the lesson development toolchain was intimidating enough that it was---in and of itself---a barrier to contribution.
-We proposed [design principles of the next iteration of the lesson template][depr] to guide us in making lesson contribution a better experience for all involved.
+When this infrastructure was created back in 2016, we had only a few lessons that were maintained by a small group of maintainers who were able to install the toolchain and render them locally.
+We now have more than 100 official and community-developed lessons combined and it's clear that the ability to install and keep the infrastructure up-to-date on one's machine is a rare traite.
+Thus, We proposed [design principles of the next iteration of the lesson template][depr] to guide us in making lesson contribution a better experience for all involved.
 Of course, [as we have learned from previous iterations of the lesson template][previous-iteration], we need to create something that works *for the community*.
-This is why, when we had a stable (but not necessarily fully-featured) framework, we needed to test it with the community.
+This is why, when we had a stable (but not necessarily fully-featured) framework, we needed to test it *with the community*.
 
 After investigating several options for our lesson infrastructure, we realized that the [R publishing ecosystem][rmd] aligned best with our values because it has friendly communities, is available as a binary application on all operating systems, and allows us to integrate with all the features we currently offer. 
 From this idea, we created three R packages to host the engine, validator, and styling, called [{sandpaper}], [{pegboard}], and [{varnish}], respectively.
@@ -172,7 +174,7 @@ Overall, the experience from the participants was largely positive.
 
 > I was expecting it to be easy and it was as easy as my expectations.
 
-> ..the effort to build a more sustainable Carpentries environment for all the potential lessons being developed is great and it will be much help for the maintainers.
+> ...the effort to build a more sustainable Carpentries environment for all the potential lessons being developed is great and it will be much help for the maintainers.
 
 ## What We Have Learned So Far
 
@@ -189,7 +191,7 @@ The infrastructure we built stays up-to-date via GitHub Actions, but we need to 
 ### Know Thy Audience
 
 As I went through the alpha test, I modified the documentation from user feedback, but I quickly realized that the same documentation would not work for everyone.
-On two ends of the spectrum, there were people who only wanted the quickstart to those who needed documentation for how the machinery was working so that they could confirm it was not being held together by peanutbutter and paperclips.
+On two ends of the spectrum, there were people who only wanted the quickstart to those who needed documentation for how the machinery was working.
 One way to achieve this is to write the quickstart documentation and then invite people to read more in-depth technical documentation if they were curious.
 This way, people who only want to get the task done can skip that information.
 
