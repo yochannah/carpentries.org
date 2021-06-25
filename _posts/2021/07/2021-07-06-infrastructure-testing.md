@@ -149,7 +149,13 @@ These volunteers represented people who were brand new to The Carpentries, activ
 Most importantly, these volunteers represented varying levels of comfort with both R and our current lesson infrastructure.
 We found that _every single participant_ was able to install the infrastructure successfuly regardless of familiarity with R[^2] or comfort with our infrastructure.
 
-![Scatter plot showing no correlation between infrastructure installation success and Jekyll comfort level (y axis) or R comfort level (x axis).]({{ site.baseurl }}/images/blog/2021/07/infra-alpha-results.svg).
+<figure>
+<img alt="Scatter plot showing no correlation between infrastructure installation success and Jekyll comfort level (y axis) or R comfort level (x axis)."
+     src="{{ site.baseurl }}/images/blog/2021/07/infra-alpha-results.svg)">
+<figcaption class='text-center'>
+The pre-interview alpha results show that the new infrastructure can be used regardless of R experience.
+</figcaption>
+</figure>
 
 This is not to say that there were no bumps along the road.
 During alpha tests, we fully expect _some_ difficulty due to missing documentation and unfamiliar tools.
