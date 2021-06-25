@@ -151,7 +151,7 @@ We found that _every single participant_ was able to install the infrastructure 
 
 <figure>
 <img alt="Scatter plot showing no correlation between infrastructure installation success and Jekyll comfort level (y axis) or R comfort level (x axis)."
-     src="{{ site.baseurl }}/images/blog/2021/07/infra-alpha-results.svg)">
+     src="{{ site.baseurl }}/images/blog/2021/07/infra-alpha-results.svg">
 <figcaption class='text-center'>
 The pre-interview alpha results show that the new infrastructure can be used regardless of R experience.
 </figcaption>
