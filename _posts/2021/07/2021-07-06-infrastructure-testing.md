@@ -17,26 +17,26 @@ tags:
 
 ## Introduction
 
-> This is an ongoing series of blog posts about the next iteration of the Lesson Infrastructure.
+> This is an ongoing series of blog posts about the next iteration of the [Lesson Infrastructure]({{ site.url }}/posts-by-tags/#lesson-infrastructure).
 > Find more about our [Design Principles][depr] and our [Path to the Design for the Lesson Website][ux-path]
 
 As our community has grown, it became evident that our infrastructure would not easily scale as lessons would rapidly fall out-of-date with the current toolchains and styling. 
 It was also evident that the lesson development toolchain was intimidating enough that it was---in and of itself---a barrier to contribution.
 We proposed [design principles of the next iteration of the lesson template][depr] to guide us in making lesson contribution a better experience for all involved.
-Of course, [as we have learned from previous iterations of the lesson template][previous-iteration], if we create something that does not work for the community, it is useless.
+Of course, [as we have learned from previous iterations of the lesson template][previous-iteration], we need to create something that works *for the community*.
 This is why, when we had a stable (but not necessarily fully-featured) framework, we needed to test it with the community.
 
-After investigating several options from our lesson infrastructure, we realized that the [R publishing ecosystem][rmd] aligned best with our values because it has friendly communities, is available as a binary application on all operating systems, and allows us to integrate with all the features we currently offer. 
+After investigating several options for our lesson infrastructure, we realized that the [R publishing ecosystem][rmd] aligned best with our values because it has friendly communities, is available as a binary application on all operating systems, and allows us to integrate with all the features we currently offer. 
 From this idea, we created three R packages to host the engine, validator, and styling, called [{sandpaper}], [{pegboard}], and [{varnish}], respectively.
 We have not yet officially released these packages, but you are free to try them out for yourself! You can get started by visiting <https://carpentries.github.io/sandpaper-docs/>.
-This post describes our efforts to test changes coming to [callout blocks][bq] and the overall infrastructure.
+This post describes our initial efforts to test changes coming to [callout blocks][bq] and the overall lesson infrastructure.
 
 ## Alpha Testing
 
-Alpha testing is a 'bare bones' testing where participants complete a set of tasks with functional, but not fully-featured product.
-The participants in the tests are given a set of pre-defined tasks to accomplish and asked about how they felt about their experiences vs. what their expectations.
-These tests are designed identify common stumbling blocks and any unforseen difficulties that arise from user experiences by reducing the feature space to the core functionality.
-In this way, we could be sure that the solutions we come up with were stable before spending time adding extra features that depend on the base design.
+During our alpha testing, participants complete a set of tasks with functional, but not fully-featured products.
+The participants in the tests are given a set of pre-defined tasks to accomplish and asked about how they felt about their experiences vs. their expectations.
+These tests are designed to identify common stumbling blocks and any unforeseen difficulties that arise when users test the core functionality of a product.
+With this approach, we could test that the solutions we come up with were intuitive before spending time adding extra features.
 
 ### Challenge Syntax
 
@@ -74,19 +74,19 @@ This is the solution
 :::::
 ```
 
-To get to this solution, we recurited maintainers for anonymous testing and proposed three potential solutions for this syntax using one of three alternatives:
+To get to this solution, we recruited Maintainers for anonymous testing and proposed three potential solutions for this syntax using one of three alternatives:
 
 1. HTML `<div>` tags, ([example HTML syntax](https://zkamvar.github.io/glowing-chainsaw/03-div-challenge-blocks.html))
 2. custom [code block syntax based on Oxygen (codename: dovetail)][dovetail], ([example dovetail syntax](https://zkamvar.github.io/glowing-chainsaw/04-dovetail-challenge-blocks.html))
 3. pandoc [section fences (aka fenced-divs)][en-garde] ([example section fence syntax](https://zkamvar.github.io/glowing-chainsaw/05-fenced-div-challenge-blocks.html))
 
-[Pandoc section fence syntax][en-garde] won the challenge because it was reported to be the easiest to use (6/11) and [participants made the fewest syntax errors][results][^1] when they were asked to [reproduce a challenge/solution block in that syntax without rendering the result to HTML][challenge].
+We selected the [Pandoc section fence syntax][en-garde] because testers reported it was the easiest to use (6/11) and [they made the fewest syntax errors][results][^1] when they were asked to [reproduce a challenge/solution block in that syntax without rendering the result to HTML][challenge].
 HTML was the winner in terms of initial clarity (8/11) and near equally easy to use with fenced divs (5/11).
 However, there were several issues around mixing HTML and markdown because particpants either forgot to [pad the HTML with whitespace][nows] or because [indented HTML code is interpreted as a code block][indent].
 
 Below are some comments from our testers regarding the pandoc section fence syntax:
 
-> ...the pandoc looked more confusing, but when I read about what it requires it's less specific and so the eaisest.
+> ...the pandoc looked more confusing, but when I read about what it requires it's less specific and so the easiest.
 
 > The fact that pandoc fenced div tags don't have any specific length and don't need to match in length at start and end tags confused me.
 
@@ -101,27 +101,27 @@ Below are some comments from our testers regarding the pandoc section fence synt
 
 Once we identified the appropriate syntax, we could further refine our design for the lesson infrastructure, which brings us to the infrastructure testing. 
 
-### Infrastructure Testing
+### Lesson Infrastructure Testing
 
 Our new infrastructure consists of R and pandoc with our three in-house packages to coordinate, validate, and style our lessons.
 We wanted to assess three major aspects of lesson development: infrastructure installation, lesson creation, and lesson contribution.
 
 We tested the alpha version of our infrastructure between April and June 2021.
 For this testing phase, we wanted to be absolutely certain that our infrastructure was easy to use from the start, so we recruited people from all across our community.
-This includes maintainers, instructors, core team members, incubator maintainers, and even people who were brand new to The Carpentries.
+This included Maintainers, Instructors, Core Team members, Incubator Maintainers, and even people who were brand new to The Carpentries.
 Because our new infrastructure centered around the R publishing ecosystem, we wanted to recruit people with varying expertise in R.
 
 Our goal for testing  was to assess three salient aspects:
 
-1. Is the infrastructure [installable?](https://github.com/carpentries/sandpaper-docs/issues/33)
-2. Can participants [create a lesson?](https://tang0008.github.io/buoyant-barnacle/)
-3. Can participants [contribute to a lesson?](https://github.com/carpentries/sandpaper-docs/pull/34)
+1. Is the infrastructure [installable](https://github.com/carpentries/sandpaper-docs/issues/33)?
+2. Can participants [create a lesson](https://tang0008.github.io/buoyant-barnacle/)?
+3. Can participants [contribute to a lesson](https://github.com/carpentries/sandpaper-docs/pull/34)?
 
 Participants were asked to complete these tasks on their own, following the instructions at <https://carpentries.github.io/sandpaper-docs/>.
 Afterwards, we conducted 20 minute post-feedback open-ended interviews to assess how comfortable they were with the new infrastructure and how it compared with the previous iterations.
 We asked them five questions:
 
-1. Tell me about the first time you used the Carpentries Lesson Template (styles repo).
+1. Tell me about the first time you used the current Carpentries Lesson Template (our [styles](https://github.com/carpentries/styles) repo).
 1. How did you learn to use the styles repository?
 1. How easy was it to get started with the new infrastructure compared to what you expected?
 1. Were there any points at which you did not understand what a command was doing?
@@ -190,13 +190,13 @@ The infrastructure we built stays up-to-date via GitHub Actions, but we need to 
 
 As I went through the alpha test, I modified the documentation from user feedback, but I quickly realized that the same documentation would not work for everyone.
 On two ends of the spectrum, there were people who only wanted the quickstart to those who needed documentation for how the machinery was working so that they could confirm it was not being held together by peanutbutter and paperclips.
-One way to achieve this is to write the quickstart documentation and then invtie people to read the "nerd's documentation" if they were curious.
-This way, people who only want to get the task done can skip that information guilt free.
+One way to achieve this is to write the quickstart documentation and then invite people to read more in-depth technical documentation if they were curious.
+This way, people who only want to get the task done can skip that information.
 
 ### Next Steps
 
 In the coming weeks, we will be preparing the infrastructure for a beta release where we will test it on select live lessons to assess how well it can be approached by the community.
-We will be updating documentation, fixing bugs, and enhancing the deployment pipelines. 
+In the meantime, we will be updating documentation, fixing bugs, and enhancing the deployment pipelines. 
 
 
 ## Thank You
