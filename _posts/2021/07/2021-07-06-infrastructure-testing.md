@@ -174,9 +174,55 @@ Overall, the experience from the participants was largely positive.
 
 > ..the effort to build a more sustainable Carpentries environment for all the potential lessons being developed is great and it will be much help for the maintainers.
 
-## Next Steps
+## What We Have Learned So Far
+
+
+### Keeping Current
+
+Our current infrastructure has historically been difficult to deal with, but it was working for us at a time.
+As one participant pointed out, while they are currently unable and unwilling to use the infrastructure on their personal machine, they were able to successfully install and use it at one point.
+It was later on---after a Jekyll update---that made their installation useless ever since.
+These early tests can tell us a lot about how people interact with the template in a controlled environment, but one thing that became clear is that **updates will happen**.
+Here's the thing about updates, though: they can be utterly terrifying[^3].
+The infrastructure we built stays up-to-date via GitHub Actions, but we need to ensure that our community will feel comfortable updating the packages on their local machines.
+
+### Know Thy Audience
+
+As I went through the alpha test, I modified the documentation from user feedback, but I quickly realized that the same documentation would not work for everyone.
+On two ends of the spectrum, there were people who only wanted the quickstart to those who needed documentation for how the machinery was working so that they could confirm it was not being held together by peanutbutter and paperclips.
+One way to achieve this is to write the quickstart documentation and then invtie people to read the "nerd's documentation" if they were curious.
+This way, people who only want to get the task done can skip that information guilt free.
+
+### Next Steps
 
 In the coming weeks, we will be preparing the infrastructure for a beta release where we will test it on select live lessons to assess how well it can be approached by the community.
+We will be updating documentation, fixing bugs, and enhancing the deployment pipelines. 
+
+
+## Thank You
+
+A big thank you goes out to all of our community members who gave their time to test the new infrastructure and gave valuable feedback.
+
+ - Angelique Trusler
+ - Christina Koch
+ - David Pérez-Suárez
+ - Drake Asberry
+ - Eric Jankowski
+ - Erin Becker
+ - Ezra Herman
+ - Fan Du
+ - François Michonneau
+ - Jon Haitz Legarreta Gorroño
+ - Karen Word
+ - Kari Jordan
+ - Maneesha Sane
+ - Michael Culshaw-Maurer
+ - Sarah Brown
+ - Sarah Stevens
+ - Shaun C. Gaynor
+ - Toby Hodges
+ - anonymous
+
 
 [depr]: https://carpentries.org/blog/2020/08/lesson-template-design/
 [ux-path]: https://carpentries.org/blog/2021/05/lesson-template-design-process/
@@ -198,3 +244,4 @@ In the coming weeks, we will be preparing the infrastructure for a beta release 
 [r-universe]: https://ropensci.org/r-universe/
 [^1]: The only syntax error occurred when [one participant typed an upper-case `Challenge` instead of a lower-case `challenge`](https://github.com/zkamvar/glowing-chainsaw/commit/d659cc501a655a08b7625e9258ef0dcce60416ac#r43122398).
 [^2]: One participant out of the 19 chose not to continue beyond this point.
+[^3]: Kami Vaniea and Yasmeen Rashidi. 2016. Tales of Software Updates: The process of updating software. In Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems (CHI '16). Association for Computing Machinery, New York, NY, USA, 3215–3226. DOI:https://doi.org/10.1145/2858036.2858303](https://doi.org/10.1145/2858036.2858303)
