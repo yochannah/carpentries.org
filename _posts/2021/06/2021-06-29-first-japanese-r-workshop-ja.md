@@ -2,9 +2,9 @@
 layout: page
 authors: ["Joel Nitta", "Tom Kelly", "Kozo Nishida", "Masami Yamaguchi"]
 title: "ソフトウェアカーペントリーの初日本語ワークショップ"
-date: 2021-06-16
+date: 2021-06-29
 time: "00:00:00"
-category: ["Community", "Internationalisation", "Curriculum", "Japan", "Online"]
+category: ["Community", "Internationalisation", "Curriculum", "Japan", "Online Workshops"]
 ---
 
 ([Read this post in English](https://carpentries.org/blog/2021/06/first-japanese-r-workshop-en/))
