@@ -102,6 +102,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - University of Oregon
 - University of Oslo
 - University of Oxford
+- University of Pennsylvania Libraries
 - University of Reading
 - University of Texas Arlington
 - Utrecht University
