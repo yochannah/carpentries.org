@@ -3,7 +3,7 @@ layout: page
 authors: ["Robert Castelo", "Jenny Drnevich", "Laurent Gatto", "Charlotte Soneson"]
 teaser: "Highlighting this lesson from The Carpentries Incubator, teaching RNA-Seq data analysis with Bioconductor"
 title: "Incubator Lesson Spotlight: Analysis and Interpretation of Bulk RNA-Seq Data using Bioconductor"
-date: 2021-07-DD
+date: 2021-07-13
 time: "09:00:00"
 tags: ["Carpentries Incubator", "Community"]
 lesson_title: "Analysis and Interpretation of Bulk RNA-Seq Data using Bioconductor"
