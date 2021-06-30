@@ -33,6 +33,47 @@ The council also prepares [Yearly Summaries](https://github.com/carpentries/exec
 
 You will find our past Executive Council members [on the Carpentries Governance History page](/governance-history/).
 
+## Carpentries Executive Council Standing Committees
+
+Standing Committees are used by the Executive Council as a practical way to manage the work and engagement of the Executive Council.
+For a description of the different Standing Committees, see [the Carpentries' handbook](https://docs.carpentries.org/topic_folders/governance/executive-council.html?#executive-council-s-standing-committees).
+
+For the current Executive Council term, the Executive Council Standing Committees have the following composition:
+
+### Officers Committee
+
+* Lex Nederbragt (Chair)
+* Paula Andrea
+* Michael Smith
+* Konrad Förstner
+
+### Governance Committee
+
+* Paula Andrea (Committee Chair)
+* Sarah Stevens
+* Cedric Chambers
+* JohnChodacki
+
+### Finance Committee
+
+* Michael Smith (Committee Chair)
+* John Chodacki
+* Cedric Chambers
+
+### Communications Committee
+
+* Konrad Förstner (Committee Chair)
+* Masami Yamaguchi
+* Aleks Nenadic
+* Omar Khan (Core Team member)
+
+### Program Committee
+
+* Sarah Stevens (Committee Chair)
+* Masami Yamaguchi
+* Aleks Nenadic
+* Lex Nederbragt
+
 ## Carpentries Bylaws and Policies
 
 The Carpentries Bylaws can be found in the [handbook](https://docs.carpentries.org/topic_folders/governance/bylaws.html).
