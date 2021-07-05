@@ -5,7 +5,7 @@ teaser: "Highlighting this lesson from The Carpentries Incubator, teaching Pytho
 title: "Incubator Lesson Spotlight: Python for Business"
 date: 2021-04-20
 time: "09:00:00"
-tags: ["Carpentries Incubator", "Community"]
+tags: ["Carpentries Incubator", "Community", "Carpentries Incubator Spotlight"]
 lesson_title: "Python for Business"
 ---
 

@@ -5,7 +5,7 @@ teaser: "Highlighting this lesson from The Carpentries Incubator, Bash and R for
 title: "Incubator Lesson Spotlight: Bash and R for Metagenomics"
 date: 2021-05-17
 time: "09:00:00"
-tags: ["Carpentries Incubator", "Community"]
+tags: ["Carpentries Incubator", "Community", "Carpentries Incubator Spotlight"]
 lesson_title: Metagenomics
 ---
 

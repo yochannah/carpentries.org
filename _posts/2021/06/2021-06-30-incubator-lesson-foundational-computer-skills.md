@@ -5,7 +5,7 @@ teaser: "Highlighting a lesson beginning development in The Carpentries Incubato
 title: "Incubator Lesson Spotlight: Foundational Computer Skills"
 date: 2021-06-30
 time: "00:00:00"
-tags: ["Carpentries Incubator", "Community"]
+tags: ["Carpentries Incubator", "Community", "Carpentries Incubator Spotlight"]
 lesson_title: Foundational Computer Skills
 ---
 
