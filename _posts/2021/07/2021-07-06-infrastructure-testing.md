@@ -20,19 +20,20 @@ tags:
 > This is an ongoing series of blog posts about the next iteration of the [Lesson Infrastructure]({{ site.url }}/posts-by-tags/#lesson-infrastructure).
 > Find more about our [Design Principles][depr] and our [Path to the Design for the Lesson Website][ux-path]
 
-As our community has grown in the past few years, it became evident that our current lesson infrastructure---where implementing updates involves complex manual steps---would not scale well.
+As our community has grown in the past few years, it has become evident that our current lesson infrastructure---where implementing updates involves complex manual steps---does not scale well.
 It was also evident that the lesson development toolchain was intimidating enough that it was---in and of itself---a barrier to contribution.
 When this infrastructure was created back in 2016, we had only a few lessons that were maintained by a small group of maintainers who were able to install the toolchain and render them locally.
-We now have more than 100 official and community-developed lessons combined and it's clear that the ability to install and keep the infrastructure up-to-date on one's machine is a rare trait.
+We now have more than 100 official and community-developed lessons combined.
+Based on the feedback from our much larger maintainer community, it is clear that many find it challenging to keep the infrastructure up-to-date on their own machines.
 
 <figure>
 <img alt='A stacked area chart showing the growth in the number of lessons from 2015 to present day. 
 There is an arrow pointing to the top of the data that says "139 lessons". 
 The data are stratified by our four programs: Software Carpentry on bottom, followed by Data Carpentry, Library Carpentry, and Incubator. 
-The incubator comprises of more than one half of all lessons in the current day.' 
+The incubator comprises more than one half of all lessons in the current day.' 
 src='{{ site.baseurl }}/images/blog/2021/07/lesson-growth.png'>
 <figcaption class='text-center'>
-The growth in the number of lessons has drastically increased between December 2014 to June 2021. 
+The growth in the number of lessons has drastically increased between December 2014 and June 2021. 
 (Note: data excludes lessons from <https://github.com/carpentries> and <https://github.com/carpentrieslab>)
 </figcaption>
 </figure>
@@ -51,7 +52,7 @@ This post describes our initial efforts to test changes coming to [callout block
 During our alpha testing, participants complete a set of tasks with functional, but not fully-featured products.
 The participants in the tests are given a set of pre-defined tasks to accomplish and asked about how they felt about their experiences vs. their expectations.
 These tests are designed to identify common stumbling blocks and any unforeseen difficulties that arise when users test the core functionality of a product.
-With this approach, we could test that the solutions we come up with were intuitive before spending time adding extra features.
+With this approach, we can test that the solutions we come up with are intuitive before spending time adding extra features.
 
 ### Challenge Syntax
 
@@ -123,10 +124,10 @@ We wanted to assess three major aspects of lesson development: infrastructure in
 
 We tested the alpha version of our infrastructure between April and June 2021.
 For this testing phase, we wanted to be absolutely certain that our infrastructure was easy to use from the start, so we recruited people from all across our community.
-This included Maintainers, Instructors, Core Team members, Incubator Maintainers, and even people who were brand new to The Carpentries.
+This included Maintainers, Instructors, Core Team members, Incubator Maintainers, and people who were brand new to The Carpentries.
 Because our new infrastructure centered around the R publishing ecosystem, we wanted to recruit people with varying expertise in R.
 
-Our goal for testing  was to assess three salient aspects:
+Our goal for testing was to assess three salient aspects:
 
 1. Is the infrastructure [installable](https://github.com/carpentries/sandpaper-docs/issues/33)?
 2. Can participants [create a lesson](https://tang0008.github.io/buoyant-barnacle/)?
@@ -145,7 +146,7 @@ We asked them five questions:
 #### Result
 
 We recruited a total of 19 volunteers to test the infrastructure.
-These volunteers represented people who were brand new to The Carpentries, active community members who have been helping to create a welcoming community for years, and everyone in between.
+These volunteers represented people who were brand new to The Carpentries, active community members who have been helping to create a welcoming community for years, and others involved in The Carpentries.
 Most importantly, these volunteers represented varying levels of comfort with both R and our current lesson infrastructure.
 We found that _every single participant_ was able to install the infrastructure successfuly regardless of familiarity with R[^2] or comfort with our infrastructure.
 
@@ -172,14 +173,14 @@ These are some of the responses that we got regarding difficulty.
 > It would be good to have a "nerd's guide" to the infrastructure.
 
 Many of the initial problems arose from unclear instructions, which is exemplified in [this pull request that significantly rearranges the setup instructions][pr-30].
-The next most frequent problems were coming from connecting to GitHub and even from [the Git installation itself][git-problems].
+The next most frequent problems came from connecting to GitHub and even from [the Git installation itself][git-problems].
 Other issues occured when packages like [stringi](https://cran.r-project.org/package=stringi) were in the process of being updated on CRAN, during which users would be asked if they wanted to build from source.
 To alleviate this particular issue, we set up our own [R Universe][r-universe] that contains binaries of our own infrastructure packages along with the latest versions of packages that are frequenly updated: <https://carpentries.r-universe.dev/ui#builds>.
 While several participants expressed initial discomfort with the pandoc fenced section syntax, they were quickly able to recover from any formatting issues thanks to messages from our validator (which highlights [point number 8 from our design principles](https://carpentries.org/blog/2020/08/lesson-template-design/#human-centered-lesson-template)).
 
 I will reiterate here: despite these issues, every participant was able to install the infrastructure correctly.
 Once they did this, they were able to quickly create and preview a lesson.
-Overall, the experience from the participants was largely positive.
+Overall, the feedback from the participants about their experience was largely positive.
 
 > Once I correctly set up my R and RStudio, the rest was self-explanatory.
 
@@ -204,7 +205,7 @@ Our current infrastructure has historically been difficult to deal with, but it 
 As one participant pointed out, while they are currently unable and unwilling to use the infrastructure on their personal machine, they were able to successfully install and use it in the past.
 After Jekyll updated, their installation became unusable and they were unable to get back to a usable state.
 These early tests can tell us a lot about how people interact with the template in a controlled environment, but one thing that became clear is that **updates will happen**.
-Here's the thing about updates, though: they can be utterly terrifying[^3].
+Here is the thing about updates, though: they can be utterly terrifying[^3].
 The infrastructure we built stays up-to-date via GitHub Actions, but we need to ensure that our community will feel comfortable updating the packages on their local machines.
 
 ### Know Thy Audience
