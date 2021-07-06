@@ -5,7 +5,7 @@ teaser: "Twelve Design principles to guide the development of the next lesson te
 title: "Design principles for the next iteration of The Carpentries lesson template"
 date: 2020-08-10
 time: "09:00:00"
-tags: ["Carpentries Lessons", "Infrastructure", "Carpentries Incubator", "Carpentries Lab"]
+tags: ["Carpentries Lessons", "Infrastructure", "Lesson Infrastructure", "Carpentries Incubator", "Carpentries Lab"]
 ---
 
 This blog post introduces twelve design principles that will guide the development of the next version of The Carpentries lesson template. First, we provide some background and definitions. If you are more interested in the principles themselves, you can skip forward to the [Design Principles section](#design-principles-for-the-next-iteration-of-the-carpentries-lesson-template).
