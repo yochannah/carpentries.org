@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Lex Nederbragt", “Executive Council”]
+authors: ["Lex Nederbragt", "Executive Council"]
 teaser: "We are clarifying the roles and responsibilities of the Executive Council"
 title: "On the governance of The Carpentries"
 date: 2021-07-07
