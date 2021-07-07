@@ -23,6 +23,7 @@ The Carpentries operates like a nonprofit organisation, yet functions as a fisca
 
 As a fiscally-sponsored project of Community Initiatives that does not have formal nonprofit status in the United States, our governing body is represented by the Executive Council. The Executive Council in many ways functions like a Board of Directors of a nonprofit organisation.
 This fact has led to ongoing discussions over the past year.
+
 What does it mean to be a Board, rather than a Steering/Executive group?
 Traditionally, Executive Council members, and those that formed the governance bodies
 of Software and Data Carpentry,
@@ -31,8 +32,10 @@ This has been a strength for these governing bodies.
 However, it is important to also have members on the Executive Council that have experience
 in overseeing business affairs, fundraising and other aspects
 important to running a nonprofit organisation.
+
 In recent years, the Executive Council has proactively invited and included members with substantial Board experience from other nonprofit organisations.
 They have helped us sharpen the discussions around what it means to be a governing body. This includes topics such as what exact responsibilities and decisions should the Executive Council concern itself with, what tasks the Executive Council should just be informed on and what tasks should be left to The Carpentries Core Team.
+
 We are now slowly but steadily moving toward an Executive Council that resembles the function of a nonprofit Board (of Directors).
 To understand what we mean by this, it helps to understand the difference between
 management and governance.
