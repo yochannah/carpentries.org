@@ -4,7 +4,7 @@ authors: ["Damien Irving", "Kate Hertweck", "Luke Johnston", "Joel Ostblom", "Ch
 title: "New book: Research Software Engineering with Python"
 date: 2021-07-14
 time: "09:00:00"
-category: ["Resources"]
+category: ["Books"]
 ---
 
 A big part of the Carpentries success is the two-day workshop format,
