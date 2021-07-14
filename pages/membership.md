@@ -91,7 +91,7 @@ $10,000 = $9,500 USD.
 
 ### Frequently Asked Questions
 
-Please consult our [Membership FAQ page](/member_faq) for more information about memberships, technical workshops, and instructor training workshops.
+Please consult our [Membership FAQ page](/member_faq) for more information about memberships, workshops, and instructor training.
 
 
 ### Notes
