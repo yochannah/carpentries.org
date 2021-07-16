@@ -218,7 +218,7 @@ In Q1 2019, the business Team worked on updating our grants collaboration workfl
 
 ## Community Development Team
 
-<br>Team Lead: Erin Becker
+<br>Team Lead: Alycia Crall
 <br>Team Members: Angelique Trusler · Kelly Barnes · Omar Khan · Toby Hodges
 
 The Community Development Team works to develop and maintain an open and welcoming community culture by developing, testing and implementing various communication strategies, supporting our various committees and task forces, and by introducing and running various initiatives that result in increased pathways for collaboration in our community, as well as equitable  distribution of resources, opportunities and access to inclusive spaces for our community members globally. Serah Njambi Rono led this team between January 2019 and June 2021. Communications Manager - Omar Khan, Regional Consultant for Southern Africa - Angelique Trusler, Deputy Director of Instructor Training - Kelly Barnes and our incoming Curriculum Community Developer all sit on this team. Kari L. Jordan served in this team in 2019 and 2020. Chris Erdmann and Tracy Teal also served in this team in 2019. Some of the projects the Community Development Team has embarked on since January 2019 include:
@@ -239,16 +239,16 @@ Angelique Trusler · Kelly Barnes · Omar Khan · Serah Njambi Rono · Toby Hodg
 
 In Q2 2021,
 - Kelly completed work on, and released the Internal Instructor Training Report for the attention of The Carpentries Core Team and Executive Council,
-- Omar worked on the [Financial and Annual Reports](https://carpentries.org/reports/) for the year 2020 in collaboration with the Business Team and the Executive Team, 
+- Omar worked on the [Financial and Annual Reports](https://carpentries.org/reports/) for the year 2020 in collaboration with the Business Team and the Executive Team,
 - Angelique continued to prepare for CarpentryConnect South Africa 2021, focussing on organising committee coordination, volunteer recruitment, developing outreach material, and managing the event budget,
 - Serah Rono developed the [CarpentryConnect ZA 2021 website](https://za2021.carpentryconnect.org) in an iterative process that incorporated feedback from the organising committee,
 - Kelly designed and facilitated three skill-up sessions on the Community Development Team about Universal Design,
 - Omar developed a workflow to guide the Carpentries Core Team in delivering urgent communications,
-- Angelique continued to steer Instructor Training and instructor checkout efforts in South Africa by hosting two trainings in Q2 2021, 
-- Serah completed work on the [Code of Conduct Facilitators training resource](https://carpentries.github.io/community-facilitators-program/03-0-code-of-conduct-facilitation/index.html), incorporating feedback from the Code of Conduct committee and Carpentries Core Team,  and [shared it with the community for review and feedback](https://carpentries.org/blog/2021/06/code-of-conduct-facilitators-module/), 
+- Angelique continued to steer Instructor Training and instructor checkout efforts in South Africa by hosting two trainings in Q2 2021,
+- Serah completed work on the [Code of Conduct Facilitators training resource](https://carpentries.github.io/community-facilitators-program/03-0-code-of-conduct-facilitation/index.html), incorporating feedback from the Code of Conduct committee and Carpentries Core Team,  and [shared it with the community for review and feedback](https://carpentries.org/blog/2021/06/code-of-conduct-facilitators-module/),
 - Angelique continued to support the African Carpentries Monthly meetups and facilitated monthly skill-up sessions whose details can be found in [the ZA community Etherpad](https://pad.carpentries.org/ZA-community-call).
 - Kelly successfully recruited and began training a cohort of 14 new Trainers
-- Serah successfully co-organised and held [csv,conf,v6](https://csvconf.com), 
+- Serah successfully co-organised and held [csv,conf,v6](https://csvconf.com),
 - Serah worked with Samar Elsheikh and Katherine Simeon from the [Instructor Development Committee](https://carpentries.org/inst-dev/) to host a Mentoring Groups showcase,
 - Serah worked with Carol Fadeke from the [Instructor Development Committee](https://carpentries.org/inst-dev/) to onboard 17 new discussion hosts,
 - Serah [shared from her experience in co-organising online events with the Disruptive Labs community](https://youtu.be/Jzz2pqJs-bA),
@@ -269,10 +269,10 @@ In Q1 2021,
 - Serah and Toby facilitated a workshop on Community Sustainability for Research Software Engineers in the SORSE community. [The session recording is available on YouTube](https://youtu.be/jEfIKuxCcM0), and here is a summary [blog post from the discussion on community sustainability](https://carpentries.org/blog/2021/04/community-sustainability/).
 - Serah worked on a first draft of the Code of Conduct facilitators module. The Code of Conduct facilitation module of the Community Facilitators Program hopes to prepare community members to bridge between community members at events and our Code of Conduct processes. The resource draft is currently being reviewed by Core Team and the Code of Conduct committee. Once ready, [the module will be published here on GitHub](https://carpentries.github.io/community-facilitators-program/03-0-code-of-conduct-facilitation/index.html) in May 2021.
 - Serah gave a talk and developed a checklist on prioritising accessibility in online events at a session targeted at Code for Science and Society’s Event Fund grantees. Here’s a blog post summarising nuggets from the talk, and detailing the checklist https://carpentries.org/blog/2021/02/prioritising-accessibility-virtual-events/
-- Serah prepared guidelines to empower our community to collectively improve accessibility of resources in The Carpentries - https://carpentries.org/blog/2021/02/improving-accessibility-across-carpentries-resources/ 
+- Serah prepared guidelines to empower our community to collectively improve accessibility of resources in The Carpentries - https://carpentries.org/blog/2021/02/improving-accessibility-across-carpentries-resources/
 - At our Core Team Virtual Retreat in March 2021
   - Omar led a Brand Identity workshop with the goal to give the team a shared understanding of the work and process around developing an organisation’s brand
-  - Angelique led a session in resilience that included activities encouraging positive adjustment to challenging life circumstances. The session was based on the intervention strategy entitled "Khazimula!" which originated from the Pathways to Resilience project that took place in South Africa from 2009 to 2014. 
+  - Angelique led a session in resilience that included activities encouraging positive adjustment to challenging life circumstances. The session was based on the intervention strategy entitled "Khazimula!" which originated from the Pathways to Resilience project that took place in South Africa from 2009 to 2014.
   - Serah and Toby led a two-hour workshop at The Carpentries Core Team retreat in March 2021. The goal of the session was two-fold:
     1. to give an orientation on the different [sub-communities in The Carpentries](http://carpentries.org/community/), and expound on how they interact to support our programming as an organisation, and 
     2. to create a shared understanding of our role as Core Team in informing and enabling community efforts in a volunteer/community-led organisation.
@@ -456,7 +456,7 @@ In Q1 2019,  the Community Development Team worked on developing a communication
 Led by Toby Hodges, the Curriculum Team guides and oversees curriculum
 development and maintenance and works closely with our Maintainer community and
 Curriculum Advisor committees. François Michonneau and Zhian
-Kamvar are members of the Curriculum Team. Erin Becker previously 
+Kamvar are members of the Curriculum Team. Erin Becker previously
 served on this team. Some of the projects the Curriculum
 Team has embarked on since January 2019 include: updating the format of
 Maintainer meetings, producing a first draft of a Curriculum Development
@@ -705,7 +705,7 @@ In Q1 2019, the Infrastructure Team worked on organising and documenting our inf
 
 ## Instructor Training Team
 <br> Team Lead: Karen Word
-<br> Team Members: Kelly Barnes · Maneesha Sane · Talisha Sutton-Kennedy 
+<br> Team Members: Kelly Barnes · Maneesha Sane · Talisha Sutton-Kennedy
 
 Led by Karen Word, the Instructor Training Team manages our Instructor Training and Trainer Training programs and curricula and works closely with our Trainer community. The members of the Instructor Training Team are Kelly Barnes, Maneesha Sane, and Talisha Sutton-Kennedy.  Sher! Hurt previously served on this team. Some of the projects the Instructor Training Team has embarked on since January 2019 include: a workflow for offering a-la carte Instructor Trainings outside of our membership program. You can find more details about their quarterly projects work below.
 
@@ -826,7 +826,7 @@ In Q1 2019, the Instructor Training Team worked on producing a workflow for offe
 </details>
 
 ## Membership Team
-<br>Team Lead: Al Obayuwana 
+<br>Team Lead: Al Obayuwana
 <br>Team Members: Angelique Trusler · Kari Jordan · Talisha Sutton-Kennedy
 
 Led by Al Obayuwana, the Membership Team coordinates the growing number of Carpentries Member Organisations, which build local communities and bring together all The Carpentries programs at organisations across the globe. Some of the projects the Membership Team has embarked on since January 2019 include: creating and deploying a membership survey. You can find more details about their quarterly projects work below.
@@ -922,9 +922,9 @@ Led by SherAaron Hurt, the Workshop Team develops and implements workflows to ke
 Angelique Trusler · Maneesha Sane · SherAaron Hurt · Talisha Sutton-Kennedy
 
 #### Regional Coordinator Onboarding
-- Continued finalising the Automated Email project. During Q4 the WAT presented the work done so far to the RC. The RC were given a prelude to what their new workflow will consist of. This project will cut the time to process workshops coordination in half. 
-- The WAT developed a workflow for onboarding new Regional Coordinators. Previously, there was no official onboarding process. During this quarter, the official onboarding presentation was developed along with the agenda and content for a 4 hour session to introduce new RC's to our workflows. 
-- The WAT also updated several workflows that would help with the email automation project and the RC onboarding project. We had several outdated instructions that no longer applied to our current workflows. 
+- Continued finalising the Automated Email project. During Q4 the WAT presented the work done so far to the RC. The RC were given a prelude to what their new workflow will consist of. This project will cut the time to process workshops coordination in half.
+- The WAT developed a workflow for onboarding new Regional Coordinators. Previously, there was no official onboarding process. During this quarter, the official onboarding presentation was developed along with the agenda and content for a 4 hour session to introduce new RC's to our workflows.
+- The WAT also updated several workflows that would help with the email automation project and the RC onboarding project. We had several outdated instructions that no longer applied to our current workflows.
 </details>
 
 <details>
