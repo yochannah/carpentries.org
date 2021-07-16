@@ -2,7 +2,7 @@
 layout: page
 authors: ["Damien Irving", "Kate Hertweck", "Luke Johnston", "Joel Ostblom", "Charlotte Wickham", "Greg Wilson"]
 title: "New book: Research Software Engineering with Python"
-date: 2021-07-14
+date: 2021-07-19
 time: "09:00:00"
 category: ["Books"]
 ---
