@@ -161,18 +161,7 @@ people:
     - icon: fa fa-envelope
       url: mailto:danielle@carpentries.org
 
-
-- name: Al Obayuwana
-  pic: alobayuwana
-  position: Director of Partnerships
-  lead: Membership Team Lead
-  social:
-    - icon: fa fa-envelope
-      url: mailto:alobayuwana@carpentries.org
-    - icon: fab fa-github
-      url: https://github.com/Al-Obayuwana
-
-- name: Alycia Crall
+- name: Alycia Crall, PhD
   pic: alyciacrall
   position: Director of Community
   lead: Community Development Team Lead
@@ -185,3 +174,13 @@ people:
       url: https://twitter.com/alycrall
     - icon: fab fa-linkedin
       url: https://www.linkedin.com/in/alycia-crall-5a842646/
+
+- name: Al Obayuwana
+  pic: alobayuwana
+  position: Director of Partnerships
+  lead: Membership Team Lead
+  social:
+    - icon: fa fa-envelope
+      url: mailto:alobayuwana@carpentries.org
+    - icon: fab fa-github
+      url: https://github.com/Al-Obayuwana
