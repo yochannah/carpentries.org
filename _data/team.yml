@@ -94,7 +94,6 @@ people:
 - name: Serah Njambi Rono
   pic: serahnjambirono
   position: Director of Community Development and Engagement
-  lead: Community Development Team Lead
   jobplan: https://docs.google.com/document/d/12EpzCMdKrh9o7WyJR5Xl4u7Hi7PMUc2t5qvvGMhxbBs/edit
   social:
     - icon: fab fa-twitter
@@ -172,3 +171,17 @@ people:
       url: mailto:alobayuwana@carpentries.org
     - icon: fab fa-github
       url: https://github.com/Al-Obayuwana
+
+- name: Alycia Crall
+  pic: alyciacrall
+  position: Director of Community
+  lead: Community Development Team Lead
+  social:
+    - icon: fa fa-envelope
+      url: mailto:alycia@carpentries.org
+    - icon: fab fa-github
+      url: https://github.com/acrall
+    - icon: fab fa-twitter
+      url: https://twitter.com/alycrall
+    - icon: fab fa-linkedin
+      url: https://www.linkedin.com/in/alycia-crall-5a842646/
