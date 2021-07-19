@@ -76,7 +76,7 @@ One of the privileges we acknowledged in 2020 was the ability to attend more Ope
 You can view the [completed Strategic Plan deliverables under __Goal 6__](https://github.com/carpentries/strategic-plan/issues?q=is%3Aissue+is%3Aclosed+label%3A%22Goal+6%22) in GitHub.
 
 ## What is next?
-We are officially in year two of our Strategic Plan for 2020-2025. This year we will continue to develop and implement resources and programs to support local leadership and Carpentries advocacy. We will work to empower our Member Organisations through the development of programs that plan for and offset associated costs. We will develop workflows to support accessibility, and develop accessible templates and documentation for our community. We will improve mechanisms for participation by investigating ways to support more languages, and better understanding the needs of signing and non-signing members of the Deaf and hard of hearing community.
+We are officially in year two of our Strategic Plan for 2020-2025. This year we will continue to develop and implement resources and programs to support local leadership and Carpentries advocacy. We will work to empower our Member Organisations through the development of programs that plan for and offset associated costs. We will develop workflows to support accessibility, and develop accessible templates and documentation for our community. We will improve mechanisms for participation by investigating in ways to support more languages, and better understanding the needs of signing and non-signing members of the Deaf and hard of hearing community.
 
 ***We will do it all - together.***
 
