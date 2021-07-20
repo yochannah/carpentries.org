@@ -40,7 +40,8 @@ This committee consists of the Executive Council Officers: Chair, Vice Chair, Se
 - Provide support to the Executive Director and direction to the Executive Council on oversight of legal and operational issues
 - Lead Executive Council level oversight of the organisation’s long-term strategic plan and short-term annual planning, including annual review of strategic plan performance metrics against anticipated community end results (outcomes).
 
-### Governance Committee: This committee is chaired by the Vice Chair of the Executive Council.
+### Governance Committee: 
+This committee is chaired by the Vice Chair of the Executive Council.
 
 #### Roles & Responsibilities
 - Assessing the Executive Council’s performance as the governing body of The Carpentries
@@ -49,7 +50,8 @@ Leading the writing, maintenance, and updates to the Carpentries bylaws, revisin
 - Leading the process to identify, nominate, and onboard new Executive Council members
 - Suggesting special committees/task forces as needed and preparing for their formation as per the Committee Policy
 
-### Finance Committee: This committee is chaired by the Treasurer of the Executive Council.
+### Finance Committee: 
+This committee is chaired by the Treasurer of the Executive Council.
 
 #### Roles & Responsibilities
 - Ensuring strong fiduciary oversight and financial management
@@ -58,7 +60,8 @@ Leading the writing, maintenance, and updates to the Carpentries bylaws, revisin
 - Identifying revenue streams and resource development
 - Advise on a strategy for establishing reserve funds, lines of credit, and short- and long-term investments
 
-### Communications Committee: This committee is chaired by the Secretary of the Executive Council.
+### Communications Committee: 
+This committee is chaired by the Secretary of the Executive Council.
 
 #### Roles & Responsibilities
 - Work to enhance The Carpentries public image
@@ -66,7 +69,8 @@ Leading the writing, maintenance, and updates to the Carpentries bylaws, revisin
 - Ensure blog posts related to the work of the Executive council are published in a timely fashion
 - Write the Year-in-review summary of the major activities accomplished by the Executive Council
 
-### Program Committee: This committee can be chaired by a member of the Executive Council.
+### Program Committee: 
+This committee can be chaired by a member of the Executive Council.
 
 #### Roles & Responsibilities
 - Evaluating The Carpentries programs and services
