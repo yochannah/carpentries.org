@@ -45,7 +45,7 @@ This committee is chaired by the Vice Chair of the Executive Council.
 
 #### Roles & Responsibilities
 - Assessing the Executive Council’s performance as the governing body of The Carpentries
-Leading the writing, maintenance, and updates to the Carpentries bylaws, revising/amending the bylaws for approval every 2 years, or as needed
+- Leading the writing, maintenance, and updates to the Carpentries bylaws, revising/amending the bylaws for approval every 2 years, or as needed
 - Organizing the annual Executive Council retreat
 - Leading the process to identify, nominate, and onboard new Executive Council members
 - Suggesting special committees/task forces as needed and preparing for their formation as per the Committee Policy
