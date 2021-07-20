@@ -1,8 +1,8 @@
 ---
 layout: page
 authors: ["Executive Council"]
-teaser: "The Carpentries Welcomes Alycia Crall, Director of Community"
-title: "Introducing The Carpentries Director of Community, Alycia Crall"
+teaser: "Read on to learn more about the context and responsibilities of the new Executive Council Standing Committees"
+title: "Introducing the new Executive Council Standing Committees"
 date: 2021-07-20
 time: "09:00:00"
 tags: ["Executive Council", "Governance"]
