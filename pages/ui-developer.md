@@ -9,7 +9,8 @@ permalink: /ui-developer/
 fostering an active, inclusive, diverse community of learners and instructors
 who promote and model the importance of software and data in research.” We seek
 an engaged and collaborative individual who shares this vision for a contractor
-position as a UI Developer for The Carpentries. The UI Developer will have the
+position as a Web Developer and Accessibility Specialist for The Carpentries. 
+The Web Developer and Accessibility Specialist will have the
 responsibility of converting designs from Figma into HTML, CSS, and JS code. Our
 lessons are used by learners worldwide and accessed by over 50,000 visitors
 monthly. We have outlined in blog posts the [design
