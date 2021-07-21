@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "UI Developer"
+title: "Web Developer and Accessibility Specialist"
 permalink: /ui-developer/
 ---
 
@@ -17,12 +17,13 @@ principles](https://carpentries.org/blog/2020/08/lesson-template-design/) and
 the process behind the [development of the User
 Interface](https://carpentries.org/blog/2021/05/lesson-template-design-process/).
 
-We are looking for an experienced UI Developer who is passionate about
-accessibility and is excited about providing innovative solutions to address the
-needs and challenges of the users of our lessons. You will work closely with the
-[Curriculum Team](https://carpentries.org/core-team-projects/#curriculum-team)
-to deliver open-source and open-licensed code that we will use to create our
-lesson websites.
+We are looking for an experienced Web Developer and Accessibility Specialist who
+is passionate about accessibility and is excited about providing innovative
+solutions to address the needs and challenges of the users of our lessons. You
+will work closely with the [Curriculum
+Team](https://carpentries.org/core-team-projects/#curriculum-team) to deliver
+open-source and open-licensed code that we will use to create our lesson
+websites.
 
 The Carpentries is an open, global, community teaching the skills and
 perspectives to turn data into knowledge. We build capacity in essential data
@@ -49,6 +50,7 @@ organisations from research institutions around the world.
 
 #### Preferred
 
+* IAAP Certification: Certified Professional in Web Accessibility (CPWA)
 * Knowledge of [Bootstrap](https://getbootstrap.com/)
 * Knowledge of static site generators (e.g., Jekyll)
 * Experience developing websites for offline use
@@ -113,4 +115,4 @@ indicate your country of residence, and whether or not you have work
 authorization in that country. We encourage you to include links to a portfolio
 and/or a link to your GitHub/GitLab profile as part of your application.
 
-Applications received before July 4th, 23:59 UTC will receive full consideration.
+Applications received before July 31st, 23:59 UTC will receive full consideration.
