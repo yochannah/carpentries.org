@@ -63,6 +63,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Genomics Aotearoa
 - George Mason University
 - Great Plains Network (GPN)
+- Health Education England Knowledge and Library Services
 - Helmholtz Centre Potsdam - GFZ German Research Centre for Geosciences
 - Helmholtz-Zentrum Dresden-Rossendorf
 - Institute for Advanced Computational Science-Stony Brook University
