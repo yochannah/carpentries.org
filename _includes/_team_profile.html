@@ -21,31 +21,31 @@
   {% assign last_row_item = "" %}
 {% endif %}
 
-                {% if loopindex == 1 %}
-                <div class="row align-center">
-                {% endif %}
-                <div class="medium-4 columns{{ row_align }}{{ last_row_item }}">
-                    <div class="team-member">
-                        <img src="{{ site.filesurl }}/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
-                        <h4>{{ member.name }}</h4>
-                        <p class="text-muted">
-                            {{ member.position }}<br>
+{% if loopindex == 1 %}
+<div class="row align-center">
+{% endif %}
+<div class="medium-4 columns{{ row_align }}{{ last_row_item }}">
+<div class="team-member">
+<img src="{{ site.filesurl }}/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
+<h4>{{ member.name }}</h4>
+<p class="text-muted">
+{{ member.position }}<br>
 
-                            {% if member.lead %}
-                                <i>{{ member.lead }}</i><br>
-                            {% endif %}
-                        </p>
-                        <ul class="list-inline social-buttons">
-                            {% for network in member.social %}
-                            <li>
-                                <a href="{{ network.url }}">
-                                    <i class="{{ network.icon }}"></i>
-                                </a>
-                            </li>
-                            {% endfor %}
-                        </ul>
-                    </div>
-                </div>
-                {% if loopindex == 0 %}
-                  </div>
-                {% endif %}
+{% if member.lead %}
+<i>{{ member.lead }}</i><br>
+{% endif %}
+</p>
+<ul class="list-inline social-buttons">
+{% for network in member.social %}
+<li>
+<a href="{{ network.url }}">
+<i class="{{ network.icon }}"></i>
+</a>
+</li>
+{% endfor %}
+</ul>
+</div>
+</div>
+{% if loopindex == 0 %}
+</div>
+{% endif %}
