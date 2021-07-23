@@ -4,7 +4,8 @@ permalink: community-lessons/
 title: Community Developed Lessons
 ---
 
-The Carpentries community is commited to a collaborative and open process for lesson development and to sharing teaching materials. We provide two avenues for community members to share lesson materials - The Carpentries Incubator and The CarpentriesLab.
+The Carpentries community is commited to a collaborative and open process for lesson development and to sharing teaching materials. 
+We provide two avenues for community members to share lesson materials - The Carpentries Incubator and The Carpentries Lab.
 
 [The Carpentries Incubator](#the-carpentries-incubator) is for:
 
@@ -50,13 +51,14 @@ You can also find
 
 ## The Carpentries Lab
 
-The Carpentries Lab is a place for sharing high-quality, peer-reviewed lessons
+[The Carpentries Lab](https://github.com/carpentries-lab/reviews/) is a place for sharing high-quality, peer-reviewed lessons
 that follow best practices in pedagogy and
 the general teaching practices used in Carpentries workshops.
 
-Lessons in The CarpentriesLab have been peer-reviewed and are vetted by The Carpentries as high-quality resources. We encourage you to browse the Lab lessons for materials that meet your needs and to use these materials freely (all lessons are licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)). However, we are unable to offer workshops teaching these lessons upon request.
+Lessons in The Carpentries Lab have been peer-reviewed and are vetted by The Carpentries as high-quality resources. We encourage you to browse the Lab lessons for materials that meet your needs and to use these materials freely (all lessons are licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)). However, we are unable to offer workshops teaching these lessons upon request.
 
-At this time, we are not accepting lesson submissions to The CarpentriesLab. If you are interested in having a lesson reviewed for inclusion in The Lab, please submit it first through [the Proposals repository for The Carpentries Incubator](https://github.com/carpentries-incubator/proposals#readme).
+At this time, we are inviting submissions for review and acceptance to The Carpentries Lab. 
+If you are interested in having a lesson reviewed for inclusion in The Lab, please visit [The Carpentries Lab reviews repository](https://github.com/carpentries-lab/reviews/).
 
 ## Information for Lesson Developers
 
@@ -75,4 +77,4 @@ on this page.
 
 If you have added the appropriate topics on your lesson repository and it
 still does not appear in the table above,
-please contact [Toby Hodges](mailto:tobyhodges@carpentries.org).
+please contact [the Incubator team](mailto:incubator@carpentries.org).
