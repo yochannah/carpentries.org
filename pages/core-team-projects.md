@@ -23,6 +23,21 @@ Led by Kari L. Jordan, the Executive Team proactively brings together perspectiv
 
 <details>
 <summary>
+<strong>April - June (Q2) 2021</strong>
+</summary>
+Erin Becker · François Michonneau · Kari L. Jordan
+
+#### Privacy Law Compliance
+The Carpentries Executive Team is continuing to put into place the systems and processes that will ensure our compliance with Privacy Laws with the following efforts:
+- Completed the account inventory and developed a system to audit ownership of the files hosted in The Carpentries's Google Drive.
+- Added features to AMY that will allow users to archive their profile when they become inactive with us and remind them to update their personal information.
+- Currently developing an interface to make it easier to audit when users provide their consent and revoke them. We are also developing internal documentation and workflows for DPIA (Data Protection Impact Assessment) to be used across our projects and teams.
+
+The Executive Council worked extensively to clarify its roles and responsibilities as it relates to the governance of the organization. Learn more in their [recently published blog post](https://carpentries.org/blog/2021/07/carpentries-governance/).
+</details>
+
+<details>
+<summary>
 <strong>October - December (Q4) 2020</strong>
 </summary>
 Erin Becker · François Michonneau · Kari L. Jordan
@@ -113,6 +128,20 @@ Led by Kari Jordan, the Business Team works on the legal and financial aspects o
 <summary>
 <strong>Business Team's Quarterly Projects</strong>
 </summary>
+
+
+<details>
+<summary>
+<strong>April - June (Q2) 2021</strong>
+</summary>
+Kari L. Jordan · Talisha Sutton-Kennedy
+
+#### Capacity Building
+[Goal 5](https://github.com/carpentries/strategic-plan/blob/master/STRATEGIC-PLAN.md#goal-5-strengthen-organisational-structure-and-capacity-to-be-strategic-and-responsive) in the Carpentries strategic plan is to Strengthen organisational structure and capacity to be strategic and responsive. Under this goal is the following objective:
+*Be aware of and implement best practices in privacy management, copyright, and trademarks.*
+
+In the second quarter of the year The Carpentries Business Team has made progress on transferring and registering trademarks for the organisation. They have transferred previously registered Software Carpentry and Data Carpentry trademark registrations to our current fiscal sponsor Community Initiatives. Additionally, They have submitted an application to begin trademarking The Carpentries name and logo.
+</details>
 
 <details>
 <summary>
@@ -245,6 +274,7 @@ In Q2 2021,
 - Kelly designed and facilitated three skill-up sessions on the Community Development Team about Universal Design,
 - Omar developed a workflow to guide the Carpentries Core Team in delivering urgent communications,
 - Angelique continued to steer Instructor Training and instructor checkout efforts in South Africa by hosting two trainings in Q2 2021,
+- Angelique increased the Glosario African language offering to 5 languages (i.e Afrikaans, Kiswahili, isiXhosa, isiZulu, and Setswana ). Looking actively for opportunities to recruit volunteer translators.
 - Serah completed work on the [Code of Conduct Facilitators training resource](https://carpentries.github.io/community-facilitators-program/03-0-code-of-conduct-facilitation/index.html), incorporating feedback from the Code of Conduct committee and Carpentries Core Team,  and [shared it with the community for review and feedback](https://carpentries.org/blog/2021/06/code-of-conduct-facilitators-module/),
 - Angelique continued to support the African Carpentries Monthly meetups and facilitated monthly skill-up sessions whose details can be found in [the ZA community Etherpad](https://pad.carpentries.org/ZA-community-call).
 - Kelly successfully recruited and began training a cohort of 14 new Trainers
@@ -474,7 +504,22 @@ about their quarterly projects work below.
 
 <details>
 <summary>
-<strong>October - December (Q3) 2020</strong>
+<strong>April - June (Q2) 2021</strong>
+</summary>
+Erin Becker · Michael Culshaw-Maurer · François Michonneau · Zhian Kamvar · Toby Hodges
+
+#### Lesson Infrastructure, Lesson Development, and more
+- Zhian alpha-tested the new lesson infrastructure with participants from a wide range of skill levels (https://carpentries.org/blog/2021/07/infrastructure-testing/)
+- Plan is in place to revive the Curriculum Advisory Committees, in coordination with the Program Committee of the Executive Council. Will start recruiting Q3
+- Maintainer Onboarding curriculum was updated ahead of the next round (taking place in Q3). Also published a call for applications to join that upcoming round.
+- Filtering and sorting options were added to the Help Wanted page, making it easier for community members to find issues to contribute to e.g. based on language, topic, Lesson Program
+- Published guidance for individuals wishing to convert existing lesson content from another format into The Carpentries lesson template.
+- Completed inaugural round of Lesson Development Study Groups.
+</details>
+
+<details>
+<summary>
+<strong>October - December (Q4) 2020</strong>
 </summary>
 Erin Becker · François Michonneau · Zhian Kamvar · Toby Hodges
 
@@ -603,9 +648,25 @@ Led by François Michonneau, the Infrastructure Team is behind all of the system
 <strong>Infrastructure Team's Quarterly Projects</strong>
 </summary>
 
+
 <details>
 <summary>
-<strong>July - Septmeber (Q3) & October - December (Q4) 2020</strong>
+<strong>April - June (Q2) 2021</strong>
+</summary>
+François Michonneau · Maneesha Sane · Zhian Kamvar
+
+#### AMY Updates and Maintenance
+- Developed and implemented new features in AMY that let us better track The Carpentries memberships.  Tested these features across The Carpentries Core Team. Created plan for to bring data up to date with these new features.
+- Implemented new features in AMY that let us better track individuals (Instructors, Trainers, etc.) with more explicit consents about how data is stored, used, and archived.  
+- Enhanced systems for accounts inventory, ensuring we have a complete, accurate, and up to date log of individual and team access to various accounts, including current and former users.
+- Assorted updates to our website, including standardizing publication of all our profile pages (Instructors, Trainers, etc.) and data feeds.
+- Continued maintenance and upgrades to our servers
+
+</details>
+
+<details>
+<summary>
+<strong>July - September (Q3) & October - December (Q4) 2020</strong>
 </summary>
 François Michonneau · Maneesha Sane · Zhian Kamvar
 
@@ -713,6 +774,20 @@ Led by Karen Word, the Instructor Training Team manages our Instructor Training 
 <summary>
 <strong>Instructor Training Team's Quarterly Projects</strong>
 </summary>
+
+<details>
+<summary>
+<strong>April - June (Q2) 2021</strong>
+</summary>
+Karen Word · Kelly Barnes · Maneesha Sane · Talisha Sutton-Kennedy · Sher! Hurt
+
+#### In Q2 2021, the Instructor Training Team
+- Continued ongoing work to schedule, manage, and track instructor training and trainee progress
+- Released an internal version of the Instructor Training Report to the Core Team. The purpose of this report is to provide an update on the growth, success, and challenges of the Instructor Training Program and help us identify trends and opportunities that can drive continuous program improvement. In Q3 we will be releasing a public version of this report to the broader Carpentries community.
+- Began a substantial update to the Instructor Training Curriculum to update content and address outstanding issues in the repository. These updates are expected to go live sometime in Q3.
+- Recruited and began training 14 new Instructor Trainers. These new Trainers will be badged in July.
+- Continued making improvements to the curriculum and scheduling of the Online Teaching Bonus Module.
+</details>
 
 <details>
 <summary>
@@ -838,6 +913,21 @@ Led by Al Obayuwana, the Membership Team coordinates the growing number of Carpe
 
 <details>
 <summary>
+<strong>April - June (Q2) 2021</strong>
+</summary>
+Al Obayuwana · Angelique Trusler · Kari Jordan · Talisha Sutton-Kennedy
+
+#### Pricing Models and Infrastructure
+- Began to explore pricing models with goal of strengthening organisational structure and creating ability to be responsive
+- Support  capacity for organisations to be empowered in their communities
+- Discussed how to make membership more accessible as well as workshops and trainings
+- Discussed membership organisation touch points and began to develop a framework for reaching out and check-ins
+- Membership infrastructure project - Hackathon to transfer data from Asana to AMY (lead by Maneesha)
+- Rolled out 6-month check in emails to member organisations from June 2021
+</details>
+
+<details>
+<summary>
 <strong>October - December (Q4) 2020</strong>
 </summary>
 Erin Becker · François Michonneau · Karen Word · Kari L. Jordan · Serah Rono · Sher! Hurt · Angelique Trusler
@@ -914,6 +1004,23 @@ Led by SherAaron Hurt, the Workshop Team develops and implements workflows to ke
 <summary>
 <strong>Workshop Administration Team's Quarterly Projects</strong>
 </summary>
+
+<details>
+<summary>
+<strong>April - June (Q2) 2021</strong>
+</summary>
+SherAaron Hurt · Angelique Trusler · Danielle Sieh · Maneesha Sane · Talisha Sutton-Kennedy
+
+#### In Q2 the WAT
+- Planned for the automation of the Instructor Recruitment Project. The WAT created a wishlist for the Infrastructure team to identify what we wanted in a perfect world :)  
+- Started a working group on Instructor Recruitment to identify what motivates the instructors to teach to help solve the problem of instructors not signing up to teach
+- Developed a Task Force for how to address feedback given towards the instructors after teaching a workshop
+- Developed a plan to begin gathering information for planning for in-person workshops
+- Started a discussion series.. WAT presents that focused on Self-Organised workshops
+- Assessed the role of the Regional Coordinator to identify how to develop the role further and make it work for the community and CT
+- Created a SWOT analysis to help determine the next set of priorities for the WAT
+
+</details>
 
 <details>
 <summary>
