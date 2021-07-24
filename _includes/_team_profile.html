@@ -21,31 +21,34 @@
   {% assign last_row_item = "" %}
 {% endif %}
 
-                {% if loopindex == 1 %}
-                <div class="row align-center">
-                {% endif %}
-                <div class="medium-4 columns{{ row_align }}{{ last_row_item }}">
-                    <div class="team-member">
-                        <img src="{{ site.filesurl }}/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
-                        <h4>{{ member.name }}</h4>
-                        <p class="text-muted">
-                            {{ member.position }}<br>
+{% if loopindex == 1 %}
+<div class="row align-center">
+{% endif %}
+<div class="medium-4 columns{{ row_align }}{{ last_row_item }}">
+<div class="team-member">
+<img src="{{ site.filesurl }}/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
+<h4>{{ member.name }}</h4>
+<p class="text-muted">
+{{ member.position }}<br>
 
-                            {% if member.lead %}
-                                <i>{{ member.lead }}</i><br>
-                            {% endif %}
-                        </p>
-                        <ul class="list-inline social-buttons">
-                            {% for network in member.social %}
-                            <li>
-                                <a href="{{ network.url }}">
-                                    <i class="{{ network.icon }}"></i>
-                                </a>
-                            </li>
-                            {% endfor %}
-                        </ul>
-                    </div>
-                </div>
-                {% if loopindex == 0 %}
-                  </div>
-                {% endif %}
+{% if member.lead %}
+<i>{{ member.lead }}</i><br>
+{% endif %}
+</p>
+<ul class="list-inline social-buttons">
+  <li><a href="mailto:{{ member.email }}"> <i class="fa fa-envelope"></i> </a> </li>
+
+  {% if member.github %}<li> <a href="https://github.com/{{ member.github }}"> <i class="fab fa-github"></i> </a> </li> {% endif %}
+
+  {% if member.linkedin %}<li> <a href="https://linkedin.com/in/{{ member.linkedin }}"> <i class="fab fa-linkedin"></i> </a> </li>  {% endif %}
+
+  {% if member.orcid %}<li> <a href="https://orcid.org/{{ member.orcid }}"> <i class="fab fa-orcid"></i> </a> </li>  {% endif %}
+
+  {% if member.twitter %}<li> <a href="https://twitter.com/{{ member.twitter }}"> <i class="fab fa-twitter"></i> </a> </li> {% endif %}
+
+</ul>
+</div>
+</div>
+{% if loopindex == 0 %}
+</div>
+{% endif %}
