@@ -5,7 +5,7 @@ teaser: "CarpentryConnect South Africa is a significant milestone in our Strateg
 title: "Highlighting our strategic plan efforts to support local community building"
 date: 2021-07-27
 time: "09:00:00"
-tags: ["Strategic Plan”, “CarpentryConnect"]
+tags: ["Strategic Plan", "CarpentryConnect"]
 ---
 
 At the end of each quarter the [Core Team](https://carpentries.org/team/) spends time individually and collectively reflecting on the progress the organisation has made toward our [Strategic Plan for 2020-2025](https://carpentries.org/strategic-plan/). This exercise is truly meaningful for us as it speaks to our commitment to one of our [9 Core Values](https://carpentries.org/values/): Act Openly. By sharing semi-regular updates about our strategic plan with our community, we hope to keep you engaged in our growth and development. To follow this work closely [watch our strategic-plan GitHub repository](https://github.com/carpentries/strategic-plan/). 
