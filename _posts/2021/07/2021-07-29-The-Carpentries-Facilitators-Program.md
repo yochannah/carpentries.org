@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Angelique Trusler", “Kari L. Jordan”, “Liz Stokes”, “Naoe Tatara”, “Annajiat Alim Rasel”, “Benson Muite”, “Mike Henry“,"Toby Hodges", "Alycia Crall"]
+authors: ["Angelique Trusler", "Kari L. Jordan", "Liz Stokes", "Naoe Tatara", "Annajiat Alim Rasel", "Benson Muite", "Mike Henry","Toby Hodges", "Alycia Crall"]
 teaser: "Feedback is important for The Carpentries’ growth"
 title: "The Carpentries Community Facilitators Program: 6-months in"
 date: 2021-07-29
