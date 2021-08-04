@@ -5,7 +5,7 @@ title: Community Developed Lessons
 ---
 
 The Carpentries community is commited to a collaborative and open process for lesson development and to sharing teaching materials. 
-We provide two avenues for community members to share lesson materials - The Carpentries Incubator and The Carpentries Lab.
+We provide two avenues for community members to share lesson materials - [The Carpentries Incubator](https://carpentries-incubator.org/) and The Carpentries Lab.
 
 [The Carpentries Incubator](#the-carpentries-incubator) is for:
 
@@ -36,7 +36,7 @@ cells in that column which contain that term.
 
 ## The Carpentries Incubator
 
-The Carpentries Incubator is a place for Carpentries community members to share Carpentries-style teaching materials at all stages of development, to collaborate on lesson development, and receive feedback from other community members.
+[The Carpentries Incubator](https://carpentries-incubator.org/) is a place for Carpentries community members to share Carpentries-style teaching materials at all stages of development, to collaborate on lesson development, and receive feedback from other community members.
 
 Lessons in The Carpentries Incubator are developed and supported by community members and are not officially endorsed by The Carpentries. We encourage you to browse the Incubator lessons for materials that meet your needs and to use these materials freely (all lessons are [licensed CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)). However, we are unable to offer workshops teaching these lessons upon request.
 
