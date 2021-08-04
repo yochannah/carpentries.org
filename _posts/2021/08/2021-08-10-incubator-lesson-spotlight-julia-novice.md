@@ -23,6 +23,7 @@ The Incubator Lesson Spotlight highlights a lesson under development by our comm
 * get comfortable with the package manager and environments
 * learn syntax for common tasks (types, control flow, functions & methods, modules)
 * finding, using and creating packages
+* writing tests
 
 ### Target Audience
 
@@ -34,7 +35,11 @@ The lesson is in the pre-alpha stage at its first iteration and has yet to be ta
 
 ## How You Can Help Develop This Lesson
 
-We are looking for input in any form.
+We are looking for people
+ * reviewing the lesson
+ * teaching the lesson
+ * adding content (e.g. multiple dispatch)
+ * providing more visuals and interactive content
 
 Join [the _juliaswc_ channel](https://swcarpentry.slack.com/archives/CBJ8C7NE6) in [The Carpentries Slack workspace](https://swc-slack-invite.herokuapp.com/) or open an issue on [the lesson repository on GitHub](https://github.com/carpentries-incubator/julia-novice)
 
