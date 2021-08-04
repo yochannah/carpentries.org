@@ -6,7 +6,7 @@ title: List of GitHub issues with the tag 'help wanted'
 
 The table below lists all lessons labelled "Help wanted" and/or
 "good first issue" on many of our repositories and lesson repositories
-in The Carpentries Incubator.
+in [The Carpentries Incubator](https://carpentries-incubator.org/).
 We hope it will help you find opportunities to contribute to Carpentries
 lessons and projects.
 The table can be sorted and filtered based on the contents of its columns:
