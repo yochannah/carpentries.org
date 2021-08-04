@@ -3,7 +3,7 @@ layout: page
 authors: ["Simon Christ", "Mosè Giordano", "Luca Ferranti"]
 teaser: "Get involved in the community’s development of a new lesson to teach Julia to novices."
 title: "Incubator Lesson Spotlight: Programming with Julia"
-date: 2021-08-10
+date: 2021-08-04
 time: "09:00:00"
 tags: ["Carpentries Incubator", "Community"]
 lesson_title: "Programming with Julia"
