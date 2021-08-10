@@ -19,7 +19,7 @@ For more details on the workflow of how to contribute via GitHub, see this commu
 
 ## Contribute to Lessons in The Carpentries Incubator
 
-Any lesson that uses The Carpentries [lesson template][lesson-template], follows our [Code of Conduct][coc], and is licensed either [CC-BY][cc-by] or [CC-0][cc-0] can be hosted in The Carpentries Incubator. You can learn more about The Carpentries approach to curriculum development in our [Curriculum Development Handbook][cdh].
+Any lesson that uses The Carpentries [lesson template][lesson-template], follows our [Code of Conduct][coc], and is licensed either [CC-BY][cc-by] or [CC-0][cc-0] can be hosted in [The Carpentries Incubator](https://carpentries-incubator.org/). You can learn more about The Carpentries approach to curriculum development in our [Curriculum Development Handbook][cdh].
 
 The goal of The Carpentries Incubator is to be a place for Carpentries community members to share resources in early stages of development. The [Community Developed Lessons][community-lessons] page lists all lessons currently hosted in The Carpentries Incubator. People already familiar with The Carpentries teaching practices can pick them up and teach them in meetups, in class, or in complement of a ["standard" Carpentries 2-day workshop](/workshops/#workshop-core). The lessons can also be used by independent learners, outside of workshops.  Read more about how to contribute to these lessons in [The Carpentries Incubator Proposals Repository on GitHub](https://github.com/carpentries-incubator/proposals#readme).
 
