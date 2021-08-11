@@ -15,6 +15,10 @@
 - name: "Our Annual Reports"
   url: "/reports/"
   title: "Our Reports"
+
+- name: "License"
+  url:  "{% link license.md %}"
+  title: "License"
   
 - name: "Software Carpentry website"
   url: "https://software-carpentry.org/"

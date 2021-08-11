@@ -102,7 +102,6 @@ exclude:
     - .sass-cache
     - Gemfile
     - Gemfile.lock
-    - LICENSE
     - README.md
     - INSTALL.md
 
