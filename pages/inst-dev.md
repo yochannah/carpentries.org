@@ -39,6 +39,6 @@ In addition, a Carpentries staff member is part of the committee as a staff liai
 * Katherine Simeon (Mentoring Co-chair)
 * Caroline Fadeke Ajilogba (Discussion Session Coordinator)
 * Rohit Goswami (Special Projects Chair)
-* Serah Rono (Staff liaison)
+* Alycia Crall (Staff liaison)
 
 The secretary role is a rotating role.
