@@ -27,19 +27,20 @@ Past Curriculum Advisory Committees have done much to support the mission of The
 Some of the major accomplishments of past CACs include updating both [the dataset](https://github.com/datacarpentry/genomics-workshop/issues/42) and [alignment software](https://github.com/datacarpentry/wrangling-genomics/issues/111) used in the DC Genomics curriculum and [shifting from base R to ggplot and determining prerequisites](https://github.com/datacarpentry/curriculum-advisors/blob/main/geospatial/minutes/march-2018-geospatial-minutes.md) for the DC Geospatial curriculum.
 
 For more detailed information, please visit each Lesson Program’s respective CAC page:
-https://datacarpentry.org/curriculum-advisors/
-https://software-carpentry.org/curriculum-advisors/
-https://librarycarpentry.org/cac/
+- https://datacarpentry.org/curriculum-advisors/
+- https://software-carpentry.org/curriculum-advisors/
+- https://librarycarpentry.org/cac/
+
 ### Curricula Needing CAC Members
 
 We will be recruiting CAC members for the following curricula:
-[Software Carpentry](https://carpentries.org/workshops-curricula/#swc-all)
-[Data Carpentry Ecology](https://carpentries.org/workshops-curricula/#dc-ecology)
-[Data Carpentry Geospatial](https://carpentries.org/workshops-curricula/#dc-geospatial)
-[Data Carpentry Genomics](https://carpentries.org/workshops-curricula/#dc-genomics)
-[Data Carpentry Social Sciences](https://carpentries.org/workshops-curricula/#dc-socialsci)
-[Data Carpentry Image Processing](https://datacarpentry.org/image-processing/)
-[Data Carpentry Astronomy](https://datacarpentry.org/astronomy-python/)
+- [Software Carpentry](https://carpentries.org/workshops-curricula/#swc-all)
+- [Data Carpentry Ecology](https://carpentries.org/workshops-curricula/#dc-ecology)
+- [Data Carpentry Geospatial](https://carpentries.org/workshops-curricula/#dc-geospatial)
+- [Data Carpentry Genomics](https://carpentries.org/workshops-curricula/#dc-genomics)
+- [Data Carpentry Social Sciences](https://carpentries.org/workshops-curricula/#dc-socialsci)
+- [Data Carpentry Image Processing](https://datacarpentry.org/image-processing/)
+- [Data Carpentry Astronomy](https://datacarpentry.org/astronomy-python/)
 
 Applications will open in early September. Please watch [this blog](https://carpentries.org/blog/) and [our newsletter](https://carpentries.org/newsletter/) to be notified when applications open.
 
