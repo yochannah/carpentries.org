@@ -17,6 +17,7 @@ Curriculum Advisors compliment the work of Lesson Maintainers, who are responsib
 In order to answer any questions about the program, the Curriculum Team will be holding two Community Discussions on
 - Tuesday, 31 August at 12:00 am UTC(click [this link](https://www.timeanddate.com/worldclock/fixedtime.html?p1=224&iso=20210830T17) to view in your local time) and
 - Wednesday, 1 September at 1:00 pm UTC (click [this link](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210901T06&p1=224) to view in your local time)
+
 ### CAC Member Roles and Responsibilities
 
 A Curriculum Advisory Committee (CAC) is composed of 5-8 people with significant domain expertise who represent the breadth of the field that a curriculum is intended to reach. For example, the [Data Carpentry Geospatial CAC](https://datacarpentry.org/lesson-leadership/) includes researchers in ecology, limnology, environmental sciences, and sociology, along with university staff leading institutional GIS education efforts. Multiple career levels are represented, from PhD candidates at the end of their graduate work, to mid-late career professionals. At least one member of the CAC should be actively teaching in the field, so they can bring a practical perspective about what skills students and early-career researchers need. Each CAC should include at least one Lesson Maintainers from the relevant curriculum  as well as members from multiple geographic regions and cultural and linguistic contexts, to ensure that the curriculum meets the needs of our global community.
