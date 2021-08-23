@@ -5,7 +5,7 @@ teaser: "Get involved in the community’s development of a new lesson to teach 
 title: "Incubator Lesson Spotlight: Programming with Julia"
 date: 2021-08-04
 time: "09:00:00"
-tags: ["Carpentries Incubator", "Community"]
+tags: ["Carpentries Incubator", "Community", "Carpentries Incubator Spotlight"]
 lesson_title: "Programming with Julia"
 ---
 
