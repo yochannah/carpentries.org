@@ -486,8 +486,7 @@ In Q1 2019,  the Community Development Team worked on developing a communication
 Led by Toby Hodges, the Curriculum Team guides and oversees curriculum
 development and maintenance and works closely with our Maintainer community and
 Curriculum Advisor committees. François Michonneau and Zhian
-Kamvar are members of the Curriculum Team. Erin Becker previously
-served on this team. Some of the projects the Curriculum
+Kamvar are members of the Curriculum Team. Some of the projects the Curriculum
 Team has embarked on since January 2019 include: updating the format of
 Maintainer meetings, producing a first draft of a Curriculum Development
 Handbook, working with the Genomics R Maintainers to make progress towards
