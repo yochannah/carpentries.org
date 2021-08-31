@@ -28,9 +28,9 @@ Past Curriculum Advisory Committees have done much to support the mission of The
 Some of the major accomplishments of past CACs include updating both [the dataset](https://github.com/datacarpentry/genomics-workshop/issues/42) and [alignment software](https://github.com/datacarpentry/wrangling-genomics/issues/111) used in the DC Genomics curriculum and [shifting from base R to ggplot and determining prerequisites](https://github.com/datacarpentry/curriculum-advisors/blob/main/geospatial/minutes/march-2018-geospatial-minutes.md) for the DC Geospatial curriculum.
 
 For more detailed information, please visit each Lesson Program’s respective CAC page:
-- https://datacarpentry.org/curriculum-advisors/
-- https://software-carpentry.org/curriculum-advisors/
-- https://librarycarpentry.org/cac/
+- [Data Carpentry CAC](https://datacarpentry.org/curriculum-advisors/)
+- [Software Carpentry CAC](https://software-carpentry.org/curriculum-advisors/)
+- [Library Carpentry CAC](https://librarycarpentry.org/cac/)
 
 ### Curricula Needing CAC Members
 
