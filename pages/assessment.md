@@ -50,6 +50,9 @@ Data sets (provided as csv files) and assessment reports are  in a
 We release regular reports from our survey results. These reports are published through Zenodo and can
 be accessed through the links below.
 
+#### 2021 Instructor Training Report 
+- [2021 Instructor Training Report](https://carpentries.github.io/2021_IT_report/index.html) [![DOI](https://zenodo.org/badge/400281931.svg)](https://zenodo.org/badge/latestdoi/400281931)
+
 #### Analysis of Software and Data Carpentry's Pre- and Post-Workshop Surveys
 - [Full report](https://zenodo.org/record/1325464#.W2KGvNIzY2x) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.165858.svg)](https://doi.org/10.5281/zenodo.1325464)
 
