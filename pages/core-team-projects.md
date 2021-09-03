@@ -318,7 +318,7 @@ In Q1 2021,
 Angelique Trusler · Kelly Barnes · Omar Khan · Serah Rono · Toby Hodges
 
 In Q4, the Community Development Team
-- worked with Toby Hodges and Zhian Kamvar to prepare a video presentation aimed at introducing SORSE community members to The Carpentries. [You can watch the video here](https://youtu.be/ANxr38dx9rw).
+- worked with Toby Hodges and Zhian Kamvar to prepare [a video presentation aimed at introducing SORSE community members to The Carpentries](https://youtu.be/ANxr38dx9rw).
 - [prepared a ten minute presentation](https://youtu.be/SwGgs56POh4) for [Open Education 2020](https://openeducationconference.org/) about The Carpentries Instructor Training Program
 - published [Community Facilitators Program content around Feedback Facilitation](https://carpentries.github.io/community-facilitators-program/02-0-feedback-facilitation/index.html) publicly on GitHub, onboarded and [formally introduced our first cohort of Community Facilitators in The Carpentries focusing on feedback facilitation](https://carpentries.org/blog/2020/11/introducing-carpentries-feedback-facilitators/)
 - updated our community communications guides to include [guidelines and best practices for sharing job posts](https://docs.carpentries.org/topic_folders/communications/guides/share-opportunities.html) in The Carpentries, and took on Jez Cope's suggestion and created an [opportunities mailing list on TopicBox](https://carpentries.topicbox.com/groups/opportunities).
@@ -374,7 +374,7 @@ More information about this will be available on The Carpentries blog in the nex
 
 #### CarpentryCon @ Home Planning
 
-We worked with Sher! Hurt and the [CarpentryCon @ Home Task Force](https://2020.carpentrycon.org/task-force/) to plan for our first ever online and seven-week community conference. Here is the [conference schedule](https://2020.carpentrycon.org/schedule/) and you can find session recordings [on our YouTube channel](http://youtube.com/thecarpentries/videos).
+We worked with Sher! Hurt and the [CarpentryCon @ Home Task Force](https://2020.carpentrycon.org/task-force/) to plan for our first ever online and seven-week community conference. [Here is the conference schedule](https://2020.carpentrycon.org/schedule/) and you can find [session recordings on our YouTube channel](http://youtube.com/thecarpentries/videos).
 
 </details>
 
@@ -423,7 +423,7 @@ In 2018 we [held our first global Carpentries conference](https://carpentries.or
 
 #### Carpentries Values
 
-Shared values and goals have long been the starting point of communities of practice as they identify changes they want to see and start working together towards these changes. Between July and November 2019, The Carpentries Community Development Team formed a Task Force which [worked with our community](https://carpentries.org/blog/2019/09/carpentries-values-update-and-question-three/) to identify and articulate [The Carpentries Values](https://carpentries.org/values/). A long-form report detailing why and how this work was done [can be found here](https://github.com/carpentries/task-forces/blob/master/2019/articulating-the-carpentries-values/2019-11-carpentries-values-summary.md).
+Shared values and goals have long been the starting point of communities of practice as they identify changes they want to see and start working together towards these changes. Between July and November 2019, The Carpentries Community Development Team formed a Task Force which [worked with our community](https://carpentries.org/blog/2019/09/carpentries-values-update-and-question-three/) to identify and articulate [The Carpentries Values](https://carpentries.org/values/).  [A report about The Carpentries Values Task Force can be found here](https://github.com/carpentries/task-forces/blob/master/2019/articulating-the-carpentries-values/2019-11-carpentries-values-summary.md).
 
 </details>
 
@@ -622,7 +622,7 @@ Erin Becker · François Michonneau
 
   The Curriculum Team also developed an initial draft of a [Curriculum Development Handbook](https://carpentries.github.io/curriculum-development/), which is now being used by Miklos Koren of Central European University to develop a Data Carpentry curriculum for [economics researchers](https://datacarpentry.org/lessons/#economics-curriculum). This team is also working with Tessa Durham Brooks and Mark Meysenburg at Doane College, Nebraska, USA to pilot a workshop for [image analysis](https://datacarpentry.org/image-processing/).
 
-  In late May, The Carpentries will begin spreading the word about our updated Genomics curriculum to member institutions and other groups. We are excited to offer more opportunities for Instructors to teach these lessons and will be offering a one-hour webinar starting in June, which will be recorded and offered through [our YouTube channel](https://www.youtube.com/channel/UCBOUNBBZxc4DML3F89cEvGA). If you’d like to be notified when the webinar is available, please [add your email address here](https://forms.gle/ubxK9bApRub62vUE8). We will be announcing opportunities to teach these lessons through the [Instructors TopicBox list](https://carpentries.topicbox.com/groups/instructors), so make sure you’re signed up to receive these messages! If you’re excited and want to start exploring the curriculum now, you can access all the lessons from the [Genomics workshop homepage](https://datacarpentry.org/lessons/#genomics-workshop) and can get information on how to launch your own [AWS EC2 instance](https://datacarpentry.org/genomics-workshop/AMI-setup/index.html) to explore the materials.
+  In late May, The Carpentries will begin spreading the word about our updated Genomics curriculum to member institutions and other groups. We are excited to offer more opportunities for Instructors to teach these lessons and will be offering a one-hour webinar starting in June, which will be recorded and offered through [our YouTube channel](https://www.youtube.com/channel/UCBOUNBBZxc4DML3F89cEvGA). [If you’d like to be notified when the webinar is available, please add your email address here](https://forms.gle/ubxK9bApRub62vUE8). We will be announcing opportunities to teach these lessons through the [Instructors TopicBox list](https://carpentries.topicbox.com/groups/instructors), so make sure you’re signed up to receive these messages! If you’re excited and want to start exploring the curriculum now, you can access all the lessons from the [Genomics workshop homepage](https://datacarpentry.org/lessons/#genomics-workshop) and can get information on how to launch your own [AWS EC2 instance](https://datacarpentry.org/genomics-workshop/AMI-setup/index.html) to explore the materials.
 </details>
 
 <details>
