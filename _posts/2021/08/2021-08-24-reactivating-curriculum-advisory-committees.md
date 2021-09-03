@@ -12,11 +12,11 @@ In early 2018 The Carpentries launched Curriculum Advisory Committees, to provid
 
 **If you are interested in being directly involved with the development and leadership of The Carpentries Curricula, joining one of the Curriculum Advisory Committees (CACs) is an excellent opportunity.**
 
-Curriculum Advisors compliment the work of Lesson Maintainers, who are responsible for the day-to-day work of keeping lessons stable and teachable. Curriculum Advisors maintain a broader perspective on the state of the field and make strategic decisions about major changes to a lesson, for example, updating the technology being taught to take into account major advances in the field or changing the dataset used in the lessons to appeal to a broader group of learners.
+Curriculum Advisors complement the work of Lesson Maintainers, who are responsible for the day-to-day work of keeping lessons stable and teachable. Curriculum Advisors maintain a broader perspective on the state of the field and make strategic decisions about major changes to a lesson, for example, updating the technology being taught to take into account major advances in the field or changing the dataset used in the lessons to appeal to a broader group of learners.
 
 In order to answer any questions about the program, the Curriculum Team will be holding two Community Discussions on
-- Tuesday, 31 August at 12:00 am UTC(click [this link](https://www.timeanddate.com/worldclock/fixedtime.html?p1=224&iso=20210830T17) to view in your local time) and
-- Wednesday, 1 September at 1:00 pm UTC (click [this link](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210901T06&p1=224) to view in your local time)
+- [Tuesday, 31 August at 12:00 am UTC (click this link to view in your local time)](https://www.timeanddate.com/worldclock/fixedtime.html?p1=224&iso=20210830T17) and
+- [Wednesday, 1 September at 1:00 pm UTC (click this link to view in your local time)](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210901T06&p1=224)
 
 ### CAC Member Roles and Responsibilities
 
@@ -28,9 +28,9 @@ Past Curriculum Advisory Committees have done much to support the mission of The
 Some of the major accomplishments of past CACs include updating both [the dataset](https://github.com/datacarpentry/genomics-workshop/issues/42) and [alignment software](https://github.com/datacarpentry/wrangling-genomics/issues/111) used in the DC Genomics curriculum and [shifting from base R to ggplot and determining prerequisites](https://github.com/datacarpentry/curriculum-advisors/blob/main/geospatial/minutes/march-2018-geospatial-minutes.md) for the DC Geospatial curriculum.
 
 For more detailed information, please visit each Lesson Program’s respective CAC page:
-- https://datacarpentry.org/curriculum-advisors/
-- https://software-carpentry.org/curriculum-advisors/
-- https://librarycarpentry.org/cac/
+- [Data Carpentry CAC](https://datacarpentry.org/curriculum-advisors/)
+- [Software Carpentry CAC](https://software-carpentry.org/curriculum-advisors/)
+- [Library Carpentry CAC](https://librarycarpentry.org/cac/)
 
 ### Curricula Needing CAC Members
 
@@ -43,7 +43,7 @@ We will be recruiting CAC members for the following curricula:
 - [Data Carpentry Image Processing](https://datacarpentry.org/image-processing/)
 - [Data Carpentry Astronomy](https://datacarpentry.org/astronomy-python/)
 
-Applications will open in early September. Please watch [this blog](https://carpentries.org/blog/) and [our newsletter](https://carpentries.org/newsletter/) to be notified when applications open.
+Applications will open in early September. Please watch [The Carpentries' blog](https://carpentries.org/blog/) and [our newsletter](https://carpentries.org/newsletter/) to be notified when applications open.
 
 
 If you have any questions about the Curriculum Advisory Committees’ responsibilities or joining, please [contact Erin Becker, Associate Director of The Carpentries](mailto:ebecker@carpentries.org).
