@@ -47,12 +47,12 @@ Find us on FaceBook: [carpentries.ja](https://www.facebook.com/carpentries.ja)
 
 Find us on GitHub: [swcarpentry_ja](https://github.com/swcarpentry-ja)
 
-Chat with the core team on the our slack channel (English or Japanese is fine). You can join from [here](https://carpentries-jp-en.herokuapp.com/).
+Chat with the core team on the our slack channel (English or Japanese is fine). You can join from [The Carpentries in Japan slack channel](https://carpentries-jp-en.herokuapp.com/).
 
 Anyone is welcome to contribute to translating lessons into Japanese. If you have any questions about our workflow on GitHub, please ask. We look forward to your participation!
 
-[^prev-blog]: You can read more about [how we translated the lesson here](https://carpentries.org/blog/2021/02/complete-R-lesson-japanese/).
+[^prev-blog]: You can read more about [how we translated the lesson to Japanese here](https://carpentries.org/blog/2021/02/complete-R-lesson-japanese/).
 
 [^links]: The following blog posts were very helpful: [Online Workshop Logistics and Screen Layouts](https://carpentries.org/blog/2020/06/online-workshop-logistics-and_screen-layouts/), [Recommendations for Teaching Carpentries Workshops Online](https://carpentries.org/online-workshop-recommendations/), [Mapping & Planning a Live Coding Workshop for Digital Delivery](https://carpentries.org/blog/2020/04/plan-map-live-coding-workshop/#my-personal-teaching-setup)
 
-[^survey]: Analysis results of the workshop survey [are available here](https://github.com/swcarpentry-ja/2021-04-02-todai-assessment/blob/main/survey_report_ja.md) (Japanese only)
+[^survey]: [Analysis results of the Japanese workshop survey are available here](https://github.com/swcarpentry-ja/2021-04-02-todai-assessment/blob/main/survey_report_ja.md) (Japanese only)
