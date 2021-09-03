@@ -118,7 +118,7 @@
     url: "https://twitter.com/thecarpentries/"
 
 - title: "Donate"
-  url: "https://carpentries.wedid.it"
+  url: "{{site.fundraising_link}}"
   side: right
 
 - title: "Search"

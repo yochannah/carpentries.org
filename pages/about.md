@@ -39,7 +39,7 @@ The Carpentries community.
 
 We now have more than 80 [member organisations]({{site.url}}/members/) in 10 countries.  The memberships program generates 32.7% of revenue. Collectively, Workshops & Instructor Training generate 9.1% of revenue, while Grants & Donations generate 58.2% of revenue. These income streams support the work of the Core Team, workshop & lesson infrastructure, CarpentryCon, and our continued work towards The Carpentries mission.
 
-You can <a href="https://carpentries.wedid.it/">donate to The Carpentries</a> using our online portal.
+You can <a href="{{site.fundraising_link}}">donate to The Carpentries</a> using our online portal.
 
 #### What Information is Where?
 
