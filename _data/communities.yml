@@ -1,4 +1,6 @@
-# These data feed the community cards on the /volunteer/ page
+# These data feed the community cards on the /volunteer/ page and are used to build
+# profile pages for communities such as Instructors, Trainers, Maintainers, etc.
+
 - name: Instructors
   name_singular: Instructor
   starts_with_vowel: True
