@@ -10,9 +10,9 @@ tags: ["Philanthropy", "Community"]
 
 I keep a picture of my grandmother in my line of sight at my desk. Every now and then I shift my eyes from my computer screen to her lovely face for inspiration. She believed in community, higher education, and the value of contributing what you could to help others. She taught me these values, and how to use my voice to empower others to realise their potential. I am so grateful for the values she instilled in me. These values drive my work and philanthropic engagement. I am passionate about __this__ organisation because my personal values directly align with our [Nine Core Values](https://carpentries.org/values/). I am where I need to be.
 
-As I write this letter, we are approaching 200 workshops taught globally this year, despite unprecedented circumstances. For that, __I thank you__. In my last [letter to our community](https://carpentries.org/blog/2020/07/july-2020-letter-from-the-executive-director/) I shared my desire for The Carpentries to continue to identify various pathways for involvement and engagement. __Today I invite you to engage with us by making a [monetary contribution](https://carpentries.wedid.it/campaigns/8261).__
+As I write this letter, we are approaching 200 workshops taught globally this year, despite unprecedented circumstances. For that, __I thank you__. In my last [letter to our community](https://carpentries.org/blog/2020/07/july-2020-letter-from-the-executive-director/) I shared my desire for The Carpentries to continue to identify various pathways for involvement and engagement. __Today I invite you to engage with us by making a [monetary contribution]({{site.fundraising_link}}).__
 
-<a href="https://carpentries.wedid.it/campaigns/8261">
+<a href="{{site.fundraising_link}}">
         <button class="btn">
             Donate to The Carpentries
         </button>

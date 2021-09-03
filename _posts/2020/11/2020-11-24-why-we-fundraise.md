@@ -15,7 +15,7 @@ The Carpentries is very grateful to have received grants from various foundation
 __The goal of the fundraising campaign is to raise $130,000.__ We will do outreach to foundations and other large organisations for general support in an effort to raise $100,000 of that total, and we delivered a [call to action](https://carpentries.org/blog/2020/11/a-call-to-action-donate-to-the-carpentries/) for individual contributions for the remaining $30,000. Although this is new to us, fundraising through donation campaigns is a __key__ strategy for non-profit organisations, and we are extremely grateful for the positive feedback and financial contributions we have received thus far!
 
 ### Donate to The Carpentries
-Your donation will allow The Carpentries to expand into new geographies and new disciplines, and will help bring workshops to individuals who might otherwise have barriers to participation. [Donate directly](https://carpentries.wedid.it/campaigns/8261), or email [team@carpentries.org](mailto:team@carpentries.org) to donate by mail.
+Your donation will allow The Carpentries to expand into new geographies and new disciplines, and will help bring workshops to individuals who might otherwise have barriers to participation. [Donate directly]({{site.fundraising_link}}), or email [team@carpentries.org](mailto:team@carpentries.org) to donate by mail.
 
 ### Join The Carpentries Philanthropy
 If you have not joined the [Carpentries Philanthropy mailing list](https://carpentries.us14.list-manage.com/subscribe?u=46d7513c798c6bd41e5f58f4a&id=33f76196ac), now is a great time. This list serves as a bridge between the work we have done and the work we hope to do with your help.
