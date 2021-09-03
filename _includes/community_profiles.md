@@ -17,13 +17,13 @@
   {% endif %}
   <h3>{{ person.person_name }}</h3>
   <ul class="list-inline social-buttons">
-      {% if person.twitter %}<li> <a href="https://twitter.com/{{ person.twitter }}"> <i class="fab fa-twitter"></i> </a> </li> {% endif %}
-      {% if person.github %}<li> <a href="https://github.com/{{ person.github }}"> <i class="fab fa-github"></i> </a> </li> {% endif %}
-      {% if person.orcid %}<li> <a href="https://orcid.org/{{ person.orcid }}"> <i class="fab fa-orcid"></i> </a> </li> {% endif %}
-      {% if person.url and person.url != "" %}<li> <a href="{{ person.url }}"> <i class="fas fa-link"></i> </a> </li> {% endif %}
+      {% if person.twitter %}<li> <a href="https://twitter.com/{{ person.twitter }}"> <i class="fab fa-twitter" title="Twitter"></i> </a> </li> {% endif %}
+      {% if person.github %}<li> <a href="https://github.com/{{ person.github }}"> <i class="fab fa-github" title="GitHub"></i> </a> </li> {% endif %}
+      {% if person.orcid %}<li> <a href="https://orcid.org/{{ person.orcid }}"> <i class="fab fa-orcid" title="ORCID"></i> </a> </li> {% endif %}
+      {% if person.url and person.url != "" %}<li> <a href="{{ person.url }}"> <i class="fas fa-link" title="Website"></i> </a> </li> {% endif %}
   </ul>
   {% unless person.country == "" %}
-  <img width="64" src="/files/flags/{{ person.country | downcase }}.svg"/>
+  <img width="64" src="/files/flags/{{ person.country | downcase }}.svg" alt={{person.country}} title={{person.country}} />
   {% endunless %}
 </div>
 </div>
