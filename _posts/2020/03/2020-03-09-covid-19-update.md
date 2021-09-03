@@ -16,7 +16,7 @@ There are more than 50 Carpentries workshops scheduled in the next three months 
 
 The Carpentries has three forthcoming in-person meetings that are either community-organised or organised by our Core Team - CarpentryConnect DC in May 2020, the Executive Council Meeting, and CarpentryCon 2020 at the end of June 2020. The Carpentries Executive Team will work with the planning committees for these events to ensure a member of each committee is actively monitoring travel restrictions, and is prepared to provide updates on travel restrictions that may affect attendees. 
 
-[CarpentryCon2020](https://2020.carpentrycon.org/) is scheduled to take place June 29 - July 1, 2020 at the University of Wisconsin-Madison (USA). The risk to the campus remains low ([read more](https://www.uhs.wisc.edu/coronavirus-2019/)), however we will continue to monitor the situation and will inform the community on __April 1st__ whether we will hold CarpentryCon virtually this year.
+[CarpentryCon2020](https://2020.carpentrycon.org/) is scheduled to take place June 29 - July 1, 2020 at the University of Wisconsin-Madison (USA). [The risk to the campus remains low](https://www.uhs.wisc.edu/coronavirus-2019/), however we will continue to monitor the situation and will inform the community on __April 1st__ whether we will hold CarpentryCon virtually this year.
 
 All other work will proceed as usual, as our Core Team works together remotely and virtually. Regarding policies for canceling travel, community members are encouraged to consult with host institutions regarding their policy for reimbursing expenses for canceled travel should the situation arise.
 
