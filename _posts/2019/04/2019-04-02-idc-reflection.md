@@ -15,7 +15,7 @@ I'm writing this post to encourage anyone interested to take advantage of this r
 and further information on what the new leader(s) can expect.
 Kari did a great job of describing in that previous post the work of the IDC
 and the benefits and responsibilities of leading the Committee,
-so I won't retread that ground.
+so I will not retread that ground.
 Instead, I'll focus on my personal experience.
 
 Working with the Instructor Development Committee

@@ -27,7 +27,7 @@ New Zealand, Singapore, Australia, Canada, the UK, the Netherlands ... the list 
 What is great about these sessions is how willing people are to
 share what they know and to listen to whatever tips they can pick up.
 
-So why not be a host yourself? To help you find out if this is for you, come along to an Onboarding session next week. This won't
+So why not be a host yourself? To help you find out if this is for you, come along to an Onboarding session next week. This will not 
 commit you to anything but you will be able to find out what it entails.
 
 ### Sign up for an onboarding session 

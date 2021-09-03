@@ -40,7 +40,7 @@ There's also the logistics of how you actually collect the money. While tools li
 
 In general, it seems that people are more likely to show up if they'd paid money to be there. Some community members have recommended that people pay a registration fee that can be refunded to them if they show up. 
 
-Obviously, charging for your workshop won't guarantee that everyone shows up. Thus, whether or not your charge for your workshop, it's important to communicate the value of what you're providing to your potential audience. If people can see that they're really going to get something useful out of the workshop, the more likely that they show up!
+Obviously, charging for your workshop will not  guarantee that everyone shows up. Thus, whether or not your charge for your workshop, it's important to communicate the value of what you're providing to your potential audience. If people can see that they're really going to get something useful out of the workshop, the more likely that they show up!
 
 ## Accessibility
 

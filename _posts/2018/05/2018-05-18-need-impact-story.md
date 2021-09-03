@@ -18,7 +18,7 @@ you picked up.
 Whatever the change, I want to know about it. 
 
 Please complete our [Long-Term Impact Survey](https://www.surveymonkey.com/r/carpentrieslongtermassessment). 
-It won't take you long, and your feedback will help The Carpentries 
+It will not take long, and your feedback will help The Carpentries 
 understand whether our workshops are helping you achieve the skills you need to work efficiently, effectively, and 
 reproducibly with data.
 

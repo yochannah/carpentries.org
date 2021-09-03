@@ -278,4 +278,4 @@ But treat it as a great learning opportunity!
 If you've done instructor training, the core Git concepts are there, practice will lead to mastery.
 What better way to practice than working on a massive open-source project with 100s of contributors?
 
-You won't be a maintainer on your own, there's always someone who will be there to help you out.
+You will not be a maintainer on your own, there's always someone who will be there to help you out.
