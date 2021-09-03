@@ -10,7 +10,7 @@ people:
   email: kariljordan@carpentries.org
   github: kariljordan
   twitter: drkariljordan
-
+  calendly: kariljordan
 
 - name: Erin Becker, PhD
   pic: erinbecker
@@ -19,6 +19,7 @@ people:
   email: ebecker@carpentries.org
   github: erinbecker
   twitter: ErinSBecker
+  calendly: ebecker-1
 
 - name: François Michonneau, PhD
   pic: francoismichonneau
@@ -28,6 +29,7 @@ people:
   email: francois@carpentries.org
   github: fmichonneau
   twitter: fmic_
+  calendly: francois-carpentries
 
 - name: Zhian N. Kamvar, PhD
   pic: zhiankamvar
@@ -35,7 +37,7 @@ people:
   email: zkamvar@carpentries.org
   github: zkamvar
   twitter: zkamvar
-
+  calendly: zkamvar
 
 - name: Toby Hodges, PhD
   pic: tobyhodges
@@ -44,14 +46,15 @@ people:
   email: tobyhodges@carpentries.org
   github: tobyhodges
   twitter: tbyhdgs
-     
-
+  calendly: tobyhodges
+ 
 - name: Talisha Sutton-Kennedy
   pic: talishasuttonkennedy
   position: Operations Manager
   jobplan: https://docs.google.com/document/d/1Hza2oLS8iC-8k8niwpNVOcbxHsrwZOrYSDak2hmIQfw/edit
   email: talishask@carpentries.org
   github: talishask
+  calendly: talishask
  
 - name: SherAaron Hurt
   pic: sheraaronhurt
@@ -61,13 +64,15 @@ people:
   email:  sheraaron@carpentries.org
   github: sheraaronhurt
   twitter: SherAaronHurt
-
+  calendly: sheraaron
+ 
 - name: Omar Khan
   pic: omarkhan
   position: Communications Manager
   email: okhan@carpentries.org
   github: kmomar
-
+  calendly: okhan-1
+ 
 - name: Maneesha Sane
   pic: maneeshasane
   position: Quality Assurance Manager
@@ -75,8 +80,8 @@ people:
   email: maneesha@carpentries.org
   github: maneesha
   twitter: maneeshasane
-
-
+  calendly: maneesha
+ 
 - name: Kelly Barnes, PhD
   pic: kellybarnes
   position: Deputy Director of Instructor Training
@@ -84,8 +89,8 @@ people:
   github: klbarnes20
   linkedin: klbarnes20
   twitter: kbarne2
-
-
+  calendly: klbarnes
+ 
 - name: Karen Word, PhD      
   pic: karenword
   position: Director of Instructor Training
@@ -94,15 +99,15 @@ people:
   email: krword@carpentries.org
   github: karenword
   twitter: karen_word
-
-
+  calendly: karenword
+ 
 - name: Danielle Sieh
   pic: daniellesieh
   position: Workshop Administrator
   github: danielle06
   email: danielle@carpentries.org
-
-
+  calendly: daniellesieh
+ 
 - name: Alycia Crall, PhD
   pic: alyciacrall
   position: Director of Community
@@ -111,12 +116,13 @@ people:
   github: acrall
   linkedin: alycia-crall-5a842646
   twitter: alycrall
-
-
+  calendly: alycia-carpentries
+ 
 - name: Al Obayuwana
   pic: alobayuwana
   position: Director of Partnerships
   lead: Membership Team Lead
   email: alobayuwana@carpentries.org
   github: Al-Obayuwana
-
+  calendly: alobayuwana
+  
