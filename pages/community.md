@@ -263,7 +263,6 @@ Here are details about The Carpentries Instructor community in Australia and New
 
 Here are details about The Carpentries Instructor community in the Nordics:
 
-* [Join Carpentries Nordics on Slack](https://swcarpentry.slack.com/archives/CH9MDCTSM)
 * [Join mailing list](https://carpentries.topicbox.com/groups/local-nordic)
 * [Contact](mailto:local-nordic@lists.carpentries.org)
 * [Carpentries Nordics CodiMD](https://codimd.carpentries.org/nordic-community-call)
