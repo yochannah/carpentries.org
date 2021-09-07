@@ -263,10 +263,10 @@ Here are details about The Carpentries Instructor community in Australia and New
 
 Here are details about The Carpentries Instructor community in the Nordics:
 
-* [Join Carpentries Nordics on Slack](https://swcarpentry.slack.com/archives/CH9MDCTSM)
 * [Join mailing list](https://carpentries.topicbox.com/groups/local-nordic)
+* [Join in monthly calls for Carpentries Nordics](https://codimd.carpentries.org/nordic-community-call)
+* [Join CodeRefinery Zulip chat](https://coderefinery.zulipchat.com/#) where many Carpentries community members in Nordics and around are actively discussing. 
 * [Contact](mailto:local-nordic@lists.carpentries.org)
-* [Carpentries Nordics CodiMD](https://codimd.carpentries.org/nordic-community-call)
 
 
 #### Carpentries in Japan
@@ -274,7 +274,7 @@ Here are details about The Carpentries Instructor community in the Nordics:
 Here are details about The Carpentries Instructor community in the Nordics:
 
 * [Activities and collaborative work on GitHub](https://github.com/swcarpentry-ja)
-* Join Carpentries Japan on Slack - English](https://carpentries-jp-en.herokuapp.com/)
+* [Join Carpentries Japan on Slack - English](https://carpentries-jp-en.herokuapp.com/)
 * [Join Carpentries Japan on Slack - 日本語](https://carpentries-ja.herokuapp.com/)
 * [Carpentries Japan on Twitter](https://twitter.com/swcarpentry_ja)
 
