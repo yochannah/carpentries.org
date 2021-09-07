@@ -16,7 +16,7 @@ The Carpentries by becoming a <a href="{% link pages/membership.md %}">member or
 
 #### Become a Sponsor
 
-Organisations and individuals can support The Carpentries by [donating](https://carpentries.wedid.it/) or becoming a Sponsoring organisation. If you are interested in being a Corporate Sponsor, please [get in touch](mailto:sponsor@carpentries.org)!
+Organisations and individuals can support The Carpentries by [donating]({{site.fundraising_link}}) or becoming a Sponsoring organisation. If you are interested in being a Corporate Sponsor, please [get in touch](mailto:sponsor@carpentries.org)!
 
 
 

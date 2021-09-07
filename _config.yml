@@ -59,6 +59,9 @@ gh_default_branch: "main"
 # Website configuration links
 mailing_lists   : "https://carpentries.topicbox.com/groups"
 
+# Fundraising
+fundraising_link: "http://give.communityin.org/TheCarpentries"
+
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages

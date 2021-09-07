@@ -226,7 +226,7 @@ Elizabeth Williams · Tracy Teal
 
 #### Donate Button
 
-As we work to diversify our revenue sources, we have made it easier for individuals to contribute financially to The Carpentries by updated the aesthetics and information on [donations page](https://carpentries.wedid.it/). Our websites and lesson pages experience high traffic volumes (the Data Carpentry R Ecology lesson receives more than 15,000 unique visitors per month!), so we wanted to offer those users an opportunity to donate to support our work by making the system easier to use and giving donors a clear idea of what their donations will serve.
+As we work to diversify our revenue sources, we have made it easier for individuals to contribute financially to The Carpentries by updated the aesthetics and information on [donations page]({{site.fundraising_link}}). Our websites and lesson pages experience high traffic volumes (the Data Carpentry R Ecology lesson receives more than 15,000 unique visitors per month!), so we wanted to offer those users an opportunity to donate to support our work by making the system easier to use and giving donors a clear idea of what their donations will serve.
 
 #### Sponsorship Model Task Force
 
