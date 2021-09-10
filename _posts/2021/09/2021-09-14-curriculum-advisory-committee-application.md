@@ -10,7 +10,7 @@ tags: ["Carpentries Lessons", "Community"]
 
 In August 2021, we announced that The Carpentries is [reactivating our Curriculum Advisory program](https://carpentries.org/blog/2021/08/reactivating-curriculum-advisory-committees/). Curriculum Advisory Committees provide high-level oversight, vision, and leadership for a curriculum and guide large-scale updates. Each Curriculum Advisory Committee (CAC) supports and is supported by a group of Lesson Maintainers, who focus on day-to-day maintenance of the lessons.
 
-Joining one of the Curriculum Advisory Committees (CACs) is an excellent opportunity to engage with The Carpentries and be directly involved with the development and leadership of our Curricula,
+Joining one of the Curriculum Advisory Committees (CACs) is an excellent opportunity to engage with The Carpentries and be directly involved with the development and leadership of our Curricula.
 
 To learn more about what it means to be a Curriculum Advisor, please visit the [relevant section in The Carpentries Handbook](https://docs.carpentries.org/topic_folders/lesson_development/lesson_development_roles.html#curriculum-advisory-committee).
 
