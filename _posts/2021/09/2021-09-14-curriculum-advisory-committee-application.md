@@ -20,7 +20,7 @@ Each CAC should also include at least one active Maintainer, and we encourage ap
 
 <a href="https://docs.google.com/forms/d/1GZwdwVI1L74C14MjPKRLt4haR9pe9491UstlmoWV2Ag/edit">
         <button class="btn">
-            Apply to be a Maintainer
+            Apply to be a Curriculum Advisor
         </button>
 </a>
 
