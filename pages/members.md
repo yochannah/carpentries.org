@@ -23,6 +23,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Software Sustainability Institute
 - The University of Wisconsin Madison
 - The Jackson Laboratory
+- University of Toronto
 - Virginia Polytechnic Institute and State University
 
 ### Gold Member Organisations
