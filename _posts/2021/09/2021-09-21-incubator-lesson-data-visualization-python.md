@@ -3,7 +3,7 @@ layout: page
 authors: [“Jenna Jordan”]
 teaser: "Get involved in the community’s development of a new lesson on the development of interactive data visualizations in Python."
 title: "Incubator Lesson Spotlight: Interactive Data Visualizations in Python"
-date: YYYY-MM-DD
+date: 2021-09-21
 time: "09:00:00"
 tags: ["Carpentries Incubator", "Community", “Carpentries Incubator Spotlight]
 lesson_title: “Interactive Data Visualizations in Python”
