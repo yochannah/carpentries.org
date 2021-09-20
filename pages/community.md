@@ -85,7 +85,7 @@ Mentoring Groups support instructors in a variety of ways. Whether you are a new
 * [Apply to become a Mentee](https://goo.gl/forms/qeX1CW1HVOOkqhwi2)
 * [Apply to become a Mentor](https://goo.gl/forms/zeP2FpP1HuLAMUow1)
 * [Join the #mentoring Slack channel](https://swc-slack-invite.herokuapp.com/)
-* For more information, contact [Serah Rono](mailto:serah@carpentries.org).
+* For more information, contact [Alycia Crall](mailto:alycia@carpentries.org).
 
 #### Instructor Development Committee
 
@@ -96,7 +96,7 @@ The Instructor Development Committee supports Instructors as they progress throu
 * Join: Join the Instructor Development Committee by attending our monthly meeting.
 * [Upcoming meetings](http://pad.software-carpentry.org/instructor-development)
 * [Mailing list]({{site.mailing_lists}}/mentoring)
-* For more information, contact [Serah Rono](mailto:serah@carpentries.org).
+* For more information, contact [Alycia Crall](mailto:alycia@carpentries.org).
 
 ### Trainers
 The Trainer community is a group of experienced Instructors, local champions, and education specialists who inspire and prepare new Instructors. They work as a team to maintain and teach the [instructor training curriculum](https://carpentries.github.io/instructor-training/). They also host teaching demonstration sessions to provide vital feedback as prospective Carpentries Instructors prepare to join the community. They showcase and embody the enthusiasm and conduct of our community as they prepare new instructors. Becoming a Trainer lets you scale your impact - sharing your own passion, experience, and enthusiasm with the next generation of The Carpentries Instructors.
