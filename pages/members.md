@@ -18,8 +18,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 <ul>
 {% for member in platinum_members %}
 <li>
-{{ member.name }}
-    </li>{% endfor %}
+    <a href = "https://{{ member.domain }}">{{ member.name }}</a>    </li>{% endfor %}
 </ul>
 
 
@@ -28,8 +27,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 <ul>
 {% for member in gold_members %}
 <li>
-{{ member.name }}
-    </li>{% endfor %}
+    <a href = "https://{{ member.domain }}">{{ member.name }}</a>    </li>{% endfor %}
 </ul>
 
 
@@ -38,8 +36,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 <ul>
 {% for member in silver_members %}
 <li>
-{{ member.name }}
-    </li>{% endfor %}
+    <a href = "https://{{ member.domain }}">{{ member.name }}</a>    </li>{% endfor %}
 </ul>
 
 
@@ -48,7 +45,6 @@ the growth and sustainability of The Carpentries and is building local capacity 
 <ul>
 {% for member in bronze_members %}
 <li>
-{{ member.name }}
-    </li>{% endfor %}
+    <a href = "https://{{ member.domain }}">{{ member.name }}</a>    </li>{% endfor %}
 </ul>
 
