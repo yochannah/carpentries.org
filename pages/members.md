@@ -96,7 +96,6 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - University of Minnesota Libraries
 - University of New Mexico
 - University of North Texas
-- University of Notre Dame
 - University of Oregon
 - University of Oslo
 - University of Oxford
