@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: [“Jenna Jordan”]
+authors: ["Jenna Jordan"]
 teaser: "Get involved in the community’s development of a new lesson on the development of interactive data visualizations in Python."
 title: "Incubator Lesson Spotlight: Interactive Data Visualizations in Python"
 date: 2021-09-21
