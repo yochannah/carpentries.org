@@ -70,7 +70,6 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Macquarie University
 - NASA Develop
 - New York University
-- Ohio State University
 - Openscapes
 - Purdue University
 - Rice University
