@@ -103,6 +103,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - University of Texas Arlington
 - Utrecht University
 - VDB (Verein Deutscher Bibliothekarinnen und Bibliothekare - Association of German Libraries and Librarians)
+- Vrije Universiteit Amsterdam
 - West Virginia University
 
 ### Bronze Member Organisations
