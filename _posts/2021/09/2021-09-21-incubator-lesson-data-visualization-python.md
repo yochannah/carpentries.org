@@ -46,5 +46,5 @@ Incubator Lesson Spotlight is a regular feature in The Carpentries blog and [Car
 <!-- link references -->
 [ils-form]: https://forms.gle/cCuLATAEomfdFejs9
 [incubator]: https://github.com/carpentries-incubator/
-[lesson-pages]: <lesson URL from form>
+[lesson-pages]: https://carpentries-incubator.github.io/python-interactive-data-visualizations/
 [newsletter]: https://carpentries.org/newsletter/
