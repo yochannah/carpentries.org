@@ -5,7 +5,7 @@ teaser: "Please join The Carpentries Core Team for a monthly community call cent
 title: "Announcing a New Series of Online Workshop Themed Discussions"
 date: 2020-05-20
 time: "09:00:00"
-tags: ["Online Workshops", "Community", "Discussion Sessions"]
+tags: ["Online Workshops", "Community", "Community Discussions"]
 ---
 
 As work on [The Carpentries Online Workshops Pilot](https://carpentries.org/blog/2020/04/taking-your-carpentries-workshop-online/) continues, The Carpentries is launching a new series of monthly themed discussions, led by members of The Carpentries Core Team. The goal of these calls is to discuss ongoing work around online workshops — from changes to workshop registration to best practices in using technology to manage the shift to online-only workshops.

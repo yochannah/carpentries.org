@@ -5,7 +5,7 @@ teaser: "The Carpentries has been awarded an 18-month grant to advance equitable
 title: "Announcing Alfred P. Sloan Foundation award to advance The Carpentries Equity and Inclusion goals for training researchers of color."
 date: 2021-06-24
 time: "09:00:00"
-tags: ["Equity", "Inclusion", "Grants"]
+tags: ["Equity and Inclusion", "Grants"]
 ---
 It has been exactly two years since the [release of The Carpentries Equity, Inclusion, and Accessibility Roadmap](https://carpentries.org/blog/2019/06/eia-roadmap-release/). Over the last two years we have:
 

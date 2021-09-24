@@ -5,7 +5,7 @@ teaser: " “Injustice anywhere is a threat to justice everywhere.” -Martin Lu
 title: "We Stand With Our Community Members of Asian Descent"
 date: 2021-03-22
 time: "11:00:00"
-tags: ["Community", "Equity"]
+tags: ["Community", "Equity and Inclusion"]
 ---
 
 It was not so long ago that our Core Team shared a blog post advocating for empathy, empowerment, and equity, ([A Call for Allyship and Solidarity](https://carpentries.org/blog/2020/06/call-for-allyship-and-solidarity/)), in support of our Black community members. Here we find ourselves again facing a painful reality: Anti-Asian violence is rising around the world. A collective trauma is being felt across the Asian diaspora, and I, like many other leaders in open science, am outraged and deeply saddened by not only the [events that took place in Atlanta, Georgia (USA)](https://www.nytimes.com/2021/03/16/us/atlanta-shootings-massage-parlor.html) last week, but the overwhelming amount of anti-Asian violence that has been on the rise over the past year. Silence __is__ complicity; I will not be silent.

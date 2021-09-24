@@ -5,10 +5,10 @@ teaser: "Introducing Fourteen New Trainers"
 title: "Welcome to our New Instructor Trainers"
 date: 2021-07-26
 time: "09:00:00"
-tags: ["Carpentries Trainers"]
+tags: ["Instructor Trainers"]
 ---
 
-We want to introduce you to our 14 new Instructors Trainers! They have just completed Trainer Training, are badged, and ready to jump in. Many of them are already scheduled to teach their first Instructor Trainings in the next few months! This group is full of passion, excitement, and great ideas! They will be such an asset to our community! 
+We want to introduce you to our 14 new Instructors Trainers! They have just completed Trainer Training, are badged, and ready to jump in. Many of them are already scheduled to teach their first Instructor Trainings in the next few months! This group is full of passion, excitement, and great ideas! They will be such an asset to our community!
 
 ## Please Welcome our New Trainers:
 
@@ -18,11 +18,11 @@ I am the Economics and Data Librarian with the Navari Family Center for Digital 
 
 ### Bonny Adane
 
-I am founder and coordinator for R-Ladies Addis Ababa; a civil engineer, an interior designer and lecturer living in Addis Ababa Ethiopia. I took carpentries training before starting my professional career life and decided I want to volunteer my time in digital and data literacy. The carpentries have helped me in widening my perspective in Teaching and learning process. I learn more on each training I deliver and I have enjoyed the experience the entire time I have been with the carpentries. 
+I am founder and coordinator for R-Ladies Addis Ababa; a civil engineer, an interior designer and lecturer living in Addis Ababa Ethiopia. I took carpentries training before starting my professional career life and decided I want to volunteer my time in digital and data literacy. The carpentries have helped me in widening my perspective in Teaching and learning process. I learn more on each training I deliver and I have enjoyed the experience the entire time I have been with the carpentries.
 
 ### Grace Fishbein
 
-I am the Training Coordinator for ACENET located in St. John’s, Newfoundland, Canada. In my role I am responsible for organizing and delivering training on technical tools to researchers in Atlantic Canada. The Carpentry workshops are a significant part of the training that we offer, providing opportunities for accessible training in our community. I was very fortunate to join an already flourishing Carpentries community at my local institution. I find it extremely rewarding and motivating to be a part of a like-minded group of people working towards a common goal. I thoroughly appreciate the pedagogy that the Carpentries is built on and I love that there is a strong commitment to teaching the novice learner by meeting them where they are at. I am eager to work to build the Carpentry community  through communication and collaboration across Canada. 
+I am the Training Coordinator for ACENET located in St. John’s, Newfoundland, Canada. In my role I am responsible for organizing and delivering training on technical tools to researchers in Atlantic Canada. The Carpentry workshops are a significant part of the training that we offer, providing opportunities for accessible training in our community. I was very fortunate to join an already flourishing Carpentries community at my local institution. I find it extremely rewarding and motivating to be a part of a like-minded group of people working towards a common goal. I thoroughly appreciate the pedagogy that the Carpentries is built on and I love that there is a strong commitment to teaching the novice learner by meeting them where they are at. I am eager to work to build the Carpentry community  through communication and collaboration across Canada.
 
 ### Hao Ye (twitter: @Hao_and_Y)
 
@@ -46,7 +46,7 @@ I am a Research Data Librarian at the Tisch Library at Tufts University. Part of
 
 ### Lieke de Boer
 
-I am a Scientific Community Manager at the eScience Center in Amsterdam, Netherlands. I am a coordinator of the eScience Center training programme, which includes many Carpentries courses. I also coordinate lesson development on Carpentries Incubator materials. I teach Carpentries courses because I believe it improves the quality of scientific research in the long run, and because I believe it empowers researchers to feel confident in their coding abilities. Before I worked at the eScience Center, I was a neuroscience researcher, and I taught Git and R to my peers. Naturally, I was very happy to find out about the Carpentries when I started working at the eScience Center. I hope I can reach many people in the Dutch (or international) academic landscape and help them learn how to teach others the basics of scientific programming. 
+I am a Scientific Community Manager at the eScience Center in Amsterdam, Netherlands. I am a coordinator of the eScience Center training programme, which includes many Carpentries courses. I also coordinate lesson development on Carpentries Incubator materials. I teach Carpentries courses because I believe it improves the quality of scientific research in the long run, and because I believe it empowers researchers to feel confident in their coding abilities. Before I worked at the eScience Center, I was a neuroscience researcher, and I taught Git and R to my peers. Naturally, I was very happy to find out about the Carpentries when I started working at the eScience Center. I hope I can reach many people in the Dutch (or international) academic landscape and help them learn how to teach others the basics of scientific programming.
 
 ### Luis J. Villanueva
 
@@ -68,10 +68,10 @@ I’m a postdoc at Boise State University in Boise, Idaho, USA. I did my PhD in 
 
 I’m a researcher at National Institute of Agricultural Technology in Argentina and I’m dedicated to applying data science to the agricultural sector. I’m also a professor at several National Universities. The Carpentries bring together two of my passions: science and teaching. I love teaching, because education can improve our lives and it is essential to narrow the structural inequalities in our society. This is why I co-founded [MetaDocencia](https://www.metadocencia.org/), an organization to expand good teaching practices to Spanish-speaking teachers for free. It is also one of the reasons I have to love communities of practice such as The Carpentries and [R-Ladies](https://rladies.org/) (where I am part of the Global Team). Language can be a great barrier in my region, for that reason, I participate in translation efforts: I lead the translation of [Teaching Tech Together](https://teachtogether.tech/) and I’m part of the teams that translates [R for Data Science](https://es.r4ds.hadley.nz/), [Carpentries’ lessons](https://carpentries.org/latam-tf/) and [Glosario](https://carpentries.github.io/glosario/) terms to Spanish. I also really enjoy organizing events and conferences, that is why I am co-chair of [useR!](https://user2021.r-project.org/), [LatinR](https://latin-r.com/) and the [Argentine Conference on Informatics](https://50jaiio.sadio.org.ar/).  
 
---- 
+---
 
-A big thank you to each participant for their contributions to engaging discussions about teaching, the Instructor Training curriculum, and what it means to be a Trainer. 
+A big thank you to each participant for their contributions to engaging discussions about teaching, the Instructor Training curriculum, and what it means to be a Trainer.
 
-The Trainer Training [curriculum](https://carpentries.github.io/trainer-training/) is freely available and can be used by anyone. However, only trainees selected to participate in Carpentries Trainer Training are eligible to be badged as an Instructor Trainer. 
+The Trainer Training [curriculum](https://carpentries.github.io/trainer-training/) is freely available and can be used by anyone. However, only trainees selected to participate in Carpentries Trainer Training are eligible to be badged as an Instructor Trainer.
 
-If you want to become an Instructor Trainer, [contact us](mailto:team@carpentries.org) and we will notify you the next time we are taking applications! 
+If you want to become an Instructor Trainer, [contact us](mailto:team@carpentries.org) and we will notify you the next time we are taking applications!

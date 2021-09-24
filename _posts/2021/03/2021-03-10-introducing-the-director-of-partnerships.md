@@ -5,7 +5,7 @@ teaser: "Al Obayuwana joins The Carpentries as Director of Partnerships"
 title: "Introducing our new Director of Partnerships"
 date: 2021-03-10
 time: "09:00:00"
-tags: ["Carpentries Team","Carpentries Membership"]
+tags: ["Carpentries Team","Membership"]
 ---
 
 We are delighted to welcome Al Obayuwana to [The Carpentries team](https://carpentries.org/team/) as our new Director of Partnerships. In this role, Al will focus on further developing our [Membership program](https://carpentries.org/membership/), supporting current Members, and expanding our membership base across a diverse range of institutions. Al comes to us with extensive experience working with community-based non-profits. In his most recent position as Vice President of Youth and Community Development for the YMCA, he successfully established new programming and greatly expanded fundraising revenue for the organisation. We are excited to add Al’s skills in relationship-building, program development, and fundraising to the team.

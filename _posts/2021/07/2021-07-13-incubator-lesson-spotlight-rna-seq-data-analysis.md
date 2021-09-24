@@ -5,7 +5,7 @@ teaser: "Highlighting this lesson from The Carpentries Incubator, teaching RNA-S
 title: "Incubator Lesson Spotlight: Analysis and Interpretation of Bulk RNA-Seq Data using Bioconductor"
 date: 2021-07-13
 time: "09:00:00"
-tags: ["Carpentries Incubator", "Community"]
+tags: ["Incubator", "Community", "Carpentries Incubator Lesson Spotlight"]
 lesson_title: "Analysis and Interpretation of Bulk RNA-Seq Data using Bioconductor"
 ---
 

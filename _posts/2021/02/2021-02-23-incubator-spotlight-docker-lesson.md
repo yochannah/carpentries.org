@@ -5,7 +5,7 @@ teaser: "Highlighting this introductory lesson from The Carpentries Incubator, o
 title: "Incubator Lesson Spotlight - Reproducible Computational Environments Using Containers: Introduction to Docker"
 date: 2021-02-23
 time: "09:00:00"
-tags: ["Carpentries Incubator", "Community", "Carpentries Incubator Spotlight"]
+tags: ["Incubator", "Community", "Carpentries Incubator Lesson Spotlight"]
 lesson_title: "Reproducible Computational Environments Using Containers: Introduction to Docker"
 ---
 

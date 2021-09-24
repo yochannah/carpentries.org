@@ -5,7 +5,7 @@ teaser: "Twenty-three new Lesson Maintainers badged"
 title: "Welcome to our Newest Lesson Maintainers!"
 date: 2020-07-15
 time: "09:00:00"
-tags: ["Carpentries Lessons", "Carpentries Maintainers", "Community"]
+tags: ["Lessons", "Maintainers", "Community"]
 ---
 
 We are delighted to announce that our most recent cohort of Lesson Maintainers have completed their onboarding and received their badges! We had over 30 individuals participate in Maintainer Onboarding over the past month, including 8 existing Maintainers. We are excited to welcome these new members to the Maintainer community and look forward to working with them, and continuing to work with our many committed continuing Maintainers, over the coming months.

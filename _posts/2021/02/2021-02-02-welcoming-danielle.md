@@ -5,7 +5,7 @@ teaser: "Danielle Sieh joins The Carpentries as Workshop Administrator"
 title: "Introducing our new Workshop Administrator Danielle Sieh"
 date: 2021-02-02
 time: "12:00:00"
-tags: ["Carpentries Team", "Workshops"]
+tags: ["Carpentries Team", "Carpentries Workshops"]
 ---
 
 
@@ -25,4 +25,3 @@ evidence-based teaching, inclusivity and diversity, and a strong focus on
 getting information across to the learner in a way that works for them. I am
 thrilled to be working for such an incredible organisation and can’t wait to see
 what amazing opportunities this role brings.
-

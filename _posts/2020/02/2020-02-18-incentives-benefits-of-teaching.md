@@ -5,7 +5,7 @@ teaser: "Aleksandra Nenadic, our Carpentries Regional Coordinator in the UK, and
 title: "Incentives and Benefits of Getting Involved in Teaching Researchers"
 Date: 2020-02-18
 time: "09:00:00"
-tags: ["Teaching", "Carpentries Regional Coordinators"]
+tags: ["Teaching", "Regional Coordinators"]
 ---
 
 The Software Sustainability Institute believes in the benefits of open development, sharing and collaborating with a community as well as best practices in openness, crediting, citing and developing research software. What are the benefits for instructors of getting involved in teaching computational research skills and these best practices? And why should institutions allow staff to use some of their time to teach their colleagues and get involved in communities such as The Carpentries?
@@ -18,7 +18,7 @@ Getting involved in big, international teaching communities of practice, such as
 
 Teaching is a learned skill - some people are naturally better at it, but it is definitely a skill that can be improved with practice. Allowing research staff to get involved in teaching The Carpentries programmes equips people with scientifically credible teaching methodologies and ways of thinking about communicating complicated technical concepts. The community provides friendly and constructive feedback about people’s teaching approaches that is often lacking in current academic settings.
 
-## Wider Professional Development 
+## Wider Professional Development
 
 Getting involved in teaching and running workshops offers valuable teaching and event organisation experience to postdocs and PhD students who are seeking professional development. It also helps to improve confidence in communicating about science, giving talks and speaking before different audiences, and teaching classes beyond Software and Data Carpentry. In addition to improving social and communication skills, people gain knowledge about a wide variety of tools and techniques, often lateral to research (such as designing surveys, building websites, managing projects and user communities, running impactful events and workshops, etc.), and become capable of contributing to a wide variety of research projects. It offers professional development on a scale that institutions could never provide to their staff, “for free”.
 
@@ -26,11 +26,11 @@ Getting involved in teaching and running workshops offers valuable teaching and 
 
 Once people get comfortable teaching standard Carpentry curricula, they often identify gaps in training offerings in their own domains and in the tools they use. This leads to the development of new, high-quality and community-verified training materials based on design and teaching principles that have proven successful in the past. Reusing existing lesson infrastructures and methodologies in turn saves time and money to research and academic institutions.  
 
-## Satisfaction 
+## Satisfaction
 
 Instructors report feeling satisfied when they help others to do better science and when they see them understand something they were previously struggling with. The satisfaction of having students’ eyes light up when they “get it”, going away optimistic and grateful, well-equipped to build on the skills they were taught and to use them in their research, is invaluable.
- 
-For more details on Carpentry workshops, please see: 
+
+For more details on Carpentry workshops, please see:
 
 [Software Carpentry curriculum](https://software-carpentry.org/lessons/) and [upcoming Software Carpentry workshops](http://software-carpentry.org/workshops) around the world
 

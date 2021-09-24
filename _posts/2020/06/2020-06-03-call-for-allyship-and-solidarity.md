@@ -5,7 +5,7 @@ teaser: "The Carpentries Core Team advocates for empathy, empowerment, and equit
 title: "A Call for Allyship and Solidarity"
 date: 2020-06-03
 time: "09:00:00"
-tags: ["Community", "Equity"]
+tags: ["Community", "Equity and Inclusion"]
 ---
 George Floyd. Breonna Taylor. Ahmaud Arbery. Philando Castile. Trayvon Martin. Michael Brown. Tamir Rice. Eric Garner. Sandra Bland. Atatiana Jefferson. Botham Jean.
 

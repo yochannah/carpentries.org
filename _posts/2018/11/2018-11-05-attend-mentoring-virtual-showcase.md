@@ -5,7 +5,7 @@ teaser: "Mentoring gives me joy, and here’s why."
 title: "You’re Invited! Mentoring Meetup November 8th"
 date: 2018-11-05
 time: "13:30:00"
-tags: ["Carpentries Mentoring", "Community"]
+tags: ["Mentoring", "Community"]
 ---
 
 As we approach the holiday season, I am reflecting on the year and what has given me joy. One thing I am __truly__ grateful for is our [Instructor Development Committee](https://carpentries.org/blog/2018/08/instructor-dev-cttee/). [Toby Hodges](https://twitter.com/tbyhdgs), the committee’s co-chair, has done a phenomenal job in his term thus far pushing us to think broadly about ways to engage and support our growing instructor pool. I’m grateful for you Toby!
@@ -27,7 +27,7 @@ Our goal for this mentoring meetup/virtual showcase is to show the community how
 We will hold two events to accommodate multiple time zones as follows:
 
 __Showcase #1__  
-Thursday, November 8th at [14:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Mentoring+Groups+Showcase+1&iso=20181108T09&p1=179&ah=1) 
+Thursday, November 8th at [14:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Mentoring+Groups+Showcase+1&iso=20181108T09&p1=179&ah=1)
 
 __Showcase #2__  
 Thursday, November 8th at [23:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Mentoring+Groups+Showcase+2&iso=20181108T18&p1=179&ah=1)

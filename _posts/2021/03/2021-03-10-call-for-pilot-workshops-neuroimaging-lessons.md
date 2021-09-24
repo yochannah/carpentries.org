@@ -5,7 +5,7 @@ teaser: "Help with the further improvement of these lessons from The Carpentries
 title: "Call for Pilot Workshops: Neuroimaging Lessons"
 date: 2021-03-10
 time: "09:00:00"
-tags: ["Carpentries Incubator", "Pilot Workshops"]
+tags: ["Incubator", "Pilot Workshops"]
 ---
 
 An important step in the process of developing a new lesson is the moment when material is taught for the first time by someone other than the original author(s). In [our description of the lesson life cycle][cdh-life-cycle] we refer to these events as _beta pilot workshops_. After teaching the new lesson material, Instructors provide feedback to the lesson developer(s) to enable the lesson to be further polished in final preparation for an official release.

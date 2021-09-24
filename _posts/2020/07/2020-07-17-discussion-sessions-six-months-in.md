@@ -5,7 +5,7 @@ teaser: "We have hosted more than 50 pre- and post-workshop discussions between 
 title: "Pre- and Post-workshop discussions : Six months into 2020"
 date: 2020-07-17
 time: "00:00:00"
-tags: ["Community", "Discussion Sessions"]
+tags: ["Community", "Community Discussions"]
 ---
 
 The [Carpentries Community Discussions](https://docs.carpentries.org/topic_folders/instructor_development/community_discussions.html?) are designed for everyone in The Carpentries community interested in learning, educating and advocating for teaching foundational coding and data science skills globally. Pre and Post-workshops discussions are designed for those getting ready to teach or having recently taught to come discuss their workshop with the community. Many Carpentry workshops globally are now hosted online due to the COVID-19 pandemic; these discussions also allow instructors to share unique online teaching experiences to instructors in-training who join the call during their check-out process.

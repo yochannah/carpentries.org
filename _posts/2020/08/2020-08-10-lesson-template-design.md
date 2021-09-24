@@ -5,7 +5,7 @@ teaser: "Twelve Design principles to guide the development of the next lesson te
 title: "Design principles for the next iteration of The Carpentries lesson template"
 date: 2020-08-10
 time: "09:00:00"
-tags: ["Carpentries Lessons", "Infrastructure", "Lesson Infrastructure", "Carpentries Incubator", "Carpentries Lab"]
+tags: ["Lessons", "Infrastructure", "Lesson Infrastructure", "Incubator", "Carpentries Lab"]
 ---
 
 This blog post introduces twelve design principles that will guide the development of the next version of The Carpentries lesson template. First, we provide some background and definitions. If you are more interested in the principles themselves, you can skip forward to the [Design Principles section](#design-principles-for-the-next-iteration-of-the-carpentries-lesson-template).
@@ -44,7 +44,7 @@ The tooling, template, and syntax should support the needs of all of these users
 
 Our lesson template was initially designed in an era when the simplest way to deploy a markdown-based website was through GitHub Pages, which uses --- and continues to use --- the Jekyll static site generator. This model has supported over 20 official lessons, as well as many lessons that are not part of our official offerings. It has even been [adapted for non-Carpentries materials](https://sgibson91.github.io/cross-stitch-carpentry/). However, the template has shown itself to be a bit of a [Norman door](https://uxdesign.cc/intro-to-ux-the-norman-door-61f8120b6086) in the following ways:
 
-1. Previewing the site locally requires people to have or install Git, Make, Python, Ruby, and Bundler. If they want to develop lessons for R, then they need R installed as well. Installing these elements takes a lot of time and debugging effort that would otherwise be spent on the lesson content. 
+1. Previewing the site locally requires people to have or install Git, Make, Python, Ruby, and Bundler. If they want to develop lessons for R, then they need R installed as well. Installing these elements takes a lot of time and debugging effort that would otherwise be spent on the lesson content.
 2. File organisation was not intuitive, especially when using rendered lessons via RMarkdown.
 3. By bundling the styling elements (boilerplate HTML, JavaScript, and CSS) in the repository, lessons rapidly become outdated and difficult to update as it requires advanced Git knowledge to resolve any conflicting changes.
 4. While Jekyll can generate sites that work offline, creating a template that support both online and offline output is tedious and error-prone.
@@ -58,7 +58,7 @@ All of these issues are accessibility and inclusion issues. Our volunteers' time
 1. **Use best practices to ensure accessibility of the rendered lesson**
 
     In the USA, [1 in 4 adults](https://www.cdc.gov/ncbddd/disabilityandhealth/infographic-disability-impacts-all.html) has a disability. By using best practices for accessibility and compatibility with assistive technologies, the content of the rendered lesson should be accessible to most people.
-    
+
 1. **Provide support for translations, multi-language content, and non-Latin characters**
 
    English dominates documentation and tutorials. This prevents many people across the globe from having access to technical skills. By providing support for translation and multi-language content, we want to equip lesson creators with the tools they need to write lessons in the language of their choice.
