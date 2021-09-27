@@ -5,7 +5,7 @@ teaser: "Organisational memberships have defined the joint future of Software Ca
 title: "Organisational Memberships and the Future of the Carpentries"
 date: 2018-07-02
 time: "09:00:00"
-tags: ["Carpentries Membership"]
+tags: ["Membership"]
 comments: true
 ---
 
@@ -15,7 +15,7 @@ In the diagram below, you can see that we've been growing memberships and have r
 
 <iframe src="{{ site.urlimg }}blog/2018/07/membership_sankey.html" width="700" height="450" frameborder="0" style="border:0"></iframe>
 
-The main benefit of our memberships today is through Instructor training for people at the member organisations. On top of Instructor training, key pieces of infrastructure have been developed and are supported (etherpads, GitHub organisations, websites, documentation, Zoom, etc.) which enable and catalyse the activities of our growing instructor community. We also work to help connect and communicate successes and challenges in growing local communities. 
+The main benefit of our memberships today is through Instructor training for people at the member organisations. On top of Instructor training, key pieces of infrastructure have been developed and are supported (etherpads, GitHub organisations, websites, documentation, Zoom, etc.) which enable and catalyse the activities of our growing instructor community. We also work to help connect and communicate successes and challenges in growing local communities.
 
 ### Become a Champion !
 

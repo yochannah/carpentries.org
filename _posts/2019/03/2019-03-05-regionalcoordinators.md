@@ -5,7 +5,7 @@ teaser: "How to connect with your Regional Coordinator"
 title: "Introducing The Carpentries' Regional Coordinators"
 date: 2019-03-05
 time: "06:00:00"
-tags: ["Carpentries Regional Coordinators", "Community", "Carpentries Workshops"]
+tags: ["Regional Coordinators", "Community", "Carpentries Workshops"]
 ---
 
 
@@ -21,4 +21,4 @@ Community members can connect with their Regional Coordinators via the newly lau
 
 **What if my region isn’t listed?**
 
-We currently have Regional Coordinators for Australia, Canada, New Zealand, and the United Kingdom.  If you do not see your specific region, don’t fret! That does not mean you cannot connect with anyone. SherAaron Hurt, our staff [Workshop & Logistics Manager](https://carpentries.org/blog/2019/02/Sher_New_Role/), covers all of the regions that do not have an identified Regional Coordinator. If you are interested in supporting us in this kind of role, be sure to check out the [Regional Coordinators Roles and Expectations](https://docs.carpentries.org/topic_folders/workshop_administration/expectations.html) and contact [Sher!](mailto:sheraaron@carpentries.org) for more information. 
+We currently have Regional Coordinators for Australia, Canada, New Zealand, and the United Kingdom.  If you do not see your specific region, don’t fret! That does not mean you cannot connect with anyone. SherAaron Hurt, our staff [Workshop & Logistics Manager](https://carpentries.org/blog/2019/02/Sher_New_Role/), covers all of the regions that do not have an identified Regional Coordinator. If you are interested in supporting us in this kind of role, be sure to check out the [Regional Coordinators Roles and Expectations](https://docs.carpentries.org/topic_folders/workshop_administration/expectations.html) and contact [Sher!](mailto:sheraaron@carpentries.org) for more information.

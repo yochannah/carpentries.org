@@ -5,12 +5,12 @@ teaser: "Welcoming new and existing Lesson Maintainers to the community!"
 title: "Apply for Carpentries Maintainer Onboarding!"
 date: 2020-03-31
 time: "9:00:00"
-tags: ["Carpentries Maintainers", "Carpentries Lessons", "Community"]
+tags: ["Maintainers", "Lessons", "Community"]
 ---
 
 We are excited to announce that we are now accepting applications for anyone interested in becoming a [Carpentries Lesson Maintainer](https://docs.carpentries.org/topic_folders/maintainers/maintainers.html)!
 
-Maintainers sustain our lessons and curricula over the long run, and we are looking forward to bringing on a new cohort of Maintainers to support our lessons. Additionally, we are opening up Maintainer Onboarding to existing Maintainers who wish to further advance their skills to better serve their lessons. 
+Maintainers sustain our lessons and curricula over the long run, and we are looking forward to bringing on a new cohort of Maintainers to support our lessons. Additionally, we are opening up Maintainer Onboarding to existing Maintainers who wish to further advance their skills to better serve their lessons.
 
 Our goals are to support Maintainers with training to successfully manage their lessons. Additionally, we hope to better serve those who contribute to lessons by encouraging timely response to their contributions. Finally, we hope to build out the Maintainer community through more regular onboarding.
 
@@ -26,8 +26,8 @@ There are many reasons to become a lesson Maintainer, but here are a few reasons
 
 1. **Contribute back to the Carpentries community in a sustainable way.** Because Lesson Maintenance can be done on your own timeline, being a Lesson Maintainer can be a flexible way to incorporate contributing to the Carpentries into your schedule.
 2. [**Learn new skills.**](https://carpentries.org/blog/2020/04/maintainers-git-skills/) Being a Lesson Maintainer is a great way to enhance your Git skills and learn how to manage an open source project. These skills are transferable to your research and work outside of The Carpentries.
-3. **Welcome others to the community.** You and your co-Maintainers will interact with new contributors and can make lesson contribution a positive process for others. 
-4. **Get credit for your work on our lessons.** As a Lesson Maintainer, you will be listed as an editor on the published lesson and can include the citation on your personal CV. 
+3. **Welcome others to the community.** You and your co-Maintainers will interact with new contributors and can make lesson contribution a positive process for others.
+4. **Get credit for your work on our lessons.** As a Lesson Maintainer, you will be listed as an editor on the published lesson and can include the citation on your personal CV.
 
 ### What it will take to be badged as a Maintainer?
 
@@ -39,7 +39,7 @@ To become a Lesson Maintainer, we ask for you to complete the following:
 
 We are giving priority to lessons that need additional Maintainer support, which are marked as high-priority in the Maintainer application. We hope to bring on a diverse cohort of Maintainers; however, please keep in mind that we may not be able to onboard everyone in this session. We may run another session in the future if there are a large number of applications.
 
-Additionally, we encourage you to have taught the lesson you plan to Maintain, or to be familiar with the lesson material. 
+Additionally, we encourage you to have taught the lesson you plan to Maintain, or to be familiar with the lesson material.
 
 After Maintainers have been onboarded, we expect to see regular activity from new Maintainers for at least 3 months following the Onboarding, after which you will be awarded a Maintainer badge and have the option of appearing on the [Maintainers page](https://www.carpentries.org/maintainers/) of our website.
 
@@ -49,7 +49,7 @@ We are still in the process of revising the [Maintainer Onboarding](https://carp
 
 ### Apply now!
 
-Applications for Maintainer Onboarding are open to **new and existing Maintainers**. Note that we will give priority to recruiting and training Maintainers for lessons that need additional support. 
+Applications for Maintainer Onboarding are open to **new and existing Maintainers**. Note that we will give priority to recruiting and training Maintainers for lessons that need additional support.
 
 If you are interested in joining us as a Lesson Maintainer, please [apply here](https://docs.google.com/forms/d/e/1FAIpQLSe_pK34DCFgaqriSYfZv0gBhZ22nnmJJGtiXKQqKhrS-pF2tw/viewform) by **April 30, 2020**, midnight in your local time!
 

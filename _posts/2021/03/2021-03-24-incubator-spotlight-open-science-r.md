@@ -5,7 +5,7 @@ teaser: "Highlighting this lesson from The Carpentries Incubator, teaching Open 
 title: "Incubator Lesson Spotlight: Introduction to Open Data Science with R"
 date: 2021-03-24
 time: "09:00:00"
-tags: ["Carpentries Incubator", "Community", "Carpentries Incubator Spotlight"]
+tags: ["Incubator", "Community", "Carpentries Incubator Lesson Spotlight"]
 lesson_title: "Introduction to Open Data Science with R"
 ---
 

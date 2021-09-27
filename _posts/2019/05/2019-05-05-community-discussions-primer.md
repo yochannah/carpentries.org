@@ -5,7 +5,7 @@ teaser: "Looking to host a Carpentries Community Discussion? See Martin Dreyer's
 title: "Carpentries Community Discussion Sessions - A Primer for New Discussion Hosts"
 date: 2019-05-05
 time: "00:00:00"
-tags: ["Community", "Communications", "Discussion Sessions"]
+tags: ["Community", "Communications", "Community Discussions"]
 ---
 
 In the past, we had discussion sessions for Carpentries Instructors that took place twice a week and provided a platform where experienced and novice instructors could discuss previous and upcoming workshops, share challenges and victories with the community, and complete their [Carpentries Instructor checkouts](https://carpentries.github.io/instructor-training/checkout/).
@@ -20,11 +20,11 @@ One of the bigger challenges we face at the moment is getting Carpentries instru
 
 In this post, I'll be providing answers to some of these questions:
 
-##### What if I'm hosting a discussion and there are no pre/post workshop debriefs? 
+##### What if I'm hosting a discussion and there are no pre/post workshop debriefs?
 
 You could start by introducing the session and what it should be about. You could also give some feedback on your own experience in previous workshops and/or upcoming workshops that you are apart of.
 
-##### What if I do not know the answer to someone's questions and no one in the room does either? 
+##### What if I do not know the answer to someone's questions and no one in the room does either?
 
 It is totally fine if you do not know all the answers, in such a situation you are welcome to refer the question to someone within The Carpentries community that will have the answer. If not, you could always send your question to [community@carpentries.org](mailto:community@carpentries.org).
 
@@ -44,11 +44,11 @@ If no one shows up simply wait for a few minutes, send out reminder emails to th
 
 Limit the amount of time that you give participants to ask and answer questions. You could ask for feedback from someone who has not spoken yet as well.
 
-##### What if there is no co-host/note taker and the session is fully booked? 
+##### What if there is no co-host/note taker and the session is fully booked?
 
 As a host you are more than welcome to take a few notes, however there is no need to take down every single thing that is said. Note down important points, making sure to add links to useful information. Also encourage the participants to contribute to the notes on the [Community Discussions Etherpad](https://pad.carpentries.org/community-discussions).
 
-##### What if someone joins in late? 
+##### What if someone joins in late?
 
 Depending on how late the person joins, you could simply welcome them and ask them to introduce themselves to the rest of the participants. If you have time, you can ask the individual to stay on the call for a few minutes after it's finished to summarise what they missed, and answer any questions they may have.
 
@@ -56,7 +56,7 @@ Depending on how late the person joins, you could simply welcome them and ask th
 
 As a host you will have the privileges to mute other participants, or you could simply ask the person directly to mute their microphone.
 
-##### What if I forget to complete the host questionnaire? 
+##### What if I forget to complete the host questionnaire?
 
 The participants will not have updated profiles for the checkout sessions and it will take a lot of administration to solve this challenge. Please remember to fill in the form directly after hosting your session.
 

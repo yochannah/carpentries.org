@@ -5,7 +5,7 @@ teaser: "Introducing our newest Regional Coordinator"
 title: "Welcome Rabea Müller, Regional Coordinator for the DACH Region"
 date: 2020-11-25
 time: "09:00:00"
-tags: ["Carpentries Regional Coordinators", "Community"]
+tags: ["Regional Coordinators", "Community"]
 ---
 
 Regional Coordinators are essential to the daily operations of Carpentries workshops. With workshops being offered globally it is important for us to have Regional Coordinators locally placed to help organise workshops. The Carpentries is excited to announce **Rabea Müller** has joined our team of [Regional Coordinators](https://carpentries.org/regionalcoordinators/). Rabea is located in Cologne, Germany and will be managing workshops in the DACH region, which consists of Austria, Germany and Switzerland.

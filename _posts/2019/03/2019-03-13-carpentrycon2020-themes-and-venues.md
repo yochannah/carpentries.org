@@ -5,7 +5,7 @@ teaser: "Submit your theme suggestions and venue bids for CarpentryCon 2020"
 title: "Bring CarpentryCon 2020 to Your City – Call for Themes and Venues"
 date: 2019-03-13
 time: "11:00:00"
-tags: ["CarpentryCon","Discussion Sessions"]
+tags: ["CarpentryCon","Community Discussions"]
 ---
 
 ## CarpentryCon 2020 planning begins
@@ -28,7 +28,7 @@ We highly encourage you to suggest themes for the next CarpentryCon on [theme bi
 
 The conference theme is crucial for the planning of the event because it sets the stage for the specific topics to take the central role. A theme will help us estimate who our target audience will be, what interests and skill sets participants would be exchanging with each other, and what kinds of opportunities will they have for developing their ideas together. The theme for CarpentryCon should remain true to the [core tenets of The Carpentries](https://carpentries.org/about/), a compression of The Carpentry story, while at the same time being dynamic enough to accommodate the present and future realities within the community.
 
-Last year's theme “*Building Locally, Connecting Globally!*” allowed The Carpentries members from around the world to come together and connect with each other, start new conversations and take them back to their local communities. Almost all of us could establish significant collaborations at this conference while creating long lasting relationships within the community. 
+Last year's theme “*Building Locally, Connecting Globally!*” allowed The Carpentries members from around the world to come together and connect with each other, start new conversations and take them back to their local communities. Almost all of us could establish significant collaborations at this conference while creating long lasting relationships within the community.
 
 So, what do you think the Theme for the CarpentryCon 2020 should be?
 
@@ -55,4 +55,3 @@ Our [new TaskForce members](https://github.com/carpentries/carpentrycon) have as
 We look forward to hearing your ideas for CarpentryCon 2020!
 
 *Thanks to the TaskForce members for providing comments and feedback on the early version of this post and preparing the bid forms to accommodate our community needs.*
- 

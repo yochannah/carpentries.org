@@ -5,7 +5,7 @@ teaser: "We spent some time reflecting on 2020 as a Team, and wrote thank you no
 title: "Thank You SO MUCH Carpentries Community!"
 date: 2020-12-15
 time: "09:00:00"
-tags: ["Online Workshops", "Instructor Development", "Carpentries Workshops","Carpentries Maintainers", "Carpentries Trainers", "Governance", "Green Stickies"]
+tags: ["Online Workshops", "Instructor Development", "Carpentries Workshops","Maintainers", "Instructor Trainers", "Governance", "Green Stickies"]
 ---
 
 ![composite image of Carpentries Core Team as seen on carpentries.org/team]({{ site.urlimg }}/blog/2020/12/core-team.png)

@@ -5,7 +5,7 @@ teaser: "The Carpentries is preparing to onboard the next round of Maintainers. 
 title: "Apply for the current round of Carpentries Maintainer Onboarding!"
 date: 2021-06-21
 time: "00:00:00"
-tags: ["Community", "Maintainer", "On-Boarding"]
+tags: ["Community", "Maintainers"]
 ---
 
 The Carpentries is preparing to onboard the next round of Maintainers.
@@ -13,15 +13,15 @@ The Carpentries is preparing to onboard the next round of Maintainers.
 To keep the community healthy,
 we need to plan for people wanting to step down from their current positions and finding new people to step into the role.
 
-Most of our official core lessons are currently in [maintenance mode](https://github.com/carpentries/maintainer-RFCs/issues/10) - meaning 
+Most of our official core lessons are currently in [maintenance mode](https://github.com/carpentries/maintainer-RFCs/issues/10) - meaning
 that the content is relatively stable.
-However, we are planning to move to [a new lesson template](https://carpentries.org/blog/2021/05/lesson-template-design-process/) and [a new infrastructure stack for building the lessons](https://carpentries.org/blog/2020/08/lesson-template-design/). 
+However, we are planning to move to [a new lesson template](https://carpentries.org/blog/2021/05/lesson-template-design-process/) and [a new infrastructure stack for building the lessons](https://carpentries.org/blog/2020/08/lesson-template-design/).
 Over the next year,
 there will be a bit more work making sure all existing issues and PRs are dealt with as the lesson transition over to the new template and infrastructure stack.
 
 You do not need to be a Git expert to be a Maintainer.
 If you are familiar with the current [Carpentries Git materials](https://swcarpentry.github.io/git-novice/),
-you will have the foundation and support to learn 
+you will have the foundation and support to learn
 [the skills you will need as a Maintainer](https://www.youtube.com/watch?v=uvWhSYBkZJ0).
 The Maintainer community has a dedicated Slack channel, TopicBox list, and two monthly meetings to help
 support you and the lesson you are working on.

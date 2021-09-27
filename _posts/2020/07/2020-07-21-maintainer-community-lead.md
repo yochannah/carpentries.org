@@ -5,7 +5,7 @@ teaser: "We are looking for the next Maintainer Community Lead!"
 title: "Building the Maintainer Community and Your Own Skillset"
 date: 2020-07-21
 time: "09:00:00"
-tags: ["Carpentries Lessons", "Carpentries Maintainers", "Community"]
+tags: ["Lessons", "Maintainers", "Community"]
 ---
 
 Over the past nine months, I have had the pleasure of serving as [The Carpentries first Maintainer Community Lead](https://carpentries.org/blog/2020/01/maintainer-community-lead/). What started as a way to negotiate a Platinum Membership for my institution quickly became a way to get plugged into a large community of lesson maintainers, support others as they learned to maintain and support our curriculum materials, and multiply my impact in the community by empowering others to take the lead on our curricula.

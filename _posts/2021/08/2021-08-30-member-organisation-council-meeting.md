@@ -5,11 +5,11 @@ teaser: "Our next Member Organisation Council meeting will be held 22 September 
 title: "Updates on the Member Organisation Council"
 date: 2021-08-30
 time: "09:00:00"
-tags: ["Carpentries Membership", "Community", "Discussion Sessions"]
+tags: ["Membership", "Community", "Community Discussions"]
 ---
 
 
-One of the benefits of being a member organisation with The Carpentries is that you hold a seat on The Carpentries Member Council. This is where member organisations and The Carpentries leadership can discuss what is working and what needs revamping or tweaking. At our last council meeting, recruiting helpers and adjusting to teaching online came up as challenges. Since then, we have begun to provide our Instructors [additional training in online teaching](https://www.google.com/url?q=https://carpentries.org/blog/2020/12/Carpentries-Online-Workshops/&sa=D&source=editors&ust=1630096548366000&usg=AOvVaw1_KWsn48HLBJzcrIoDXBdZ) and host organisations received templates to support with helper recruitment, enabling our community to teach over 588 workshops online since March 2020. 
+One of the benefits of being a member organisation with The Carpentries is that you hold a seat on The Carpentries Member Council. This is where member organisations and The Carpentries leadership can discuss what is working and what needs revamping or tweaking. At our last council meeting, recruiting helpers and adjusting to teaching online came up as challenges. Since then, we have begun to provide our Instructors [additional training in online teaching](https://www.google.com/url?q=https://carpentries.org/blog/2020/12/Carpentries-Online-Workshops/&sa=D&source=editors&ust=1630096548366000&usg=AOvVaw1_KWsn48HLBJzcrIoDXBdZ) and host organisations received templates to support with helper recruitment, enabling our community to teach over 588 workshops online since March 2020.
 
 We also held our [first online CarpentryCon](https://2020.carpentrycon.org/), which was a great success, with over 700 virtual attendees in over 45 dynamic sessions. Another opportunity arose to create more synergy in regions thus bringing communities together. We developed a [Community Cookbook](https://cookbook.carpentries.org/), a guide to provide a place to gather a range of community building tools and practices useful for creating peer learning communities in academic and research environments.
 

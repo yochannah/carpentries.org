@@ -5,13 +5,13 @@ teaser: "Ensuring our redesign is friendly and usable for maintainers at all ski
 title: "Reflecting on our first Alpha Test of the Lesson Infrastructure Redesign"
 date: 2021-07-06
 time: "00:00:00"
-tags: 
-- "Carpentries Lessons"
+tags:
+- "Lessons"
 - "Community"
-- "Maintainer"
+- "Maintainers"
 - "Infrastructure"
 - "Lesson Infrastructure"
-- "Carpentries Incubator"
+- "Incubator"
 - "Carpentries Lab"
 ---
 
@@ -27,13 +27,13 @@ We now have more than 100 official and community-developed lessons combined.
 Based on the feedback from our much larger maintainer community, it is clear that many find it challenging to keep the infrastructure up-to-date on their own machines.
 
 <figure>
-<img alt='A stacked area chart showing the growth in the number of lessons from 2015 to present day. 
-There is an arrow pointing to the top of the data that says "139 lessons". 
-The data are stratified by our four programs: Software Carpentry on bottom, followed by Data Carpentry, Library Carpentry, and Incubator. 
-The incubator comprises more than one half of all lessons in the current day.' 
+<img alt='A stacked area chart showing the growth in the number of lessons from 2015 to present day.
+There is an arrow pointing to the top of the data that says "139 lessons".
+The data are stratified by our four programs: Software Carpentry on bottom, followed by Data Carpentry, Library Carpentry, and Incubator.
+The incubator comprises more than one half of all lessons in the current day.'
 src='{{ site.baseurl }}/images/blog/2021/07/lesson-growth.png'>
 <figcaption class='text-center'>
-The growth in the number of lessons has drastically increased between December 2014 and June 2021. 
+The growth in the number of lessons has drastically increased between December 2014 and June 2021.
 (Note: data excludes lessons from <https://github.com/carpentries> and <https://github.com/carpentrieslab>)
 </figcaption>
 </figure>
@@ -42,7 +42,7 @@ Thus, We proposed [design principles of the next iteration of the lesson templat
 Of course, [as we have learned from previous iterations of the lesson template][previous-iteration], we need to create something that works *for the community*.
 This is why, when we had a stable (but not necessarily fully-featured) framework, we needed to test it *with the community*.
 
-After investigating several options for our lesson infrastructure, we realized that the [R publishing ecosystem][rmd] aligned best with our values because it has friendly communities, is available as a binary application on all operating systems, and allows us to integrate with all the features we currently offer. 
+After investigating several options for our lesson infrastructure, we realized that the [R publishing ecosystem][rmd] aligned best with our values because it has friendly communities, is available as a binary application on all operating systems, and allows us to integrate with all the features we currently offer.
 From this idea, we created three R packages to host the engine, validator, and styling, called [{sandpaper}], [{pegboard}], and [{varnish}], respectively.
 We have not yet officially released these packages, but you are free to try them out for yourself! You can get started by visiting <https://carpentries.github.io/sandpaper-docs/>.
 This post describes our initial efforts to test changes coming to [callout blocks][bq] and the overall lesson infrastructure.
@@ -108,14 +108,14 @@ Below are some comments from our testers regarding the pandoc section fence synt
 
 > It is easier to parse the pandoc version visually to see the nested structure.
 
->  For html and pandoc, I like that the text inside the blocks is no different than the usual markdown syntax (I think) and the tag style (open/close) of indicating the blocks makes sense to me. 
+>  For html and pandoc, I like that the text inside the blocks is no different than the usual markdown syntax (I think) and the tag style (open/close) of indicating the blocks makes sense to me.
 > It's really a toss up between which is "better" -- html is less typing and I've seen it before, hence the edge, but I'd be happy to use either in a lesson.
 
 > Pandoc fenced divs are super easy to type, copy paste and move around.
 
 > ...easier to see where the divs close in the pandoc fenced syntax. keeps everything in markdown so it's consistent.
 
-Once we identified the appropriate syntax, we could further refine our design for the lesson infrastructure, which brings us to the infrastructure testing. 
+Once we identified the appropriate syntax, we could further refine our design for the lesson infrastructure, which brings us to the infrastructure testing.
 
 ### Lesson Infrastructure Testing
 
@@ -162,7 +162,7 @@ This is not to say that there were no bumps along the road.
 During alpha tests, we fully expect _some_ difficulty due to missing documentation and unfamiliar tools.
 These are some of the responses that we got regarding difficulty.
 
-> my R version and RStudio version were older that the minimum required versions 
+> my R version and RStudio version were older that the minimum required versions
 
 > I couldn’t tell what this was going to do well enough to know which way I wanted to access it.
 
@@ -218,7 +218,7 @@ This way, people who only want to get the task done can skip that information.
 ### Next Steps
 
 In the coming weeks, we will be preparing the infrastructure for a beta release where we will test it on select live lessons to assess how well it can be approached by the community.
-In the meantime, we will be updating documentation, fixing bugs, and enhancing the deployment pipelines. 
+In the meantime, we will be updating documentation, fixing bugs, and enhancing the deployment pipelines.
 
 
 ## Thank You
@@ -253,7 +253,7 @@ A big thank you goes out to all of our community members who gave their time to 
 [{sandpaper}]: https://carpentries.github.io/sandpaper
 [{pegboard}]: https://carpentries.github.io/pegboard
 [{varnish}]: https://github.com/carpentries/varnish
-[bq]: https://carpentries.github.io/lesson-example/04-formatting/index.html#special-blockquotes 
+[bq]: https://carpentries.github.io/lesson-example/04-formatting/index.html#special-blockquotes
 [dovetail]: https://github.com/carpentries/dovetail#example
 [en-garde]: https://pandoc.org/MANUAL.html#extension-fenced_divs
 [challenge]: https://zkamvar.github.io/glowing-chainsaw/07-complex-nested.html

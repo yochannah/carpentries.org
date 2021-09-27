@@ -5,7 +5,7 @@ teaser: "Maintaining Carpentries lessons is a great way to learn Git."
 title: "Being a Carpentries Maintainer and the Skills You Can Learn"
 date: 2020-04-01
 time: "09:00:00"
-tags: ["Carpentries Maintainers", "Carpentries Lessons"]
+tags: ["Maintainers", "Lessons"]
 ---
 
 
