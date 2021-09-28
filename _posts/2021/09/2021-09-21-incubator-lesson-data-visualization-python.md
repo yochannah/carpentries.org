@@ -35,7 +35,7 @@ The lesson is currently in "Alpha" stage - all of the episodes are written, ther
 
 I would love for other instructors to teach the lesson and provide feedback on the experience, especially as regards pacing, clarity, and points where learners struggled. I'd also welcome feedback from anyone willing to simply look the lesson over!
 
-To contact me directly regarding questions about the lesson, you can email me at jenna.jrdn@gmail.com. You can also reach me on Twitter, at @JennaJrdn. If there is a problem with the lesson, or you have a suggestion for improvement, then please submit an issue to the GitHub repo!
+To contact me directly regarding questions about the lesson, you can email me at [jenna.jrdn@gmail.com](mailto:jenna.jrdn@gmail.com). You can also reach me on Twitter, at [@JennaJrdn](https://twitter.com/JennaJrdn). If there is a problem with the lesson, or you have a suggestion for improvement, then please submit an issue to the GitHub repo!
 
 ------
 
