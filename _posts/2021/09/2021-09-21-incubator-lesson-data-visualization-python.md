@@ -1,7 +1,7 @@
 ---
 layout: page
 authors: ["Jenna Jordan"]
-teaser: "Get involved in the community’s development of a new lesson on the development of interactive data visualizations in Python."
+teaser: "Get involved in the community’s development of a new lesson on how to create interactive data visualizations in Python."
 title: "Incubator Lesson Spotlight: Interactive Data Visualizations in Python"
 date: 2021-09-21
 time: "09:00:00"
@@ -19,23 +19,23 @@ The Incubator Lesson Spotlight highlights a lesson under development by our comm
 
 ### Learning Objectives
 
-1. How to wrangle data into the right format for creating visualizations using the pandas library (and about Tidy Data)
-2. How to create some basic visualizations using the Plotly Express library
-3. How to create a web app for interacting with the visualizations using the Streamlit library
+1. Learn how to wrangle data into a tidy format using the pandas library.
+2. Learn how to create some basic visualizations using the Plotly Express library.
+3. Learn how to create a web app using the Streamlit library for sharing the visualizations, as well as interacting with the data and visualizations via widgets.
 
 ### Target Audience
 
-Learners who have recently completed the "Plotting and Programming in Python" lesson (or have some experience with Python and pandas) and want to learn more about data visualizations - and building interactive "dashboards".
+This workshop is appropriate for learners who have recently completed the "Plotting and Programming in Python" lesson (or have some experience with Python and pandas), and is targeted specifically to those who want to learn more about creating data visualizations and building interactive dashboards. The lesson can be taught in 1 hour (if you skip the exercises and include Episode 1 in the prep) or up to 2 hours (if you include time for students to work through all the exercises and include Episode 1 in the workshop time).
 
 ## Lesson Progress
 
-The lesson is in a finished state - all of the lessons are written and there are exercises included. I have taught the lesson once earlier in its development. It's now ready to be taught by other instructors (but has not yet been taught by other instructors), and I am looking forward to their feedback on the lesson. There are some instructor notes on that extras page. The lesson is currently in "Alpha" stage.
+The lesson is currently in "Alpha" stage - all of the episodes are written, there are exercises included, and there are instructor notes that may be helpful on that extras page. I have taught the lesson once earlier in its development. It is now ready to be taught by other instructors (but has not yet been taught by other instructors), and I am looking forward to everyone's feedback on the lesson.
 
 ## How You Can Help Develop This Lesson
 
-I would like for other instructors to teach the lesson and provide feedback on the experience, especially as regards pacing, clarity, and points where learners struggled.
+I would love for other instructors to teach the lesson and provide feedback on the experience, especially as regards pacing, clarity, and points where learners struggled. I'd also welcome feedback from anyone willing to simply look the lesson over!
 
-To contact me directly regarding questions, email me at jenna.jrdn@gmail.com. If there's a problem with the lesson, then submit an issue to the GitHub repo.
+To contact me directly regarding questions about the lesson, you can email me at jenna.jrdn@gmail.com. You can also reach me on Twitter, at @JennaJrdn. If there is a problem with the lesson, or you have a suggestion for improvement, then please submit an issue to the GitHub repo!
 
 ------
 
