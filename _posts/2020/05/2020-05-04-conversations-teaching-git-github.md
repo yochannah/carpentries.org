@@ -5,7 +5,7 @@ teaser: "Here's a summary of three themed discussions on teaching git and GitHub
 title: "Carpentries Conversations: The Carpentries Teaching of Git and GitHub"
 date: 2020-05-04
 time: "09:00:00"
-tags: ["Community", "Carpentries Lessons"]
+tags: ["Community", "Lessons"]
 ---
 Prompted by [various](https://twitter.com/nicholdav/status/1199699061856751617) [tweets](https://twitter.com/maddicowen/status/1195161753081929729) by our community members, and related community deliberations in The Carpentries' Slack and TopicBox in December 2019, The Carpentries Core Team saw an opportunity for broader community discussions around instructors' interest or comfort in teaching git and GitHub as outlined in our lesson programs.
 
@@ -13,7 +13,7 @@ Prompted by [various](https://twitter.com/nicholdav/status/1199699061856751617) 
 
 ### Community Suggestions
 
-The summaries in this section are the collective input of 35 + community members that joined in the December 2019 discussions. A big thank you to Tracy Teal and [David Yakobovitch](https://twitter.com/dyakobovitch) for leading this set of Themed Discussions. More extensive notes from the three sessions are available [in this Etherpad](https://pad.carpentries.org/git-discussion). 
+The summaries in this section are the collective input of 35 + community members that joined in the December 2019 discussions. A big thank you to Tracy Teal and [David Yakobovitch](https://twitter.com/dyakobovitch) for leading this set of Themed Discussions. More extensive notes from the three sessions are available [in this Etherpad](https://pad.carpentries.org/git-discussion).
 
 Overall, there was consensus that git addresses an urgent need for many learners, and the way the lessons introduce it provides sufficient motivation to get started. It is important to continue introducing learners to git, be it through GitHub as the lessons currently do, or via other platforms as appropriate.
 
@@ -44,7 +44,7 @@ Here are some challenges faced in teaching git and GitHub that came up in the di
     <ol style="list-style-type: lower-alpha;">
       <li>have a more elaborate module in instructor training specifically to equip instructors with approaches for teaching git in workshops.</li>
       <li>create a standalone checklist on preparing to teach git. </li>
-      <li>share information from workshop feedback highlighting elements of the git lessons that people struggle with so instructors can prepare more extensively. </li> 
+      <li>share information from workshop feedback highlighting elements of the git lessons that people struggle with so instructors can prepare more extensively. </li>
       <li>consider adding the option for instructors to introduce git through GitHub's web interface or <a href ="https://desktop.github.com">GitHub Desktop</a> where GitHub is the platform of choice.</li>
     </ol>
   <br>  
@@ -84,4 +84,4 @@ Here is the TL;DR version on community suggestions from this set of Themed Discu
 
 From this post, The Carpentries Core Team will dissect the suggestions made, open issues for content improvements that can be made to the git lessons, and scope the rest of the suggestions to slate them for future work by the Core Team.
 
-In the meantime, community members are encouraged to open issues in the git lessons, or use the New Ideas section of [the git-discussion Etherpad](https://pad.carpentries.org/git-discussion) to share bigger suggestions on the way forward. We will continue to share updates on decisions and progress made as a result of these suggestions periodically on The Carpentries blog. 
+In the meantime, community members are encouraged to open issues in the git lessons, or use the New Ideas section of [the git-discussion Etherpad](https://pad.carpentries.org/git-discussion) to share bigger suggestions on the way forward. We will continue to share updates on decisions and progress made as a result of these suggestions periodically on The Carpentries blog.

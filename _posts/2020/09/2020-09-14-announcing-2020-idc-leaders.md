@@ -5,18 +5,18 @@ teaser: "Our Instructor Development Committee has a strong team of seven to lead
 title: "Meet our 2020-2021 Cohort of Instructor Development Committee Leaders"
 date: 2020-09-14
 time: "00:00:00"
-tags: ["Community", "Instructor Development", "Discussion Sessions", "Carpentries Mentoring"]
+tags: ["Community", "Instructor Development", "Community Discussions", "Mentoring"]
 ---
 
-Instructor Development Committee (IDC) leaders in The Carpentries lead efforts to organise Community Discussions, set up mentoring cycles, and advocate for activities and initiatives that promote professional development, equity and inclusivity for Carpentries instructors. During their year-long term, IDC leaders also work on special projects aimed at improving instructor resources in The Carpentries, and facilitate conversations with other Carpentries instructors to brainstorm and discuss matters arising. 
+Instructor Development Committee (IDC) leaders in The Carpentries lead efforts to organise Community Discussions, set up mentoring cycles, and advocate for activities and initiatives that promote professional development, equity and inclusivity for Carpentries instructors. During their year-long term, IDC leaders also work on special projects aimed at improving instructor resources in The Carpentries, and facilitate conversations with other Carpentries instructors to brainstorm and discuss matters arising.
 
 The Instructor Development Committee (formerly known as the Mentoring Subcommittee) was established in 2015 to develop and maintain a mentorship program to support instructors as they progress through training, teaching, curriculum development, and other community-related activities. The committee helps promote community-building and networking by providing virtual spaces where instructors from all over the world can share teaching success stories and discuss strategies for overcoming challenges.  You can find more information about the IDC and its activities in the [Instructor Development section of our handbook](https://docs.carpentries.org/topic_folders/instructor_development/index.html).
 
-[The Community Development Team](https://carpentries.org/core-team-projects/#community-development-team) recently put out a call for applications to Carpentries community members interested in serving on the 2020-2021 IDC Leadership cohort [on our blog](https://carpentries.org/blog/2020/08/IDC-leadership-call-for-applicants/). We are pleased to share that seven instructors from The Carpentries community stepped up and agreed to serve in various capacities over the next year as members of the [Instructor Development Committee](https://docs.carpentries.org/topic_folders/instructor_development/index.html) Leadership Team. 
+[The Community Development Team](https://carpentries.org/core-team-projects/#community-development-team) recently put out a call for applications to Carpentries community members interested in serving on the 2020-2021 IDC Leadership cohort [on our blog](https://carpentries.org/blog/2020/08/IDC-leadership-call-for-applicants/). We are pleased to share that seven instructors from The Carpentries community stepped up and agreed to serve in various capacities over the next year as members of the [Instructor Development Committee](https://docs.carpentries.org/topic_folders/instructor_development/index.html) Leadership Team.
 
 To introduce them to you, we asked them what inspired them to join the Instructor Development Committee and here is what they had to say:
 
-### IDC Co-chairs 
+### IDC Co-chairs
 
 **Maria Prokofieva**
 
@@ -27,7 +27,7 @@ To introduce them to you, we asked them what inspired them to join the Instructo
 
 >I started teaching informally in 1997 and as a full time instructor in 2009. I am passionate about learning and then teaching what I learnt. By teaching I found that I learn even more. I observed that The Carpentries facilitates an interesting blend of both opportunities: learning and teaching. I am grateful to my teachers and to the Carpentries for encouraging lifelong continuous learning. The knowledge sharing practices, research driven decisions, scholarship provided to the underprivileged and underrepresented community members, the welcoming rapport, etc. took me by surprise. The Carpentries is here for good, without any borders or boundaries, across continents, without any reservation. The positive experience that I had since first learning about The Carpentries in 2017 made me explore more about the community and I am still learning. I felt that we need to expand our capacities to help new members, to reduce the challenges that some new trainees experience, to improve the experience of the new instructors, to adapt our instructor development approaches with feedback from the community, combined with lifelong teaching experience of many of us, research and evaluation. Hence I am trying to give back to the community through serving at IDC.
 
->I facilitated multiple [CarpentryCon @ Home](https://2020.carpentrycon.org) sessions, contributed to enhancing multiple carpentries webpages, blog posts, facebook posts, and google forms, different lesson materials, hpc-carpentry lesson development, community discussions, volunteered to provide emergency support in situations like notifying others in The Carpentries Slack about unassigned host for upcoming community discussions, discussion session presenters having difficulty with unforeseen unavailability of the host of the session, taking notes, etc. I have received Data and Software Carpentries Instructor certifications at the beginning of 2020. I also taught my first Carpentries workshop, the Software Carpentry (Shell, Git, Programming with R) workshop at Stony Brook University between Sep 12-13, 2020. I observed that we need to provide more slots and spread out the slots in terms of timings, days and time zones for the instructor training as well as the community discussions. To fill that gap, I volunteered to host community discussion sessions. 
+>I facilitated multiple [CarpentryCon @ Home](https://2020.carpentrycon.org) sessions, contributed to enhancing multiple carpentries webpages, blog posts, facebook posts, and google forms, different lesson materials, hpc-carpentry lesson development, community discussions, volunteered to provide emergency support in situations like notifying others in The Carpentries Slack about unassigned host for upcoming community discussions, discussion session presenters having difficulty with unforeseen unavailability of the host of the session, taking notes, etc. I have received Data and Software Carpentries Instructor certifications at the beginning of 2020. I also taught my first Carpentries workshop, the Software Carpentry (Shell, Git, Programming with R) workshop at Stony Brook University between Sep 12-13, 2020. I observed that we need to provide more slots and spread out the slots in terms of timings, days and time zones for the instructor training as well as the community discussions. To fill that gap, I volunteered to host community discussion sessions.
 
 [Here is what the role of Co-Chair in the Instructor Development Committee entails](https://docs.carpentries.org/topic_folders/instructor_development/instructor_development_committee.html#co-chairs)
 
@@ -37,7 +37,7 @@ To introduce them to you, we asked them what inspired them to join the Instructo
 **Samar Elsheikh**
 
 >I heard about the Software Carpentry in April 2017, when I attended my instructor-training workshop here in Cape Town. I immediately started my instructor check-out process and got a lot of help with that from the community here in South Africa.  I was then  thinking about ways to serve my community and share my knowledge. I never thought of teaching because, as a PhD student, I wouldn't find the opportunity or the time to do so.
->I was officially qualified as a Data Carpentry Instructor in July 2017, and later, as a Trainer for The Carpentries in March 2019. Since then, I taught about 10 Software/Data Carpentry workshops (as an instructor) - including the first (and only) Software Carpentry in Sudan, and two instructor-training workshops (as a Trainer). 
+>I was officially qualified as a Data Carpentry Instructor in July 2017, and later, as a Trainer for The Carpentries in March 2019. Since then, I taught about 10 Software/Data Carpentry workshops (as an instructor) - including the first (and only) Software Carpentry in Sudan, and two instructor-training workshops (as a Trainer).
 >I attended the instructor training workshop and I was amazed at how, in just two days, I have improved my teaching skills so much, gained confidence in these skills to the extent that I realised: teaching is actually so much fun. I find myself here today to support fellow instructors in learning more about The Carpentries community and its learning model as I continue to learn.
 
 **Katherine Simeon**
@@ -46,7 +46,7 @@ To introduce them to you, we asked them what inspired them to join the Instructo
 
  [Here is what the role of Mentoring Chair in the Instructor Development Committee entails](https://docs.carpentries.org/topic_folders/instructor_development/instructor_development_committee.html#mentoring-chair)
 
-### Discussion session coordinator 
+### Discussion session coordinator
 
 **Caroline Fadeke Ajilogba**
 
@@ -54,7 +54,7 @@ To introduce them to you, we asked them what inspired them to join the Instructo
 >I have been a Certified Instructor since 2017 though as a helper in some workshops before then and became a Certified Trainer in March 2018. I helped to start the R study group at the North-West University, Mafikeng campus South Africa which is still very much active and has produced other instructors. I was a member of the Africa Task Force where we had our first online training of instructors who needed help to get certified in 2018.  I worked together with Jessica Upani as Trainers Co-Coordinators. I have taught several Data Carpentry workshops and Instructor-training workshops in both in-person training and online training; and I am excited to be part of this new IDC leadership.
 
 
-[Here is what the role of Discussion Session Coordinator in the Instructor Development Committee entails](https://docs.carpentries.org/topic_folders/instructor_development/instructor_development_committee.html#discussion-session-coordinator). 
+[Here is what the role of Discussion Session Coordinator in the Instructor Development Committee entails](https://docs.carpentries.org/topic_folders/instructor_development/instructor_development_committee.html#discussion-session-coordinator).
 
 ### Special Projects Chair
 
@@ -70,7 +70,7 @@ To introduce them to you, we asked them what inspired them to join the Instructo
 
 **Yared Abera**
 
->My inspiration to apply to Cohort Leadership was the fact that I had an opportunity to be coached by others in The Carpentries just so I can get very important skills in some of the very challenges I have in programming and data curation.  Leaders at different stages in The Carpentries have motivated me to go ahead with my study in understanding the core objectives of the community and spreading the word to reach others. Since then I was able to take The Carpentries Instructor training at Addis Ababa and become certified instructor @ 2018. It was an amazing experience I had in years. 
+>My inspiration to apply to Cohort Leadership was the fact that I had an opportunity to be coached by others in The Carpentries just so I can get very important skills in some of the very challenges I have in programming and data curation.  Leaders at different stages in The Carpentries have motivated me to go ahead with my study in understanding the core objectives of the community and spreading the word to reach others. Since then I was able to take The Carpentries Instructor training at Addis Ababa and become certified instructor @ 2018. It was an amazing experience I had in years.
 
 >I was able to organise and conduct Data and Software Carpentry workshops at Two Higher Education institutions(Mizan-Tepi University and Ambo University) in my homeland, Ethiopia and it was a great memory that I cherish always. Learners were amazed at how learning can be simplified with the way the teaching is executed, monitored and evaluation of the lessons are done. At last I had written a blog post beautifully edited by The Carpentiries team of experts and posted for all the community which is still on air, that has made the institutions' and my name public and recognisable.  
 

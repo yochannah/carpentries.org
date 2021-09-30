@@ -5,7 +5,7 @@ teaser: "A summary of the two community conversations with the Carpentries Execu
 title: "Carpentries Community Conversation with the Executive Council "
 date: 2021-06-10
 time: "00:00:00"
-tags: ["Community", "Governance", "Discussion Sessions"]
+tags: ["Community", "Governance", "Community Discussions"]
 ---
 
 On Friday, 22 February, 2021, two sessions were held for The Carpentries Community to meet and interact with The Carpentries Executive Council (EC) - to hear from about governance in The Carpentries and the work the EC is currently doing.
@@ -40,13 +40,13 @@ Many EC members are very active community members who have a strong belief in th
 
 The Carpentries Handbook has a detailed process for onboarding the new EC members.
 
-#### Briefly, what do you see as the major difference in role between the EC and the Core Team? 
+#### Briefly, what do you see as the major difference in role between the EC and the Core Team?
 
 Core Team is the operational part of The Carpentries, they are responsible for the day-to-day running of the organisation, and developing the organisation further by  implementing the Strategic Plan set by the EC. Core Team members are (mostly) also hired and paid by The Carpentries; EC members are volunteers and do not receive any monetary compensation.
 
 #### What kinds of decisions does the EC make versus the Core Team versus the community. Should the community be voting on more matters and not only who sits on the EC?
 
-This is a very good question and one the EC is currently investigating itself. The EC could probably be doing a better job of communicating to the community what it is working on, and involving folks by for example putting out Requests for Comments. We are at least operating in a transparent manner, anyone can read the EC’s meeting minutes and see what motions the EC approved. The EC also has a set of ‘year in review’ documents. The EC makes sure that its programs and offerings are achieving The Carpentries  mission and are within The Carpentries  vision. 
+This is a very good question and one the EC is currently investigating itself. The EC could probably be doing a better job of communicating to the community what it is working on, and involving folks by for example putting out Requests for Comments. We are at least operating in a transparent manner, anyone can read the EC’s meeting minutes and see what motions the EC approved. The EC also has a set of ‘year in review’ documents. The EC makes sure that its programs and offerings are achieving The Carpentries  mission and are within The Carpentries  vision.
 
 #### Given the ongoing impact of the Covid-19 pandemic, which, if any, aspects of The Carpentries strategy do you think need to be adjusted? Has the widespread shift to online working and meeting opened up any new opportunities for the organisation?
 
@@ -59,24 +59,24 @@ This is an excellent question that the EC has not asked itself yet. The EC appla
 - Funding, sponsors and making sure of the sustainability of the core staff
 
 #### Is the EC interested in hearing from the community from time to time? How can community members raise suggestions, ask questions or initiate discussions with the EC?
-The EC is always interested in hearing from the community and can be reached as described below. Beyond that, this should perhaps be the first community call with the EC, and not the last. 
+The EC is always interested in hearing from the community and can be reached as described below. Beyond that, this should perhaps be the first community call with the EC, and not the last.
 The Executive Council can be contacted by submitting an issue to their GitHub repository; sending them an email; or by filling this form. Read more about how to contact the Executive Council.
 
 ## Questions from the community
 
-#### How does the EC differ from a board? 
+#### How does the EC differ from a board?
 
-A board is a legal entity and has defined responsibilities under the law; our fiscal sponsor has a board with those responsibilities, but we can’t and don’t have one. We don't require the same things of other boards (e.g. financial contributions are not required to be on the board). The specific definition has everything to do with legalese. 
+A board is a legal entity and has defined responsibilities under the law; our fiscal sponsor has a board with those responsibilities, but we can’t and don’t have one. We don't require the same things of other boards (e.g. financial contributions are not required to be on the board). The specific definition has everything to do with legalese.
 
 #### How long do the EC members spend on their EC work? What is an on-boarding process?
 
-On average, we spend 1-3 hours per week on EC-related tasks. We have monthly 1-hour meetings. There is an intensive multi-day ‘EC retreat’ meeting either in-person or online once a year. When someone starts on the EC they get a buddy/mentor to help with onboarding. We have intense times where different groups work on a certain topic and relaxed times. 
+On average, we spend 1-3 hours per week on EC-related tasks. We have monthly 1-hour meetings. There is an intensive multi-day ‘EC retreat’ meeting either in-person or online once a year. When someone starts on the EC they get a buddy/mentor to help with onboarding. We have intense times where different groups work on a certain topic and relaxed times.
 
 #### Is there a person who we can send our questions to that can go into an FAQ?
 
 There will be a followup blog post, but opening an issue in the executive-council-info repository would be the best way to get it through. There will be more meetings like this so that we can have more conversations about the role of the EC and how we move forward.
 
-#### What lessons have been learned from online workshop delivery due to COVID-19 thus far? 
+#### What lessons have been learned from online workshop delivery due to COVID-19 thus far?
 
 Still in the process of finalizing the adjustments. The EC has not started the discussion on this yet. Really hope we can go back to in-person workshops by finding the right model of training delivery.
 

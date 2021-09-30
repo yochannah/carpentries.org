@@ -60,7 +60,6 @@ the growth and sustainability of The Carpentries and is building local capacity 
 {% endfor %}
 </ul>
 
-
 ### Bronze Member Organisations
 
 <ul>

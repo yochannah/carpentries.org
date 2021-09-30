@@ -5,7 +5,7 @@ teaser: "Join us in welcoming Daniel Chen as our new Maintainer Community Lead!"
 title: "Announcing our new Maintainer Community Lead"
 date: 2020-11-23
 time: "09:00:00"
-tags: ["Carpentries Lessons","Carpentries Maintainers","Maintainers"]
+tags: ["Lessons","Maintainers"]
 ---
 
 

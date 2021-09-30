@@ -5,7 +5,7 @@ teaser: "Join us in welcoming Angela Li as our Maintainer Community Lead!"
 title: "Announcing our new Maintainer Community Lead"
 date: 2020-01-27
 time: "09:00:00"
-tags: ["Carpentries Maintainers", "Community"]
+tags: ["Maintainers", "Community"]
 ---
 
 We are pleased to announce that Angela Li is now serving as Maintainer Community Lead. Angela’s work in this role is supported by her home institution, the University of Chicago. She will be helping to reboot our Maintainer Onboarding program, recruit and onboard new Maintainers, and develop a sustainable way to support our Maintainer community.

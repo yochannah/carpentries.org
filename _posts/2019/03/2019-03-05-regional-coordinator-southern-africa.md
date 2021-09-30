@@ -3,7 +3,7 @@ layout: page
 authors: ["Serah Njambi Rono", "Sher! Hurt", "Anelda van der Walt", "Juan Steyn", "Tracy Teal", "Erin Becker"]
 teaser: "We're hiring a Regional Coordinator for Southern Africa!"
 title: "Growing The Carpentries Community in Africa: Hiring a Regional Coordinator"
-tags: ["Carpentries Regional Coordinators", "Africa"]
+tags: ["Regional Coordinators", "Africa"]
 date: 2019-03-05
 time: "09:00:00"
 ---
@@ -16,15 +16,15 @@ In this role, you’ll help The Carpentries support our volunteer instructor com
 
 You will lead our community engagement efforts to develop and support The Carpentries community in Southern Africa, creating pathways for
 participation and increased communication. You will lead recruitment of new instructors and institutional members, drive The Carpentries’
-awareness efforts in Southern Africa, mentor instructors, and coordinate workshops within the region. You may also assist with workshop 
-coordination in other regions of the continent, with support from The Carpentries Workshops and Logistics Manager. You will build and 
-strengthen local communities through engagement with user groups such as 
-[R-Ladies](https://rladies.org/) and [Python Africa](https://africa.python.org/en/). You will join a global team of 
-Regional Coordinators who manage workshop logistics, assist in communicating with hosts and instructors, respond to general workshop 
+awareness efforts in Southern Africa, mentor instructors, and coordinate workshops within the region. You may also assist with workshop
+coordination in other regions of the continent, with support from The Carpentries Workshops and Logistics Manager. You will build and
+strengthen local communities through engagement with user groups such as
+[R-Ladies](https://rladies.org/) and [Python Africa](https://africa.python.org/en/). You will join a global team of
+Regional Coordinators who manage workshop logistics, assist in communicating with hosts and instructors, respond to general workshop
 inquiries, and support growth of their regional communities. You will be supported by The Carpentries Workshop and Logistics Manager and
 will also work closely with The Carpentries Community Engagement Lead.
 
-This person will join a diverse and engaged team of professionals working to spread data-driven research skills around the world. Ideally this position will be based in Pretoria, Johannesburg, or Potchefstroom, but remote is possible. Some travel is required. 
+This person will join a diverse and engaged team of professionals working to spread data-driven research skills around the world. Ideally this position will be based in Pretoria, Johannesburg, or Potchefstroom, but remote is possible. Some travel is required.
 
 The Carpentries is dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. All qualified applicants will receive consideration for employment without regard to gender identity and expression, sexual orientation, disability, citizenship, nationality, ethnic or social origin, pregnancy, familial status, veteran status, religion or belief, age, education, or socio-economic status. We encourage all qualified individuals to apply.
 

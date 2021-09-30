@@ -5,7 +5,7 @@ teaser: "Curriculum Advisors provide high-level leadership for lessons. Apply by
 title: "Apply to become a Curriculum Advisor"
 date: 2021-09-14
 time: "09:00:00"
-tags: ["Carpentries Lessons", "Community"]
+tags: ["Lessons", "Community"]
 ---
 
 In August 2021, we announced that The Carpentries is [reactivating our Curriculum Advisory program](https://carpentries.org/blog/2021/08/reactivating-curriculum-advisory-committees/). Curriculum Advisory Committees provide high-level oversight, vision, and leadership for a curriculum and guide large-scale updates. Each Curriculum Advisory Committee (CAC) supports and is supported by a group of Lesson Maintainers, who focus on day-to-day maintenance of the lessons.

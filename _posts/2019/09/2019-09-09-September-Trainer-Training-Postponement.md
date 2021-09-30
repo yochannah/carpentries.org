@@ -5,14 +5,14 @@ teaser: "Trainer Training Postponed"
 title: "Instructor Trainer Training: Knowing When to Hold ‘Em"
 date: 2019-09-09
 time: "09:00:00"
-tags: ["Carpentries Trainers"]
+tags: ["Instructor Trainers"]
 ---
 
 The purpose of this blog post is, first and foremost, to let those who are eagerly awaiting our next [Instructor Trainer](https://carpentries.org/trainers/) Training know that we will **not** be running one in October-December 2019 as we had previously planned. Our next Trainer onboarding opportunity will most likely come in January 2020, with applications in November 2019.
 
 ([Instructor](https://carpentries.org/instructors/) Training events, in contrast, run year round and individual applications are always accepted [here](https://amy.carpentries.org/forms/request_training/). Access to Instructor Training is also available through [Organisational Memberships](https://carpentries.org/membership/).)
 
-With that out of the way, though, we can get to the important question you might be asking next: *why not*? 
+With that out of the way, though, we can get to the important question you might be asking next: *why not*?
 
 There are **SO** many great reasons to keep onboarding more Instructor Trainers! Our memberships are growing steadily. Many new members would like to have an Instructor Trainer at home to support training and lead their community. Trainers make great community leaders and often pioneer growth in new directions wherever they are. Carpentries Instructor Trainers are just amazing and wonderful people, each of whom brings their own special strength to the community. Who wouldn’t want more??
 

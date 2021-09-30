@@ -5,7 +5,7 @@ teaser: "Looking to host a Carpentries Community Discussion?"
 title: "Carpentries Community Discussion Host Onboarding Now Open!"
 date: 2020-07-27
 time: "09:00:00"
-tags: ["Community", "Discussion Sessions"] 
+tags: ["Community", "Community Discussions"] 
 ---
 
 Carpentries Community Discussions are not only part of the [check-out process](https://carpentries.github.io/instructor-training/checkout/) but also provides a platform for all instructors (new and experienced) to discuss any questions (i.e. online [workshop administration](https://carpentries.org/blog/2020/04/instructor-updates-for-online-workshops/), how to adapt or using [cloud instances](https://carpentries.org/blog/2020/04/scaffolds/) they might have; or the opportunity to share unique teaching experiences post-workshop. With the move towards more online workshops, debriefing and sharing what worked and what didn’t is an important process of our community.  The current number of hosts is a small fraction of our community so we are looking to expand the number and diversity of perspectives of hosts.  If you are interested, please help us grow the community of discussion hosts.

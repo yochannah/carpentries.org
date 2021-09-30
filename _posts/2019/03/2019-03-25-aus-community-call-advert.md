@@ -5,7 +5,7 @@ teaser: "Join us for a discussion of past, present and future Carpentries activi
 title: "The Carpentries Australia: Community Discussion"
 date: 2019-03-25
 time: "09:00:00"
-tags: ["Community", "Discussion Sessions", "Australasia"]
+tags: ["Community", "Community Discussions", "Australasia"]
 ---
 
 Back in February 2013, Greg Wilson (co-founder of Software Carpentry) flew out to Sydney and Melbourne to run the first ever Software Carpentry "bootcamps" outside of Europe and North America. Those of us involved in those initial workshops could not have anticipated just how quickly things would grow. Fast forward six years and here's how far we've come in Australia:  
@@ -22,7 +22,7 @@ With the recent announcement of an official [Regional Coordinator](https://carpe
 
 This can be partly explained by the fact that a number of our member organisations are incorporating Carpentries ideas and lesson materials into their own custom workshops and courses (which is great), as opposed to running officially branded Carpentries workshops that are captured in our database. Even so, as we look forward there are a number of questions for the Australian community to consider, such as:  
 
-* What can be done to ensure continued growth? 
+* What can be done to ensure continued growth?
 * What can be done to establish and support Carpentries communities in cities (e.g. Adelaide, Darwin) and regional centres that don’t currently have one?
 * How do we capture non-branded / unofficial usage of Carpentries lessons in our statistics?
 * Should we establish a team of regional coordinators spread around the country, as opposed to relying on one person?
@@ -38,4 +38,3 @@ Hope to see you there!
 ![Carpentries learners per year in Australia]({{ site.urlimg }}/blog/2019/03/aus_learner_stats.png)
 
 ![Carpentries instructors per year in Australia]({{ site.urlimg }}/blog/2019/03/aus_instructor_stats.png)
-

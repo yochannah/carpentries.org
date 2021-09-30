@@ -5,7 +5,7 @@ teaser: "Eighteen new Lesson Maintainers badged"
 title: "Welcome to our Newest Lesson Maintainers!"
 date: 2021-09-13
 time: "09:00:00"
-tags: ["Carpentries Lessons", "Carpentries Maintainers", "Community"]
+tags: ["Lessons", "Maintainers", "Community"]
 ---
 
 We are pleased to announce that our most recent cohort of Lesson Maintainers have completed onboarding and are ready to support lessons across The Carpentries curricula. Eighteen new Maintainers participated in the three hour onboarding, using a [completely updated curriculum](https://carpentries.github.io/maintainer-onboarding/) with the following goals:
