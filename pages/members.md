@@ -52,6 +52,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Alan Turing Institute
 - California Institute of Technology
 - Carnegie Mellon University
+- Center for Healthy Communities, a Center under Chico State Enterprises
 - College Board
 - Copenhagen University Library
 - Duke University
