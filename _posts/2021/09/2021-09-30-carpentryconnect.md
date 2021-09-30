@@ -19,8 +19,7 @@ for building strong local communities around digital and computational literacy 
 ![Map of attendees]({{ site.urlimg }}/blog/2021/09/CCZAplot.png) 
 
 The [Opening address](https://docs.google.com/presentation/d/16Qc74WzFaSBM_09-3IEUKE-xSe4mCbUM-SsUPA8-bxo/edit#slide=id.ged24d0629d_0_135) was delivered by our Executive Director, 
-Dr Kari, L. Jordan. The message echoed The Carpentries ongoing commitment to capacitating scholars in foundational data sciences skills and programming in Africa. During [this session]
-(https://pad.carpentries.org/CCZA_Keynote), community members shared the challenges and opportunities faced being Carpentries community members. 
+Dr Kari, L. Jordan. The message echoed The Carpentries ongoing commitment to capacitating scholars in foundational data sciences skills and programming in Africa. During [this session](https://pad.carpentries.org/CCZA_Keynote), community members shared the challenges and opportunities faced being Carpentries community members. 
 
 >"*The session to me was very eye opening. In the short time I attended...., I learnt a lot. I still anticipate to learn more with The Carpentries*."
 
@@ -33,7 +32,7 @@ with subtitles available in isiZulu, isiXhosa, Setswana and Kiswahili.
 
 ### Thank you ###
 
-This event would not have been possible without the funding received from Code for Science and Society [Event Fund](https://eventfund.codeforscience.org/announcing/). We would 
+This event would not have been possible without the funding received from Code for Science and Society [Event Fund](https://eventfund.codeforscience.org/announcing/) made possible by grant number GBMF8449 from the [Gordon and Betty Moore Foundation](https://doi.org/10.37807/GBMF8449). We would 
 further like to thank the [North-West University](http://www.nwu.ac.za/s), the [South African Centre for Digital Language Resources](https://www.sadilar.org/index.php/en/) as well 
 as the [University of the Western Cape](https://www.uwc.ac.za/) for their support during this event.  
 
