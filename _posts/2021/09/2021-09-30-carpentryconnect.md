@@ -17,15 +17,12 @@ for building strong local communities around digital and computational literacy 
 
 ![Map of attendees]({{ site.urlimg }}/blog/2021/09/CCZAplot.png) 
 
-The [Opening address](https://docs.google.com/presentation/d/16Qc74WzFaSBM_09-3IEUKE-xSe4mCbUM-SsUPA8-bxo/edit#slide=id.ged24d0629d_0_135) was delivered by our Executive Director, 
-Dr Kari, L. Jordan. The message echoed The Carpentries ongoing commitment to capacitating scholars in foundational data sciences skills and programming in Africa. During [this session](https://pad.carpentries.org/CCZA_Keynote), community members shared the challenges and opportunities faced being Carpentries community members. 
+
+The [Opening address](https://docs.google.com/presentation/d/16Qc74WzFaSBM_09-3IEUKE-xSe4mCbUM-SsUPA8-bxo/edit#slide=id.ged24d0629d_0_135) was delivered by our Executive Director, Dr. Kari, L. Jordan. The message echoed The Carpentries ongoing commitment to capacitating scholars in foundational data sciences skills and programming in Africa. During [this session] (https://pad.carpentries.org/CCZA_Keynote), community members shared the challenges and opportunities faced being Carpentries community members. 
 
 >"*The session to me was very eye opening. In the short time I attended...., I learnt a lot. I still anticipate to learn more with The Carpentries*."
 
-The [event concluded](https://pad.carpentries.org/CCZA_Closing) with a panel of Carpentries instructors and trainers from the Global South, sharing experiences of their involvement 
-and how the Carpentries community has influenced their lives. The discussion concluded with the panel sharing resources that can be used in the future and reflections on how 
-they transitioned into online teaching during the pandemic, emphasising the unique challenges in the Global South. Recordings of the Keynote and Closing events will be uploaded to YouTube 
-with subtitles available in isiZulu, isiXhosa, Setswana and Kiswahili.
+The [event concluded](https://pad.carpentries.org/CCZA_Closing) with a panel of Carpentries instructors and trainers from the Global South, sharing experiences of their involvement and how the Carpentries community has influenced their lives. The discussion concluded with the panel sharing resources that can be used in the future and reflections on how they transitioned into online teaching during the pandemic, emphasising the unique challenges in the Global South. Recordings of the Keynote and Closing events will be uploaded to YouTube with subtitles available in isiZulu, isiXhosa, Setswana and Kiswahili.
 
 >"*Was good to too see everybody again :-)*."
 
@@ -36,10 +33,9 @@ further like to thank the [North-West University](http://www.nwu.ac.za/s), the [
 as the [University of the Western Cape](https://www.uwc.ac.za/) for their support during this event.  
 
 
+
 ### Future events ###
 
-We encourage attendees and interested members to continue to be part of this growing community by attending our 
-[Carpentries in Africa](https://pad.carpentries.org/ZA-community-call) monthly meet-up event every 4th Thursday. Join our [mailing list](https://carpentries.topicbox.com/groups/local-africa) to stay informed of events within The 
-Carpentries in Africa community. Stay tuned for a forthcoming post that shares insights on the behind-the-scenes work that went into organising the event.
+We encourage attendees and interested members to continue to be part of this growing community by attending our [Carpentries in Africa](https://pad.carpentries.org/ZA-community-call) monthly meet-up event every 4th Thursday. Join our [mailing list](https://carpentries.topicbox.com/groups/local-africa) to stay informed of events within The Carpentries in Africa community. Stay tuned for a forthcoming post that shares insights on the behind-the-scenes work that went into organising the event.
 
 
