@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: [“Michael Culshaw-Maurer”]
+authors: ["Michael Culshaw-Maurer"]
 teaser: "Get involved in a Task Force on the official lesson publication process."
 title: "Launching Lesson Publication Task Force"
 date: 2021-10-05
