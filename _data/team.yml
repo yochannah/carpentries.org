@@ -107,7 +107,15 @@ people:
   github: danielle06
   email: danielle@carpentries.org
   calendly: daniellesieh
- 
+
+- name: Angelique Trusler, PhD
+  pic: angeliquetrusler
+  position: African Capacity Development Manager
+  email: angelique@carpentries.org
+  github: elletjies
+  twitter: AngeliquePhd
+  calendly: angelique_v
+
 - name: Alycia Crall, PhD
   pic: alyciacrall
   position: Director of Community
@@ -125,4 +133,3 @@ people:
   email: alobayuwana@carpentries.org
   github: Al-Obayuwana
   calendly: alobayuwana
-  
