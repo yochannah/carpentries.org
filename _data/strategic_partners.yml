@@ -1,12 +1,4 @@
 people:
-  - name: Angelique Trusler, PhD
-    pic: angeliquetrusler
-    position: Regional Consultant for Southern Africa
-    email: angelique@carpentries.org
-    github: elletjies
-    twitter: AngeliquePhd
-    calendly: angelique_v
-
   - name: Michael Culshaw-Maurer, PhD
     pic: michaelculshawmaurer
     position: Postdoctoral researcher (joint with CyVerse)
