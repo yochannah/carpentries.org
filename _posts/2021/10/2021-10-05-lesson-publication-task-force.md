@@ -15,7 +15,7 @@ The Carpentries is launching a [Task Force][charter] on the official lesson publ
 If you are interested in serving on this Task Force, please fill out [this form][form-link]. If you have any questions about the Task Force or getting involved, please contact Michael Culshaw-Maurer by [email][mcm-email] or on the Carpentries Slack. We will also be hosting a community discussion on the topic of the lesson publication process, which will be an opportunity to provide feedback and discuss your experiences with other members of the community. The discussion will be on Tuesday, October 5th at 4:00PM UTC, and you can sign up on the [community discussion etherpad][community-discussion].
 
 
-<!-- link references →
+
 [mcm-email]: mailto:culshawmaurer@email.arizona.edu
 [form-link]: https://forms.gle/PyX58kfE8HdAhr8h9
 [community-discussion]: https://pad.carpentries.org/community-discussions
