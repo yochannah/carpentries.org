@@ -13,7 +13,7 @@ With support from sponsors, The Carpentries will continue our efforts to make co
             Sponsorship Application Form
         </button>
 
-The Sponsorship Application Form is also available as a [fillable PDF](https://na2.docusign.net/Member/PowerFormSigning.aspx?PowerFormId=3979d5bd-58df-4656-b828-019d73e6cd1f&env=na2&acct=6587fef2-4607-4e17-a5f6-361d5da2546c&v=2)
+The Sponsorship Application Form is also available as a [fillable PDF](/files/pdf/Sponsorship-Form.pdf). If you choose to download and fill out the PDF, please email the completed form to [sponsorship@carpentries.org](mailto:sponsorship@carpentries.org)
 
 <hr>
 
@@ -22,7 +22,7 @@ The Sponsorship Application Form is also available as a [fillable PDF](https://n
 <table>
   <tr>
     <th>Benefits</th>
-    <th>Empowerment Sponsor $150K <br><i>Limit 2</i></th>
+    <th>Empowerment $150K <br><i>Limit 2</i></th>
     <th>Champion $50K <i>Limit 4</i></th>
     <th>Supporter $25K</th>
     <th>Contributer $10K</th>
@@ -128,13 +128,13 @@ In addition to the sponsorship levels listed above, we value all monetary contri
 The Carpentries provides a digital icon that can be displayed on sponsor’s website and social media accounts as a way to show support for The Carpentries community.
 
 #### Carpentries Philanthropy Recognition
-One mention in The Carpentries donor newsletter.
+One mention in The Carpentries donor newsletter, [Carpentries Philanthropy](https://carpentries.us14.list-manage.com/subscribe?u=46d7513c798c6bd41e5f58f4a&id=33f76196ac).
 
 #### Logo on carpentries.org
 Logo linked to sponsor designated URL, posted on https://carpentries.org/sponsorship. Sponsors listed in order of package level.
 
 #### Mention in The Carpentries Newsletter
-One item submitted to The Carpentries biweekly newsletter, Carpentries Clippings.
+One item submitted to The Carpentries biweekly newsletter, [Carpentries Clippings](https://carpentries.org/newsletter/).
 
 #### Logo on carpentries.org/jobs
 Logo linked to sponsor’s careers page listed on https://carpentries.org/jobs/ for one year.
@@ -148,11 +148,8 @@ Social media promotion via @thecarpentries on Twitter (9,447 followers).
 Registration to attend The Carpentries biennial meeting, CarpentryCon, to be held in-person or virtually. Sponsor name and logo on conference marketing material.
 
 CarpentryCon attendance: ~300 persons
-- **Empowerment Sponsor** - 6 registrations, 1 keynote at the opening session, 1 sponsorship table
-- **Champion** - 4 registrations, 1 sponsorship table
-
-*Additional registrations at a 20% discount.*
-
+- Empowerment Sponsor - 3 registrations, 1 keynote presentation, 1 sponsorship table
+- Champion - 2 registrations, 1 sponsorship table
 
 #### Logo listed on The Carpentries blog
 Logo will be placed on the Carpentries blog (https://carpentries.org/blog/) for one year. The Carpentries blog receives ~2,500 views per month (~84,000 all time).
