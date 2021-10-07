@@ -5,7 +5,7 @@ title: Become a Member Organisation
 excerpt: A Member Organisation is an organisation which has made a commitment to the growth and spread of The Carpentries
 ---
 
-A Member Organisation is an organisation which has made a commitment to the growth and spread of The Carpentries. Members receive priority access to [Instructor Training](https://carpentries.github.io/instructor-training/) and guidance with capacity building at their organisation. With local Instructors, Member organisations can readily run low-cost local [workshops]((/workshops/)). Community-developed lessons enable our Instructors to globally share the effort for developing impactful lessons on technical topics. Memberships give The Carpentries revenue to ensure the ongoing development and maintenance of the lessons demanded by research communities. We also work to give your local Instructors support, mentorship, and a forum for community lesson development.
+A Member Organisation is an organisation which has made a commitment to the growth and spread of The Carpentries. Members receive priority access to [Instructor Training](https://carpentries.github.io/instructor-training/) and guidance with capacity building at their organisation. With local Instructors, Member organisations can readily run low-cost local [workshops](/workshops/). Community-developed lessons enable our Instructors to globally share the effort for developing impactful lessons on technical topics. Memberships give The Carpentries revenue to ensure the ongoing development and maintenance of the lessons demanded by research communities. We also work to give your local Instructors support, mentorship, and a forum for community lesson development.
 
 ### Membership Tiers
 
