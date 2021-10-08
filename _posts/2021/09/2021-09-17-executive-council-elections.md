@@ -48,7 +48,7 @@ Please note: we understand that several workshops have been postponed or cancell
 
 ## Apply for Voting Membership
 
-**Community members that do not have a badge for elections in [AMY](https://amy.carpentries.org/account/login/) based on the points mentioned above and they feel they have contributed sufficiently, can contact The Carpentries Core Team ([team@carpentries.org](mailto:team@carpentries.org)) before 31 October, 2021 prior to release of ballots to request their voting privileges be updated.**
+**Community members that are eligible based on the points mentioned above as documented in [their AMY Instructor profile](https://amy.carpentries.org/account/login/) and they feel they have contributed sufficiently, can contact The Carpentries Core Team ([team@carpentries.org](mailto:team@carpentries.org)) before 31 October, 2021 prior to release of ballots to request their voting privileges be updated.**
 
 ## Timeline for 2022 Executive Council elections
 
