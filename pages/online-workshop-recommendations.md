@@ -152,13 +152,15 @@ Most video conferencing platforms have the capacity to create and store recordin
 In most cases, your primary chat platform will be the one included in your video conferencing platform. However, external chat and collaborative documents can be useful, depending on how your workshop is organised. At a minimum, we recommend having a platform dedicated to back-channel communications within the instructional team. Keep [limitations on screen space](#Adjusting-your-teaching-for-limited-screen-space) in mind when deciding how to use these platforms.
 
 If you wish to add a chat platform, The Carpentries recommends, in order:
-        1. Any platform in use by your community
-        2. Slack 
+
+1. Any platform in use by your community
+2. Slack 
         
 If you wish to use a collaborative document, The Carpentries recommends, in order:
-        1. Etherpad (note that this also has a built-in chat feature)
-        2. Google Docs
-        3. CodiMD
+
+1. Etherpad (note that this also has a built-in chat feature)
+2. Google Docs
+3. CodiMD
         
 For applications specific to communications within the instructional team, WhatsApp may also be appropriate. 
 
