@@ -16,7 +16,7 @@ widget2:
   title: "Who we are"
   url: 'https://carpentries.org/about'
   icon: 'fas fa-users'
-  text: 'Our diverse, global community includes <a href="/instructors/">Instructors</a>, helpers, <a href="/trainers/">Trainers</a>, <a href="/maintainers/">Maintainers</a>, <a href="https://carpentries.org/mentors">Mentors</a>, community champions, <a href="/members/">member organisations</a>, supporters, workshop organisers, <a href="/team/">staff</a> and a whole lot <a href="/community/">more</a>.'
+  text: 'Our diverse, global community includes <a href="/instructors/">Instructors</a>, helpers, <a href="/trainers/">Trainers</a>, <a href="/maintainers/">Maintainers</a>, <a href="https://carpentries.org/mentors">Mentors</a>, community champions, <a href="/members/">member organisations</a>, supporters, workshop organisers, <a href="/team/">Core Team</a>, and a whole lot <a href="/community/">more</a>.'
 widget3:
   title: "Get involved"
   url: 'https://carpentries.org/join/'
