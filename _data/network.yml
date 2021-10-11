@@ -17,7 +17,7 @@
   title: "Our Reports"
 
 - name: "License"
-  url:  "{% link license.md %}"
+  url:  "/license/"
   title: "License"
   
 - name: "Software Carpentry website"
