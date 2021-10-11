@@ -20,7 +20,7 @@ Instructor Training enquiries: <br>
 Code of Conduct Committee: <br>
 <a href="mailto:coc@carpentries.org">coc@carpentries.org</a><br> <br> 
 
-To contact individual staff, see our <a href="{{site.url}}/team/">team page</a>.<br>
+To contact individual Core Team members, see our <a href="{{site.url}}/team/">Team page</a>.<br>
 
 To contact specific committees or task forces, see the <a href="{{site.url}}/committees/">committees and task forces page</a>.
 
