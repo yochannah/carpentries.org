@@ -327,21 +327,22 @@ Preliminary feedback suggests that breakout sessions are **not** the best way to
 Keep in mind that private messaging on Zoom makes it very easy to accidentally message the full group, and occasionally the chat window may display during screen share, so be judicious with this feature. Private messaging also removes the opportunity for other helpers to 'eavesdrop' and jump in where their specific expertise may be valuable. Back-channels may be used to triage questions and solicit additional advice as need be.
 
 #### Tracking progress
+
 In addition to requesting help, learners often use sticky notes at in-person workshops to indicate their status on completing a task. This mechanism can be mimicked in a few ways.  
-        * Zoom: Learners can write "done" in the chat, but this can get noisy in large workshops, and it is difficult to notice non-responders. Nonverbal feedback can be enabled within the participant list. Learners can be asked (e.g.) to display a check mark when they are done/doing fine, or an X mark if they are stuck/uncertain.   
-        * Polling apps: instructors can make a poll to ask people how they are doing. Since most polling tools are anonymous, learners will need prompting to identify themselves to helpers when stuck. 
-        * [Other tools](#other-tools): Polls can be created within Slack, or learners can use emojis for nonverbal feedback.  Hovering over an emoji will display a list of learners who selected that item. Etherpad can be used to set up informal polls; selecting a choice with "x" can be identifiable if colors are named at the top right. Learners may also comment on polls in these contexts with any problems they encounter. 
+* Zoom: Learners can write "done" in the chat, but this can get noisy in large workshops, and it is difficult to notice non-responders. Nonverbal feedback can be enabled within the participant list. Learners can be asked (e.g.) to display a check mark when they are done/doing fine, or an X mark if they are stuck/uncertain. * Polling apps: instructors can make a poll to ask people how they are doing. Since most polling tools are anonymous, learners will need prompting to identify themselves to helpers when stuck. 
+* [Other tools](#other-tools): Polls can be created within Slack, or learners can use emojis for nonverbal feedback.  Hovering over an emoji will display a list of learners who selected that item. Etherpad can be used to set up informal polls; selecting a choice with "x" can be identifiable if colors are named at the top right. Learners may also comment on polls in these contexts with any problems they encounter. 
 	
 As always, be sure to keep screen space and cognitive load in mind when considering adding a tool to your learning environment.
 
 #### Asking questions
+
 Formative assessment is important in any format to evaluate where the learners are in relation to your objectives. This is particularly important online, where 'reading the room' is not an option and the only way to know what is going on out there is to ask. 
-    * One quick approach is to offer prediction prompts while live coding, giving learners a chance to practice as they go.  Examples might include:
-        * “How many lines will this print out when I execute this code?”
-        * “Remind me what the name of this function is?” 
-        * “Which syntax is correct? (provide several options)”
-    * These prompts can be answered via the conferencing chat. Be sure to allow ample response time, factoring in both technical delays and time to think.
-    * As with in-person workshops, other platforms can also be set up for formative assessment to create polls, multiple-choice questions, etc. Or a collaborative document may be used to provide more extensive exercises for independent or group practice. However you want your learners to respond, make sure your instructions are clear & reiterated with each prompt.
+* One quick approach is to offer prediction prompts while live coding, giving learners a chance to practice as they go.  Examples might include:
+  * “How many lines will this print out when I execute this code?”
+   * “Remind me what the name of this function is?” 
+   * “Which syntax is correct? (provide several options)”
+* These prompts can be answered via the conferencing chat. Be sure to allow ample response time, factoring in both technical delays and time to think.
+* As with in-person workshops, other platforms can also be set up for formative assessment to create polls, multiple-choice questions, etc. Or a collaborative document may be used to provide more extensive exercises for independent or group practice. However you want your learners to respond, make sure your instructions are clear & reiterated with each prompt.
     
 #### Collaborative notes
 Any collaborative note-taking platform your group has been using should transition nicely for online use.  If a document platform offers chat or other communication features, be clear to the learners how these should or should not be used. 
