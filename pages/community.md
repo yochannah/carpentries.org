@@ -214,7 +214,7 @@ The Spanish Translators Team translates and maintains Spanish-language lessons f
 * To join, sign up for our [mailing list](https://groups.google.com/forum/#!forum/carpentries-traductores).
 * Upcoming meetings - information coming soon!
 * [Meeting minutes](https://github.com/carpentries/latinoamerica/tree/master/traducciones/minutos)
-* For more information contact [Rayna Harris](mailto:rayna.harris@gmail.com).
+* For more information contact [The Carpentries](mailto:{{site.contact}})
 
 ### Regional Communities
 
@@ -223,7 +223,7 @@ The Spanish Translators Team translates and maintains Spanish-language lessons f
 This group works to build a sustainable and active community in Latin America.
 
 * [Mailing list](https://carpentries.topicbox.com/groups/local-latinoamerica)
-* For more information contact [Rayna Harris](mailto:rayna.harris@gmail.com).
+* For more information contact [The Carpentries](mailto:{{site.contact}})
 
 #### Carpentries in Africa
 
