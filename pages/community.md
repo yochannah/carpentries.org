@@ -103,11 +103,11 @@ The Trainer community is a group of experienced Instructors, local champions, an
 
 * [Trainer Training materials](https://carpentries.github.io/trainer-training/)
 * [Duties](http://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html#trainer-agreement)
-* [Current members](https://github.com/carpentries/trainers/blob/master/README.md#current-members)
+* [Current members](https://github.com/carpentries/trainers/blob/main/README.md#current-members)
 * [Upcoming meetings](http://pad.software-carpentry.org/trainers-backup)
-* [Mailing list]({{site.mailing_lists}}/trainers)
-* [Slack](https://swc-slack-invite.herokuapp.com/)
-* [Meeting minutes](https://github.com/carpentries/trainers/tree/master/minutes)
+* [Mailing list]({{site.mailing_lists}}/trainers) *This list is private to Trainers*
+* [Slack](https://swc-slack-invite.herokuapp.com/) *This Slack channel is private to Trainers*
+* [Meeting minutes](https://github.com/carpentries/trainers/tree/main/minutes)
 * For more information contact [Karen Word](mailto:krword@carpentries.org).
 
 ### Maintainers
