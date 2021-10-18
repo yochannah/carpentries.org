@@ -95,7 +95,7 @@ The Instructor Development Committee supports Instructors as they progress throu
 * [Instructor Development Committee roles](https://docs.carpentries.org/topic_folders/instructor_development/instructor_development_committee.html#instructor-development-committee-roles)
 * Join: Join the Instructor Development Committee by attending our monthly meeting.
 * [Upcoming meetings](http://pad.software-carpentry.org/instructor-development)
-* [Mailing list]({{site.mailing_lists}}/mentoring)
+* [Mailing list]({{site.mailing_lists}}/instructor-development)
 * For more information, contact [Alycia Crall](mailto:alycia@carpentries.org).
 
 ### Trainers
