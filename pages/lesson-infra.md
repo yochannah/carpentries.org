@@ -5,6 +5,8 @@ permalink: /lesson-infra/
 excerpt: Maintainers for Carpentries lesson and workshop templates and documentation.
 ---
 
+The Lesson Infrastructure Committee went into hiatus in March 2020 due to the pandemic. We are in the process of performing a retrospective of this committee to identify strengths and areas of improvement. These findings will help us guide the formation of the next committee to ensure that it aligns with our core values. Continue reading to learn more about the past work of this committee.
+
 Members of the Lesson Infrastructure Committee serve as Maintainers for The Carpentries lesson template and its documentation, 
 as well as for The Carpentries workshop template.
 
@@ -30,4 +32,4 @@ _Our Membership:_
 - Naupaka Zimmerman
 
 _Contacting the Committee_   
-[Please send an email to François Michonneau](mailto:francois@carpentries.org).
+Please send an email to [François Michonneau](mailto:francois@carpentries.org) or [Zhian Kamvar](zkamvar@carpentries.org).
