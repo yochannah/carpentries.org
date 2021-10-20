@@ -23,6 +23,19 @@ Led by Kari L. Jordan, the Executive Team proactively brings together perspectiv
 
 <details>
 <summary>
+<strong>July - September (Q3) 2021</strong>
+</summary>
+Erin Becker · François Michonneau · Kari L. Jordan
+#### Equity Council
+Thanks to the generous support of the Alfred P. Sloan Foundation, The Carpentries has convened an Equity Council to advise on our goals of bringing more Black, Latinx, and Indigenous people to data and coding. This quarter the Equity Council met to share resources, best practices, and ideas to help improve our programming, assessment, and recruitment approaches.
+
+We engaged [Understood For All](https://www.understood.org/), a non-profit organization focused on disability inclusion, to work with us in improving our workflows, processes, and community engagement methods. Understood will be evaluating our hiring processes and our online workshop experience and providing recommendations for improvement. They are also providing training for our Core Team.
+
+Additionally, the Executive Team had several meetings with the Executive Council regarding governance, transparency, and decision making. Outcomes from these meetings can be found on our blog in the following posts: [On the governance of The Carpentries, Introducing the new Executive Council Standing Committees](https://carpentries.org/blog/2021/07/carpentries-governance/).
+</details>
+
+<details>
+<summary>
 <strong>April - June (Q2) 2021</strong>
 </summary>
 Erin Becker · François Michonneau · Kari L. Jordan
@@ -129,6 +142,21 @@ Led by Kari Jordan, the Business Team works on the legal and financial aspects o
 <strong>Business Team's Quarterly Projects</strong>
 </summary>
 
+
+<details>
+<summary>
+<strong>July - September (Q3) 2021</strong>
+</summary>
+Kari L. Jordan · Talisha Sutton-Kennedy
+
+#### Sponsorship Program and more
+The Business Team has worked with our fiscal sponsor, Community Initiatives, and the Finance Committee of the Executive Council to pursue grant opportunities and explore ways to manage and diversify our revenue streams. We developed a Sponsorship Program that will be piloted for 2021-2022 whereby like minded organisations can show their financial support of The Carpentries while supporting our mission and vision.
+
+We submitted two grant proposals to the Gordon and Betty Moore Foundation and the Chan Zuckerberg Initiative to support diversity, equity, and inclusion (DEI) work, community development, and curriculum development. Additionally, we led a Values Alignment Task Force that developed a set of recommendations on how to identify whether an organisation or service is acting in accordance with The Carpentries [Core Values](https://carpentries.org/values/).
+
+These recommendations are to be used as checkpoints for existing relationships and service providers to verify that The Carpentries can safely enter into new relationships with organisations in the future. All of these activities are in support of strategic plan goal #5: **Strengthen organisational structure and capacity to be strategic and responsive.**
+
+</details>
 
 <details>
 <summary>
@@ -257,6 +285,19 @@ setting up the Community Facilitators Program in The Carpentries, developing and
 <summary>
 <strong>Community Development Team's Quarterly Projects</strong>
 </summary>
+
+<details>
+<summary>
+<strong>July - September (Q3) 2021</strong>
+</summary>
+
+Alycia Crall · Angelique Trusler · Kelly Barnes · Omar Khan · Toby Hodges
+
+#### CarpentryConnect South Africa, New Director of Community and More
+In Q3 of 2021, The Community Development team supported [CarpentryConnect South Africa](https://za2021.carpentryconnect.org/). Additionally, a new Director of Community, Alycia Crall, was onboarded. They also convened a working group to explore solidifying the Carpentries Trademark and Logo Usage policies. CarpentryCon @ Home 2022 was also announced and the search for co-chairs and members of a task force for it began.
+
+
+</details>
 
 
 <details>
@@ -503,6 +544,20 @@ about their quarterly projects work below.
 
 <details>
 <summary>
+<strong>July - September (Q3)) 2021</strong>
+</summary>
+Erin Becker · Michael Culshaw-Maurer · François Michonneau · Zhian Kamvar · Toby Hodges
+
+#### Alpha Testing, Curriculum Advisors Program and more
+In Q3 2021, The Curriculum Team:
+- Finished [alpha testing](https://carpentries.org/blog/2021/07/infrastructure-testing/) of curriculum infrastructure redesign
+- Continued the Incubator Spotlight series to highlight curriculum development work by community members in the Incubator space - two lessons highlighted ([RNA-Seq with Bioconductor](https://carpentries.org/blog/2021/07/incubator-lesson-spotlight-rna-seq-data-analysis/) and [Interactive Data Visualization in Python](https://carpentries.org/blog/2021/09/incubator-lesson-data-visualization-python/))
+- [Onboarded 18 new Maintainers](https://carpentries.org/blog/2021/09/maintainer-welcome-2021/) for 14 lessons
+- Reactivated the [Curriculum Advisors program](https://carpentries.org/blog/2021/08/reactivating-curriculum-advisory-committees/)
+</details>
+
+<details>
+<summary>
 <strong>April - June (Q2) 2021</strong>
 </summary>
 Erin Becker · Michael Culshaw-Maurer · François Michonneau · Zhian Kamvar · Toby Hodges
@@ -647,6 +702,22 @@ Led by François Michonneau, the Infrastructure Team is behind all of the system
 <strong>Infrastructure Team's Quarterly Projects</strong>
 </summary>
 
+<details>
+<summary>
+<strong>July - September (Q3) 2021</strong>
+</summary>
+François Michonneau · Maneesha Sane · Zhian Kamvar
+
+#### AMY Updates and Maintenance
+- Started planning work for new features in AMY:
+  - Instructors will be able to register their interest in upcoming workshops directly from AMY
+  - We are improving how we capture how community members are involved in various aspects of our community to better reflect their engagement with us.
+
+- Continued our work to review our practices and policies to comply with international privacy laws.
+- Provided support to the other teams for the implementation of their projects.
+- Performed ongoing maintenance of our infrastructure.
+
+</details>
 
 <details>
 <summary>
@@ -773,6 +844,19 @@ Led by Karen Word, the Instructor Training Team manages our Instructor Training 
 <summary>
 <strong>Instructor Training Team's Quarterly Projects</strong>
 </summary>
+
+<details>
+<summary>
+<strong>July - September (Q3) 2021 </strong>
+</summary>
+Karen Word · Kelly Barnes · Maneesha Sane · Talisha Sutton-Kennedy · Sher! Hurt
+
+#### In Q3 2021, the Instructor Training Team
+- Released the Instructor Training Report
+- Started work on Instructor Training Communications Overhaul
+- Continued work on Curriculum updates including development of an Equity, Inclusion, and Accessibility episode
+- Certified 14 new Trainers
+</details>
 
 <details>
 <summary>
@@ -912,6 +996,20 @@ Led by Al Obayuwana, the Membership Team coordinates the growing number of Carpe
 
 <details>
 <summary>
+<strong>July - September (Q3) 2021</strong>
+</summary>
+Al Obayuwana · Angelique Trusler · Kari Jordan · Talisha Sutton-Kennedy
+
+#### Member Organisation Council Meetings and more
+- Started a pricing pilot for the quarter, looking to close the budget gap while understanding our growing pains and challenges.
+- Reengaging the member organisations through council meetings. Planning out intentional quarterly community sessions (not sit and gets)
+- Revamped the membership workflow to reduce redundancy and create better member experience
+- Created a sliding scale and financial assistance component to membership for equity
+
+</details>
+
+<details>
+<summary>
 <strong>April - June (Q2) 2021</strong>
 </summary>
 Al Obayuwana · Angelique Trusler · Kari Jordan · Talisha Sutton-Kennedy
@@ -1003,6 +1101,22 @@ Led by SherAaron Hurt, the Workshop Team develops and implements workflows to ke
 <summary>
 <strong>Workshop Administration Team's Quarterly Projects</strong>
 </summary>
+
+<details>
+<summary>
+<strong>July - September (Q3) 2021</strong>
+</summary>
+SherAaron Hurt · Angelique Trusler · Danielle Sieh · Maneesha Sane · Talisha Sutton-Kennedy
+
+#### In Q3 2021 the WAT
+- Began internal preparation for shifting the Regional Coordinator program to CDT
+- Continued working on Instructor Selection Project
+- Launched the In-person Survey to gather feedback from Instructors, Workshop Hosts and Member organisations
+- Began Instructor Feedback Taskforce to identify ways to gather feedback from instructors and hosts following a workshop
+- Began Instructor Availability Working Group to identify ways to encourage more instructors to sign up to teach Centrally-Organised workshops
+
+
+</details>
 
 <details>
 <summary>
