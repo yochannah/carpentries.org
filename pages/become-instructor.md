@@ -4,34 +4,57 @@ title: "Become an Instructor"
 permalink: /become-instructor/
 ---
 
-The Carpentries workshops are taught by trained, peer, volunteer 
-instructors. All of our Instructors complete an Instructor 
-Training program, which teaches instructional pedagogy as well as the 
-practicalities of teaching a Carpentries workshop.
+The Carpentries workshops are taught by trained, volunteer Instructors. Instructor 
+certification includes attendance at an Instructor Training event and three short 
+“checkout” tasks. Together, these steps ensure that our Instructors are well 
+grounded in principles of effective teaching, familiar with The Carpentries policies 
+and practices, and are prepared to participate in and contribute to our community in the future. 
+  
+Carpentries Instructors can organise workshops at home or volunteer 
+to join a workshop at another site through our centrally organised 
+workshops program. We have held workshops in over 40 countries on 
+every continent (including Antarctica!). We match our Instructors 
+with teaching opportunities that fit their schedules, travel interests, and availability.
 
-Instructors can teach workshops in their local area or travel to
-teach. We have held workshops in over 40 countries on every continent 
-(including Antarctica). We match our Instructors with teaching 
-opportunities that fit their schedules, travel interests, and 
-availability.
+## Why Become an Instructor?
+* To make your world better. By teaching their peers how to accomplish more with 
+software and data skills, Carpentries Instructors are improving the environment 
+that they themselves work in, clearing obstacles to their own success.
+* To build a reputation. Teaching a workshop is a great way for people to introduce 
+themselves to places they would eventually like to work, and a great way to make 
+contact with potential collaborators around the world.
+* To get practice teaching. Carpentries Instructors learn to implement 
+evidence-based practices in a supportive, team environment. They also 
+receive feedback through Carpentries surveys, creating a track record 
+that can be useful in applications for teaching-related positions.
+* To help get people of diverse backgrounds into the pipeline. Some of 
+our Instructors are involved in part because they want computational science 
+to include people from a broader range of backgrounds.
+* To expand your technical skills. Carpentries Instructors continue to learn 
+the very skills they teach, and more! Not only is teaching an excellent way to 
+solidify existing skills, teaching with a team exposes you to new tips and tricks from others along the way.
+* To acquire useful skills for all careers. Even “non-teaching” jobs demand skills 
+that can be learned through teaching, especially as part of a team. You are 
+welcome to borrow this wording to describe these skills in any professional context.
+* To join a community of people who care about inclusive teaching of computational skills.
+* Because it is fun. It really is!
+  
+## Steps to becoming an Instructor.
+1. **Attend an Instructor Training event**
+The training runs over two full days or four half days and covers the basics of educational psychology, evidence-based classroom practices, and how to apply both to teaching workshops for The Carpentries. For more details, visit the Instructor training curriculum page.
+2. **Complete the checkout process**
+You must complete three short tasks after the training in order to complete certification as a Carpentries Instructor. See our [Checkout Instructions](https://data-lessons.github.io/instructor-training/checkout/index.html) page for more details.  
 
-There are two steps to becoming an Instructor.  
+## There are two ways to access Instructor Training: 
 
-1. **Take the Instructor Training course**   
-The training course runs over two full days and covers the basics of educational psychology, instructional design, and how to apply both to teaching workshops for The Carpentries. To see what our curriculum covers, visit the [instructor training course page](https://carpentries.github.io/instructor-training/).
+1\. **Get an access code from a Carpentries Member organisation or group that has arranged for training**
 
-2. **Complete the checkout process**  
-You must complete three short tasks after the course in order to complete certification. These [checkout tasks are described in detail on this page](https://carpentries.github.io/instructor-training/checkout/) and take a total of approximately 8-10 hours. Once you have read the [detailed instructions, please use this page](https://carpentries.github.io/instructor-training/checkout/) to keep track of your progress.
+Member organisations have agreements with The Carpentries that include a specific number of Instructor Training seats. They select which trainees attend Instructor Training.  
 
-<a href="https://amy.carpentries.org/forms/request_training/">
-        <button class="btn">
-            Apply to become an Instructor
-        </button>
-</a>
- 
-If you are interested in training multiple students or employees at your institution, consider becoming a [member organisation](https://carpentries.org/membership/)!
+If you have received an access code, you are ready to use your code to [sign up for an Instructor Training event](https://carpentries.github.io/instructor-training/training_calendar/index.html)! When you register, you will also be asked to [create a profile in our database](https://amy.carpentries.org/forms/request_training/).
+Where membership is not possible, The Carpentries occasionally sponsors groups for Instructor Training. At this time, applications for group sponsorship are available by invitation only. However, if you have a group that you believe will advance The Carpentries’ goal of reaching historically under-represented groups through sponsorship, you are welcome to [contact us](mailto:instructor.training@carpentries.org) with inquiries. 
+For more information about membership and other options for group access to training, visit our [Membership page](https://carpentries.org/membership/). 
 
-*Most of our Instructors are trained through organisational agreements with affiliated institutions. If you have been asked to provide information associated with this type of training, please apply using the button above. If you are not affiliated with one of our member organisations, we offer limited scholarships to attend online instructor training. Please fill out the form above to indicate your interest in participating in an upcoming instructor training.*
+2\. **Apply through the Open Instructor Training Program** 
 
-We are interested in instructors from all domains of research, and are particularly
-working to grow our instructor pool in new geographies and in areas where we are developing [new curricula](http://www.datacarpentry.org/lessons/#workshop-materials-under-development-or-consideration).
+The Open Instructor Training Program is a Carpentries-sponsored program in which individual applicants may be invited to receive training at no cost. Applications are scored and accepted on a rolling basis in order of scoring. This program is not for groups; multiple individuals from a single institution or cohort may be considered but will not be admitted simultaneously. [Apply to our Open Instructor Training Program](https://amy.carpentries.org/forms/request_training/)
