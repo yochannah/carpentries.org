@@ -9,13 +9,12 @@ Community Discussions are designed for everyone in The Carpentries community int
 
 Community Discussions are free and open to anyone. They provide opportunities to connect with The Carpentries community. There are three types of Community Discussion:
 
-1. __Pre- and Post-Workshop Discussions__ These discussions are designed for those getting ready to teach or having recently taught to come discuss their workshop with the community. They occur twice per week.
+1. __Pre- and Post-Workshop Discussions__ These discussions are designed for those getting ready to teach or having recently taught to come discuss their workshop with the community.
 
-2. __Themed Discussion Sessions__ These discussions are centered around a particular topic ranging anywhere from teaching your first workshop to community building strategies. They occur once per month.
+2. __Themed Discussion Sessions__ These discussions are centered around a particular topic ranging anywhere from teaching your first workshop to community building strategies.
 
-3.	__Carpentries Conversations__ These Conversations are hosted by one of our Committees or Task Forces to provide the community with the opportunity to learn about and discuss new developments and programs in our organisation. They occur once per month.
+3.	__Carpentries Conversations__ These Conversations are hosted by one of our Committees or Task Forces to provide the community with the opportunity to learn about and discuss new developments and programs in our organisation. 
 
 Attend any Community Discussion by signing-up on the [community-discussions Etherpad](https://pad.carpentries.org/community-discussions).
 
-Interested in hosting a Community Discussion? Complete our [call for community discussion facilitators form](https://goo.gl/forms/STUEN15QWrlPlhm92)! 
- 
+Interested in hosting a Community Discussion? Complete our [call for community discussion facilitators form](https://goo.gl/forms/STUEN15QWrlPlhm92)!
