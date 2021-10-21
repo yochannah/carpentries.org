@@ -51,19 +51,19 @@
   image: /images/assess.jpg
   short_description: The assessment team works to help us understand our impacts from community activities such as workshops.
   link: /community/#assessment-network
-  volunteer_page: True
+  volunteer_page: False
 
 - name: Champions
   image: /images/champs.jpg
   short_description: Champions work together to share strategies to spread our impact in their own organisations and communities.
   link: /community/#champions
-  volunteer_page: True
+  volunteer_page: False
 
 - name: Lesson Infrastructure
   image: /images/code.jpg
   short_description: The infrastructure team works to keep the lesson template and other infrastructure working smoothly..
   link: /community/#lesson-infrastructure
-  volunteer_page: True
+  volunteer_page: False
 
 - name: Regional Coordinators
   image: /images/upcoming_workshops.jpg
