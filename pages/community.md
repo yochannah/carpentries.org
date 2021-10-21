@@ -94,7 +94,7 @@ The Instructor Development Committee supports Instructors as they progress throu
 * [Training materials](https://docs.carpentries.org/topic_folders/instructor_development/instructor_development_committee.html)
 * [Instructor Development Committee roles](https://docs.carpentries.org/topic_folders/instructor_development/instructor_development_committee.html#instructor-development-committee-roles)
 * Join: Join the Instructor Development Committee by attending our monthly meeting.
-* [Upcoming meetings](http://pad.software-carpentry.org/instructor-development)
+* [Upcoming meetings](http://pad.carpentries.org/instructor-development)
 * [Mailing list]({{site.mailing_lists}}/instructor-development)
 * For more information, contact [Alycia Crall](mailto:alycia@carpentries.org).
 
@@ -104,7 +104,7 @@ The Trainer community is a group of experienced Instructors, local champions, an
 * [Trainer Training materials](https://carpentries.github.io/trainer-training/)
 * [Duties](http://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html#trainer-agreement)
 * [Current members](https://github.com/carpentries/trainers/blob/main/README.md#current-members)
-* [Upcoming meetings](http://pad.software-carpentry.org/trainers-backup)
+* [Upcoming meetings](http://pad.carpentries.org/trainers-backup)
 * [Mailing list]({{site.mailing_lists}}/trainers) *This list is private to Trainers*
 * [Slack](https://swc-slack-invite.herokuapp.com/) *This Slack channel is private to Trainers*
 * [Meeting minutes](https://github.com/carpentries/trainers/tree/main/minutes)
@@ -231,7 +231,7 @@ The Carpentries Instructor community in Africa is growing, with over a hundred c
 
 * [Activities](https://docs.carpentries.org/topic_folders/regional_communities/african_task_force.html#what-we-do)
 * [Join Slack and Mailing List](https://docs.carpentries.org/topic_folders/regional_communities/african_task_force.html#join-us)
-* [Community Etherpad](http://pad.software-carpentry.org/ZA-community-call)
+* [Community Etherpad](http://pad.carpentries.org/ZA-community-call)
 * [Contact](mailto:admin-afr@carpentries.org)
 
 #### Carpentries in Canada
@@ -319,7 +319,7 @@ Here is a list of all CarpentryConnect events held in the past: [carpentryconnec
 
 * [Activities](https://docs.carpentries.org/topic_folders/assessment/assessment-network.html#about)
 * [Current members](https://github.com/carpentries/assessment/blob/master/assessment-network/README.md#members)
-* [Upcoming meetings](http://pad.software-carpentry.org/assessment-network)
+* [Upcoming meetings](http://pad.carpentries.org/assessment-network)
 * [Meeting minutes](https://github.com/carpentries/assessment/tree/master/assessment-network/minutes)
 * [Contact](mailto:kariljordan@carpentries.org)
 
@@ -328,14 +328,14 @@ Here is a list of all CarpentryConnect events held in the past: [carpentryconnec
 <mark>This is an inactive subcommunity in The Carpentries</mark>. Members of the Lesson Infrastructure Committee used ti serve as Maintainers for [The Carpentries lesson template](https://github.com/swcarpentry/styles) and [its documentation](https://github.com/swcarpentry/lesson-example), as well as for [The Carpentries workshop template](https://github.com/swcarpentry/workshop-template).
 
 * [Current members](https://github.com/carpentries/lesson-infrastructure#members)
-* [Upcoming meetings](http://pad.software-carpentry.org/infrastructure-subcommittee)
+* [Upcoming meetings](http://pad.carpentries.org/infrastructure-subcommittee)
 * [Contact](mailto:francois@carpentries.org)
 
 <hr>
 
 ### Community events
 There are many opportunities to join community meetings, subcommittees
-and debriefing sessions. Find links to them on this <a href="http://pad.software-carpentry.org/pad-of-pads">Etherpad</a>, and subscribe to the calendar below to watch all that is
+and debriefing sessions. Find links to them on this <a href="http://pad.carpentries.org/pad-of-pads">Etherpad</a>, and subscribe to the calendar below to watch all that is
 going on throughout our community.
 
 <div id='calendar' markdown="0">Community Calendar goes here</div>
