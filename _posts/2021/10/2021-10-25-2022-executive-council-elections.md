@@ -66,6 +66,7 @@ I know Latin Americans start from a disadvantaged place, with fewer tools and re
             View Yanina's Video
         </button>
 </a>
+<br />
 (with captions in Spanish and English)
 
 
@@ -83,5 +84,5 @@ Due to the excellent work of the community The Carpentries has two guiding docum
             View Konrad's Video
         </button>
 </a>
--------
+<hr>
 You can watch all the nominees videos via [this playlist](https://youtube.com/playlist?list=PLXLapl_LKb4eEd1a0cDVSM-VW6oEpP-0C) on The Carpentries YouTube Channel.
