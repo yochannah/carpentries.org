@@ -11,7 +11,7 @@ Carpentries Community,
 
 I am writing to share that Al Obayuwana (former Director of Partnership) has departed The Carpentries effective 25 October. 
 While we are sorry to see Al go, there will be minimal disruption to the efforts of our Membership Program, which will 
-continue to be supported by our membership team - Angelique Trussler, Talisha Sutton-Kennedy, and Erin Becker as interim 
+continue to be supported by our membership team - Angelique Trusler, Talisha Sutton-Kennedy, and Erin Becker as interim 
 Team Lead. Our [membership@carpentries.org](mailto:membership@carpentries.org) email is the best place to send questions 
 and inquiries during this time. 
 
