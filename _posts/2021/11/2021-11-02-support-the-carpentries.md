@@ -27,7 +27,7 @@ This year we are asking you, The Carpentries community, to share your accomplish
 ## Campaign Rewards
 By donating to The Carpentries at certain donation levels, you will receive a gift card to select and purchase Carpentries branded items featuring designs crafted specifically for this campaign:
 ![Image of t shirt with Carpentries design]({{ site.urlimg }}/blog/2021/11/Carpentries-Shirt.png)
-_Example of design used on a t-shirt_
+<br />_Example of design used on a t-shirt_
 
 ## Sponsor The Carpentries on Github
 A new option for supporting The Carpentries this year is to sponsor us on GitHub! We invite you to directly support the revitalization of our curriculum, and help fund updates to our most taught lessons: Data Carpentry [Data Cleaning with OpenRefine for Ecologists](https://datacarpentry.org/OpenRefine-ecology-lesson/), Software Carpentry [Version Control with Git](http://swcarpentry.github.io/git-novice), and Software [Carpentry Programming with R](http://swcarpentry.github.io/r-novice-inflammation).
