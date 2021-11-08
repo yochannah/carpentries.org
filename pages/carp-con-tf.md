@@ -11,7 +11,7 @@ The CarpentryCon Task Force mission is to organise and host a meeting every two 
 To organise an event that will bring together and skill up members of the global Carpentries community and people with similar interests.
 
 **_Our Approach:_**    
-Starting approximately nine months before the next scheduled conference dates, the Task Force holds monthly meetings. At the moment, we are planning CarpentryCon 2020 and will begin planning for CarpentryCon 2021 in South Africa. We will be seaking volunteers to join the Task Force.
+Starting approximately nine months before the next scheduled conference dates, the Task Force holds monthly meetings. At the moment, we are planning a virtual CarpentryCon in 2022. We are currently seeking volunteers to [join the Task Force](https://docs.google.com/forms/d/e/1FAIpQLSex5YLDI6RA_KFeenPzW6Tsy3A0fUcCZLXtCxWlYuY4qhm6oA/viewform?usp=sf_link).
 
 **_Our Structure:_**       
 The Task Force has monthly meetings, which are open to new members. 
@@ -20,8 +20,8 @@ The Task Force has monthly meetings, which are open to new members.
 
 [This organisers page on the CarpentryCon 2020 website](https://2020.carpentrycon.org/task-force/) lists community members who helped organise for an in-person conference, as well as those that stepped up to help organise a virtual edition of the conference due to COVID-19 restrictions.
 
-**_Our Leadership:_**    
-Christina Koch and Daniel Ouso are  co-chairs of the 2020 CarpentryCon Task Force.
+**_Leadership:_**    
+Christina Koch and Daniel Ouso were co-chairs of the 2020 CarpentryCon Task Force.
 
 **_Virtual Conference Organisers:_**
 
@@ -78,5 +78,5 @@ In 2018, the following Task Force members were responsible for [a very successfu
 
 ## Contacting the Task Force
 
-We will soon be recruiting a new Task Force to help us organise CarpentryCon 2021 in South Africa.If you are interested in getting involved, [email us](mailto:carpentrycon@carpentries.org). You can also join the `#carpentrycon` channel on The Carpentries [Slack](https://swc-slack-invite.herokuapp.com/). 
+We are now recruiting new Task Force members to help us organise CarpentryCon 2022. If you are interested in getting involved, [email us](mailto:carpentrycon@carpentries.org). You can also join the `#carpentrycon` channel on The Carpentries [Slack](https://swc-slack-invite.herokuapp.com/). 
 
