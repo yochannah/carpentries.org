@@ -984,10 +984,10 @@ In Q1 2019, the Instructor Training Team worked on producing a workflow for offe
 </details>
 
 ## Membership Team
-<br>Team Lead: Al Obayuwana
+<br>Team Lead: Erin Becker
 <br>Team Members: Angelique Trusler · Kari Jordan · Talisha Sutton-Kennedy
 
-Led by Al Obayuwana, the Membership Team coordinates the growing number of Carpentries Member Organisations, which build local communities and bring together all The Carpentries programs at organisations across the globe. Some of the projects the Membership Team has embarked on since January 2019 include: creating and deploying a membership survey. You can find more details about their quarterly projects work below.
+Led by Erin Becker, the Membership Team coordinates the growing number of Carpentries Member Organisations, which build local communities and bring together all The Carpentries programs at organisations across the globe. Some of the projects the Membership Team has embarked on since January 2019 include: creating and deploying a membership survey. You can find more details about their quarterly projects work below.
 
 <details>
 <summary>
