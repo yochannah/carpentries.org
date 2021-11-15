@@ -7,6 +7,8 @@ time: "09:00:00"
 category: ["Community", "Internationalisation", "Instructor Development"]
 ---
 
+[Podes leer este post en Español](https://carpentries.org/blog/2021/11/metadocencia-instructor-training-espanol/) 
+
 During 2020 and 2021 we taught two trainings for Carpentries instructors organized by [MetaDocencia](https://www.metadocencia.org/).  These workshops had a number of particular characteristics:
 
 1. Completely in Spanish: both trainers and participants were people native Spanish-speakers from Latin America.
