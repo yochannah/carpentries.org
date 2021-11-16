@@ -1,7 +1,9 @@
 ---
 layout: page
 authors: ["Karen Word"]
-teaser: "The new iteration of the Instructor Training curriculum has been submitted for release"
+teaser: "The new version of the Instructor Training curriculum has been released"
+
+Just trying to make this a little catchier 
 title: "The Carpentries Instructor Training Curriculum has been Updated!"
 date: 2021-11-18
 time: "09:00:00"
