@@ -54,9 +54,7 @@ This workflow was not entirely satisfactory. One effect was to narrow the audien
 
 ## When is it "Done"?
 
-<blockquote class="twitter-tweet">
-    <p lang="en" dir="ltr">I just merged a PR that closed over 40 issues. from the command line bc github couldn&#39;t resolve merge conflicts in browser. That was probably the scariest line I&#39;ve ever run from a terminal.</p>&mdash; Dr. Sarah M Brown (@BrownSarahM) <a href="https://twitter.com/BrownSarahM/status/1455956325901475840?ref_src=twsrc%5Etfw">November 3, 2021</a>
-</blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I just merged a PR that closed over 40 issues. from the command line bc github couldn&#39;t resolve merge conflicts in browser. That was probably the scariest line I&#39;ve ever run from a terminal.</p>&mdash; Dr. Sarah M Brown (@BrownSarahM) <a href="https://twitter.com/BrownSarahM/status/1455956325901475840?ref_src=twsrc%5Etfw">November 3, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Maintenance is a big job in this repository, and there is always more to do! The wonderful thing about the Instructor Training curriculum is that it gets a lot of attention. For new and prospective Instructors, it is the launch point for their relationship with The Carpentries, Trainers study it regularly as they prepare to teach, and many community-members find themselves referencing it when they teach workshops or just want to share favorite tidbits with a friend or colleague. In a collaborative community, this leads to a lot of great suggestions! This update addressed more than 40 outstanding issues in addition to feedback delivered in Trainer meetings and other contexts. Yet, more remain. In the end, it was time to release this curriculum when we had a new version that had been through testing and feedback and seemed to be meeting our minimum standard of "better than the last one" in most respects.
 
