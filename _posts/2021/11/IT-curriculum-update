@@ -1,0 +1,58 @@
+# The Carpentries Instructor Training Curriculum has been Updated!
+
+Throughout most of 2021, The Carpentries Core Team and Trainer community have been developing, discussing, and testing an updated version of our Instructor Training curriculum. It has now been merged into our repository on GitHub and submitted to Zenodo for official release!
+
+### Changes in this update include:
+* General changes to make the curriculum more useable and maintainable:
+    - [ ] Reduced hyperlinks to external websites 
+    - [ ] Eliminated use of handouts for activities
+    - [ ] Reduced duplication of policy articulated elsewhere; increased orientation to resources
+    - [ ] Reduced use of jargon
+    - [ ] Reduced use of coding in examples to accommodate variable background knowledge
+    - [ ] Structural changes to improve timing and flow, allowing for more consistent breaks & alternate schedules
+* Changes to content on motivation and demotivation
+    - [ ] Previous episode on "Mindset" reduced and combined with "Motivation and Demotivation" episode
+    - [ ] Previous content on Equity, Inclusion, and Accessibility in "Motivation and Demotivation" episode moved to its own episode and expanded
+* Changes to content on formative assessment
+    - [ ] Previous references to formative assessment in multiple episodes are now highlighted as distinct applications of this essential tool
+* Changes to content on mental models and concept maps
+    - [ ] mental models are now explained using mapping activities with addition of analogies to summarize a recognizable model conducive to mapping
+* Recognition of online workshops
+    - [ ] some strategies specific to teaching in-person are now presented with suggested adaptations for teaching online
+
+### Goals reserved for the next update (not included yet):
+* Improvements to referencing (to replace previous use of hyperlinks)
+* Further improvements to new episode on EIA as well as additional bonus content on this topic (we have [a grant and some awesome partners](https://carpentries.org/blog/2021/06/carpentries-sloan-foundation-announcement/) to help; please get in touch if you would like to be involved!)
+* Additional suggestions related to online or hybrid instruction. (These will continue to evolve separately, with content migrating into our core curriculum with each update as needed/ requested by our community.)
+
+
+## Why Change a Good Thing?
+Given the positive feedback we regularly receive on our program, you may be wondering why we would do anything more than minor maintenance! 
+
+As with all Carpentries curricula, our Instructor Training curriculum receives feedback from our community as it is used. 
+Some of this can be responded to promptly with minimal disruption to routine instruction. However, broader revisions that involve rearrangement of content across episodes cannot be implemented bit by bit while our curriculum is in use. In addition, substantive changes that influence how our Instructor Trainers teach need to be carefully communicated to avoid last-minute surprises during preparation or instruction. Work on changes like these is concentrated in the periods prior to version release. The last major update for this lesson was in 2018. 
+
+## How Do You Update a Curriculum In Use?
+For this update we used an older GitHub account under The Carpentries umbrella, called "data-lessons". Working in a [fork](https://github.com/data-lessons/instructor-training) allowed us to separate comments on the lesson-in-development from those in the existing lesson. Changes were submitted as pull requests to the data-lessons repository, reviewed and merged there; the primary branch of that repository was used in a [pull request to our main repository](https://github.com/carpentries/instructor-training/pull/1215), which was then subjected to broader community review. Meanwhile, the [fully rendered curriculum](https://data-lessons.github.io/instructor-training/) in the data-lessons repository could be field tested with minimal disruption.
+
+This workflow was not entirely satisfactory. One effect was to narrow the audience for early conversations, which occurred in the "quieter" data-lessons repository and was mostly restricted to Maintainers and a few Trainers who were paying close attention. Some found this process to be too secretive, preferring that all conversation remain in our main repository. In addition, the many ways to provide feedback (issues or comments on the PR in the main repository; issues or comments on PRs in data-lessons) proved confusing for both contributors and maintainers. 
+
+## When is it "Done"?
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I just merged a PR that closed over 40 issues. from the command line bc github couldn&#39;t resolve merge conflicts in browser. That was probably the scariest line I&#39;ve ever run from a terminal.</p>&mdash; Dr. Sarah M Brown (@BrownSarahM) <a href="https://twitter.com/BrownSarahM/status/1455956325901475840?ref_src=twsrc%5Etfw">November 3, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Maintenance is a big job in this repository, and there is always more to do! The wonderful thing about the Instructor Training curriculum is that it gets a lot of attention. For new and prospective Instructors, it is the launch point for their relationship with The Carpentries, Trainers study it regularly as they prepare to teach, and many community-members find themselves referencing it when they teach workshops or just want to share favorite tidbits with a friend or colleague. In a collaborative community, this leads to a lot of great suggestions! This update addressed more than 40 outstanding issues in addition to feedback delivered in Trainer meetings and other contexts. Yet, more remain. In the end, it was time to release this curriculum when we had a new version that had been through testing and feedback and seemed to be meeting our minimum standard of "better than the last one" in most respects.
+
+## What Comes Next?
+In the coming weeks we will be doing some cleanup to identify issues that we still plan to address and decide which others to close. It is always a hard choice to close an issue without resolving it! At The Carpentries, we [value all contributions](https://carpentries.org/values/). The value of a contribution is not necessarily evident in its implementation, however; it may instead serve to provoke thought that ultimately leads to work along different lines, or it may serve to draw out opposing arguments or identify sticky trade-offs. Hard choices like these are an important role of Maintainers to focus conversation and prioritize effort. 
+
+The Carpentries Instructor Trainer community will also be having a conversation about curriculum maintenance, led by our [Trainers Leadership](https://github.com/carpentries/trainers/blob/main/governance.md) group, to evaluate the potential for more diverse roles in maintenance for this repository. For example, this lesson houses things like checkout policy, but contributions that address policy fall outside the typical duties of curriculum upkeep. By spreading out our maintenance efforts among Trainers with specific leadership interests, we hope to make routine maintenance more manageable and narrow the focus of work during update periods.
+
+A few of our goals for that next update are already clear, because they are priorities that we had hoped to address but ultimately had to cut from this release! We are excited about pursuing new and better ways of citing the many resources pointed out to us by our community members along with the primary and secondary literature upon which our curriculum rests. We are also looking forward to further development of content on Equity, Inclusion, and Accessibility, with an eye towards evidence-based practices and maximum impact in our short-format context. Finally, as our community continues to learn and grow through creative implementation of online workshops, we will be looking to identify ways in which we can support new Instructors in preparing to embrace the challenges and opportunities of teaching online.
+
+## Thank you!!
+As always, this work would not have been possible without the dedicated participation of our community, especially our community of Instructor Trainers, and most particularly our community Maintainers, Sarah Brown and Tim Dennis, whose counsel and support have been indispensible in maintaining forward progress and bringing this project to a close. We are also grateful to the Chan Zuckerberg Initiative for funding that supports the Instructor Training efforts of The Carpentries Core Team, allowing us to take on the more intensive writing and coordinating work that cannot reasonably be performed by volunteers.
+
+
+
+
