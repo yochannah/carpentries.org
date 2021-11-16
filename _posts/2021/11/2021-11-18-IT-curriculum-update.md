@@ -17,7 +17,7 @@ Throughout 2021, The Carpentries Core Team and Trainer community have been devel
 * General changes to make the curriculum more useable and maintainable:
     - [ ] Reduced hyperlinks to external websites 
     - [ ] Eliminated use of handouts for activities
-    - [ ] Reduced duplication of policy articulated elsewhere; increased orientation to resources
+    - [ ] Reduced content on Carpentries policies; increased orientation to main sources of policy information
     - [ ] Reduced use of jargon
     - [ ] Reduced use of coding in examples to accommodate variable background knowledge
     - [ ] Structural changes to improve timing and flow, allowing for more consistent breaks & alternate schedules
