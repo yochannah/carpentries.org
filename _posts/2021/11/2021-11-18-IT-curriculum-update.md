@@ -11,7 +11,7 @@ tags: ["Instructor Trainers"]
 ---
 
 
-Throughout most of 2021, The Carpentries Core Team and Trainer community have been developing, discussing, and testing an updated version of our Instructor Training curriculum. It has now been merged into our repository on GitHub and submitted to Zenodo for official release!
+Throughout 2021, The Carpentries Core Team and Trainer community have been developing, discussing, and testing an updated version of our Instructor Training curriculum. It has now been merged into our repository on GitHub and submitted to Zenodo for official release!
 
 ### Changes in this update include:
 * General changes to make the curriculum more useable and maintainable:
