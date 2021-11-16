@@ -29,7 +29,7 @@ Throughout 2021, The Carpentries Core Team and Trainer community have been devel
     - [ ] Previous episode on "Mindset" reduced and combined with ["Motivation and Demotivation" episode](https://carpentries.github.io/instructor-training/08-motivation/index.html)
     - [ ] Previous content on Equity, Inclusion, and Accessibility in "Motivation and Demotivation" episode moved to [its own episode](https://carpentries.github.io/instructor-training/09-eia/index.html) and expanded
     - [ ] Previous references to formative assessment sprinkled across episodes are now highlighted as distinct uses
-    - [ ] Mental models are now [explained using concept mapping](https://carpentries.github.io/instructor-training/02-practice-learning/index.html) with addition of analogies to summarize a recognizable model
+    - [ ] Mental models are now [explained using concept mapping](https://carpentries.github.io/instructor-training/02-practice-learning/index.html) and analogies
     - [ ] Some strategies specific to teaching in-person are now presented with suggested adaptations for teaching online
     - [ ] Content on [Instructor Checkout](https://carpentries.github.io/instructor-training/checkout/index.html) is consolidated and clarified
 * Added or enhanced content
