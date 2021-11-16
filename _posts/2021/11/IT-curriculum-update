@@ -1,4 +1,13 @@
-# The Carpentries Instructor Training Curriculum has been Updated!
+---
+layout: page
+authors: ["Karen Word"]
+teaser: "The new iteration of the Instructor Training curriculum has been submitted for release"
+title: "The Carpentries Instructor Training Curriculum has been Updated!"
+date: 2021-11-18
+time: "09:00:00"
+tags: ["Instructor Trainers"]
+---
+
 
 Throughout most of 2021, The Carpentries Core Team and Trainer community have been developing, discussing, and testing an updated version of our Instructor Training curriculum. It has now been merged into our repository on GitHub and submitted to Zenodo for official release!
 
