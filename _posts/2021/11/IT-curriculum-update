@@ -10,26 +10,26 @@ Throughout most of 2021, The Carpentries Core Team and Trainer community have be
     - [ ] Reduced use of jargon
     - [ ] Reduced use of coding in examples to accommodate variable background knowledge
     - [ ] Structural changes to improve timing and flow, allowing for more consistent breaks & alternate schedules
-* Content removed or transferred to optional exercises page (more relevant to lesson development, which is now a separate curriculum)
+* Content removed or transferred to [optional exercises page](https://carpentries.github.io/instructor-training/additional_exercises/index.html) (more relevant to lesson development, which is now a separate curriculum)
     - [ ] Practice writing multiple choice questions
     - [ ] Practice writing learner profiles
     - [ ] Content on Bloom's Taxonomy
 * Content changed or rearranged
-    - [ ] Previous episode on "Mindset" reduced and combined with "Motivation and Demotivation" episode
-    - [ ] Previous content on Equity, Inclusion, and Accessibility in "Motivation and Demotivation" episode moved to its own episode and expanded
+    - [ ] Previous episode on "Mindset" reduced and combined with ["Motivation and Demotivation" episode](https://carpentries.github.io/instructor-training/08-motivation/index.html)
+    - [ ] Previous content on Equity, Inclusion, and Accessibility in "Motivation and Demotivation" episode moved to [its own episode](https://carpentries.github.io/instructor-training/09-eia/index.html) and expanded
     - [ ] Previous references to formative assessment sprinkled across episodes are now highlighted as distinct uses
-    - [ ] Mental models are now explained using concept mapping activities with addition of analogies to summarize a recognizable model
+    - [ ] Mental models are now [explained using concept mapping](https://carpentries.github.io/instructor-training/02-practice-learning/index.html) with addition of analogies to summarize a recognizable model
     - [ ] Some strategies specific to teaching in-person are now presented with suggested adaptations for teaching online
-    - [ ] Content on Instructor Checkout is consolidated and clarified
+    - [ ] Content on [Instructor Checkout](https://carpentries.github.io/instructor-training/checkout/index.html) is consolidated and clarified
 * Added or enhanced content
-    - [ ] Concluding a workshop (added to content on introductions)
-    - [ ] Team teaching practices, reinforcing common mechanics of Carpentries workshops
+    - [ ] Concluding a workshop (added to [content on introductions](https://carpentries.github.io/instructor-training/23-introductions/index.html))
+    - [ ] [Team teaching practices](https://carpentries.github.io/instructor-training/21-management/index.html), reinforcing common mechanics of Carpentries workshops
 
 
 ### Goals reserved for the next update (not included yet):
 * Improvements to referencing (to replace previous use of hyperlinks)
 * Further improvements to new episode on EIA as well as additional bonus content on this topic (we have [a grant and some awesome partners](https://carpentries.org/blog/2021/06/carpentries-sloan-foundation-announcement/) to help; please get in touch if you would like to be involved!)
-* Additional suggestions related to online or hybrid instruction. (These will continue to evolve separately, with content migrating into our core curriculum with each update as needed/ requested by our community.)
+* Additional suggestions related to online or hybrid instruction. (These will continue to evolve separately, with content migrating into our core curriculum as needed/ requested by our community.)
 
 
 ## Why Change a Good Thing?
