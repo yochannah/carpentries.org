@@ -5,7 +5,7 @@ teaser: "The new version of the Instructor Training curriculum has been released
 
 Just trying to make this a little catchier 
 title: "The Carpentries Instructor Training Curriculum has been Updated!"
-date: 2021-11-18
+date: 2021-11-22
 time: "09:00:00"
 tags: ["Instructor Trainers"]
 ---
@@ -70,6 +70,7 @@ A few of our goals for that next update are already clear, because they are prio
 ## Thank you!!
 As always, this work would not have been possible without the dedicated participation of our community, especially our community of Instructor Trainers, and most particularly our community Maintainers, Sarah Brown and Tim Dennis, whose counsel and support have been indispensible in maintaining forward progress and bringing this project to a close. We are also grateful to the Chan Zuckerberg Initiative for funding that supports the Instructor Training efforts of The Carpentries Core Team, allowing us to take on the more intensive writing and coordinating work that cannot reasonably be performed by volunteers.
 
-
+## Looking for more?
+If you are excited about The Carpentries Instructor Training curriculum, you might want to consider becoming a Carpentries Instructor Trainer! [Applications are open now through December 2, 2021](https://carpentries.org/blog/2021/11/2021-11-18-Trainer-Training-open/).
 
 
