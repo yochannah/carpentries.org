@@ -2,7 +2,7 @@
 layout: page
 authors: ["Kelly Barnes", "Karen Word"]
 teaser: "Do you want to teach others to develop skills and confidence as Carpentries Instructors? Become a Trainer!"
-title: "Applications Now Open for Carpentries Trainer Training Starting January 2021"
+title: "Applications Now Open for Carpentries Trainer Training Starting January 2022"
 date: 2021-11-18
 time: "00:00:00"
 tags: ["Instructor Development", "Instructor Trainers"]
