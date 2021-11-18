@@ -1,7 +1,7 @@
 ---
 layout: page
 authors: ["Kelly Barnes", "Karen Word"]
-teaser: "Do You Want to Teach Others to Develop  Skills and Confidence as Carpentries Instructors? Become a Trainer!"
+teaser: "Do you want to teach others to develop skills and confidence as Carpentries Instructors? Become a Trainer!"
 title: "Applications Now Open for Carpentries Trainer Training Starting January 2021"
 date: 2021-11-18
 time: "00:00:00"
@@ -69,7 +69,7 @@ Applicants for Carpentries-sponsored seats will be subject to competitive select
 
     When we bring on new Instructor Trainers, we want to be able to provide opportunities for you to teach! However, Instructor Training is a limited program. We therefore prioritize applicants who are located in time zones or geographic areas where we have established training needs or sponsorship goals. At the present time, this includes The Americas, Australia, New Zealand, Africa, and Europe. **Note:** for geographic areas that rely exclusively on local training, proximity to another Instructor Trainer who can co-teach is necessary as well.
     
-1. **Support for Existing Carpentries Communities.**
+2. **Support for Existing Carpentries Communities.**
 
     Instructor Trainers often play important roles beyond teaching Instructor Training workshops, and this can be particularly valuable at the local level. A local Carpentries community may benefit from having someone in the region who can consult on training practices and support new Instructor trainees through the checkout process and beyond. Furthermore, Trainers from established communities can share their community practices with other regional and global Carpentries communities through this role. For these reasons, we  prioritize Trainers who aim to support existing local communities.
 
