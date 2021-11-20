@@ -101,14 +101,19 @@ The Instructor Development Committee supports Instructors as they progress throu
 ### Trainers
 The Trainer community is a group of experienced Instructors, local champions, and education specialists who inspire and prepare new Instructors. They work as a team to maintain and teach the [instructor training curriculum](https://carpentries.github.io/instructor-training/). They also host teaching demonstration sessions to provide vital feedback as prospective Carpentries Instructors prepare to join the community. They showcase and embody the enthusiasm and conduct of our community as they prepare new instructors. Becoming a Trainer lets you scale your impact - sharing your own passion, experience, and enthusiasm with the next generation of The Carpentries Instructors.
 
+* [Application to become a Trainer](https://forms.gle/47zsFpx4u1K76VoR8) *Open through December 2, 2021*
 * [Trainer Training materials](https://carpentries.github.io/trainer-training/)
 * [Duties](http://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html#trainer-agreement)
 * [Current members](https://github.com/carpentries/trainers/blob/main/README.md#current-members)
-* [Upcoming meetings](http://pad.carpentries.org/trainers-backup)
+* [Meeting minutes](https://github.com/carpentries/trainers/tree/main/minutes)
+* [Contact](mailto:instructor.training@carpentries.org).
+
+Private resources for current Trainers:
+* [Upcoming meetings](http://pad.carpentries.org/trainers) *Meetings are private to Trainers and invited guests*
 * [Mailing list]({{site.mailing_lists}}/trainers) *This list is private to Trainers*
 * [Slack](https://swc-slack-invite.herokuapp.com/) *This Slack channel is private to Trainers*
-* [Meeting minutes](https://github.com/carpentries/trainers/tree/main/minutes)
-* For more information contact [Karen Word](mailto:krword@carpentries.org).
+
+
 
 ### Maintainers
 The Carpentries Maintainers work with the community to make sure that lessons stay up-to-date, accurate, functional and cohesive. Maintainers monitor their lesson repository, make sure that pull requests and issues are addressed in a timely manner, and participate in the lesson development cycle including lesson releases. They endeavor to be welcoming and supportive of contributions from all members of the community. This community of practice is a great place to learn to collaborate effectively in Git and GitHub.
