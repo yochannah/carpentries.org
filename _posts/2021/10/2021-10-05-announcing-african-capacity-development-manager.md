@@ -5,7 +5,7 @@ teaser: "Please join us in welcoming Angelique to this new role"
 title: "Announcing The Carpentries African Capacity Development Manager, Angelique Trusler"
 date: 2021-10-05
 time: "00:00:00"
-tags: ["Carpentries Team", "Community"]
+tags: ["Africa","Carpentries Team", "Community"]
 ---
 
 For the past two years, Dr. Angelique Trusler has served as The Carpentries Regional Consultant for Southern Africa thanks to the generous support from the [South African Center for Digital Language Resources (SADiLaR)](https://sadilar.org/index.php/en/). Angelique joined our team bringing depth, knowledge, and experience not only as a Carpentries instructor and community member in South Africa but also as a social sciences researcher and practitioner.
