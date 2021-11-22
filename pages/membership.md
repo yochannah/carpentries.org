@@ -7,6 +7,8 @@ excerpt: A Member Organisation is an organisation which has made a commitment to
 
 A Member Organisation is an organisation which has made a commitment to the growth and spread of The Carpentries. Members receive priority access to [Instructor Training](https://carpentries.github.io/instructor-training/) and guidance with capacity building at their organisation. With local Instructors, Member organisations can readily run low-cost local [workshops](/workshops/). Community-developed lessons enable our Instructors to globally share the effort for developing impactful lessons on technical topics. Memberships give The Carpentries revenue to ensure the ongoing development and maintenance of the lessons demanded by research communities. We also work to give your local Instructors support, mentorship, and a forum for community lesson development.
 
+{% include alert warning='On November 17th, we announced changes to the structure and pricing of our membership program starting in January 2022. Read [the blog post](https://carpentries.org/blog/2021/11/membership-pricing-update/) to learn more about these upcoming changes. We will update this page on January 4th, 2022 with the new pricing.' %}
+
 ### Membership Tiers
 
 We offer several levels of Memberships, based on training activities expected annually. All fees listed are in USD and represent costs for not-for-profit organisations. We also provide memberships for for-profit organisations. Please [contact us](mailto:membership@carpentries.org) for more information.
