@@ -7,22 +7,26 @@ excerpt: A Member Organisation is an organisation which has made a commitment to
 
 A Member Organisation is an organisation which has made a commitment to the growth and spread of The Carpentries. Members receive priority access to [Instructor Training](https://carpentries.github.io/instructor-training/) and guidance with capacity building at their organisation. With local Instructors, Member organisations can readily run low-cost local [workshops](/workshops/). Community-developed lessons enable our Instructors to globally share the effort for developing impactful lessons on technical topics. Memberships give The Carpentries revenue to ensure the ongoing development and maintenance of the lessons demanded by research communities. We also work to give your local Instructors support, mentorship, and a forum for community lesson development.
 
-{% include alert warning='On November 17th, we announced changes to the structure and pricing of our membership program starting in January 2022. Read [the blog post](https://carpentries.org/blog/2021/11/membership-pricing-update/) to learn more about these upcoming changes. We will update this page on January 4th, 2022 with the new pricing.' %}
-
 ### Membership Tiers
 
-We offer several levels of Memberships, based on training activities expected annually. All fees listed are in USD and represent costs for not-for-profit organisations. We also provide memberships for for-profit organisations. Please [contact us](mailto:membership@carpentries.org) for more information.
+We offer five Membership levels, based on training activities expected annually. The cost for each Membership level is dependent on the
+purchasing organisation's geographic location, according to the
+[World Bank's](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups) gross national income 
+categorisation. All fees listed are in USD and represent costs for not-for-profit organisations. 
+Costs for for-profit organisations are four times the price for not-for-profit organisations. 
 
-{: .table .table-striped}
-||Bronze|Silver|Gold|Platinum|
-| ------|:------:|:------:|:------:|:------:|
-|Number of coordinated workshops|2|4|6|6|
-|Discount for additional <br>coordinated workshops|20%|33%|50%|50%|
-|Self-Organised workshops**|no-charge|no-charge|no-charge|no-charge|
-|Number of instructors <br>trained***|0|6 online|15 with possibility <br>for in-person^<br>training event|15-100 - see below|
-|Train an in-house Instructor Trainer|No|No|No|Available|
-|Seat on Member Council|Yes|Yes|Yes|Yes|
-|Membership Dues (USD annual)|$5,000|$7,500|$15,000|Varies - see below|
+{: .table .table-striped}  
+|Membership Benefits|  
+||Bronze|Silver|Gold|Platinum|Titanium|  
+| ------|:------:|:------:|:------:|:------:|  
+|Number of coordinated workshops|2|2|3|0|0|  
+|Number of Instructors <br>trained|0|5|12|15|0|  
+|Membership Dues (USD Annual)|  
+|High income|$3,600|$8,100|$16,200|$13,500|$5,000|  
+|Upper-middle income|$2,700|$6,075|$12,150|$10,125|$3,750|  
+|Lower-middle income|$1,800|$4,050|$8,100|$6,750|$2,500|  
+|Low income|$900|$2,025|$4,050|$3,375|$1,250|  
+
 
 <a href="https://carpentries.typeform.com/to/Hmfe6L">
   <button class="btn">
