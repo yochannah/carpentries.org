@@ -15,7 +15,6 @@ purchasing organisation's geographic location, according to the
 categorisation. All fees listed are in USD and represent costs for not-for-profit organisations. 
 Costs for for-profit organisations are four times the price for not-for-profit organisations. 
 
-
 {: .table .table-striped}  
 
 <table>
@@ -83,7 +82,13 @@ Costs for for-profit organisations are four times the price for not-for-profit o
   </tr>
 </table> 
 
-Workshops and Instructor Training are also offered independently of Memberships, to organisations or individuals
+In addition the benefits above, all Memberships include:
+* opportunity to send two (2) representatives to meetings of the Member Council, which meets approximately quarterly to discuss issues of importance to Member organisations,
+* opportunity to submit a candidate for our Trainer Training course, through which individuals can become certified to teach our Instructor Training courses (additional fees apply),
+* unlimited self-organised workshops,
+* access to Member pricing for additional centrally-organised workshops and Instructor Training seats purchased during the membership year. 
+
+Centrally-organised workshops and Instructor Training are also offered independently of Memberships, to organisations or individuals
 who would like to purchase these benefits a la carte. 
 
 {: .table .table-striped}  
@@ -133,8 +138,6 @@ who would like to purchase these benefits a la carte.
   </tr>
 </table> 
 
-
-
 <a href="https://carpentries.typeform.com/to/Hmfe6L">
   <button class="btn">
     Join Now
@@ -152,19 +155,6 @@ to receive a discount on their membership price, as detailed below.
 Members of our team are on hand to help you in constructing a Platinum membership that
 best suits your organisation's needs for training and community
 support. To request a meeting with our team, [please send us an email](mailto:membership@carpentries.org).
-
-<strong>Instructor Training</strong>  
-
-Instructor Training is a primary benefit of membership. A Platinum membership may
-include from 15 to 100 Instructor Training seats. Seats in Instructor Training are priced according to 
-whether the training is coordinated by The Carpentries or internally by the member organisation. 
-  * online, coordinated by The Carpentries = $1,000 each
-  * online with one in-house Instructor Trainer, coordinated by The Carpentries = $750 each
-  * online or in-person with two in-house Instructor Trainers, coordinated by member organisation = $500 each
-
-Prices listed above apply to the first 15 seats in online Instructor Training or the first 30 seats in in-house Instructor Training.
-We offer a 10% discount on additional seats, with a maximum total of 50 online seats, or 100 in-house seats. A Platinum membership 
-must include a minimum of 15 Instructor Training seats. 
 
 <strong>Instructor Trainer Training</strong>
 
