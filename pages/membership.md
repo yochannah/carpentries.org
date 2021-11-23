@@ -15,17 +15,73 @@ purchasing organisation's geographic location, according to the
 categorisation. All fees listed are in USD and represent costs for not-for-profit organisations. 
 Costs for for-profit organisations are four times the price for not-for-profit organisations. 
 
+
 {: .table .table-striped}  
-|Membership Benefits|  
-||Bronze|Silver|Gold|Platinum|Titanium|  
-| ------|:------:|:------:|:------:|:------:|  
-|Number of coordinated workshops|2|2|3|0|0|  
-|Number of Instructors <br>trained|0|5|12|15|0|  
-|Membership Dues (USD Annual)|  
-|High income|$3,600|$8,100|$16,200|$13,500|$5,000|  
-|Upper-middle income|$2,700|$6,075|$12,150|$10,125|$3,750|  
-|Lower-middle income|$1,800|$4,050|$8,100|$6,750|$2,500|  
-|Low income|$900|$2,025|$4,050|$3,375|$1,250|  
+
+<table>
+  <tr>
+    <th colspan=6>Membership Benefits</th>
+  </tr>
+  <tr>
+    <th></th>
+    <th>Bronze</th>
+    <th>Silver</th>
+    <th>Gold</th>
+    <th>Platinum</th>
+    <th>Titanium</th>
+  </tr>
+  <tr>
+    <th>Number of coordinated workshops</th>
+    <td>2</td>
+    <td>2</td>
+    <td>3</td>
+	<td>0</td>
+	<td>0</td>
+  </tr>
+  <tr>
+    <th>Number of Instructors trained</th>
+    <td>0</td>
+    <td>5</td>
+    <td>12</td>
+	<td>15</td>
+	<td>0</td>
+  </tr>
+  <tr>
+    <th colspan=6>Membership Dues (USD Annual)</th>
+  </tr>
+    <tr>
+    <th>High income</th>
+    <td>$3,600</td>
+    <td>$8,100</td>
+    <td>$16,200</td>
+	<td>$13,500</td>
+	<td>$5,000</td>
+  </tr>
+  <tr>
+    <th>Upper-middle income</th>
+    <td>$2,700</td>
+    <td>$6,075</td>
+    <td>$12,150</td>
+	<td>$10,125</td>
+	<td>$3,750</td>
+  </tr>
+  <tr>
+    <th>Lower-middle income</th>
+    <td>$1,800</td>
+    <td>$4,050</td>
+    <td>$8,100</td>
+	<td>$6,750</td>
+	<td>$2,500</td>
+  </tr>
+  <tr>
+    <th>Low income</th>
+    <td>$900</td>
+    <td>$2,025</td>
+    <td>$4,050</td>
+	<td>$3,375</td>
+	<td>$1,250</td>
+  </tr>
+</table> 
 
 
 <a href="https://carpentries.typeform.com/to/Hmfe6L">
