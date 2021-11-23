@@ -43,45 +43,96 @@ Costs for for-profit organisations are four times the price for not-for-profit o
     <td>0</td>
     <td>5</td>
     <td>12</td>
-	<td>15</td>
-	<td>0</td>
+    <td>15</td>
+    <td>0</td>
   </tr>
   <tr>
     <th colspan=6>Membership Dues (USD Annual)</th>
   </tr>
-    <tr>
+  <tr>
     <th>High income</th>
     <td>$3,600</td>
     <td>$8,100</td>
     <td>$16,200</td>
-	<td>$13,500</td>
-	<td>$5,000</td>
+    <td>$13,500</td>
+    <td>$5,000</td>
   </tr>
   <tr>
     <th>Upper-middle income</th>
     <td>$2,700</td>
     <td>$6,075</td>
     <td>$12,150</td>
-	<td>$10,125</td>
-	<td>$3,750</td>
+    <td>$10,125</td>
+    <td>$3,750</td>
   </tr>
   <tr>
     <th>Lower-middle income</th>
     <td>$1,800</td>
     <td>$4,050</td>
     <td>$8,100</td>
-	<td>$6,750</td>
-	<td>$2,500</td>
+    <td>$6,750</td>
+    <td>$2,500</td>
   </tr>
   <tr>
     <th>Low income</th>
     <td>$900</td>
     <td>$2,025</td>
     <td>$4,050</td>
-	<td>$3,375</td>
-	<td>$1,250</td>
+    <td>$3,375</td>
+    <td>$1,250</td>
   </tr>
 </table> 
+
+Workshops and Instructor Training are also offered independently of Memberships, to organisations or individuals
+who would like to purchase these benefits a la carte. 
+
+{: .table .table-striped}  
+
+<table>
+  <tr>
+      <th colspan=6>A la carte Prices (USD)</th>
+  </tr>
+  <tr>
+      <th colspan=2></th>
+      <th colspan=2>Centrally organised workshop</th>
+      <th colspan=2>Instructor Training seat</th>
+  </tr>
+  <tr>
+    <th colspan=2></th>
+  	<th>Member</th>
+    <th>General Public</th>
+    <th>Member</th>
+    <th>General Public</th>
+  <tr>
+    <th colspan=2>High income</th>
+    <td>$1,800</td>
+    <td>$3,000</td>
+    <td>$900</td>
+	<td>$1,500</td>
+  </tr>
+  <tr>
+    <th colspan=2>Upper-middle income</th>
+    <td>$1,350</td>
+    <td>$2,250</td>
+    <td>$675</td>
+	<td>$1,125</td>
+  </tr>
+    <tr>
+    <th colspan=2>Lower-middle income</th>
+    <td>$900</td>
+    <td>$1,500</td>
+    <td>$450</td>
+	<td>$750</td>
+  </tr>
+  <tr>
+    <th colspan=2>Low income</th>
+    <td>$450</td>
+    <td>$750</td>
+    <td>$225</td>
+	<td>$375</td>
+  </tr>
+</table> 
+
 
 
 <a href="https://carpentries.typeform.com/to/Hmfe6L">
