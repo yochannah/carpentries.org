@@ -49,6 +49,5 @@ The Carpentries has an extensive collection of resources available to our commun
 - [Our Blog](https://carpentries.org/blog/): Collection of blog posts from staff and community members
 
 ### Citing and reusing this tipsheet
-INSERT Carpentries REUSE TERMS
 
 This tipsheet was adapted from an original by the Center for Scientific Collaboration and Community Engagement (CSCCE) under a CC BY 4.0 license doi:  10.5281/zenodo.4161782
