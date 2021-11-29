@@ -144,6 +144,22 @@ who would like to purchase these benefits a la carte.
   </button>
 </a>
 
+### Financial Support
+
+Organisations applying for membership at the Bronze, Silver, and Gold levels are eligible to apply for 
+financial support, regardless of their country's income tier. Financial support
+will be awarded based on previous involvement with The Carpentries, service to underserved populations, and the potential impact 
+of the membership on the applying organisation. Organisations awarded financial support may receive support between 25% - 50% of 
+their tiered price. Financial support will be subject to availability and the amount of support provided will be determined 
+through the application process.  
+
+<a href="https://carpentries.typeform.com/to/lZat2eO5">
+  <button class="btn">
+    Apply for Financial Support
+  </button>
+</a>
+
+
 ### Frequently Asked Questions
 
 Please consult our [Membership FAQ page](/member_faq) for more information about memberships, workshops, Instructor Training and Trainer Training.
@@ -151,5 +167,3 @@ Our team is ready to answer any additional questions you may have - please email
 
 We are always interested in new members, and in participating in grants and other proposals. To reach us, or to
 find out more, [please send us an email](mailto:membership@carpentries.org).
-
-We provide a limited number of sponsored memberships for institutions with financial need and for institutions serving historically underserved populations. If you believe that your institution is eligible for support, [please send us an email](mailto:membership@carpentries.org).
