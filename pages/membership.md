@@ -144,70 +144,10 @@ who would like to purchase these benefits a la carte.
   </button>
 </a>
 
-### Platinum Memberships
-
-The Platinum tier is our most customisable membership. The price of a Platinum membership 
-depends on the benefits selected from the options below. Many Platinum member organisations support individuals
-at their institution in carrying out work to further The Carpentries mission in specific
-ways. Organisations providing such in-kind services to The Carpentries are eligible
-to receive a discount on their membership price, as detailed below.
-
-Members of our team are on hand to help you in constructing a Platinum membership that
-best suits your organisation's needs for training and community
-support. To request a meeting with our team, [please send us an email](mailto:membership@carpentries.org).
-
-<strong>Instructor Trainer Training</strong>
-
-Each year we provide training for a small number of qualified individuals to become Instructor Trainers. This training requires a significant time 
-commitment and has limited availability. The cost to support an individual through this training is $10,000. As each active Trainer at a member organisation
-earns a $5,000 discount on the membership price, and can support in-house Instructor Training, an Instructor Trainer Training seat
-generally pays for itself within two years. 
-
-<strong>Workshops</strong>
-
-Each Platinum membership includes 6 Centrally-Organised workshops\* and unlimited Self-Organised workshops.\*\* 
-
-<strong>Discounts</strong>
-
-* Instructor Trainers - Organisations supporting [Instructor Trainers](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html) earn a $5,000 discount on membership per active Instructor Trainer. This discount does not apply to potential future Instructor Trainers who will take part in Instructor Trainer Training during the membership year.
-* Regional Coordinators - Organisations supporting a [Regional Coordinator](https://docs.carpentries.org/topic_folders/regional_communities/regional_coordinators.html) earn a $10,000 discount on membership. The typical workload for a Regional Coordinator is 35 Centrally-Organised workshops per year (not including Self-Organised workshops). If workshop demand rises above that level, we may bring on a second Regional Coordinator in your region.
-* Community Leaders - In limited cases, individuals carrying out significant community leadership roles may earn a $10,000 discount on membership for their institution. 
-
-Discounts listed above are limited and available only in cases where a potential member organisation's 
-ability to offer support to Instructor Trainers, Regional Coordinators, and/or Community Leaders is in line with The Carpentries
-needs for support in a particular geographic region. We reserve the right to award these discounts as appropriate for our
-organisational growth and sustainability.
-
-<strong>Examples</strong>
-
-University A supports two Instructor Trainers and is interested in running their own Instructor Training events in-house without administrative support
-from The Carpentries. They are committed to supporting their Instructor Trainers in teaching Instructor Training events for the broader 
-Carpentries community and in fulfilling other commitments specified in our [Trainer Agreement](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html). 
-They plan to train a total of 50 Instructors in-house. The 
-total cost for University A's membership is ( $500 x 30 ) + ( $450 x 20 ) - ( $5,000 x 2) = $14,000 USD.
-
-University B supports a Regional Coordinator and wants to train 20 Instructors. Because University B does not support any Instructor Trainers, 
-they will use The Carpentries Centrally-Organised Instructor Training. The total cost for University B's membership is ( $1000 x 15 ) + ( $900 x 5 ) -
-$10,000 = $9,500 USD. 
-
-[Please reach out to us](mailto:membership@carpentries.org) for assistance in designing a Platinum membership that best serves your team's needs. 
-
 ### Frequently Asked Questions
 
-Please consult our [Membership FAQ page](/member_faq) for more information about memberships, workshops, and instructor training.
-
-
-### Notes
-
-Read more about how our workshops are run [here](/workshops/).
-
-\* For Coordinated workshops, we will find instructors for the workshop, set up and handle registration, support instructor logistics and coordinate and share assessment results with the member organisation. A designated contact approves coordinated workshop requests for that organisation. Instructor travel expenses are the responsibility of the member and are not covered in membership fees.
-
-\*\* For Self-Organised workshops, the organisation is responsible for finding local Instructors and handling the logistics of workshop coordination, including registration and registering the workshop with Software, Data, and Library Carpentry. As long at least one Instructor is Carpentries-certified, and either the Software, Data, or Library Carpentry content is fully taught, the workshop can be labeled a Carpentries workshop.
-
-\*\*\* Any Instructor training includes the instructor mentorship and support of the Instructors through the Instructor development program.
-
-^ In-person instructor trainings require an available Trainer and travel funds to support Instructor Trainers' travel.
+Please consult our [Membership FAQ page](/member_faq) for more information about memberships, workshops, Instructor Training and Trainer Training.
+Our team is ready to answer any additional questions you may have - please email us at [membership@carpentries.org](mailto:membership@carpentries.org).
 
 We are always interested in new members, and in participating in grants and other proposals. To reach us, or to
 find out more, [please send us an email](mailto:membership@carpentries.org).
