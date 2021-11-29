@@ -163,7 +163,5 @@ through the application process.
 ### Frequently Asked Questions
 
 Please consult our [Membership FAQ page](/member_faq) for more information about memberships, workshops, Instructor Training and Trainer Training.
-Our team is ready to answer any additional questions you may have - please email us at [membership@carpentries.org](mailto:membership@carpentries.org).
-
-We are always interested in new members, and in participating in grants and other proposals. To reach us, or to
+Our team is ready to answer any additional questions you may have. We are always interested in new members, and in participating in grants and other proposals. To reach us, or to
 find out more, [please send us an email](mailto:membership@carpentries.org).
