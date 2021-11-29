@@ -64,8 +64,7 @@ Our current [pricing is here](/membership/#a-la-carte-pricing).
 
 1. **How do your Instructor Training events run?**<br>
 The Carpentries [Instructor Training](https://carpentries.github.io/instructor-training/) is a high-engagement, interactive, 
-multi-day training, led by pedagogically trained community members (Trainers). Once your membership is in place, you will be provided with a registration code which your selected trainees can use to register for an event of their choice from our [Instructor Training calendar](https://carpentries.github.io/instructor-training/training_calendar/).<br><br> 
-Contact us at [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) to learn more about our Instructor Training program.
+multi-day training, led by pedagogically trained community members (Trainers). Once your membership is in place, you will be provided with a registration code which your selected trainees can use to register for an event of their choice from our [Instructor Training calendar](https://carpentries.github.io/instructor-training/training_calendar/). Contact us at [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) to learn more about our Instructor Training program.
 
 2. **How should I select individuals from my institution to be trained as Instructors?**<br>
 The choice of trainees is at the discretion of the Member. We recommend choosing trainees based on their enthusiasm and 
@@ -74,23 +73,25 @@ individuals with a range of experiences and technical competencies. Trainees wil
 teach one of our lessons, with options ranging from spreadsheet formatting to Python programming. Although we do not provide screening or selection of trainee candidates, member organisations are welcome to make use of our [application questions](https://amy.carpentries.org/forms/request_training/) and 
 [rubric](https://github.com/carpentries/instructor-training/blob/gh-pages/files/rubric.md), which we use for evaluating non-member affiliated trainees. 
 
-3. **How soon after signing my membership can I get started with training new instructors for my site?**<br>
+3. **How soon after signing my membership can I get started with Instructor Training?**<br>
 * **For sites in the Americas and Africa / Middle East / Europe time zones:** In your 12 month membership period, we will be offering at least 6-8 [online events scheduled in your timezone](https://carpentries.github.io/instructor-training/training_calendar/) (and/or an adjacent time zone). Your trainees are invited to join any event(s) that suits their schedule(s), either as a group or individually, along with new trainees from other parts of our community.<br>
-* **For sites in other time zones:** You are welcome to join any scheduled online event in the Americas and Africa / Middle East / Europe time zones. However, knowing this may not be ideal for you, we’ll work with you to schedule an online event based on your needs and our Trainers’ availability. To ensure that we can meet everyone’s needs, we generally like to schedule these events 2-3 months in advance.  Once this event is scheduled, we may invite people from other sites to join as well, to begin to build community in your part of the world.<br>
-* **For in-person events for Gold or Platinum member sites:** We’ll work with you to schedule an event based on your needs and our Trainers’ availability.  To ensure that we can meet everyone’s needs, especially as our Trainers will need to travel, we generally like to schedule these events 4-6 months in advance.
+* **For sites in other time zones:** You are welcome to join any scheduled online event in the Americas and Africa / Middle East / Europe time zones. However, knowing this may not be ideal for you, we will work with you to schedule an online event based on your needs and our Trainers’ availability. To ensure that we can meet everyone’s needs, we generally like to schedule these events 2-3 months in advance.  Once this event is scheduled, we may invite people from other sites to join as well, to begin to build community in your part of the world.<br>
 
-4. **How do I find out if trainees at my site have completed instructor training or the certification process and how many seats remain available under my membership?**<br>
+4. **How do I find out if trainees at my site have completed Instructor Training or the certification process and how many seats remain available under my membership?**<br>
 For best results, we recommend tracking this locally. Keeping in touch with trainees can have additional value in building your local community. Due to regional variation in privacy laws and delays in our registration workflows, not all information from our database is guaranteed to be available or fully up to date. You are welcome to email us at [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) at any time with a request for information. We will reply within 3-5 business days with the information we can provide.
 
-5. **What if I do not use all of my training seats before the end of my membership?**<br>
+5. **What if I do not use all of my Instructor Training seats before the end of my membership?**<br>
 The success of our program depends on accurately predicting our capacity needs, so we may not be able to accommodate all situations.  However, we know unexpected things can come up. If you are nearing the end of your membership term and have not used all your seats, please contact us at [membership@carpentries.org](mailto:membership@carpentries.org).
 
 6. **What if I want to train more people at my site than my agreement allows?**<br>
 All members are eligible to purchase additional Instructor Training seats at a discount. 
 Our current [pricing is here](/membership/#a-la-carte-pricing).
 
-7. **Can individuals get trained to become Instructors outside the context of Institutional Membership?**<br>
-Yes! We offer scholarship seats for individuals through our Open Instructor Training program. Acceptance rate varies, not all applications are accepted, and multiple trainees from a single institution are not accepted at the same time. Apply to this program by selecting “Open Training Application” in our [Instructor Training application form](https://amy.carpentries.org/forms/request_training/).
+7. **Can individuals get trained to become Instructors outside of the context of institutional membership?**<br>
+Yes! Individuals can purchase Instructor Training seats at the [a la carte price](/membership/#a-la-carte-pricing)
+for their region. Seats purchased through a la carte will receive equal priority with Member seats in scheduling.<br><br>
+
+Individuals who are not able to purchase seats We offer scholarship seats for individuals through our Open Instructor Training program. Acceptance rate varies, not all applications are accepted, and multiple trainees from a single institution are not accepted at the same time. Apply to this program by selecting “Open Training Application” in our [Instructor Training application form](https://amy.carpentries.org/forms/request_training/).
 
 8. **How can I find out if my institution already has a membership?**<br>
 A list of our [current member organisations](https://carpentries.org/members/) can be found on our website. If you would like help in making contact with the person in charge of your institutional membership, email [membership@carpentries.org](mailto:membership@carpentries.org).
