@@ -88,6 +88,8 @@ In addition the benefits above, all Memberships include:
 * unlimited self-organised workshops,
 * access to Member pricing for additional Centrally-Organised workshops and Instructor Training seats purchased during the membership year. 
 
+### A La Carte Pricing
+
 Centrally-Organised workshops and Instructor Training are also offered independently of Memberships, to organisations or individuals
 who would like to purchase these benefits a la carte. 
 
