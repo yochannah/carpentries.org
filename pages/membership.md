@@ -86,9 +86,9 @@ In addition the benefits above, all Memberships include:
 * opportunity to send two (2) representatives to meetings of the Member Council, which meets approximately quarterly to discuss issues of importance to Member organisations,
 * opportunity to submit a candidate for our Trainer Training course, through which individuals can become certified to teach our Instructor Training courses (additional fees apply),
 * unlimited self-organised workshops,
-* access to Member pricing for additional centrally-organised workshops and Instructor Training seats purchased during the membership year. 
+* access to Member pricing for additional coordinated workshops and Instructor Training seats purchased during the membership year. 
 
-Centrally-organised workshops and Instructor Training are also offered independently of Memberships, to organisations or individuals
+Coordinated workshops and Instructor Training are also offered independently of Memberships, to organisations or individuals
 who would like to purchase these benefits a la carte. 
 
 {: .table .table-striped}  
@@ -99,7 +99,7 @@ who would like to purchase these benefits a la carte.
   </tr>
   <tr>
       <th colspan=2></th>
-      <th colspan=2>Centrally organised workshop</th>
+      <th colspan=2>Coordinated workshop</th>
       <th colspan=2>Instructor Training seat</th>
   </tr>
   <tr>
