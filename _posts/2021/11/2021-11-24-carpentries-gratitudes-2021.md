@@ -16,7 +16,7 @@ The Core Team will be joining you and sharing our green stickies and appreciatio
 ## How to Share Your Gratitudes
 
 Please either share:
-- Directly on Twitter with the hashtag #carpentriesgratitude
+- Directly on Twitter with the hashtag #CarpentriesGratitude
 - Add a comment to [this GitHub issue](https://github.com/carpentries/conversations/issues/29)
 - Send your gratitude to [community@carpentries.org](mailto:community@carpentries.org) and we will share on your behalf, anonymously or with your name attached.
 
