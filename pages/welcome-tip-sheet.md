@@ -19,7 +19,7 @@ The Carpentries supports communications from our Core Team and across our commun
 
 ### Chat with Other Community Members
 [The Carpentries Slack](http://swcarpentry.slack.com) is where our community members connect with each other, and where we share resources and opportunities to participate. If Slack is new to you, our [Slack Quickstart Guide](https://docs.google.com/document/d/1-NcL-ofnHXjJnopdWH6jLrdLHhDJeZO3/edit?usp=sharing&ouid=102968245434308327043&rtpof=true&sd=true) will help you to set up your profile and workspace, and give you an overview of how we use the platform on a day-to-day basis. All new members to Slack are automatically added to the following Slack channels:
-- #general: main channel to discuss all things Carpentries, excluding recruitment of workshop volunteers. Everyone can post here.
+- [#general](https://swcarpentry.slack.com/archives/C03LE48AY): main channel to discuss all things Carpentries, excluding recruitment of workshop volunteers. Everyone can post here.
 - #welcome: where new members post short bios about themselves. You’re encouraged to say hello to others here!
 - #jobs: where you can find job opportunities relevant to our community members
 We also have over 100 optional channels, ranging from local and regional communities (e.g., #local-japan) to channels supporting specific volunteer roles (e.g., #instructors). Not sure which channels to follow? You can find additional information about our Slack Channels in [our Handbook](https://docs.carpentries.org/topic_folders/communications/tools/slack-and-email.html).
