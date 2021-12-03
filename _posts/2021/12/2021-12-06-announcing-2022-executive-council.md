@@ -39,6 +39,6 @@ Thanks to the entire Carpentries community for your engagement in this election,
 <hr>
 
 Paula Andrea Martinez
-The Carpentries Executive Council Vice Chair 2021
-The Carpentries Governance Committee Chair 2021
-The Carpentries Returning Officer 2021
+<br />The Carpentries Executive Council Vice Chair 2021
+<br />The Carpentries Governance Committee Chair 2021
+<br />The Carpentries Returning Officer 2021
