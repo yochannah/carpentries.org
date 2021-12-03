@@ -31,9 +31,9 @@ You can find a full list of The Carpentries activities on our [community calenda
 - Regional Community Calls: Join a call with others from your region. [Call in details](https://pad.carpentries.org/community-discussions).
 
 ### Become an Instructor
-Carpentries Instructors are the core of our community. Instructors organise and teach Carpentries workshops to spread data literacy and computational skills around the world. Members of our Instructor community collaborate and share knowledge  to actively grow their instructional and technical skills. Becoming an Instructor is a great step to add inspiring people to your network and helps you to both develop and demonstrate your ability to teach effectively.
+Carpentries Instructors are the core of our community, organising and teaching workshops to spread data literacy and computational skills around the world. Becoming an Instructor is a great step to add inspiring people to your network and helps you to both develop and demonstrate your ability to teach effectively.
 
-Instructor certification includes attendance at an Instructor Training event and three short “checkout” tasks. Together, these steps ensure that our Instructors are well grounded in principles of effective teaching, familiar with The Carpentries policies and practices, and are prepared to participate in and contribute to our community in the future. Learn more by visiting our [Become an Instructor](https://carpentries.org/become-instructor/) page.
+- [Become an Instructor](https://carpentries.org/become-instructor/): webpage with all the details
 
 ### Network, Collaborate and Co-Create
 There are multiple ways to network with other members who share our mission to teach foundational computational and data science skills to researchers as well as collaborate and co-create resources with them.
