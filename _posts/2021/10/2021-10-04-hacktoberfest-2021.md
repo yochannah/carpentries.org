@@ -5,7 +5,7 @@ teaser: "For the second year in a row, help us internationalise and expand Glosa
 title: "Hacktoberfest 2021 - Glosario Contribution Drive"
 date: 2021-10-04
 time: "09:00:00"
-tags: ["Community", "internationalisation"]
+tags: ["Community", "Internationalisation"]
 ---
 
 Last year, members of The Carpentries community came together during Hacktoberfest to contribute to [Glosario](https://glosario.carpentries.org), an open source, multilingual glossary of data science terms. [Hacktoberfest](https://hacktoberfest.digitalocean.com/) is a [“month-long celebration of open source”](https://hacktoberfest.digitalocean.com/faq) run by [DigitalOcean](https://digitalocean.com/), during which participants can register their contributions to open source projects on GitHub and qualify to have a tree planted in your name.
