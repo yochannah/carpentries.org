@@ -19,11 +19,9 @@ program. Platinum memberships include Instructor Training seats, but no Centrall
 self-organised workshops and access to Member pricing for additional Centrally-Organised workshops and Instructor Training seats purchased during the membership year. Read more about the benefits and dues for each plan on our [membership](/membership) page. 
 
 2. **Which membership should I purchase?**<br>
-* Bronze membership is an excellent option for any organisation starting out with The Carpentries and wanting to slowly build 
-training capacity for their community. 
+* Bronze membership is an excellent option for any organisation starting out with The Carpentries, who want to quickly bring data and computational training to their community. The Bronze level is also great for introducing your local community to The Carpentries and building interest for instructor training.
 * Silver and Gold memberships are ideal for organisations wanting to quickly build capacity for training in their community. 
-* Platinum memberships are best for organisations that already have a strong group of local Carpentries Instructors and are 
-prepared to run Self-Organised workshops. 
+* Platinum memberships are best for organisations wo uld like to continue building capacity for training and already have a group of local Carpentries Instructors capable of running Self-Organised workshops. 
 * Titanium memberships are suited for organisations who do not need coordinated workshops or Instructor Training seats but would 
 like to maintain their membership status, financially support The Carpentries, and connect with other Members. To be eligible for 
 Titanium membership, organisations must have at least one prior year of membership.
@@ -32,7 +30,7 @@ Titanium membership, organisations must have at least one prior year of membersh
 We would be happy to talk with you to learn more about your institution’s goals and create a custom plan that works for you.  Contact our membership team to schedule a meeting at [membership@carpentries.org](mailto:membership@carpentries.org).
 
 4. **Do I need to renew my membership each year?**<br>
-Yes, annual memberships expire one year from the date the agreement is signed. 
+Yes. The Carpentries memberships are annual memberships, extending for a period of one year. Renewing your membership in advance is a great way to avoid a lapse in membership. 
 
 5. **Is financial support available?**<br>
 Yes - organisations with financial need are encouraged to 
@@ -55,12 +53,7 @@ Workshops can cover curricula from any of our lesson programs: [Data Carpentry](
 Right away! You can request workshops as soon as your membership agreement is in place by completing [this form]({{ site.wrf_landing }}). To allow us time to recruit Instructors and give them time to plan the workshop with you, we generally require 2-3 months lead time to schedule a workshop.  
 
 3. **Can I run my own workshops without organisational support from The Carpentries?**<br>
-Yes! Once you start building a team of certified Instructors, you can work with them to run Self-Organised workshops. 
-The Carpentries staff will still provide survey links and tracking of Instructor and Helper participation. Self-Organised 
-workshops do not count against the number of workshops included in your membership agreement. As long at least one Instructor is 
-Carpentries-certified, and either the Data Carpentry, Library Carpentry, or Software Carpentry core content is taught, the 
-workshop can be labeled a Carpentries workshop. There is no limit to the number of Self-Organised workshops you can run, 
-regardless of membership level.
+Yes! Once you start building a team of certified Instructors, you can work with them to run Self-Organised workshops. We ask that Instructors let us know when they are planning a Slef-Organised workshop in advance by completing this [self-organised notification form](https://amy.carpentries.org/forms/self-organised/). This form initiates a process so that The Carpentries staff can support the workshop by providing survey links and tracking of Instructor and Helper participation, as well as publicising the workshop on Carpentries websites, if desired. As long at least one Instructor is Carpentries-certified, and either the Data Carpentry, Library Carpentry, or Software Carpentry core content is taught, the workshop can be labeled a Carpentries workshop. There is no limit to the number of Self-Organised workshops you can run, regardless of membership level. Self-Organised workshops do not count against the number of workshops included in your membership agreement. 
 
 4. **What if I want to run more Centrally-Organised workshops than my agreement allows?**<br>
 All members are eligible to purchase additional Centrally-Organised workshops at a discount. 
@@ -87,8 +80,8 @@ screening or selection of trainee candidates, Member organisations are welcome t
 non-member affiliated trainees. 
 
 3. **How soon after signing my membership can I get started with Instructor Training?**<br>
-* **For sites in the Americas and Africa / Middle East / Europe time zones:** In your 12 month membership period, we will be offering at least 6-8 [online events scheduled in your timezone](https://carpentries.github.io/instructor-training/training_calendar/) (and/or an adjacent time zone). Your trainees are invited to join any event(s) that suits their schedule(s), either as a group or individually, along with new trainees from other parts of our community.<br>
-* **For sites in other time zones:** You are welcome to join any scheduled online event in the Americas and Africa / Middle East / Europe time zones. However, knowing this may not be ideal for you, we will work with you to schedule an online event based on your needs and our Trainers’ availability. To ensure that we can meet everyone’s needs, we generally like to schedule these events 2-3 months in advance.  Once this event is scheduled, we may invite people from other sites to join as well, to begin to build community in your part of the world.<br>
+In your 12 month membership period, we will be offering at least 6-8 online events scheduled across various timezones. To view a full list of upcoming training events please see the [Instructor Training Calendar page](https://carpentries.github.io/instructor-training/training_calendar/). Your trainees are invited to join any event(s) that suits their schedule(s), either as a group or individually, along with new trainees from other parts of our community.<br>
+It is difficult to schedule events in everytime zone, so your trainees are always welcome to join scheduled online events in adjacent timezones, given the times are reasonable for their schedule. However, knowing this may not be ideal for you, we will work with you to schedule an online event based on your needs and our Trainers’ availability. To ensure that we can meet everyone’s needs, we generally like to schedule these events 2-3 months in advance. Once this event is scheduled, we may invite people from other sites to join as well, to begin to build community in your part of the world.<br>
 
 4. **How do I find out if trainees at my site have completed Instructor Training or the certification process and how many seats remain available under my membership?**<br>
 For best results, we recommend tracking this locally. Keeping in touch with trainees can have additional value in building your 
