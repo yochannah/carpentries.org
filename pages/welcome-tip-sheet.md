@@ -50,4 +50,4 @@ The Carpentries has an extensive collection of resources available to our commun
 
 ### Citing and reusing this tipsheet
 
-This tipsheet was adapted from an original by the Center for Scientific Collaboration and Community Engagement (CSCCE) under a CC BY 4.0 license doi:  10.5281/zenodo.4161782
+This tipsheet was adapted from an original by the Center for Scientific Collaboration and Community Engagement (CSCCE) under a CC-BY 4.0 license doi: [10.5281/zenodo.4161782](https://doi.org/10.5281/zenodo.4161782).
