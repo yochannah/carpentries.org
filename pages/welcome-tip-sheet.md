@@ -46,7 +46,7 @@ There are multiple ways to network with other members who share our mission to t
 The Carpentries has an extensive collection of resources available to our community members. In fact, for new members, the number and diversity of resources can be overwhelming. Not to worry! Below are links to the ones you need to get you started.
 - [Our Website](https://carpentries.org/): The official website of The Carpentries organisation.
 - [Our Handbook](https://docs.carpentries.org/): This is your go-to resource for all things Carpentries. Not sure where to find the information you are looking for? Just type a keyword into the search box to find the information you need.
-- [Our Blog](https://carpentries.org/blog/): Collection of blog posts from staff and community members
+- [Our Blog](https://carpentries.org/blog/): Collection of blog posts from Core Team and community members
 
 ### Citing and reusing this tipsheet
 
