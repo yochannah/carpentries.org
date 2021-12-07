@@ -77,7 +77,7 @@ teach one of our lessons, with options ranging from spreadsheet formatting to Py
 screening or selection of trainee candidates, Member organisations are welcome to make use of our 
 [application questions](https://amy.carpentries.org/forms/request_training/) and 
 [rubric](https://github.com/carpentries/instructor-training/blob/gh-pages/files/rubric.md), which we use for evaluating 
-non-member affiliated trainees. 
+non-member affiliated trainees. For more information about selecting trainees, read our [Information for Member Organizations](https://carpentries.github.io/instructor-training/members/) page.
 
 3. **How soon after signing my membership can I get started with Instructor Training?**<br>
 In your 12 month membership period, we will be offering at least 6-8 online events scheduled across various timezones. To view a full list of upcoming training events please see our [Instructor Training Calendar](https://carpentries.github.io/instructor-training/training_calendar/). Your trainees are invited to join any event(s) that suits their schedule(s), either as a group or individually, along with new trainees from other parts of our community.<br>
