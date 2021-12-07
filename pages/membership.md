@@ -11,7 +11,7 @@ A Member Organisation is an organisation which has made a commitment to the grow
 
 We offer five Membership levels, based on training activities expected annually. The cost for each Membership level is dependent on the
 purchasing organisation's geographic location, according to the
-[World Bank's](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups) gross national income 
+[World Bank's](https://datatopics.worldbank.org/world-development-indicators/the-world-by-income-and-region.html) gross national income 
 categorisation. All fees listed are in USD and represent costs for not-for-profit organisations. 
 Costs for for-profit organisations are four times the price for not-for-profit organisations. 
 
@@ -88,6 +88,12 @@ In addition the benefits above, all Memberships include:
 * unlimited self-organised workshops,
 * access to Member pricing for additional Centrally-Organised workshops and Instructor Training seats purchased during the membership year. 
 
+<a href="https://carpentries.typeform.com/to/Hmfe6L">
+  <button class="btn">
+    Become a Member Organisation
+  </button>
+</a>
+
 ### A La Carte Pricing
 
 Centrally-Organised workshops and Instructor Training are also offered independently of Memberships, to organisations or individuals
@@ -139,12 +145,6 @@ who would like to purchase these benefits a la carte.
 	<td>$375</td>
   </tr>
 </table> 
-
-<a href="https://carpentries.typeform.com/to/Hmfe6L">
-  <button class="btn">
-    Join Now
-  </button>
-</a>
 
 ### Financial Support
 
