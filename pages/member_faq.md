@@ -24,8 +24,7 @@ self-organised workshops and access to Member pricing for additional Centrally-O
 * Platinum memberships are best for organisations that would like to continue building capacity for training and already have a group of local Carpentries Instructors capable of running Self-Organised workshops. 
 * Titanium memberships are suited for organisations who do not need coordinated workshops or Instructor Training seats but would 
 like to maintain their membership status, financially support The Carpentries, and connect with other Members. To be eligible for 
-Titanium membership, organisations must have at least one prior year of membership.
-
+Titanium membership, organisations must have at least one prior year of membership.<br><br>
 3. **What if those membership packages do not fit my institution’s needs?**<br>
 We would be happy to talk with you to learn more about your institution’s goals and create a custom plan that works for you.  Contact our membership team to schedule a meeting at [membership@carpentries.org](mailto:membership@carpentries.org).
 
@@ -50,10 +49,10 @@ membership at your organisation, we will count the workshop fee towards a member
 Workshops can cover curricula from any of our lesson programs: [Data Carpentry](https://datacarpentry.org/lessons/), [Library Carpentry](https://librarycarpentry.org/lessons/), or [Software Carpentry](https://software-carpentry.org/lessons/).  An overview of available workshops is located on our [curricula page](/workshops-curricula/). Contact us at [workshops@carpentries.org](mailto:workshops@carpentries.org) to learn more about our workshop operations.
 
 2. **How soon after signing my membership can I get started with hosting workshops?**<br>
-Right away! You can request workshops as soon as your membership agreement is in place by completing [this form]({{ site.wrf_landing }}). To allow us time to recruit Instructors and give them time to plan the workshop with you, we generally require 2-3 months lead time to schedule a workshop.  
+Right away! You can request workshops as soon as your membership agreement is in place by completing [this form]({{ site.wrf_landing }}). To allow us time to recruit Instructors and give them time to plan the workshop with you, we generally require 2-3 months lead time to schedule a workshop. 
 
 3. **Can I run my own workshops without organisational support from The Carpentries?**<br>
-Yes! Once you start building a team of certified Instructors, you can work with them to run Self-Organised workshops. We ask that Instructors let us know when they are planning a Self-Organised workshop in advance by completing this [form](https://amy.carpentries.org/forms/self-organised/). This form initiates a process so that The Carpentries staff can support the workshop by providing survey links, tracking Instructor and Helper participation, and publicising the workshop on The Carpentries websites, if desired. As long as at least one Instructor is Carpentries-certified, and either the Data Carpentry, Library Carpentry, or Software Carpentry core content is taught, the workshop can be labeled a Carpentries workshop. Self-Organised workshops do not count against the number of workshops included in your membership agreement and there is no limit to the number of Self-Organised workshops you can run. 
+Yes! Once you start building a team of certified Instructors, you can work with them to run Self-Organised workshops. We ask that Instructors let us know when they are planning a Self-Organised workshop in advance by completing this [form]({{site.wrf_selforg}}). This form initiates a process so that The Carpentries staff can support the workshop by providing survey links, tracking Instructor and Helper participation, and publicising the workshop on The Carpentries websites, if desired. As long as at least one Instructor is Carpentries-certified, and either the Data Carpentry, Library Carpentry, or Software Carpentry core content is taught, the workshop can be labeled a Carpentries workshop. Self-Organised workshops do not count against the number of workshops included in your membership agreement and there is no limit to the number of Self-Organised workshops you can run. 
 
 4. **What if I want to run more Centrally-Organised workshops than my agreement allows?**<br>
 All members are eligible to purchase additional Centrally-Organised workshops at a discount. 
