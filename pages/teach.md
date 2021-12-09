@@ -20,4 +20,4 @@ We offer [instructor training](https://docs.carpentries.org/topic_folders/instru
 
 
 Find out how to [become an instructor]({% link pages/become-instructor.md %}) and join The
-Carpentries community of instructors or [become an Organisational Member]({% link pages/membership.md %}) to grow a local community of instructors within your organisation.
+Carpentries community of instructors or [become an Organisational Member]({% link pages/membership.html %}) to grow a local community of instructors within your organisation.
