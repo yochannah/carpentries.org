@@ -23,14 +23,13 @@ run through this [etherpad](https://pad.carpentries.org/scf-mentoring).
 For more about committee roles, see the [Handbook](https://docs.carpentries.org/topic_folders/instructor_development/instructor_development_committee.html). We also organise information about our work though this [GitHub repo](https://github.com/carpentries/mentoring).
 
 **_Our Leadership:_**    
-There are two co-Chairs. Annajiat Alim Rasel is one of the current co-Chairs. The other co-Chair is Maria Prokofieva.
-In addition, a Carpentries staff member is part of the committee as a staff liaison.
+Currently, the IDC is transitioning and there is no one serving in these roles. New members will be recruited to start their term in 2022. Please reach out to our staff liaison, [Sher! Hurt](mailto:sheraaron@carpentries.org), with any questions. 
 
 **_Contacting the Committee:_**
 [Join us](https://carpentries.topicbox.com/groups/instructor-development) on TopicBox!
 
 
-**_Current Committee Leadership_**
+**_Many Thanks to our 2021 Committee Leadership_**
 
 * Annajiat Alim Rasel (Co-Chair)
 * Maria Prokofieva (Co-Chair)
@@ -41,4 +40,4 @@ In addition, a Carpentries staff member is part of the committee as a staff liai
 * Rohit Goswami (Special Projects Chair)
 * Alycia Crall (Core Team liaison)
 
-The secretary role is a rotating role.
+The secretary role was a rotating role.
