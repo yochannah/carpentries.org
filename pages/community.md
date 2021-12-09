@@ -116,11 +116,10 @@ Private resources for current Trainers:
 
 
 ### Maintainers
-The Carpentries Maintainers work with the community to make sure that lessons stay up-to-date, accurate, functional and cohesive. Maintainers monitor their lesson repository, make sure that pull requests and issues are addressed in a timely manner, and participate in the lesson development cycle including lesson releases. They endeavor to be welcoming and supportive of contributions from all members of the community. This community of practice is a great place to learn to collaborate effectively in Git and GitHub.
+The Carpentries Maintainers work with the community to make sure that lessons stay up-to-date, accurate, functional and cohesive. Maintainers monitor their lesson repository, make sure that pull requests and issues are addressed in a timely manner, and participate in the lesson development cycle including lesson releases. They endeavor to be welcoming and supportive of contributions from all members of the community. This community of practice is a great place to learn to collaborate effectively in Git and GitHub. Upcoming rounds of Maintainer Onboarding will be announced on our [newsletter]({{ site.url }}{{ site.baseurl }}/newsletter/) and [blog]({{ site.url }}{{ site.baseurl }}/blog/).  
 
 * [Training materials](https://carpentries.github.io/maintainer-onboarding/)
 * [Maintainer guidelines](http://docs.carpentries.org/topic_folders/maintainers/maintainers.html#maintainer-guidelines)
-* [Apply to become a Maintainer](https://docs.google.com/forms/d/e/1FAIpQLSe_pK34DCFgaqriSYfZv0gBhZ22nnmJJGtiXKQqKhrS-pF2tw/viewform)
 * [Upcoming meetings](https://codimd.carpentries.org/maintainers?both)
 * [Mailing list]({{site.mailing_lists}}/maintainers)
 * [Slack](https://swc-slack-invite.herokuapp.com/)
