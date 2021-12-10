@@ -13,26 +13,26 @@ Throughout 2021, The Carpentries Core Team and Trainer community have been devel
 
 ### Changes in this update include:
 * General changes to make the curriculum more useable and maintainable:
-    - [ ] Reduced hyperlinks to external websites 
-    - [ ] Eliminated use of handouts for activities
-    - [ ] Reduced content on Carpentries policies; increased orientation to main sources of policy information
-    - [ ] Reduced use of jargon
-    - [ ] Reduced use of coding in examples to accommodate variable background knowledge
-    - [ ] Structural changes to improve timing and flow, allowing for more consistent breaks & alternate schedules
+    - Reduced hyperlinks to external websites 
+    - Eliminated use of handouts for activities
+    - Reduced content on Carpentries policies; increased orientation to main sources of policy information
+    - Reduced use of jargon
+    - Reduced use of coding in examples to accommodate variable background knowledge
+    - Structural changes to improve timing and flow, allowing for more consistent breaks & alternate schedules
 * Content removed or transferred to [optional exercises page](https://carpentries.github.io/instructor-training/additional_exercises/index.html) (more relevant to lesson development, which is now a separate curriculum)
-    - [ ] Practice writing multiple choice questions
-    - [ ] Practice writing learner profiles
-    - [ ] Content on Bloom's Taxonomy
+    - Practice writing multiple choice questions
+    - Practice writing learner profiles
+    - Content on Bloom's Taxonomy
 * Content changed or rearranged
-    - [ ] Previous episode on "Mindset" reduced and combined with ["Motivation and Demotivation" episode](https://carpentries.github.io/instructor-training/08-motivation/index.html)
-    - [ ] Previous content on Equity, Inclusion, and Accessibility in "Motivation and Demotivation" episode moved to [its own episode](https://carpentries.github.io/instructor-training/09-eia/index.html) and expanded
-    - [ ] Previous references to formative assessment sprinkled across episodes are now highlighted as distinct uses
-    - [ ] Mental models are now [explained using concept mapping](https://carpentries.github.io/instructor-training/02-practice-learning/index.html) and analogies
-    - [ ] Some strategies specific to teaching in-person are now presented with suggested adaptations for teaching online
-    - [ ] Content on [Instructor Checkout](https://carpentries.github.io/instructor-training/checkout/index.html) is consolidated and clarified
+    - Previous episode on "Mindset" reduced and combined with ["Motivation and Demotivation" episode](https://carpentries.github.io/instructor-training/08-motivation/index.html)
+    - Previous content on Equity, Inclusion, and Accessibility in "Motivation and Demotivation" episode moved to [its own episode](https://carpentries.github.io/instructor-training/09-eia/index.html) and expanded
+    - Previous references to formative assessment sprinkled across episodes are now highlighted as distinct uses
+    - Mental models are now [explained using concept mapping](https://carpentries.github.io/instructor-training/02-practice-learning/index.html) and analogies
+    - Some strategies specific to teaching in-person are now presented with suggested adaptations for teaching online
+    - Content on [Instructor Checkout](https://carpentries.github.io/instructor-training/checkout/index.html) is consolidated and clarified
 * Added or enhanced content
-    - [ ] Concluding a workshop (added to [content on introductions](https://carpentries.github.io/instructor-training/23-introductions/index.html))
-    - [ ] [Team teaching practices](https://carpentries.github.io/instructor-training/21-management/index.html), reinforcing common mechanics of Carpentries workshops
+    - Concluding a workshop (added to [content on introductions](https://carpentries.github.io/instructor-training/23-introductions/index.html))
+    - [Team teaching practices](https://carpentries.github.io/instructor-training/21-management/index.html), reinforcing common mechanics of Carpentries workshops
 
 
 ### Goals reserved for the next update (not included yet):
