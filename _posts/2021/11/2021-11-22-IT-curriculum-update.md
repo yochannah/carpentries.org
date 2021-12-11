@@ -74,7 +74,7 @@ As always, this work would not have been possible without the dedicated particip
 Forty eight people have made contributions via GitHub that were incorporated since our last release. These are: Karen Word; Maneesha Sane; Kelly Barnes; Sarah M Brown; François Michonneau; Christina Koch; Rayna M Harris; Erin Becker; Brian Ballsun-Stanton; Gerard Capes; Toby Hodges; Serah Njambi; Sarah Stevens; Zhian Namir Kamvar; Angela Li; Ariel Deardorff; Pradeep Eranti; SherAaron Hurt; Aleksandra Nenadic; Eric Jankowski; Dr. Kari L. Jordan; Laurent Heirendt; Murray Cadzow; Aaron Tran; Alec L. Robitaille; Alexander James Ball; Bianca Peterson; Christa de Kock; Daniel Chen; Darya P Vanichkina; Pérez-Suárez; Elizabeth McAulay; George Milunovich; GIUSEPPE PROFITI; Hugo Gruson; Jeffrey Oliver; Jonah Duckles; Juvonen, Matti; Konrad U. Förstner; Lex Nederbragt; Liz Stokes; Martin Stoffers; Michael Black; Michael Henry; Neal Davis; Sarah Peter; Sichong; Tong Liang; Ashwin Vishnu Mohanan. Contributions to this curriculum come in many forms, and we are further grateful to all those whose efforts in testing, discussion, and other feedback have guided its development! 
 
 ## Looking for more?
-If you are excited about The Carpentries Instructor Training curriculum, you might want to consider becoming a Carpentries Instructor Trainer! [Applications are open now through December 2, 2021](https://carpentries.org/blog/2021/11/2021-11-18-Trainer-Training-open/).
+If you are excited about The Carpentries Instructor Training curriculum, you might want to consider becoming a Carpentries Instructor Trainer! [Applications are open now through December 2, 2021](https://carpentries.org/blog/2021/11/Trainer-Training-open/).
 
 ## Citation
 
