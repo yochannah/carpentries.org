@@ -3,7 +3,7 @@ layout: page
 authors: ["Zhian N. Kamvar", "Alycia Crall"]
 teaser: "We re-evaluate the historical role of the Lesson Infrastructure Community to understand how we can maintain community advocacy in our infrastructure"
 title: "The Lesson Infrastructure Commitee: Past, Present, and Future"
-date: 2021-12-17
+date: 2021-12-20
 time: "09:00:00"
 tags: ["Lesson Infrastructure", "Community"]
 ---
