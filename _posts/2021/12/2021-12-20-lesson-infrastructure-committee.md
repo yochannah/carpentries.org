@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Zhian N. Kamvar", "Alycia Crall"]
+authors: ["Zhian N. Kamvar"]
 teaser: "We re-evaluate the historical role of the Lesson Infrastructure Community to understand how we can maintain community advocacy in our infrastructure"
 title: "The Lesson Infrastructure Commitee: Past, Present, and Future"
 date: 2021-12-20
@@ -52,9 +52,9 @@ In March 2020, a global pandemic descended and the committee was put on indefini
 
 Our Carpentries community comes together for many reasons, and one of those is because we care deeply about lowering the barriers for people to learn basic computational and data skills. Our lessons are entirely written by volunteer effort and our volunteers should not worry about minor details about lesson formatting. 
 
-Our new lesson infrastructure removes much of the temptation for [bikeshedding](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3976103/?report=classic#s7) by completely separating the tools from the lessons themselves. One thing is clear: if we want to ensure that our lesson infrastructure adheres to our core values, we need to have a clear path for community input. At this time, the new infrastructure is not yet in a mature state. It is currently operational and we have determined through testing and feedback that the approach is sound, but the documentaion needs vast improvment and unguided testing from maintainers/lessond developers is still necessary. To have a committee meet to discuss this rapidly-shifting work would be a waste of their valuable time, especially as the pandemic continues to loom and we are still adapting to the ever changing policy landscape and stress it wrought. 
+Our new lesson infrastructure removes much of the temptation for [bikeshedding](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3976103/?report=classic#s7) by completely separating the tools from the lessons themselves. One thing is clear: if we want to ensure that our lesson infrastructure adheres to our core values, we need to have a clear path for community input. At this time, the new infrastructure is not yet in a mature state. It is currently operational and we have determined through testing and feedback that the approach is sound, but the documentaion needs vast improvment and unguided testing from maintainers/lesson developers is still necessary. To have a committee meet to discuss this rapidly-shifting work would be a waste of their valuable time, especially as the pandemic continues to loom and we are still adapting to the ever changing policy landscape and stress it wrought. 
 
 We will make a call for people to join the new committee when we release the first stable version of the lesson infrastructure in 2022 and it is likely that the new committee will take on a different form than the previous committee: I will serve the committee in a similar fashion that the Core Team serves the Executive Council. The committee will serve as a brain trust through which well-scoped challenges with multiple options will be presented and discussed. They will ensure that the lesson infrastructure continues to adhere to our core values.
 
-I would like to thank the former Lesson Infrastructure Committee members for taking the time to sit down with me and tell me about their experiences. Without their input, we would not be where we are today.
+This blog post would not have been possible without the help of Alycia Crall who used her expertise in community management to help me come up with ideas for the structure of the next iteration of the committee. Of course, I would like to thank Kate Hertwick, Naupaka Zimmerman, Jonah Duckles, François Michonneau, and the other former Lesson Infrastructure Committee members for taking the time to sit down with me and tell me about their experiences. Without their input, we would not be where we are today.
 
