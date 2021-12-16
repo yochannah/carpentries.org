@@ -31,18 +31,22 @@ We would be happy to talk with you to learn more about your institution’s goal
 4. **Do I need to renew my membership each year?**<br>
 Yes. The Carpentries memberships are annual memberships, extending for a period of one year. Renewing your membership in advance is a great way to avoid a lapse in membership. 
 
-5. **Is financial support available?**<br>
+5. **What if I don't use all of my membership benefits?**<br>
+We encourage you to use all of your benefits during your membership term. If there are unused benefits at the end of your membership term, and you 
+are renewing, we will carry over 50% of unused benefits (rounded up) to your new membership term.  
+
+6. **Is financial support available?**<br>
 Yes - organisations with financial need are encouraged to 
 [apply for financial support](https://carpentries.typeform.com/to/lZat2eO5). Financial support is available for Bronze, Silver, 
 and Gold memberships only, and is subject to availability. Organisations awarded financial support may receive support between 
 25% - 50% of their tiered price.
 
-6. **Are any other discounts available?**<br>
+7. **Are any other discounts available?**<br>
 Organisations supporting [Instructor Trainers](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html), who engage in
 service activities to teach and support newly trained Instructors across our global community, are eligible for a discount to their membership fee 
 equivalent to six (6) seats in Instructor Training per active Instructor Trainer. This discount is available at any membership level. 
 
-7. **How can I find out if my institution already has a membership?**<br>
+8. **How can I find out if my institution already has a membership?**<br>
 A list of our [current Member organisations](https://carpentries.org/members/) can be found on our website. If you would like 
 help in making contact with the person in charge of your institutional membership, email [membership@carpentries.org](mailto:membership@carpentries.org).
 
