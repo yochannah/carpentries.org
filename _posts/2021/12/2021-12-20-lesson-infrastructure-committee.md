@@ -20,17 +20,17 @@ Back then:
 
 The lesson infrastructure has evolved so much in the past 14 years along with the vastly changing landscape of online publishing where it is now easier than ever to publish a website from a handful of markdown documents.
 
-A large part of my job for the last 20 months has been to learn from the Maintainer community and subsequently understand, analyse, and re-imagine our lesson infrastructure in a centralised way that can serve our Maintainers, Instructors, and Learners equitably and reduce barriers for entry.
+A large part of my job as [the Lesson Infrastructure Technology Developer](https://carpentries.org/blog/2020/03/lesson-infrastructure-technology-developer/) for the last 20 months has been to learn from the Maintainer community and subsequently understand, analyse, and [re-imagine our lesson infrastructure](https://carpentries.org/posts-by-tags/#blog-tag-lesson-infrastructure) in a centralised way that can serve our Maintainers, Instructors, and Learners equitably and reduce barriers for entry.
 
-None of these achievements could have been possible without the input from the community of Maintainers, Instructors, and Learners who helped with the alpha and UX testing of the new lesson infrastructure. These efforts all built off of the ideas generated from the Lesson Infrastructure Committee and we are not yet through! 
+None of these achievements could have been possible without the input from the community of Maintainers, Instructors, and Learners who helped with the [alpha testing](https://carpentries.org/blog/2021/07/infrastructure-testing/) and [UX testing](https://carpentries.org/blog/2021/05/lesson-template-design-process/) of the new lesson infrastructure. These efforts all built off of the ideas generated from [the Lesson Infrastructure Committee](https://github.com/carpentries/lesson-infrastructure/#readme) and we are not yet through! 
 
 Over the last couple of months, I sent out a call to former Lesson Infrastructure Committee members to sit down and tell me about their experiences with the committee so that I could see what such a committee might look like in light of the next interation of the infrastructure, and if such a committee need exist.
 
-One of our central values in The Carpentries is that we champion community collaboration. Our lesson infrastructure has gone through many iterations and will likely go through many more. Each of these iterations would not have been possible without some form of community input. From 2006 to 2017, the lesson infrastructure was an interesting creature: born in the open and evolved through the efforts, whims, and passions of a small community of voluteers.
+One of our central values in The Carpentries is that we champion community collaboration. Our lesson infrastructure has gone through many iterations and will likely go through many more. Each of these iterations would not have been possible without some form of community input. From 2006 to 2016, the lesson infrastructure was an interesting creature: born in the open and evolved through the efforts, whims, and passions of a small community of voluteers.
 
 ## A Brief History of the Lesson Infrastructure Committee
 
-In 2018, the Lesson Infrastructure Committee was created to achieve the following goals: 
+[In 2017, the Lesson Infrastructure Committee was created](https://software-carpentry.org/blog/2017/01/call-lesson-infrastructure-subcommittee.html) to [achieve the following goals](https://github.com/swcarpentry/board/issues/155#issue-196697467): 
 
 1. Manage lesson release process and coordinate lesson releases
 2. Group decision-making for any changes that will affect more than one lesson
