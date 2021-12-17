@@ -6,6 +6,7 @@ title: "Incubator Lesson Spotlight: Building Websites with Jekyll & GitHub Pages
 date: 2021-12-16
 time: "09:00:00"
 tags: ["Carpentries Incubator Lesson Spotlight", "Incubator", "Community"]
+lesson_title: “Building Websites with Jekyll & GitHub Pages”
 ---
 
 The Incubator Lesson Spotlight highlights a lesson under development by our community in [The Carpentries Incubator][incubator]. In this edition, we look at the progress being made on [the _{{page.lesson_title}}_ lesson][lesson-pages], and hear from the authors about how The Carpentries community can get involved with the ongoing development of this lesson.
