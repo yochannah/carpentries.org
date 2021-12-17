@@ -63,6 +63,7 @@ jobs:
             --output files/pdf/online-workshop-recommendations.pdf
             --pdf-engine=xelatex
             -V geometry:margin=1in
+            --from=markdown-markdown_in_html_blocks-native_divs
             pages/online-workshop-recommendations.md
 
       - name: Create PDF file for welcome tip sheet
@@ -72,6 +73,7 @@ jobs:
             --output files/pdf/welcome-tip-sheet.pdf
             --pdf-engine=xelatex
             -V geometry:margin=1in
+            --from=markdown-markdown_in_html_blocks-native_divs
             pages/welcome-tip-sheet.md
 
       - name: Get current version from S3
