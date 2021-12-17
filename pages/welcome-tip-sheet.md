@@ -5,6 +5,15 @@ permalink: /welcome-tip-sheet/
 excerpt: A guide to Carpentries activities and key links for new members
 ---
 
+<div class="row text-right">
+  <p>
+  <a href="https://carpentries.org/files/pdf/welcome-tip-sheet.pdf" class="edit-on-github">
+    <i class="far fa-file-pdf fa-lg"></i>
+    This page is also available as a PDF file.
+  </a>
+  </p>
+</div>
+
 We are happy that you are here! This document is intended to help you get started in The Carpentries community by highlighting some key links and activities. If you have questions, please get in touch with our Director of Community, Alycia Crall, by [email](mailto:alycia@carpentries.org) or [schedule a meeting](https://calendly.com/alycia-carpentries). We are here for you as you begin your journey with our organisation. Welcome!
 
 ## Where Do I Get Started?
