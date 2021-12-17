@@ -33,7 +33,7 @@ Yes. The Carpentries memberships are annual memberships, extending for a period 
 
 5. **What if I don't use all of my membership benefits?**<br>
 We encourage you to use all of your benefits during your membership term. If there are unused benefits at the end of your membership term, and you 
-are renewing, we will carry over 50% of unused benefits (rounded up) to your new membership term.  
+are renewing, we will roll over 50% of unused benefits (rounded up) to your new membership term, on request.  
 
 6. **Is financial support available?**<br>
 Yes - organisations with financial need are encouraged to 
