@@ -56,7 +56,7 @@ jobs:
            curl --remote-name-all https://feeds.carpentries.org/all_instructors_by_airport.geojson &&\
            cp all_instructors_by_airport.geojson files/.
 
-      - name: Create PDF file of some pages
+      - name: Create PDF file for online teaching recommendations
         uses: docker://pandoc/latex:latest
         with:
           args: >
@@ -64,6 +64,15 @@ jobs:
             --pdf-engine=xelatex
             -V geometry:margin=1in
             pages/online-workshop-recommendations.md
+
+      - name: Create PDF file for welcome tip sheet
+        uses: docker://pandoc/latex:latest
+        with:
+          args: >
+            --output files/pdf/welcome-tip-sheet.pdf
+            --pdf-engine=xelatex
+            -V geometry:margin=1in
+            pages/welcome-tip-sheet.md
 
       - name: Get current version from S3
         uses: prewk/s3-cp-action@0.1.1
