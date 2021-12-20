@@ -56,6 +56,12 @@ jobs:
            curl --remote-name-all https://feeds.carpentries.org/all_instructors_by_airport.geojson &&\
            cp all_instructors_by_airport.geojson files/.
 
+
+      - name: Get GeoJSON for member organisations map
+        run: |
+           curl --remote-name-all https://feeds.carpentries.org/all_members_by_location.geojson &&\
+           cp all_members_by_location.geojson files/.
+
       - name: Create PDF file for online teaching recommendations
         uses: docker://pandoc/latex:latest
         with:
