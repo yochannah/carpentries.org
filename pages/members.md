@@ -13,6 +13,8 @@ permalink: "/members/"
 A Member Organisation is an organisation that has made a financial commitment to
 the growth and sustainability of The Carpentries and is building local capacity for training. See more on [becoming a Member Organisation]({% link pages/membership.md %}).
 
+View our [current member sites on a map]({% link pages/members-map.html %}).
+
 ### Platinum Member Organisations
 
 <ul>
