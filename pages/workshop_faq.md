@@ -61,8 +61,6 @@ To be considered an official Carpentries workshop, you must follow the [Core Cur
 
 ### How much does a workshop cost?
 
-If you are a government or non-profit institution and would like The Carpentries to assist with organising your workshop, there is an administrative fee of $2500 US. You will also be responsible for the travel expenses for each Instructor (see below). If you are a for-profit institution please [contact us](mailto:team@carpentries.org). 50% of workshop coordination fees for for-profit institutions support workshops in diverse communities.
-
 Please visit our [website](https://carpentries.org/workshops/#workshop-cost) for more information.
 
 ### Do Instructors pay for travel?
