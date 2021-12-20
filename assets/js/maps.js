@@ -59,8 +59,16 @@ SWC.maps = (function() {
   maps.previous = function(element_id, geo_json) {
     var mapOptions = {
       zoom: 2,
-      center: new google.maps.LatLng(25,8),
-      mapTypeId: google.maps.MapTypeId.ROADMAP
+      center: new google.maps.LatLng(18,16),
+      mapTypeId: google.maps.MapTypeId.ROADMAP,
+      mapTypeControl: false,
+      streetViewControl: false,
+      zoomControl: true,
+      zoomControlOptions: {position: google.maps.ControlPosition.LEFT_BOTTOM,},
+      fullscreenControl: true,
+      fullscreenControlOptions: {position: google.maps.ControlPosition.LEFT_BOTTOM,},
+      controlSize: 24,
+
     },
     map = new google.maps.Map(document.getElementById(element_id), mapOptions);
     var markers = SWC.maps.pins(map, geo_json.features);
