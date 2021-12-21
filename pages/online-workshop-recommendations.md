@@ -92,8 +92,8 @@ Use this list to be sure you have given time and thought to each item. Not all i
     - Create your workshop website
     - Fill out the workshop request form
 * [Email your learners](#pre-workshop-emails-to-learners)
-    - inquire about accessibility
-    - leave time to respond
+    - Inquire about accessibility
+    - Leave time to respond
 * Review your pre-survey data
 * Practice with tools and features
     - Spin up [cloud instances](https://github.com/carpentries/scaffolds/blob/master/instructions/workshop-coordination.md#supporting-learners-with-carpentries-scaffolds) (especially if using MyBinder)
