@@ -173,7 +173,7 @@ A Self-Organised workshop is organised by the workshop instructor/organiser. Thi
 
 ### How do I get survey data/links for previous workshops?
 
-The Workshop Administration Team can provide survey result links for past workshops (August 2018 - present) to workshop instructors/organizers or instructors affiliated with the hosting organisation. To request survey results links, please send an email to the Workshop Administration Team (via team@carpentries.org) with your request and include a link to the workshop website(s) and/or slug(s).
+The Workshop Administration Team can provide survey result links for past workshops (August 2018 - present) to workshop instructors/organizers or instructors affiliated with the hosting organisation. To request survey results links, please send an email to the Workshop Administration Team (via [{{site.contact}}](mailto:{{site.contact}})) with your request and include a link to the workshop website(s) and/or slug(s).
 
 ### Can we restrict who participates in our workshops?
 
@@ -189,7 +189,7 @@ We have compiled several [email templates](https://docs.carpentries.org/topic_fo
 
 ### I do not see a [Regional Coordinator](https://carpentries.org/regionalcoordinators/) for my area. Who should I speak with regarding a workshop?
 
-If you live in an area that does not have a Regional Coordinator in that region, you are welcome to contact the Deputy Director of Workshops & Meetings at [team@carpentries.org](mailto:team@carpentries.org). This person is responsible for all workshops that do not have a Regional Coordinator.
+If you live in an area that does not have a Regional Coordinator in that region, you are welcome to contact the Deputy Director of Workshops & Meetings at [{{site.contact}}](mailto:{{site.contact}}). This person is responsible for all workshops that do not have a Regional Coordinator.
 
 ### Can I charge Learners a fee to attend a workshop I host?
 

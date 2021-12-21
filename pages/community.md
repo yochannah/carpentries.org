@@ -172,7 +172,7 @@ network with other domain experts in The Carpentries community. We are not curre
 
 ##### Software Carpentry CAC
 * [Current Software Carpentry CAC members](https://software-carpentry.org/blog/2018/05/swc-cac.html)
-* [Software Carpentry CAC contact](mailto:team@carpentries.org)
+* [Software Carpentry CAC contact](mailto:{{site.contact}})
 
 ##### Library Carpentry CAC
 * [Library Carpentry CAC members](https://librarycarpentry.org/cac/)
@@ -235,14 +235,14 @@ The Carpentries Instructor community in Africa is growing, with over a hundred c
 * [Activities](https://docs.carpentries.org/topic_folders/regional_communities/african_task_force.html#what-we-do)
 * [Join Slack and Mailing List](https://docs.carpentries.org/topic_folders/regional_communities/african_task_force.html#join-us)
 * [Community Etherpad](http://pad.carpentries.org/ZA-community-call)
-* [Contact](mailto:admin-afr@carpentries.org)
+* [Contact the Regional Coordinator](mailto:{{site.contact_afr}})
 
 #### Carpentries in Canada
 
 Here are details about The Carpentries Instructor community in  Canada:
 
 * [Join Vancouver's mailing list](https://carpentries.topicbox.com/groups/local-vancouver)
-* [Contact](mailto:admin-ca@carpentries.org)
+* [Contact the Regional Coordinator](mailto:{{site.contact_ca}})
 
 #### Carpentries in Middle East and North Africa
 
@@ -314,7 +314,7 @@ Here is a list of all CarpentryConnect events held in the past: [carpentryconnec
 * [Mailing list](https://carpentries.topicbox.com/groups/champions)
 * [Meeting minutes](https://github.com/carpentries/champions/tree/master/meeting-minutes)
 * [Carpentries Community Cookbook](https://cookbook.carpentries.org/)
-* To get involved, contact our [Team](mailto:team@carpentries.org).
+* To get involved, contact our [Team](mailto:{{site.contact}}).
 
 ### Assessment Network
 
