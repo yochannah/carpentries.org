@@ -235,14 +235,14 @@ The Carpentries Instructor community in Africa is growing, with over a hundred c
 * [Activities](https://docs.carpentries.org/topic_folders/regional_communities/african_task_force.html#what-we-do)
 * [Join Slack and Mailing List](https://docs.carpentries.org/topic_folders/regional_communities/african_task_force.html#join-us)
 * [Community Etherpad](http://pad.carpentries.org/ZA-community-call)
-* [Contact](mailto:admin-afr@carpentries.org)
+* [Contact the Regional Coordinator](mailto:{{site.contact_afr}})
 
 #### Carpentries in Canada
 
 Here are details about The Carpentries Instructor community in  Canada:
 
 * [Join Vancouver's mailing list](https://carpentries.topicbox.com/groups/local-vancouver)
-* [Contact](mailto:admin-ca@carpentries.org)
+* [Contact the Regional Coordinator](mailto:{{site.contact_ca}})
 
 #### Carpentries in Middle East and North Africa
 
