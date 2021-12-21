@@ -92,13 +92,13 @@ Use this list to be sure you have given time and thought to each item. Not all i
     - Create your workshop website
     - Fill out the workshop request form
 * [Email your learners](#pre-workshop-emails-to-learners)
-    - inquire about accessibility
-    - leave time to respond
+    - Inquire about accessibility
+    - Leave time to respond
 * Review your pre-survey data
 * Practice with tools and features
     - Spin up [cloud instances](https://github.com/carpentries/scaffolds/blob/master/instructions/workshop-coordination.md#supporting-learners-with-carpentries-scaffolds) (especially if using MyBinder)
     - Practice with security features (e.g. waiting rooms)
-* [Plan your post-workshop](#follow-up)
+* [Plan your post-workshop follow up](#follow-up)
 * Consult [The Carpentries Handbook](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#workshop-checklists) for any additional items that may apply from our in-person workshop checklists
 
 </div>
@@ -108,7 +108,7 @@ Use this list to be sure you have given time and thought to each item. Not all i
 #### Think about time 
 Our feedback indicates that many online workshops move more slowly than in-person events. This is particularly true where breakout sessions are used, and we do recommend using them. This means planning ahead to identify where content can be trimmed as the need arises, without cutting into breaks or activity time. 
 
-As the instructor, there are several things to consider while also providing all of the learners with as much personlised attention as possible. We recommend having a class size of 20 learners or fewer. With fewer numbers, Instructors and helpers are able to provide direct assistance to each participant without feeling overwhelmed.  
+As the Instructor, there are several things to consider while also providing all of the learners with as much personalised attention as possible. We recommend having a class size of 20 learners or fewer. With fewer numbers, Instructors and helpers are able to provide direct assistance to each participant without feeling overwhelmed.  
 
 Breaks are vital in any workshop. In an online setting, particularly for those juggling multiple responsibilities at home, it is important that breaks be scheduled, [announced](pre-workshop-emails-to-learners), and on time. Consider allowing time for longer breaks (e.g. 30 minutes), especially if you plan to use breaks as opportunities to provide help.
 
@@ -131,7 +131,7 @@ The Carpentries recommends, in order:
 
 **Your conferencing platform needs to have:**
 
-* Screen sharing for instructors
+* Screen sharing for Instructors
 * Audio for all speakers
 * A chat system 
 
@@ -181,16 +181,16 @@ Whatever your choices, remember that any platform is only as useful as you make 
 
 #### Instructional planning
 ##### Instructional Team Roles: Who What When?
-Clear, visible, and documented roles for instructors and helpers will help your learners know where to go for help and allow your team to solve problems smoothly. A few suggested roles are:
+Clear, visible, and documented roles for Instructors and helpers will help your learners know where to go for help and allow your team to solve problems smoothly. A few suggested roles are:
 
 * **Instructor** (not to be shared with any other role concurrently): actively sharing their screen and presenting the lesson content.
 * **Helper-Technical**: responsible for watching for learners reporting problems in the chat and providing assistance. 
-* **Helper-Facilitator**: responsible for monitoring the room to mute learners as needed (requires host or co-host status on Zoom), watching for learner questions across platforms. This role may include oversight and triage, assigning help requests to specific helpers and elevating issues to the Instructor's attention as needed. Optionally, depending on instructor preference, they may facilitate question and answer sessions if the instructor needs a break or loses connection, or step in routinely to smooth transitions.  
+* **Helper-Facilitator**: responsible for monitoring the room to mute learners as needed (requires host or co-host status on Zoom), watching for learner questions across platforms. This role may include oversight and triage, assigning help requests to specific helpers and elevating issues to the Instructor's attention as needed. Optionally, depending on Instructor preference, they may facilitate question and answer sessions if the Instructor needs a break or loses connection, or step in routinely to smooth transitions.  
 * **Helper - Breakout manager**: uses host status on Zoom to create and assign [breakout rooms](#breakout-rooms) as needed.
 * **Helper - Document manager**: if you are using a collaborative notes document or keeping a command log, consider assigning a helper to keep this up to date. This role can also be assigned to type screen [captions](#making-your-workshop-accessible) should this be useful.
 
 
-People in these roles should be assigned privileges on your conferencing platform that allow them to perform their assigned tasks ("host" or "co-host" on Zoom). They should also be clearly identified to learners by annotating names in the video conferencing platform. If the platform only allows one individual to control the meeting at a time, this role should ideally go to a helper who can dedicate their full attention to monitoring the platform for the instructor.
+People in these roles should be assigned privileges on your conferencing platform that allow them to perform their assigned tasks ("host" or "co-host" on Zoom). They should also be clearly identified to learners by annotating names in the video conferencing platform. If the platform only allows one individual to control the meeting at a time, this role should ideally go to a helper who can dedicate their full attention to monitoring the platform for the Instructor.
 
 Help can be challenging to provide online and a shortage of helpers will slow down your workshop. A high helper-to-learner ratio (e.g. 1:5 or better) can keep things running smoothly through sticking points.
 
@@ -210,7 +210,7 @@ When you email your learners, you should request and receive information about a
 
 Internet access may not always be a predictable challenge. Providing links to the curriculum and following it closely will help learners to catch up on content they miss due to a low-quality or dropped connection. Where instructions diverge, a command log in a collaborative document may play the same role. When possible and practical, recordings are also a potential source of support for learners who experience internet failures. See [note about privacy concerns](#a-note-about-recording).
 
-Some disabilities may be supported in an online environment through captioning. While The Carpentries Zoom accounts do not support automatic captioning at this time, it is possible for a helper to summarise spoken words in writing that displays on the screen. Alternatively, a note-taker may be assigned to work in a collaborative document; however, keeping that document in view can be a challenge on a small screen. 
+Some disabilities may be supported in an online environment through captioning. Zoom offers both automatic captioning and allows a participant to type captions.  Read more about [Zoom captioning in our Handbook](https://docs.carpentries.org/topic_folders/communications/tools/zoom_rooms.html#closed-captioning). Alternatively, a note-taker may be assigned to work in a collaborative document; however, keeping that document in view can be a challenge on a small screen. 
 
 ##### Emergency Planning: Know your rally point!
 Just like in a fire drill, everyone should know where to go in the event of an emergency. In this case, emergency means technological failure that affects the instructional team or (it can happen!) the entire workshop. 
@@ -232,21 +232,23 @@ Consider the following:
 * What preparation can be done before a meeting?
 * What preparation can be done after a meeting?
 * If you plan to have more than one meeting, does everyone need to be at all of them?
-* Assign meeting roles 
-For more advice on holding effective meetings, see [this section](http://teachtogether.tech/#s:meetings) of _Teaching Tech Together_ by Greg Wilson.
+* Assign meeting roles  
+
+For more advice on holding effective meetings, see the "Meetings, meetings, meetings" section of  _Teaching Tech Together_ by Greg Wilson in [English](http://teachtogether.tech/en/index.html#s:meetings) and [Spanish](http://teachtogether.tech/es/index.html#s:meetings).  
 
 ##### Follow-up
 After a workshop, everyone will be tired and (hopefully) basking in the success of a job well done! Often, we have intentions to follow-up on things after a workshop, but the demands of our day-to-day work often step in to get in the way. If you would like anything to happen after a workshop, planning ahead to schedule and delegate is the best way to make sure these things get done! 
 
 ### How to register your online workshop
-Please be sure to [register]({{site.wrf_landing}}) your Self-Organised workshop, as you begin planning your Carpentries online event. It is important that you use a unique workshop id so that we can add your workshop to our database and provide the proper communications with you. 
+Please be sure to [register]({{site.wrf_landing}}) your Self-Organised workshop, as you begin planning your Carpentries online event. It is important that you use a unique workshop id (or slug) so that we can add your workshop to our database and provide the proper communications with you. 
 
-When creating your workshop website, please use the following naming convention: **YYYY-MM-DD-sitename-online**
+Read about the naming convention for the workshop slug in the [workshops FAQ](https://carpentries.org/workshop_faq/#what-is-a-slug-and-how-should-i-use-it-to-name-my-workshop-website).
+
 
 ### Pre-Workshop Emails to Learners
 For in-person workshops, we recommend that workshop hosts contact learners ahead of time, offering information about the venue, providing pre-workshop survey links, and inquiring about accessibility needs, among other things. 
 
-For online workshops, the role of a workshop host is less clear, since there is no physical venue, need for snacks, or other peripheral arrangements. Furthermore, accessibility concerns are far more likely to be of direct relevance to instructors.
+For online workshops, the role of a workshop host is less clear, since there is no physical venue, need for snacks, or other peripheral arrangements. Furthermore, accessibility concerns are far more likely to be of direct relevance to Instructors.
 
 We do not yet have a template email specific to online events. However, our [template for in-person](https://docs.carpentries.org/topic_folders/workshop_administration/email_templates.html#email-learners-before-workshop) workshops may be useful in drafting your own. For online workshops in particular, we suggest providing a schedule of all breaks, not only lunch breaks, as this will make your workshop more accessible to participants with concurrent family and work obligations.
 
@@ -310,7 +312,7 @@ Back-channel communications within the instructional team are a vital basis for 
 #### Handling Questions
 Learner questions can be broadly classified in two ways: 
 
-* **Questions for the instructor**, usually about the lesson material, clarification, etc.
+* **Questions for the Instructor**, usually about the lesson material, clarification, etc.
     * Requested in person by: raising hand
     * Requested online by: typing “hand” in the chat, typing the question into the chat, or using a “raise hand” or non-verbal feedback option in the conferencing software. (In Zoom, availability of hand and non-verbal feedback options seems to vary, so we recommend avoiding this option unless you can verify that all learners have it available.)
 
@@ -329,7 +331,8 @@ Keep in mind that private messaging on Zoom makes it very easy to accidentally m
 #### Tracking progress
 
 In addition to requesting help, learners often use sticky notes at in-person workshops to indicate their status on completing a task. This mechanism can be mimicked in a few ways.  
-* Zoom: Learners can write "done" in the chat, but this can get noisy in large workshops, and it is difficult to notice non-responders. Nonverbal feedback can be enabled within the participant list. Learners can be asked (e.g.) to display a check mark when they are done/doing fine, or an X mark if they are stuck/uncertain. * Polling apps: instructors can make a poll to ask people how they are doing. Since most polling tools are anonymous, learners will need prompting to identify themselves to helpers when stuck. 
+* Zoom: Learners can write "done" in the chat, but this can get noisy in large workshops, and it is difficult to notice non-responders. Nonverbal feedback can be enabled within the participant list. Learners can be asked (e.g.) to display a check mark when they are done/doing fine, or an X mark if they are stuck/uncertain. 
+* Polling apps: Instructors can make a poll to ask people how they are doing. Since most polling tools are anonymous, learners will need prompting to identify themselves to helpers when stuck. 
 * [Other tools](#other-tools): Polls can be created within Slack, or learners can use emojis for nonverbal feedback.  Hovering over an emoji will display a list of learners who selected that item. Etherpad can be used to set up informal polls; selecting a choice with "x" can be identifiable if colors are named at the top right. Learners may also comment on polls in these contexts with any problems they encounter. 
 	
 As always, be sure to keep screen space and cognitive load in mind when considering adding a tool to your learning environment.
@@ -340,7 +343,7 @@ Formative assessment is important in any format to evaluate where the learners a
 * One quick approach is to offer prediction prompts while live coding, giving learners a chance to practice as they go.  Examples might include:
   * “How many lines will this print out when I execute this code?”
    * “Remind me what the name of this function is?” 
-   * “Which syntax is correct? (provide several options)”
+   * “Which syntax is correct?” (provide several options)
 * These prompts can be answered via the conferencing chat. Be sure to allow ample response time, factoring in both technical delays and time to think.
 * As with in-person workshops, other platforms can also be set up for formative assessment to create polls, multiple-choice questions, etc. Or a collaborative document may be used to provide more extensive exercises for independent or group practice. However you want your learners to respond, make sure your instructions are clear & reiterated with each prompt.
     
@@ -354,9 +357,9 @@ The challenge presented by a single small screen is particularly relevant to use
 #### Breakout Rooms
 Using breakout rooms can consume a lot of time in a workshop. However, feedback overwhelmingly indicates that learners appreciate opportunities to work in breakouts, so we strongly recommend making the time to do so. 
 
-It is a good idea to practice with this feature in advance of the workshop if you can. Only a meeting "host" can create breakout rooms in Zoom, and we suggest this role belong to a helper who can get the rooms ready to go before they are needed, and re-allocate people as necessary.
+It is a good idea to practice with this feature in advance of the workshop if you can. Only a meeting host or co-host can create breakout rooms in Zoom, and we suggest this role belong to a helper who can get the rooms ready to go before they are needed, and re-allocate people as necessary.
 
-Ideally, a helper should be assigned to each breakout room to provide assistance. If this is not possible, helpers can be moved around. However, because co-hosts cannot control breakouts in Zoom, the host has to move helpers around. It can be useful to have one or more extra breakout rooms available to route people for one-on-one help during activity time.
+Ideally, a helper should be assigned to each breakout room to provide assistance. If this is not possible, helpers can be moved around. It can be useful to have one or more extra breakout rooms available to route people for one-on-one help during activity time.
 
 Keep in mind that learners will be unable to access the main room chat during activites. This is a good time to use a collaborative document or external platform to keep in touch. A common complaint about breakouts is having confusion about an assigned activity with no way to get clarification.
 
@@ -368,13 +371,13 @@ Most workshops run smoothly, thanks to a community that appreciates participatio
 
 ##### Minor management
 The most common disruptions in online workshops may be muting errors. On Zoom, hosts and co-hosts have the power to mute other participants. Only participants can unmute themselves, and may not be able to do so after they have been muted by a host or co-host, so it is best to use those muting powers sparingly. Nonetheless, this can be vital when a participant accidentally unmutes during a presentation, so be sure someone is assigned to attend to this role.
-At workshops more generally, it is often the case that one or more advanced learners will attempt to steer the conversation towards subjects of interest to them, asking questions beyond the scope of the workshop or sharing comments that distract or undermine the fundamentals being taught. As with in-person events, having plenty of scheduled breaks gives you room to offer these times to learners who may wish to pursue off-topic conversations with an instructor or helper on the side. At that point, a breakout may be useful to keep the main session quiet and available to others with questions.
+At workshops more generally, it is often the case that one or more advanced learners will attempt to steer the conversation towards subjects of interest to them, asking questions beyond the scope of the workshop or sharing comments that distract or undermine the fundamentals being taught. As with in-person events, having plenty of scheduled breaks gives you room to offer these times to learners who may wish to pursue off-topic conversations with an Instructor or helper on the side. At that point, a breakout may be useful to keep the main session quiet and available to others with questions.
 
 ##### Persistent or severe disruptions
 For disruptions that cannot be resolved by gentle redirection or need to be addressed immediately, you will want to be familiar with your video conferencing platform's options for excluding participants from the main session.
 On Zoom, you can enable a "waiting room" and hosts or co-hosts can assign participants there at any time. Participants can receive messages in the waiting room but cannot respond. When someone is in the waiting room they may then be (re)admitted to the meeting or removed. Depending on the settings for your Zoom account (which may be determined by your institution), someone removed from a meeting may or may not be able to rejoin (so be careful with that "remove" button!). As long as waiting rooms are enabled, no one will be able to re-enter the main meeting without permission.
 If you feel that a private conversation may be helpful, hosts can invite a participant to join a breakout room or (with some advanced settings) force them to join. This takes a few moments to set up, however, and may disrupt any groupings you may have established.
-Whatever your platform, we recommend testing out controls for these processes in advance of the meeting. For more details on using Zoom with The Carpentries, see our [handbook](https://docs.carpentries.org/topic_folders/communications/tools/zoom_rooms.html).
+Whatever your platform, we recommend testing out controls for these processes in advance of the meeting. For more details on using Zoom with The Carpentries, see our [Handbook](https://docs.carpentries.org/topic_folders/communications/tools/zoom_rooms.html).
 
 ### Feedback time
 With workshops running longer and slower online, we know it is hard to make time to have learners complete minute cards and post-assessment surveys during the workshop. If at all possible, please remember to make space for this. Continuous learning is a [Carpentries core value](https://carpentries.org/values/), and learner feedback is a vital guide in that process! 
@@ -392,11 +395,11 @@ We know you have a 'real life' to get back to! As time allows, consider investin
 # What if I want to do it differently?
 The Carpentries is a community full of energy and ideas, and we know you are going to have your own thoughts about the best way to do this! 
 
-During the pilot phase, we ask that you reserve Carpentries branding for workshops that *mostly* follow these guidelines. Workshops that digress substantially, e.g. using a "flipped classroom" model with pre-recorded instruction and synchronous support, are best labeled "Carpentries-based" workshops for now. Also keep in mind our general guidelines on [what is and is not a Carpentries workshop](https://carpentries.github.io/instructor-training/21-carpentries/index.html#what-is-a-carpentries-workshop-the-rules). However, **we are interested in receiving feedback on all workshop formats,** even those that do not strictly qualify as Carpentries workshops under the pilot guidelines. 
+During the pilot phase, we ask that you reserve Carpentries branding for workshops that *mostly* follow these guidelines. Workshops that digress substantially, e.g. using a "flipped classroom" model with pre-recorded instruction and synchronous support, are best labeled "Carpentries-based" workshops for now. Also keep in mind our general guidelines on [what is and is not a Carpentries workshop](/workshops/#workshop-core). However, **we are interested in receiving feedback on all workshop formats,** even those that do not strictly qualify as Carpentries workshops under the pilot guidelines. 
 
 If you decide to experiment *within* the general parameters of these guidelines (e.g. splitting your workshop across 4 half days and adding an asynchronous support tool for the intervening times), you may still consider your workshop to be a Carpentries-branded pilot workshop. Be sure to let us know via our feedback channels what variation you have tried and how it worked out! 
 
 
 # Keep checking back here. These recommendations will change!
-As time passes, do not forget to check back here each time you teach! We will not be updating minor points continuously, but where adjustments really seem to have an impact we will update our recommendations ASAP. We will also consider expanding the constraints of the pilot if other experimental formats report solid outcomes with reproducible methods. 
+As time passes, do not forget to check back here each time you teach! We will not be updating minor points continuously, but where adjustments really seem to have an impact we will update our recommendations promptly. We will also consider expanding the constraints of the pilot if other experimental formats report solid outcomes with reproducible methods. 
 
