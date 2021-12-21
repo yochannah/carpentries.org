@@ -68,7 +68,7 @@ Carpentry Instructors are the core of our community. Instructors organise and te
 
 * [Instructor training curriculum](https://carpentries.github.io/instructor-training/)
 * [Become an Instructor!](https://carpentries.org/become-instructor/)
-* [Update](https://amy.carpentries.org/dashboard/trainee/autoupdate_profile/) your instructor profile
+* [Update]({{site.amy_landing}}) your instructor profile
 * For more information, contact us at [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org).
 
 ### Instructor Development
