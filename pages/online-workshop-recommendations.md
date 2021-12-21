@@ -98,7 +98,7 @@ Use this list to be sure you have given time and thought to each item. Not all i
 * Practice with tools and features
     - Spin up [cloud instances](https://github.com/carpentries/scaffolds/blob/master/instructions/workshop-coordination.md#supporting-learners-with-carpentries-scaffolds) (especially if using MyBinder)
     - Practice with security features (e.g. waiting rooms)
-* [Plan your post-workshop](#follow-up)
+* [Plan your post-workshop follow up](#follow-up)
 * Consult [The Carpentries Handbook](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#workshop-checklists) for any additional items that may apply from our in-person workshop checklists
 
 </div>
