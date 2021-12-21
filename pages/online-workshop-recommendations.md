@@ -234,7 +234,7 @@ Consider the following:
 * If you plan to have more than one meeting, does everyone need to be at all of them?
 * Assign meeting roles  
 
-For more advice on holding effective meetings, see [this section](http://teachtogether.tech/#s:meetings) of _Teaching Tech Together_ by Greg Wilson.
+For more advice on holding effective meetings, see the "Meetings, meetings, meetings" section of  _Teaching Tech Together_ by Greg Wilson in [English](http://teachtogether.tech/en/index.html#s:meetings) and [Spanish](http://teachtogether.tech/es/index.html#s:meetings).  
 
 ##### Follow-up
 After a workshop, everyone will be tired and (hopefully) basking in the success of a job well done! Often, we have intentions to follow-up on things after a workshop, but the demands of our day-to-day work often step in to get in the way. If you would like anything to happen after a workshop, planning ahead to schedule and delegate is the best way to make sure these things get done! 
