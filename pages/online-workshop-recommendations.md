@@ -401,5 +401,5 @@ If you decide to experiment *within* the general parameters of these guidelines 
 
 
 # Keep checking back here. These recommendations will change!
-As time passes, do not forget to check back here each time you teach! We will not be updating minor points continuously, but where adjustments really seem to have an impact we will update our recommendations ASAP. We will also consider expanding the constraints of the pilot if other experimental formats report solid outcomes with reproducible methods. 
+As time passes, do not forget to check back here each time you teach! We will not be updating minor points continuously, but where adjustments really seem to have an impact we will update our recommendations promptly. We will also consider expanding the constraints of the pilot if other experimental formats report solid outcomes with reproducible methods. 
 
