@@ -232,7 +232,8 @@ Consider the following:
 * What preparation can be done before a meeting?
 * What preparation can be done after a meeting?
 * If you plan to have more than one meeting, does everyone need to be at all of them?
-* Assign meeting roles 
+* Assign meeting roles  
+
 For more advice on holding effective meetings, see [this section](http://teachtogether.tech/#s:meetings) of _Teaching Tech Together_ by Greg Wilson.
 
 ##### Follow-up
