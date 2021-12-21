@@ -52,6 +52,8 @@ wrf_landing: "https://amy.carpentries.org/forms/workshop/" # Landing page for th
 wrf_request: "https://amy.carpentries.org/forms/request_workshop/" # Request a workshop
 wrf_inquiry:  "https://amy.carpentries.org/forms/inquiry/" # inquire about workshop
 wrf_selforg: "https://amy.carpentries.org/forms/self-organised/" # Report Self-Organised workshop
+amy_landing: "https://amy.carpentries.org/"
+instructor_training_app: "https://amy.carpentries.org/forms/request_training/"
 
 # Website repository
 website_github_repo: "https://github.com/carpentries/carpentries.org"

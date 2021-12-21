@@ -5,7 +5,7 @@ permalink: /community-member-profile-faq/
 ---
 
 ### What data do we publish?
-The Carpentries publishes lists of our [Instructors](/instructors/), [Maintainers](/maintainers/), [Mentors](/mentors/), and  [Trainers](/trainers/). These lists come from profiles in [AMY](https://amy.carpentries.org), our internal database.  Individuals must consent to having their profiles published by  [logging in to their AMY profile](https://docs.carpentries.org/topic_folders/workshop_administration/amy_manual.html#instructor-login).
+The Carpentries publishes lists of our [Instructors](/instructors/), [Maintainers](/maintainers/), [Mentors](/mentors/), and  [Trainers](/trainers/). These lists come from profiles in [AMY]({{site.amy_landing}}), our internal database.  Individuals must consent to having their profiles published by  [logging in to their AMY profile](https://docs.carpentries.org/topic_folders/workshop_administration/amy_manual.html#instructor-login).
 
 Instructors may also appear on our [Instructor map](/instructors-map/) if they have identified an airport in their profile.  The map offers aggregate information about where our instructors are based. To maintain privacy, individuals are not publicly identified by their airport, only their initials are displayed on the map.
 
