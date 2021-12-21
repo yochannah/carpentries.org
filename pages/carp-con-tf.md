@@ -78,5 +78,5 @@ In 2018, the following Task Force members were responsible for [a very successfu
 
 ## Contacting the Task Force
 
-We are now recruiting new Task Force members to help us organise CarpentryCon 2022. If you are interested in getting involved, [email us](mailto:carpentrycon@carpentries.org). You can also join the `#carpentrycon` channel on The Carpentries [Slack](https://swc-slack-invite.herokuapp.com/). 
+We are now recruiting new Task Force members to help us organise CarpentryCon 2022. If you are interested in getting involved, [email us](mailto:{{site.carpentrycon_contact}}). You can also join the `#carpentrycon` channel on The Carpentries [Slack](https://swc-slack-invite.herokuapp.com/). 
 

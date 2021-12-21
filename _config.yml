@@ -35,6 +35,7 @@ baseurl: ''
 filesurl: 'https://carpentries.org/files'
 contact: "team@carpentries.org"
 instructor_training_contact: "instructor.training@carpentries.org"
+carpentrycon_contact: "carpentrycon@carpentries.org"
 
 # Regional contacts
 contact_ca: "admin-ca@carpentries.org"      # Canada
