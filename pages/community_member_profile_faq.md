@@ -14,6 +14,6 @@ While we want to showcase our diverse community, we also want to maintain indivi
 
 
 ### Why do I not see my profile on the website?
-For your profile to appear on our website, you must consent to having your profile published by  [logging in to your AMY profile](https://docs.carpentries.org/topic_folders/workshop_administration/amy_manual.html#instructor-login). In order to show up on the Instructor map, you must also specify your airport. The airport closest to you may not be the one you use the most; how you identify your location is up to you.
+For your profile to appear on our website, you must consent to having your profile published by  [logging in to your AMY profile](https://docs.carpentries.org/topic_folders/workshop_administration/amy_manual.html#instructor-login). In order to show up on the [Instructor map](/instructors-map/), you must also specify your airport. The airport closest to you may not be the one you use the most; how you identify your location is up to you.
 
 
