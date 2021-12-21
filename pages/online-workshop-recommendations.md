@@ -343,7 +343,7 @@ Formative assessment is important in any format to evaluate where the learners a
 * One quick approach is to offer prediction prompts while live coding, giving learners a chance to practice as they go.  Examples might include:
   * “How many lines will this print out when I execute this code?”
    * “Remind me what the name of this function is?” 
-   * “Which syntax is correct? (provide several options)”
+   * “Which syntax is correct?” (provide several options)
 * These prompts can be answered via the conferencing chat. Be sure to allow ample response time, factoring in both technical delays and time to think.
 * As with in-person workshops, other platforms can also be set up for formative assessment to create polls, multiple-choice questions, etc. Or a collaborative document may be used to provide more extensive exercises for independent or group practice. However you want your learners to respond, make sure your instructions are clear & reiterated with each prompt.
     
