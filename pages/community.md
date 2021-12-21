@@ -331,7 +331,7 @@ Here is a list of all CarpentryConnect events held in the past: [carpentryconnec
 
 ### Lesson Infrastructure
 
-<mark>This is an inactive subcommunity in The Carpentries</mark>. Members of the Lesson Infrastructure Committee used ti serve as Maintainers for [The Carpentries lesson template](https://github.com/swcarpentry/styles) and [its documentation](https://github.com/swcarpentry/lesson-example), as well as for [The Carpentries workshop template](https://github.com/swcarpentry/workshop-template).
+<mark>This is an inactive subcommunity in The Carpentries</mark>. Members of the Lesson Infrastructure Committee used to serve as Maintainers for [The Carpentries lesson template](https://github.com/swcarpentry/styles) and [its documentation](https://github.com/swcarpentry/lesson-example), as well as for [The Carpentries workshop template](https://github.com/swcarpentry/workshop-template).
 
 * [Current members](https://github.com/carpentries/lesson-infrastructure#members)
 * [Upcoming meetings](http://pad.carpentries.org/infrastructure-subcommittee)
