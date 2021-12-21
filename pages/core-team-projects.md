@@ -456,7 +456,7 @@ In July, we systematised [our tagging system on The Carpentries blog](https://ca
 
 #### Expressing Gratitude To and From Our Community
 
-Throughout the month of December, we are practicing [our community values](https://carpentries.org/blog/2019/11/carpentries-values/) of “Valuing All Contributions” and “Community Collaboration” through our [Gratitudes Series](https://carpentries.org/blog/2019/11/carpentries-gratitudes-series/). We extend heartfelt thanks to all of the individuals, committee and task force members, and all others who support The Carpentries mission. Read all of the messages of gratitude so far and watch the [green-stickies tag on our blog](https://carpentries.org/posts-by-tags/#blog-tag-green-stickies) for upcoming posts. If your task force or committee isn’t listed yet, and would like to add your message of gratitude, get in touch with us at [team@carpentries.org](mailto:team@carpentries.org).
+Throughout the month of December, we are practicing [our community values](https://carpentries.org/blog/2019/11/carpentries-values/) of “Valuing All Contributions” and “Community Collaboration” through our [Gratitudes Series](https://carpentries.org/blog/2019/11/carpentries-gratitudes-series/). We extend heartfelt thanks to all of the individuals, committee and task force members, and all others who support The Carpentries mission. Read all of the messages of gratitude so far and watch the [green-stickies tag on our blog](https://carpentries.org/posts-by-tags/#blog-tag-green-stickies) for upcoming posts. If your task force or committee isn’t listed yet, and would like to add your message of gratitude, get in touch with us at [{{site.contact}}](mailto:{{site.contact}}).
 
 #### Planning for CarpentryCon 2020
 
@@ -655,7 +655,7 @@ Data Carpentry’s [Genomics workshop](https://datacarpentry.org/genomics-worksh
 
 #### Lesson Release
 
-Thanks to the more than 1100 of you who contributed, twenty-seven Data Carpentry, Library Carpentry and Software Carpentry lessons were [successfully released](https://carpentries.org/blog/2019/07/lesson-release/) on Zenodo this June. Publication provides contributors with a citable work product, and helps us recognise the work our community members do to keep our lessons healthy. If you don’t see yourself listed as an author for a lesson you contributed to, please let us know by contacting [team@carpentries.org](mailto: team@carpentries.org) so we can give you credit for your work.
+Thanks to the more than 1100 of you who contributed, twenty-seven Data Carpentry, Library Carpentry and Software Carpentry lessons were [successfully released](https://carpentries.org/blog/2019/07/lesson-release/) on Zenodo this June. Publication provides contributors with a citable work product, and helps us recognise the work our community members do to keep our lessons healthy. If you don’t see yourself listed as an author for a lesson you contributed to, please let us know by contacting [{{site.contact}}](mailto:{{site.contact}}) so we can give you credit for your work.
 
 #### Image Analysis Curriculum
 
@@ -780,7 +780,7 @@ François Michonneau · Maneesha Sane
 
 #### Workshop Surveys
 
-In October, we [rolled out an update](https://carpentries.org/blog/2019/10/transition-to-typeform/) to our pre- and post-workshop surveys that provides a more intuitive and (hopefully) a better overall experience for both learners and Instructors. Learners can now complete the surveys more quickly, and Instructors now receive a clearer and more actionable overview of their learners’ survey responses. With this new system, we can customise the way results are presented to ensure they are maximally useful for Instructors. If you check your survey results and find yourself thinking “I would really like to see things visualised this way instead” please [get in touch](mailto:francois@carpentries.org)! We’re also seeking a community member to review the code used to generate these reports, as we prepare to open-source this code as a Shiny app. Please [contact François](mailto:francois@carpentries.org) if you’re interested. For any other questions about this new system, please contact [team@carpentries.org](mailto:team@carpentries.org).
+In October, we [rolled out an update](https://carpentries.org/blog/2019/10/transition-to-typeform/) to our pre- and post-workshop surveys that provides a more intuitive and (hopefully) a better overall experience for both learners and Instructors. Learners can now complete the surveys more quickly, and Instructors now receive a clearer and more actionable overview of their learners’ survey responses. With this new system, we can customise the way results are presented to ensure they are maximally useful for Instructors. If you check your survey results and find yourself thinking “I would really like to see things visualised this way instead” please [get in touch](mailto:francois@carpentries.org)! We’re also seeking a community member to review the code used to generate these reports, as we prepare to open-source this code as a Shiny app. Please [contact François](mailto:francois@carpentries.org) if you’re interested. For any other questions about this new system, please contact [{{site.contact}}](mailto:{{site.contact}}).
 
 </details>
 
@@ -1225,7 +1225,7 @@ Maneesha Sane · SherAaron Hurt · Talisha Sutton-Kennedy
 
   In the first quarter of 2019, the Workshop Administration team, including the [Regional Coordinators](https://carpentries.org/regionalcoordinators/), developed a [list](https://docs.google.com/spreadsheets/d/1e62jof6IgIu6Y-2sz2jZmb_ayLJVOU_UxihEiKZOnSs/edit#gid=0) of all of the tasks that they would like to have automated. We feel strongly about the need for continued human interaction with the community, so our list also includes tasks that should not be automated. In addition to creating the list, we ranked our ideas in order of priority. We then worked with the Infrastructure team to review these two lists and decided on items to be automated in Q2.
 
-  In Q2, the Workshop Administration team will work with the Infrastructure, Membership and Community Development teams to update the Workshop Request Form. Currently, the [single form](https://amy.carpentries.org/forms/workshop/) is used to notify us of Centrally-Organised workshops, Self-Organised workshops and inquiries. To ensure that The Carpentries Staff captures the information needed and the Requester/Informer fills out only the necessary fields, we will recreate the one form and divide it into 3 forms:
+  In Q2, the Workshop Administration team will work with the Infrastructure, Membership and Community Development teams to update the Workshop Request Form. Currently, the [single form]({{site.wrf_landing}}) is used to notify us of Centrally-Organised workshops, Self-Organised workshops and inquiries. To ensure that The Carpentries Staff captures the information needed and the Requester/Informer fills out only the necessary fields, we will recreate the one form and divide it into 3 forms:
       <ol style="list-style-type: lower-alpha;">
         <li>Workshop Request Form, </li>
         <li>Workshop Inquiry Form and </li>

@@ -13,6 +13,8 @@ permalink: "/members/"
 A Member Organisation is an organisation that has made a financial commitment to
 the growth and sustainability of The Carpentries and is building local capacity for training. See more on [becoming a Member Organisation]({% link pages/membership.html %}).
 
+View our [current member sites on a map]({% link pages/members-map.html %}).
+
 ### Platinum Member Organisations
 
 <ul>
@@ -74,4 +76,15 @@ the growth and sustainability of The Carpentries and is building local capacity 
 </li>
 {% endfor %}
 </ul>
+
+<script>
+    var images = document.getElementsByTagName('img')
+    // Start loop at 1. Hacky way to avoid the banner image.
+    for (let i=1; i < images.length; i++) {
+        var regionNames = new Intl.DisplayNames(['en'], {type: 'region'});
+        fullName = regionNames.of(images[i].title);
+        images[i].title = fullName;
+        images[i].alt = fullName;
+    }
+</script>
 

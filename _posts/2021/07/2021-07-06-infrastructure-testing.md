@@ -235,6 +235,7 @@ A big thank you goes out to all of our community members who gave their time to 
  - Fan Du
  - François Michonneau
  - Jon Haitz Legarreta Gorroño
+ - Liane Newton
  - Karen Word
  - Kari Jordan
  - Maneesha Sane
@@ -243,7 +244,6 @@ A big thank you goes out to all of our community members who gave their time to 
  - Sarah Stevens
  - Shaun C. Gaynor
  - Toby Hodges
- - anonymous
 
 
 [depr]: https://carpentries.org/blog/2020/08/lesson-template-design/

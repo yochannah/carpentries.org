@@ -68,8 +68,8 @@ Carpentry Instructors are the core of our community. Instructors organise and te
 
 * [Instructor training curriculum](https://carpentries.github.io/instructor-training/)
 * [Become an Instructor!](https://carpentries.org/become-instructor/)
-* [Update](https://amy.carpentries.org/dashboard/trainee/autoupdate_profile/) your instructor profile
-* For more information, contact us at [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org).
+* [Update]({{site.amy_landing}}) your instructor profile
+* For more information, contact us at [{{site.instructor_training_contact}}](mailto:{{site.instructor_training_contact}}).
 
 ### Instructor Development
 
@@ -101,12 +101,11 @@ The Instructor Development Committee supports Instructors as they progress throu
 ### Trainers
 The Trainer community is a group of experienced Instructors, local champions, and education specialists who inspire and prepare new Instructors. They work as a team to maintain and teach the [instructor training curriculum](https://carpentries.github.io/instructor-training/). They also host teaching demonstration sessions to provide vital feedback as prospective Carpentries Instructors prepare to join the community. They showcase and embody the enthusiasm and conduct of our community as they prepare new instructors. Becoming a Trainer lets you scale your impact - sharing your own passion, experience, and enthusiasm with the next generation of The Carpentries Instructors.
 
-* [Application to become a Trainer](https://forms.gle/47zsFpx4u1K76VoR8) *Open through December 2, 2021*
 * [Trainer Training materials](https://carpentries.github.io/trainer-training/)
 * [Duties](http://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html#trainer-agreement)
 * [Current members](https://github.com/carpentries/trainers/blob/main/README.md#current-members)
 * [Meeting minutes](https://github.com/carpentries/trainers/tree/main/minutes)
-* [Contact](mailto:instructor.training@carpentries.org).
+* [Contact](mailto:{{site.instructor_training_contact}}).
 
 Private resources for current Trainers:
 * [Upcoming meetings](http://pad.carpentries.org/trainers) *Meetings are private to Trainers and invited guests*
@@ -116,11 +115,10 @@ Private resources for current Trainers:
 
 
 ### Maintainers
-The Carpentries Maintainers work with the community to make sure that lessons stay up-to-date, accurate, functional and cohesive. Maintainers monitor their lesson repository, make sure that pull requests and issues are addressed in a timely manner, and participate in the lesson development cycle including lesson releases. They endeavor to be welcoming and supportive of contributions from all members of the community. This community of practice is a great place to learn to collaborate effectively in Git and GitHub.
+The Carpentries Maintainers work with the community to make sure that lessons stay up-to-date, accurate, functional and cohesive. Maintainers monitor their lesson repository, make sure that pull requests and issues are addressed in a timely manner, and participate in the lesson development cycle including lesson releases. They endeavor to be welcoming and supportive of contributions from all members of the community. This community of practice is a great place to learn to collaborate effectively in Git and GitHub. Upcoming rounds of Maintainer Onboarding will be announced on our [newsletter]({{ site.url }}{{ site.baseurl }}/newsletter/) and [blog]({{ site.url }}{{ site.baseurl }}/blog/).  
 
 * [Training materials](https://carpentries.github.io/maintainer-onboarding/)
 * [Maintainer guidelines](http://docs.carpentries.org/topic_folders/maintainers/maintainers.html#maintainer-guidelines)
-* [Apply to become a Maintainer](https://docs.google.com/forms/d/e/1FAIpQLSe_pK34DCFgaqriSYfZv0gBhZ22nnmJJGtiXKQqKhrS-pF2tw/viewform)
 * [Upcoming meetings](https://codimd.carpentries.org/maintainers?both)
 * [Mailing list]({{site.mailing_lists}}/maintainers)
 * [Slack](https://swc-slack-invite.herokuapp.com/)
@@ -174,7 +172,7 @@ network with other domain experts in The Carpentries community. We are not curre
 
 ##### Software Carpentry CAC
 * [Current Software Carpentry CAC members](https://software-carpentry.org/blog/2018/05/swc-cac.html)
-* [Software Carpentry CAC contact](mailto:team@carpentries.org)
+* [Software Carpentry CAC contact](mailto:{{site.contact}})
 
 ##### Library Carpentry CAC
 * [Library Carpentry CAC members](https://librarycarpentry.org/cac/)
@@ -237,14 +235,14 @@ The Carpentries Instructor community in Africa is growing, with over a hundred c
 * [Activities](https://docs.carpentries.org/topic_folders/regional_communities/african_task_force.html#what-we-do)
 * [Join Slack and Mailing List](https://docs.carpentries.org/topic_folders/regional_communities/african_task_force.html#join-us)
 * [Community Etherpad](http://pad.carpentries.org/ZA-community-call)
-* [Contact](mailto:admin-afr@carpentries.org)
+* [Contact the Regional Coordinator](mailto:{{site.contact_afr}})
 
 #### Carpentries in Canada
 
 Here are details about The Carpentries Instructor community in  Canada:
 
 * [Join Vancouver's mailing list](https://carpentries.topicbox.com/groups/local-vancouver)
-* [Contact](mailto:admin-ca@carpentries.org)
+* [Contact the Regional Coordinator](mailto:{{site.contact_ca}})
 
 #### Carpentries in Middle East and North Africa
 
@@ -316,7 +314,7 @@ Here is a list of all CarpentryConnect events held in the past: [carpentryconnec
 * [Mailing list](https://carpentries.topicbox.com/groups/champions)
 * [Meeting minutes](https://github.com/carpentries/champions/tree/master/meeting-minutes)
 * [Carpentries Community Cookbook](https://cookbook.carpentries.org/)
-* To get involved, contact our [Team](mailto:team@carpentries.org).
+* To get involved, contact our [Team](mailto:{{site.contact}}).
 
 ### Assessment Network
 

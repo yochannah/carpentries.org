@@ -107,7 +107,7 @@ which is used to generate the site's pull-down navigation menu.
 
 <a name="workshop"></a>
 To **add a workshop**,
-fill in the [workshop request form](https://amy.carpentries.org/forms/workshop/) online.
+fill in the [workshop request form]({{site.wrf_landing}}) online.
 You should fill in this form even for Self-Organised workshops in order to get your workshop into our database.
 
 ## The Details <a name="details"></a>

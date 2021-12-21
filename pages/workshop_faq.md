@@ -15,7 +15,7 @@ permalink: /workshop_faq/
 
 ### Why is my workshop not listed on the [carpentries.org](https://carpentries.org) webpage?
 
-There are 3 things that must happen in order for a workshop to appear on The Carpentries webpage. You must complete the [workshop request/notification form](https://amy.carpentries.org/forms/workshop/), the workshop website must include the venue, and at least one Instructor must be identified. If the Instructors change, we will get notified and will be able to make the update.
+There are 3 things that must happen in order for a workshop to appear on The Carpentries webpage. You must complete the [workshop request/notification form]({{site.wrf_landing}}), the workshop website must include the venue, and at least one Instructor must be identified. If the Instructors change, we will get notified and will be able to make the update.
 
 ### If I am teaching a Data Carpentry Genomics workshop, how many AWS Instances will be provided and when will we receive them?
 
@@ -43,7 +43,7 @@ The learner facing survey links are automatically generated on the workshop's we
 
 ### How do I access the survey results?
 
-If you are planning a workshop, please notify the Workshop Administration Team of your planned workshop using the [workshop request form](https://amy.carpentries.org/forms/workshop/). The Workshop Administration Team will send the link to view results of the survey 1-2 weeks prior to the workshop. If there are more than 10 survey responses, you will have the option to download the survey data, using the "Download CSV" link at the bottom right of the survey results page.
+If you are planning a workshop, please notify the Workshop Administration Team of your planned workshop using the [workshop request form]({{site.wrf_landing}}). The Workshop Administration Team will send the link to view results of the survey 1-2 weeks prior to the workshop. If there are more than 10 survey responses, you will have the option to download the survey data, using the "Download CSV" link at the bottom right of the survey results page.
 
 ## Curriculum
 
@@ -51,17 +51,15 @@ If you are planning a workshop, please notify the Workshop Administration Team o
 
 It is important that we know about workshops being publicised because people often contact us to report that they will be unable to attend a workshop or to ask questions and if we do not know about planned workshops, we can not provide support or share information with Instructors.
 
-If you are teaching a portion of The Carpentries curriculum or if the workshop does not align with the [Core Curriculum](https://carpentries.org/workshops/#workshop-core) we ask that you still [register](https://amy.carpentries.org/forms/self-organised/) your workshop and select the “Mix & Match” option for the question “Which Carpentries workshop are you teaching?”. *This option is only available for Self-Organised workshops. Centrally-Organised workshops are required to follow the Core Curricula.*
+If you are teaching a portion of The Carpentries curriculum or if the workshop does not align with the [Core Curriculum](https://carpentries.org/workshops/#workshop-core) we ask that you still [register]({{site.wrf_landing}}) your workshop and select the “Mix & Match” option for the question “Which Carpentries workshop are you teaching?”. *This option is only available for Self-Organised workshops. Centrally-Organised workshops are required to follow the Core Curricula.*
 
 ### When we teach our workshops, how closely do we have to stick to the Carpentries lesson plans?
 
-To be considered an official Carpentries workshop, you must follow the [Core Curricula](https://carpentries.org/workshops/#workshop-core). If you teach something other than what is listed on our webpage, we ask that you acknowledge that your workshop is "inspired by SWC/DC/LC" or "based on SWC/DC/LC". You can still [register](https://amy.carpentries.org/forms/self-organised/) your workshop and select the workshop you are teaching is “Mix & Match”, so that we can show others how you use The Carpentries resources.
+To be considered an official Carpentries workshop, you must follow the [Core Curricula](https://carpentries.org/workshops/#workshop-core). If you teach something other than what is listed on our webpage, we ask that you acknowledge that your workshop is "inspired by SWC/DC/LC" or "based on SWC/DC/LC". You can still [register]({{site.wrf_landing}}) your workshop and select the workshop you are teaching is “Mix & Match”, so that we can show others how you use The Carpentries resources.
 
 ## Centrally-Organised Workshops
 
 ### How much does a workshop cost?
-
-If you are a government or non-profit institution and would like The Carpentries to assist with organising your workshop, there is an administrative fee of $2500 US. You will also be responsible for the travel expenses for each Instructor (see below). If you are a for-profit institution please [contact us](mailto:team@carpentries.org). 50% of workshop coordination fees for for-profit institutions support workshops in diverse communities.
 
 Please visit our [website](https://carpentries.org/workshops/#workshop-cost) for more information.
 
@@ -100,7 +98,7 @@ Self-Organised workshops are managed by the instructor/organiser. Since you will
 
 ### How do I inform you I am running a Self-Organised workshop?
 
-When planning a Self-Organised workshop, we ask that you notify us of your planned workshop. Once the workshop webpage is created, please share the link with us and notify us of your planned workshop via the [Self-Organised workshop form](https://amy.carpentries.org/forms/self-organised/). Once we receive the link to the workshop webpage, we will be able to [add your workshop to our website](https://carpentries.org/upcoming_workshops/), provide support (in the form of survey result links and AMI instances for Genomics workshops), and get Instructors and helpers credit for the workshops they teach.
+When planning a Self-Organised workshop, we ask that you notify us of your planned workshop. Once the workshop webpage is created, please share the link with us and notify us of your planned workshop via the [Self-Organised workshop form]({{site.wrf_landing}}). Once we receive the link to the workshop webpage, we will be able to [add your workshop to our website](https://carpentries.org/upcoming_workshops/), provide support (in the form of survey result links and AMI instances for Genomics workshops), and get Instructors and helpers credit for the workshops they teach.
 
 ### If I need help recruiting Instructors, Supporting Instructors, and/or Helpers for a Self-Organised workshop, what are my options?
 
@@ -175,11 +173,11 @@ A Self-Organised workshop is organised by the workshop instructor/organiser. Thi
 
 ### How do I get survey data/links for previous workshops?
 
-The Workshop Administration Team can provide survey result links for past workshops (August 2018 - present) to workshop instructors/organizers or instructors affiliated with the hosting organisation. To request survey results links, please send an email to the Workshop Administration Team (via team@carpentries.org) with your request and include a link to the workshop website(s) and/or slug(s).
+The Workshop Administration Team can provide survey result links for past workshops (August 2018 - present) to workshop instructors/organizers or instructors affiliated with the hosting organisation. To request survey results links, please send an email to the Workshop Administration Team (via [{{site.contact}}](mailto:{{site.contact}})) with your request and include a link to the workshop website(s) and/or slug(s).
 
 ### Can we restrict who participates in our workshops?
 
-Yes, it is up to the workshop organisers to decide who can attend a workshop. You can have it open to the public or restricted to people from your organisation. When you [request](https://amy.carpentries.org/forms/request_workshop/) or [register](https://amy.carpentries.org/forms/self-organised/) your workshop, you can indicate if the workshop is open to the public or not.
+Yes, it is up to the workshop organisers to decide who can attend a workshop. You can have it open to the public or restricted to people from your organisation. When you [request]({{site.wrf_landing}}) or [register]({{site.wrf_landing}}) your workshop, you can indicate if the workshop is open to the public or not.
 
 ### How many times a year do I have to teach to be eligible to vote?
 
@@ -191,7 +189,7 @@ We have compiled several [email templates](https://docs.carpentries.org/topic_fo
 
 ### I do not see a [Regional Coordinator](https://carpentries.org/regionalcoordinators/) for my area. Who should I speak with regarding a workshop?
 
-If you live in an area that does not have a Regional Coordinator in that region, you are welcome to contact the Deputy Director of Workshops & Meetings at [team@carpentries.org](mailto:team@carpentries.org). This person is responsible for all workshops that do not have a Regional Coordinator.
+If you live in an area that does not have a Regional Coordinator in that region, you are welcome to contact the Deputy Director of Workshops & Meetings at [{{site.contact}}](mailto:{{site.contact}}). This person is responsible for all workshops that do not have a Regional Coordinator.
 
 ### Can I charge Learners a fee to attend a workshop I host?
 

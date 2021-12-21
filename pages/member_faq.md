@@ -125,5 +125,5 @@ this program by selecting “Open Training Application” in our [Instructor Tra
 
  **...general membership questions?** Contact [membership@carpentries.org](mailto:membership@carpentries.org)<br>
  **...workshops?** Contact [workshops@carpentries.org](mailto:workshops@carpentries.org)<br>
- **...instructor training?** Contact [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org)<br>
+ **...instructor training?** Contact [{{site.instructor_training_contact}}g](mailto:{{site.instructor_training_contact}})<br>
  **...legal or financial questions?** Contact [finance@carpentries.org](mailto:finance@carpentries.org)<br>
