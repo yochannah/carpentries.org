@@ -296,9 +296,12 @@ Here are details about The Carpentries Instructor community in the Nordics:
 
 ### CarpentryCon
 
-The Carpentries hosts CarpentryCon, a community-organised meeting for our global community. [CarpentryCon 2018](http://www.carpentrycon.org/) was held from 30 May to 1 June in Dublin, Ireland. [An online, seven-week CarpentryCon @ Home](http://2020.carpentrycon.org) was held between July and August 2020. Both conferences were a great success. If you are interested in helping to organise the next CarpentryCon, contact [The Carpentries](mailto:{{site.contact}}).
+The Carpentries hosts [CarpentryCon](http://www.carpentrycon.org/), a community-organised meeting for our global community. 
+* [CarpentryCon 2018](https://2018.carpentrycon.org/) was held from 30 May to 1 June 2018 in Dublin, Ireland. 
+* [CarpentryCon 2020](https://2020.carpentrycon.org) was held between July and August 2020 as a seven week online event.
+* [CarpentryCon 2022](https://2022.carpentrycon.org/) will be 1-12 August 2022 as an online event.
 
-A global CarpentryCon will be held every two years, with locally organised CarpentryConnect events held in the off years.
+If you are interested in helping to organise the next CarpentryCon, contact [The Carpentries](mailto:{{site.carpentrycon_contact}}).
 
 ### CarpentryConnects
 
