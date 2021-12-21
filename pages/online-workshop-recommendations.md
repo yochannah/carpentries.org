@@ -240,9 +240,10 @@ For more advice on holding effective meetings, see [this section](http://teachto
 After a workshop, everyone will be tired and (hopefully) basking in the success of a job well done! Often, we have intentions to follow-up on things after a workshop, but the demands of our day-to-day work often step in to get in the way. If you would like anything to happen after a workshop, planning ahead to schedule and delegate is the best way to make sure these things get done! 
 
 ### How to register your online workshop
-Please be sure to [register]({{site.wrf_landing}}) your Self-Organised workshop, as you begin planning your Carpentries online event. It is important that you use a unique workshop id so that we can add your workshop to our database and provide the proper communications with you. 
+Please be sure to [register]({{site.wrf_landing}}) your Self-Organised workshop, as you begin planning your Carpentries online event. It is important that you use a unique workshop id (or slug) so that we can add your workshop to our database and provide the proper communications with you. 
 
-When creating your workshop website, please use the following naming convention: **YYYY-MM-DD-sitename-online**
+Read about the naming convention for the workshop slug in the [workshops FAQ](https://carpentries.org/workshop_faq/#what-is-a-slug-and-how-should-i-use-it-to-name-my-workshop-website).
+
 
 ### Pre-Workshop Emails to Learners
 For in-person workshops, we recommend that workshop hosts contact learners ahead of time, offering information about the venue, providing pre-workshop survey links, and inquiring about accessibility needs, among other things. 
