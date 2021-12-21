@@ -329,7 +329,8 @@ Keep in mind that private messaging on Zoom makes it very easy to accidentally m
 #### Tracking progress
 
 In addition to requesting help, learners often use sticky notes at in-person workshops to indicate their status on completing a task. This mechanism can be mimicked in a few ways.  
-* Zoom: Learners can write "done" in the chat, but this can get noisy in large workshops, and it is difficult to notice non-responders. Nonverbal feedback can be enabled within the participant list. Learners can be asked (e.g.) to display a check mark when they are done/doing fine, or an X mark if they are stuck/uncertain. * Polling apps: instructors can make a poll to ask people how they are doing. Since most polling tools are anonymous, learners will need prompting to identify themselves to helpers when stuck. 
+* Zoom: Learners can write "done" in the chat, but this can get noisy in large workshops, and it is difficult to notice non-responders. Nonverbal feedback can be enabled within the participant list. Learners can be asked (e.g.) to display a check mark when they are done/doing fine, or an X mark if they are stuck/uncertain. 
+* Polling apps: instructors can make a poll to ask people how they are doing. Since most polling tools are anonymous, learners will need prompting to identify themselves to helpers when stuck. 
 * [Other tools](#other-tools): Polls can be created within Slack, or learners can use emojis for nonverbal feedback.  Hovering over an emoji will display a list of learners who selected that item. Etherpad can be used to set up informal polls; selecting a choice with "x" can be identifiable if colors are named at the top right. Learners may also comment on polls in these contexts with any problems they encounter. 
 	
 As always, be sure to keep screen space and cognitive load in mind when considering adding a tool to your learning environment.
