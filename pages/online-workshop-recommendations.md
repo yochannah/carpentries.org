@@ -357,9 +357,9 @@ The challenge presented by a single small screen is particularly relevant to use
 #### Breakout Rooms
 Using breakout rooms can consume a lot of time in a workshop. However, feedback overwhelmingly indicates that learners appreciate opportunities to work in breakouts, so we strongly recommend making the time to do so. 
 
-It is a good idea to practice with this feature in advance of the workshop if you can. Only a meeting "host" can create breakout rooms in Zoom, and we suggest this role belong to a helper who can get the rooms ready to go before they are needed, and re-allocate people as necessary.
+It is a good idea to practice with this feature in advance of the workshop if you can. Only a meeting host or co-host can create breakout rooms in Zoom, and we suggest this role belong to a helper who can get the rooms ready to go before they are needed, and re-allocate people as necessary.
 
-Ideally, a helper should be assigned to each breakout room to provide assistance. If this is not possible, helpers can be moved around. However, because co-hosts cannot control breakouts in Zoom, the host has to move helpers around. It can be useful to have one or more extra breakout rooms available to route people for one-on-one help during activity time.
+Ideally, a helper should be assigned to each breakout room to provide assistance. If this is not possible, helpers can be moved around. It can be useful to have one or more extra breakout rooms available to route people for one-on-one help during activity time.
 
 Keep in mind that learners will be unable to access the main room chat during activites. This is a good time to use a collaborative document or external platform to keep in touch. A common complaint about breakouts is having confusion about an assigned activity with no way to get clarification.
 
