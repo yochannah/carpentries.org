@@ -10,7 +10,7 @@ The Carpentries publishes lists of our [Instructors](/instructors/), [Maintainer
 Instructors may also appear on our [Instructor map](/instructors-map/) if they have identified an airport in their profile.  The map offers aggregate information about where our instructors are based. To maintain privacy, individuals are not publicly identified by their airport, only their initials are displayed on the map.
 
 ### Why are things set up this way?
-While we want to showcase our diverse community, we also want to maintain individual privacy. To help you connect with local communities, The Carpentries offers [local and regional mailing lists](https://docs.carpentries.org/topic_folders/regional_communities/index.html) and Slack channels. If you do not see a list in your region, [contact us](mailto:team@carpentries.org).  We will set up a list and invite our community members in that region to join. Community members can opt-in to these lists.
+While we want to showcase our diverse community, we also want to maintain individual privacy. To help you connect with local communities, The Carpentries offers [local and regional mailing lists](https://docs.carpentries.org/topic_folders/regional_communities/index.html) and Slack channels. If you do not see a list in your region, [contact us](mailto:{{site.contact}}).  We will set up a list and invite our community members in that region to join. Community members can opt-in to these lists.
 
 
 ### Why do I not see my profile on the website?

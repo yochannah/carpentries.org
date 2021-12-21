@@ -111,7 +111,7 @@ happens on the [discussion mailing list][discuss-list],
 which everyone is welcome to join.
 You can also [reach us by email][contact].
 
-[contact]: mailto:team@carpentries.org
+[contact]: mailto:{{site.contact}}
 [conduct]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
 [dc-issues]: https://github.com/issues?q=user%3Adatacarpentry
 [dc-lessons]: https://datacarpentry.org/lessons/

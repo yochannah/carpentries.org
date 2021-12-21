@@ -36,6 +36,6 @@ The Carpentries Incubator,
 or The Carpentries Lab
 and would like to add your repository to,
 or remove your repository from this listing,
-please send an email to [team@carpentries.org](mailto:team@carpentries.org).
+please send an email to [{{site.contact}}](mailto:{{site.contact}}).
 
 [Read this guide to learn more about how and when to add “help wanted” and other labels to issues on your lesson repository](https://docs.carpentries.org/topic_folders/maintainers/github_labels.html).
