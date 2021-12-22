@@ -160,7 +160,7 @@ Accessibility facilitators will be community facilitators who lead conversations
 Curriculum Advisors provide high-level guidance on the overall structure of a particular curriculum,
 including which tools will be taught and which dataset(s) will be used for the lessons.
 They bring domain-specific expertise to lesson development and help ensure that
-lesson stay up to date with advances in technology. Being a Curriculum Advisor is a great way to keep up-to-date about changes in your field and
+lessons stay up to date with advances in technology. Being a Curriculum Advisor is a great way to keep up-to-date about changes in your field and
 network with other domain experts in The Carpentries community. We are not currently seeking new members to the Curriculum Advisory Committees.
 
 * [Curriculum Advisory Committee (CAC) Duties](http://docs.carpentries.org/topic_folders/lesson_development/lesson_development_roles.html)
