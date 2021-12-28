@@ -96,7 +96,7 @@ The Instructor Development Committee supports Instructors as they progress throu
 * Join: Join the Instructor Development Committee by attending our monthly meeting.
 * [Upcoming meetings](http://pad.carpentries.org/instructor-development)
 * [Mailing list]({{site.mailing_lists}}/instructor-development)
-* For more information, contact [Alycia Crall](mailto:alycia@carpentries.org).
+* For more information, contact [Sher! Hurt](mailto:sheraaron@carpentries.org).
 
 ### Trainers
 The Trainer community is a group of experienced Instructors, local champions, and education specialists who inspire and prepare new Instructors. They work as a team to maintain and teach the [instructor training curriculum](https://carpentries.github.io/instructor-training/). They also host teaching demonstration sessions to provide vital feedback as prospective Carpentries Instructors prepare to join the community. They showcase and embody the enthusiasm and conduct of our community as they prepare new instructors. Becoming a Trainer lets you scale your impact - sharing your own passion, experience, and enthusiasm with the next generation of The Carpentries Instructors.
