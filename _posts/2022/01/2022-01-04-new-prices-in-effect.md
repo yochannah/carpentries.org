@@ -3,7 +3,7 @@ layout: page
 authors: ["Erin Becker"]
 teaser: "Our new pricing structure for workshops, Instructor Training, and memberships goes into effect today."
 title: "New Prices for Workshops, Instructor Training, and Memberships"
-date: 2021-01-04
+date: 2022-01-04
 time: "09:00:00"
 tags: ["Membership", "Community"]
 ---
