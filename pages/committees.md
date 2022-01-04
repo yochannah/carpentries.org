@@ -12,4 +12,8 @@ infrastructure, and more. Visit the page for each committee or task force to fin
 - [Code of Conduct Committee](https://carpentries.org/coc-ctte/)
 - [Instructor Development Committee](https://carpentries.org/inst-dev/)
 - [Lesson Infrastructure Committee](https://carpentries.org/lesson-infra/)
-- Curriculum Advisory Committee
+- Curriculum Advisory Committee*
+  - [Library Carpentry](https://librarycarpentry.org/cac/)
+  - [Data Carpentry](http://www.datacarpentry.org/lesson-leadership/)
+
+\* a Curriculum Advisory Committee for Software Carpentry is being established and will be linked from here soon.
