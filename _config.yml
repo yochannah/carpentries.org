@@ -56,6 +56,10 @@ wrf_selforg: "https://amy.carpentries.org/forms/self-organised/" # Report Self-O
 amy_landing: "https://amy.carpentries.org/"
 instructor_training_app: "https://amy.carpentries.org/forms/request_training/"
 
+# Scholarship form
+financial_support_form: "https://carpentries.typeform.com/to/lZat2eO5"
+
+
 # Website repository
 website_github_repo: "https://github.com/carpentries/carpentries.org"
 gh_default_branch: "main"
