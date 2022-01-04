@@ -21,4 +21,4 @@ Over the next year, the Core Team’s Business Team will work with the Executive
 
 A huge thank you goes out to the members of this task force, for sharing their time and thoughts with us as we worked to develop these recommendations. Thank you for your support of our community and our shared values.
 
-If you would like to learn more about what we do, ask a question, or share any concerns about the work of the Business Team, please (get in touch by email)[mailto:team@carpentries.org]. We would love to hear from you.
+If you would like to learn more about what we do, ask a question, or share any concerns about the work of the Business Team, please [get in touch by email](mailto:team@carpentries.org). We would love to hear from you.
