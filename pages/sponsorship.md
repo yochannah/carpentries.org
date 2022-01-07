@@ -17,7 +17,7 @@ The Sponsorship Application Form is also available as a [fillable PDF](/files/pd
 
 ## Our Sponsors
 [**RStudio**](https://www.rstudio.com/)
-![RStudio Logo]({{ site.urlimg }}/logos/RStudio-Logo-Flat.png)
+![RStudio Logo]({{ site.urlimg }}/logos/RStudio-Logo-Flat-800x200.png)
 
 <hr>
 
