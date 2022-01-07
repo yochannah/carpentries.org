@@ -15,6 +15,10 @@ With support from sponsors, The Carpentries will continue our efforts to make co
 
 The Sponsorship Application Form is also available as a [fillable PDF](/files/pdf/Sponsorship-Form.pdf). If you choose to download and fill out the PDF, please email the completed form to [sponsorship@carpentries.org](mailto:sponsorship@carpentries.org)
 
+## Our Sponsors
+[**RStudio**](https://www.rstudio.com/)
+![RStudio Logo]({{ site.urlimg }}/logos/RStudio-Logo-Flat.png)
+
 <hr>
 
 ## Sponsorship Levels
