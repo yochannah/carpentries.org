@@ -3,7 +3,7 @@ layout: page
 authors: ["Renato Alves", "Anne Fouilloux", "Toby Hodges", "Aleksandra Nenadic", "Sarah Stevens"]
 teaser: "Get involved in the community’s development of a new lesson to teach Jekyll and GitHub."
 title: "Incubator Lesson Spotlight: Building Websites with Jekyll & GitHub Pages"
-date: 2021-12-16
+date: 2022-01-11
 time: "09:00:00"
 tags: ["Carpentries Incubator Lesson Spotlight", "Incubator", "Community"]
 lesson_title: “Building Websites with Jekyll & GitHub Pages”
