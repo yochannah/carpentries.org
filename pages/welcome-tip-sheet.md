@@ -35,7 +35,7 @@ The Carpentries supports communications from our Core Team and across our commun
 
 - [#general](https://swcarpentry.slack.com/archives/C03LE48AY): main channel to discuss all things Carpentries, excluding recruitment of workshop volunteers. Everyone can post here.
 - [#welcome](https://swcarpentry.slack.com/archives/CB35ZV9KL): where new members post short bios about themselves. You’re encouraged to say hello to others here!
-- [#jobs](https://swcarpentry.slack.com/archives/CD099JB5X): where you can find job opportunities relevant to our community members
+- [#jobs](https://swcarpentry.slack.com/archives/CD099JB5X): where you can find job opportunities relevant to our community members.  
 We also have over 100 optional channels, ranging from local and regional communities (e.g., [#local-japan](https://swcarpentry.slack.com/archives/CLR96JCBS)) to channels supporting specific volunteer roles (e.g., [#instructors](https://swcarpentry.slack.com/archives/C08BVNU00)). Not sure which channels to follow? You can find additional information about our Slack Channels in [our Handbook](https://docs.carpentries.org/topic_folders/communications/tools/slack-and-email.html).
 
 ### Join a Community Event
