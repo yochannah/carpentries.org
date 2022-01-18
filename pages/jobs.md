@@ -10,7 +10,7 @@ permalink: /jobs/
 
 As the Accessibility Coordinator, you will lead accessibility audits of The Carpentries programs, services, assets, materials, and communications and work with other team members to incorporate your findings. The audit will consider all areas of accessibility, including disability accessibility, use of non-inclusive language (e.g., ableist or gendered language), reliance on US-Centric framing (e.g., concepts/idioms), and modes of participation for individuals without stable internet access. The Accessibility Coordinator will develop and lead training for staff and community members and will engage closely with these groups to improve user experiences across The Carpentries platforms.
 
-<a href="/pages/accessibility-coordinator/">
+<a href="/accessibility-coordinator/">
         <button class="btn">
           Learn more about this position
         </button>
