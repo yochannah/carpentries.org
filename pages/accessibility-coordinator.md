@@ -53,6 +53,6 @@ Outside the US, Community Initiatives will make every effort to support the hiri
 The Carpentries is dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. We are an equal opportunity employer and give consideration for employment to qualified applicants without regard to age, race, colour, religion, creed, sex, sexual orientation, gender identity or expression, national origin, marital status, disability or protected veteran status, or any other status or characteristic protected by United States federal, state, or local law. We encourage all qualified individuals to apply.
 
 ## To Apply
-Please submit a cover letter and resume or CV to jobs@carpentries.org. Please also clearly indicate the country in which you pay taxes.
+Please submit a cover letter and resume or CV to [jobs@carpentries.org](mailto:jobs@carpentries.org). Please also clearly indicate the country in which you pay taxes.
 
 Applications received before [1 February at 11:59 PM (anywhere on earth)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Priority+consideration+deadline+%28Accessibility+Coordinator%29&iso=20220201T235959&p1=3399) will receive full consideration.
