@@ -51,14 +51,23 @@ permalink: /curriculum-advisors/
 
         <td>
             {% assign dc_genomics = site.data.curriculum_advisors | where: "curriculum", "genomics"  %}
-            <ul>
-                {% for person in dc_genomics %}
+            {% assign chairs = dc_genomics | where: "position", "chair" %}
+            {% assign secretaries = dc_genomics | where: "position", "secretary" %}
+            {% assign members = dc_genomics | where: "position", "member" %}
 
-               <li> {{ person.name }} </li>
-    
+
+            <ul>
+                {% for person in chairs %}
+                   <li> {{ person.name }}, Chair </li>
                 {% endfor %}
 
+                {% for person in secretaries %}
+                    <li> {{ person.name }}, Secretary </li>
+                {% endfor %}
 
+                {% for person in members %}
+                    <li> {{ person.name }} </li>
+                {% endfor %}
             </ul>
         </td>
 
@@ -71,16 +80,25 @@ permalink: /curriculum-advisors/
         <td align="center"><h3><a href="#">Data Carpentry Geospatial</a></h3>
         <a href="mailto:team@carpentries.org">team@carpentries.org</a></td>
 
+
         <td>
             {% assign dc_geospatial = site.data.curriculum_advisors | where: "curriculum", "geospatial"  %}
-            <ul>
-                {% for person in dc_geospatial %}
+            {% assign chairs = dc_geospatial | where: "position", "chair" %}
+            {% assign secretaries = dc_geospatial | where: "position", "secretary" %}
+            {% assign members = dc_geospatial | where: "position", "member" %}
 
-               <li> {{ person.name }} </li>
-    
+            <ul>
+                {% for person in chairs %}
+                   <li> {{ person.name }}, Chair </li>
                 {% endfor %}
 
+                {% for person in secretaries %}
+                    <li> {{ person.name }}, Secretary </li>
+                {% endfor %}
 
+                {% for person in members %}
+                    <li> {{ person.name }} </li>
+                {% endfor %}
             </ul>
         </td>
 
@@ -96,16 +114,25 @@ permalink: /curriculum-advisors/
 
         <td>
             {% assign library = site.data.curriculum_advisors | where: "curriculum", "library"  %}
-            <ul>
-                {% for person in library %}
+            {% assign chairs = library | where: "position", "chair" %}
+            {% assign secretaries = library | where: "position", "secretary" %}
+            {% assign members = library | where: "position", "member" %}
 
-               <li> {{ person.name }} </li>
-    
+            <ul>
+                {% for person in chairs %}
+                   <li> {{ person.name }}, Chair </li>
                 {% endfor %}
 
+                {% for person in secretaries %}
+                    <li> {{ person.name }}, Secretary </li>
+                {% endfor %}
 
+                {% for person in members %}
+                    <li> {{ person.name }} </li>
+                {% endfor %}
             </ul>
         </td>
+
 
     </tr>
 <!--  End Library Carpentry  -->  
@@ -118,14 +145,22 @@ permalink: /curriculum-advisors/
 
     <td>
         {% assign software = site.data.curriculum_advisors | where: "curriculum", "software"  %}
+        {% assign chairs = software | where: "position", "chair" %}
+        {% assign secretaries = software | where: "position", "secretary" %}
+        {% assign members = software | where: "position", "member" %}
+
         <ul>
-            {% for person in software %}
-
-           <li> {{ person.name }} </li>
-
+            {% for person in chairs %}
+               <li> {{ person.name }}, Chair </li>
             {% endfor %}
 
+            {% for person in secretaries %}
+                <li> {{ person.name }}, Secretary </li>
+            {% endfor %}
 
+            {% for person in members %}
+                <li> {{ person.name }} </li>
+            {% endfor %}
         </ul>
     </td>
 
