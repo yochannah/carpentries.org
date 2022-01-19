@@ -14,19 +14,19 @@ As the Accessibility Coordinator, you will lead accessibility audits of The Carp
 This posting is intentionally broad. We are not expecting experience with all components of the position. We are looking for someone with skills and perspectives that complement our existing team and an enthusiasm for the role and the goals and approaches of our organisation.
 
 ## Requirements
-Bachelor’s degree (or equivalent training and applied experience) in Education, Educational Technology, Psychology, Design, Computer Science or a related field
-Knowledge of Universal Design for Learning (UDL) principles and accessibility issues related to web technologies, multimedia and learning environments
-Knowledge of assistive technologies (JAWS, ZoomText, VoiceOver, etc.)
-Knowledge of WCAG 2 accessibility standards and guidelines
-Ability to use, write, or debug accessible CSS  (especially the Bootstrap framework), HTML5, and JavaScript
-Proficient communication skills, including written and real-time (signing or verbal)
-Experience working remotely (preferably with a globally distributed team)
+- Bachelor’s degree (or equivalent training and applied experience) in Education, Educational Technology, Psychology, Design, Computer Science or a related field
+- Knowledge of Universal Design for Learning (UDL) principles and accessibility issues related to web technologies, multimedia and learning environments
+- Knowledge of assistive technologies (JAWS, ZoomText, VoiceOver, etc.)
+- Knowledge of WCAG 2 accessibility standards and guidelines
+- Ability to use, write, or debug accessible CSS  (especially the Bootstrap framework), HTML5, and JavaScript
+- Proficient communication skills, including written and real-time (signing or verbal)
+- Experience working remotely (preferably with a globally distributed team)
 
 ## Preferred
-Experience in accessible website design and development
-Experience working with individuals with disabilities in higher education
-Experience creating and teaching educational materials
-Previous engagement with The Carpentries or another volunteer-based organisation
+- Experience in accessible website design and development
+- Experience working with individuals with disabilities in higher education
+- Experience creating and teaching educational materials
+- Previous engagement with The Carpentries or another volunteer-based organisation
 
 Our team values openness, honesty, fairness, and transparency as the keys to fostering trust. We believe that the individuals who make up our community are the most important part of our organisation and our strongest resource. We strive to make decisions that prioritize people first and empower the growth and success of all who are part of our organisation. We value a growth mindset in all that we do and strive to be always improving and evolving ourselves and our methodologies, being receptive to feedback, responsive, curious, and willing to learn.
 
@@ -40,12 +40,12 @@ We’re a [Core Team](https://carpentries.org/team/) of fifteen staff and indepe
 This is a remote position and is funded for two (2) years. For United States-based candidates, compensation will be $50,000 - $73,000 USD annually, commensurate with experience. Outside the United States, total compensation may need to be adjusted in accordance with legal and financial costs associated with international hiring and contracting for a United States-based entity. All qualified applicants are highly encouraged to apply, and we will make every effort to be transparent about the impact of costs on potential compensation during the interview process.
 
 In the US, Community Initiatives offers a comprehensive benefits package including:
-Fully paid medical, dental and vision
-401k with employer match
-Basic life insurance, AD&D, STD & LTD
-4 weeks of vacation
-12 paid holidays
-4 floating holidays
+- Fully paid medical, dental and vision
+- 401k with employer match
+- Basic life insurance, AD&D, STD & LTD
+- 4 weeks of vacation
+- 12 paid holidays
+- 4 floating holidays
 
 Outside the US, Community Initiatives will make every effort to support the hiring or contracting of international workers, following all local laws related to employment and benefits, ensuring a competitive compensation package.
 
