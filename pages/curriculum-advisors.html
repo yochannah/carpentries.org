@@ -1,0 +1,135 @@
+---
+layout: page
+title: "Curriculum Advisors"
+permalink: /curriculum-advisors/
+---
+
+<div class="container">
+{% include lazyload.html %}
+
+<p>
+    Curriculum Advisors are part of a team that provides the oversight, vision, and leadership for a particular set of lessons. Committees can be reached by email using the addresses listed below, or in GitHub by using the @ tag to reference the appropriate Curriculum Advisory team (e.g. "@datacarpentry/curriculum-advisors-astronomy") in an Issue, Pull Request, or comment. More information about the Curriculum Advisory Committees can be found in <a href="https://docs.carpentries.org/topic_folders/lesson_development/lesson_development_roles.html">The Carpentries Handbook</a>.
+
+</p>
+
+<table>
+
+<!--  Begin DC Astronomy  -->    
+        <tr>
+            <td align="center"><h3><a href="#">Data Carpentry Astronomy</a></h3>
+            <a href="mailto:team@carpentries.org">team@carpentries.org</a></td>
+    
+            <td>
+                {% assign dc_astronomy = site.data.curriculum_advisors | where: "curriculum", "astronomy"  %}
+                {% assign chairs = dc_astronomy | where: "position", "chair" %}
+                {% assign secretaries = dc_astronomy | where: "position", "secretary" %}
+                {% assign members = dc_astronomy | where: "position", "member" %}
+
+
+                <ul>
+                    {% for person in chairs %}
+                       <li> {{ person.name }}, Chair </li>
+                    {% endfor %}
+
+                    {% for person in secretaries %}
+                        <li> {{ person.name }}, Secretary </li>
+                    {% endfor %}
+
+                    {% for person in members %}
+                        <li> {{ person.name }} </li>
+                    {% endfor %}
+                </ul>
+            </td>
+    
+        </tr>
+<!--  End DC Astronomy  -->  
+    
+<!--  Begin DC Genomics  -->    
+    <tr>
+        <td align="center"><h3><a href="#">Data Carpentry Genomics</a></h3><a href="mailto:team@carpentries.org">team@carpentries.org</a></td>
+
+        <td>
+            {% assign dc_genomics = site.data.curriculum_advisors | where: "curriculum", "genomics"  %}
+            <ul>
+                {% for person in dc_genomics %}
+
+               <li> {{ person.name }} </li>
+    
+                {% endfor %}
+
+
+            </ul>
+        </td>
+
+    </tr>
+<!--  End DC Genomics  -->  
+    
+
+<!--  Begin DC Geospatial  -->    
+    <tr>
+        <td align="center"><h3><a href="#">Data Carpentry Geospatial</a></h3><a href="mailto:team@carpentries.org">team@carpentries.org</a></td>
+
+        <td>
+            {% assign dc_geospatial = site.data.curriculum_advisors | where: "curriculum", "geospatial"  %}
+            <ul>
+                {% for person in dc_geospatial %}
+
+               <li> {{ person.name }} </li>
+    
+                {% endfor %}
+
+
+            </ul>
+        </td>
+
+    </tr>
+<!--  End DC Geospatial  -->  
+
+
+
+<!--  Begin Library Carpentry  -->    
+       <tr>
+        <td align="center"><h3><a href="#">Library Carpentry</a></h3><a href="mailto:team@carpentries.org">team@carpentries.org</a></td>
+
+        <td>
+            {% assign library = site.data.curriculum_advisors | where: "curriculum", "library"  %}
+            <ul>
+                {% for person in library %}
+
+               <li> {{ person.name }} </li>
+    
+                {% endfor %}
+
+
+            </ul>
+        </td>
+
+    </tr>
+   <!--  End Library Carpentry  -->  
+
+
+<!--  Begin Software Carpentry  -->    
+<tr>
+    <td align="center"><h3><a href="#">Software Carpentry</a></h3><a href="mailto:team@carpentries.org">team@carpentries.org</a></td>
+
+    <td>
+        {% assign software = site.data.curriculum_advisors | where: "curriculum", "software"  %}
+        <ul>
+            {% for person in software %}
+
+           <li> {{ person.name }} </li>
+
+            {% endfor %}
+
+
+        </ul>
+    </td>
+
+</tr>
+<!--  End Software Carpentry  -->  
+
+   
+    </table>
+    
+    
+    </div>
