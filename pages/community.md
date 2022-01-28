@@ -78,12 +78,10 @@ technical skills. We create an open and inviting environment through community d
 
 #### Mentoring Groups
 
-Mentoring Groups support instructors in a variety of ways. Whether you are a new instructor preparing to teach your first workshop, a seasoned instructor hoping to launch workshops in a new community, or an instructor excited about getting involved with lesson development and maintenance, mentoring groups will help you gain the confidence, technical skills, and teaching skills you need to reach your goal.
+Mentoring Groups support Instructors in a variety of ways. Whether you are a new instructor preparing to teach your first workshop, a seasoned Instructor hoping to launch workshops in a new community, or an Instructor excited about getting involved with lesson development and maintenance, mentoring groups will help you gain the confidence, technical skills, and teaching skills you need to reach your goal.
 
 * [Training materials](https://docs.carpentries.org/topic_folders/instructor_development/mentoring_groups.html)
 * [Duties](https://docs.carpentries.org/topic_folders/instructor_development/mentoring_groups.html#mentor-agreement)
-* [Apply to become a Mentee](https://goo.gl/forms/qeX1CW1HVOOkqhwi2)
-* [Apply to become a Mentor](https://goo.gl/forms/zeP2FpP1HuLAMUow1)
 * [Join the #mentoring Slack channel](https://swc-slack-invite.herokuapp.com/)
 * For more information, contact [Alycia Crall](mailto:alycia@carpentries.org).
 
