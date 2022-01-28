@@ -21,18 +21,29 @@ Following the guidelines we set out in [our post on design
 principles][design-principles], The Carpentries Workbench is built with R and
 Pandoc in three custom packages called [{sandpaper}], [{varnish}], and
 [{pegboard}] for deployment, styling, and validation, respectively. To find out
-more about the process we used for validating that the infrastructure, you can
+more about the process we used for validating the usability of the infrastructure, you can
 read our [blog post about the alpha testing][alpha-test] and our [blog post
 about the UX testing and design][ux-test], or if you have 20 minutes to spare,
 you can [watch a video of Zhian's UseR!2021 talk: "Using R as Community
 Workbench for The Carpentries Lesson Infrastructure][yt-vid] (with [slides
 available here](https://zkamvar.github.io/user2021/#1)).
 
-Because we deeply understand the implications of changing things too rapidly,
+Because these are large changes with far-reaching consequences for our community,
 we are going to make this transition as smooth as possible, starting with **a
-soft beta release April 2022** with interested maintainers, lesson authors, and
-instructors. **Are you interested in helping out with testing the new
-infrastructure in how you work (either teaching, authoring, or maintianing)**
+soft beta release in April 2022** with interested maintainers, lesson authors, and
+instructors. **If you would like to begin exploring The Carpentries Workbench
+and help us out with beta testing, please get in touch by emailing me at <a href="mailto:zkamvar@carpentries.org?subject=I would like to beta test The Carpentries Workbench">zkamvar [at] carpentries.org</a>.**
+It is vital that we include a wide range of perspectives in this process.
+We would like to learn from your experience with the new infrastructure 
+however you work with our lesson sites: 
+whether that is teaching the lesson in a workshop, 
+developing a new lesson, 
+or maintaining an existing repository.
+Similarly, we are keen to include you regardless of your familiarity with the infrastructure on which our
+lessons are currently based: 
+regardless of whether you are new to The Carpentries community or 
+have been working with our lesson sites for many years,
+we want you to get involved.
 
 
 ## Show me!
@@ -41,7 +52,7 @@ You can see The Carpentries Workbench in action at [the documentation
 site][workbench]. Of course, pictures are worth a thousand words. I have
 converted the "Programming With Python" Software Carpentry Lesson and hosted it
 in a sandbox github organisation[^note that this conversion was automated, so
-there may be a few rendering errors]. This is what the 'Making Choices' episode
+there may be a few rendering errors - please open an issue on the repository if you find any]. This is what the 'Making Choices' episode
 of the "Programming with Python" lesson looks like right now using the [Styles
 template][styles]:
 
@@ -87,11 +98,13 @@ For a full list of features in the episodes, you can visit the [Episode
 Structure](https://carpentries.github.io/sandpaper-docs/episodes.html) episode 
 in the Carpentries Workbench documentation. 
 
-### For Instructors: Instructor Notes
+### For Instructors: Instructor View
 
 One resource that is useful for instructors teaching new-to-them lessons is the
-instructor notes, but this page is often buried in the "extras" dropdown menu
-and while it is useful to have the overview, the new infrastructure offers a way
+instructor notes, but this page is often buried in the "extras" dropdown menu.
+Because it is out of sight, it is not used often, and goes out of sync with the
+content of the lesson.
+And while it is useful to have an overview of all the tips to teach a lesson, the new infrastructure offers a way
 to include these _in context_ in the lesson with the new _instructor view_.
 
 First, visit <https://carpentries.github.io/sandpaper-docs/episodes#instructor-notes> and you will see a section that contains a heading, paragraph, and a discussion block (in yellow).
@@ -107,7 +120,7 @@ Screencapture of an instructor note from <a href="https://carpentries.github.io/
 </figure>
 
 Once we have the infrastructure established, we hope to organise instructor
-note sprints for our instructors to share their knowledge and contribute to the
+note sprints for our Instructors to share their knowledge and contribute to the
 lesson development and maintenance.
 
 ### For Maintainers: Getting the Latest Features!
@@ -142,15 +155,15 @@ maintaining lessons easier for everyone including automated checks for
 missing alt text, abnormal heading structure, and invalid internal links.
 
 We are now piloting the inclusion of BioSchemas metadata in our
-lessons so that they can be indexed at [ELIXER's Training Portal, 
-TeSS](https://tess.elixir-europe.org/), which will give more exposure to the
+lessons so that they can be indexed and aggregated on repositories such as [ELIXIR's Training Portal, 
+TeSS](https://tess.elixir-europe.org/), which will increase the lessons' reach and give more exposure to the
 work of our lesson authors and maintainers.
 
-One of the things I'm really excited about with the lesson infrastructure is a
+One of the things we're really excited about with the lesson infrastructure is a
 [less invasive and faster build process for our R-based
 lessons][sandpaper-cache] that freezes the package versions and provides [pull
 request previews][pr-preview] that will avoid lessons suddenly breaking when
-new package versions being released.
+new package versions are released.
 
 ### Demonstration
 
@@ -158,16 +171,16 @@ Zhian is going to implement and fill this in on Friday :weary:
 
 ## Transition Plan
 
-As I mentioned earlier, we will not make this transition all at once. There are
+As mentioned earlier, we will not make this transition all at once. There are
 over a hundred lessons across The Carpentries (including Lab and Incubator),
 each with their own unique setup. Before any transition will happen, we will do
-one final lesson release and then slowly migrate the lessons based on an opt-in
-process by the maintainers and the instructors will be notified at least two
-weeks in advance of the migration. 
+one more lesson release and then slowly migrate the lessons based on an opt-in
+process by the maintainers. Instructors will be notified at least two
+weeks in advance of these migrations. 
 
-For the maintainers, I have set up [a workflow for automated conversion with
+For the maintainers, we have set up [a workflow for automated conversion with
 customisation](https://github.com/data-lessons/lesson-transition/), and once
-the maintainers/authors of the lesson are ready and they consent, I will
+the maintainers/authors of the lesson are ready and they consent, we will
 transition the lesson, preserving the commit history (stripping the styles-
 specific commits). 
 
@@ -176,8 +189,8 @@ specific commits).
 The Carpentries Workbench is the first step towards making our lesson
 infrastructure more equitable and accessible, but we are far from finished. In
 the future, we can envision a lesson infrastructure that drives lesson
-developers towards the pit of success in terms of creating accessible and
-up-to-date lessons in any lanuguge (both human and computer).
+developers towards the [pit of success](https://engineering.rice.edu/news/hadley-wickham-identifies-good-design-data-science) in terms of creating accessible and
+up-to-date lessons in any language (both human and computer).
 
 OMAR PLEASE HELP THING OF A GOOD ENDING
 
