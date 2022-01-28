@@ -26,9 +26,9 @@ Being a part of the Workshop Administration Team, I have seen so much growth in 
 
 To date the projects I have led are:
 
-- (Revising the Workshop Request Form)[https://amy.carpentries.org/forms/workshop/]
-- Updating (The Carpentries Workshop website section)[https://carpentries.org/workshops/] with updated and useful information
-- Developing an (FAQ)[https://carpentries.org/workshop_faq/#online-workshops] page specifically for Workshops
+- [Revising the Workshop Request Form](https://amy.carpentries.org/forms/workshop/)
+- Updating [The Carpentries Workshop website section](https://carpentries.org/workshops/) with updated and useful information
+- Developing an [FAQ](https://carpentries.org/workshop_faq/#online-workshops) page specifically for Workshops
 - Automating the Workshop Administration Teams workflow. With this implementation we have reduced the amount of time it takes to coordinate a workshop by 50%.
 
 On average the Workshop Administration Team coordinates over 550 workshops a year. We now spend our time enhancing our program and looking for ways to make our workshops more efficient for the Core Team and the external participants and not just coordinating workshops.
