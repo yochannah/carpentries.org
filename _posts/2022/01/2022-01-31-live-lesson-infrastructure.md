@@ -45,7 +45,7 @@ there may be a few rendering errors]. This is what the 'Making Choices' episode
 of the "Programming with Python" lesson looks like right now using the [Styles
 template][styles]:
 
-<figure>
+<figure style="text-align: center">
   <img src="{{site.urlimg }}/blog/2022/01/2022-01-31-python-choice-old.png" 
    alt="Screen capture of the 'Making Choices' episode in the Programming With Python lesson using The Carpentries Styles. It has a toolbar at the top with the episode title and a yellow box containing timings, questions, and objectives."/>
   <figcaption>
@@ -56,7 +56,7 @@ Screencapture of <a href="https://swcarpentry.github.io/python-novice-inflammati
 In this example repository, I show what it will look like when we implement [The
 Carpentries Workbench][workbench]:
 
-<figure>
+<figure style="text-align: center">
   <img src="{{site.urlimg }}/blog/2022/01/2022-01-31-python-choice.png" 
    alt="Screen capture of the 'Making Choices' episode in the Programming With Python lesson using The Carpentries Workbench. It has a toolbar at the top followed by a progress bar that indicates this episode is 55% through the lesson, and a sidebar with navigation that says CHAPTERS. The main content shows the episode title and a grey and blue overview box showing questions and objectives "/>
   <figcaption>
@@ -67,7 +67,7 @@ Screencapture of <a href="https://fishtree-attempt.github.io/python-novice-infla
 Callout blocks are getting a makeover as well. Compare two callout blocks from 
 the introductory episode of the lesson:
 
-<figure>
+<figure style="text-align: center">
   <img src="{{site.urlimg }}/blog/2022/01/2022-01-31-python-callout-old.png" 
    alt="Screen Capture of the first callout block from the introductory episode in the Programming with Python lesson using The Carpentries Styles. It shows a yellow box with a pushpin icon at the top and a title that says 'Variables as Sticky Notes'. The text is small and it has three images and two code blocks inside."/>
   <figcaption>
@@ -75,7 +75,7 @@ Callout block from <a href="https://swcarpentry.github.io/python-novice-inflamma
   </figcaption>
 </figure>
 
-<figure>
+<figure style="text-align: center">
   <img src="{{site.urlimg }}/blog/2022/01/2022-01-31-python-callout.png" 
    alt="Screen Capture of the first callout block from the introductory episode in the Programming with Python lesson using The Carpentries Workbench. It shows a grey box with a  dark grey border on the left and bell icon in a dark grey box and a title that says 'Variables as Sticky Notes'. The text is larger and there are three images and two codeblocks inside. The code blocks have thick lines running across the top that clearly separate them from the content."/>
   <figcaption>
@@ -98,7 +98,7 @@ First, visit <https://carpentries.github.io/sandpaper-docs/episodes#instructor-n
 
 Now, visit <https://carpentries.github.io/sandpaper-docs/instructor/episodes#instructor-notes> and you will find an instructor note revealed:
 
-<figure>
+<figure style="text-align: center">
   <img src="{{site.urlimg }}/blog/2022/01/2022-01-31-instructor-note.png" 
    alt="Screen capture of a section showing an embedded instructor note which appears as a light grey rectangle spanning the page with a magenta box containing a white pencil icon on the left and a downward-pointing chevron on the right indicating that it contains content."/>
   <figcaption>
