@@ -17,20 +17,17 @@ paths forward for improving access, portability, stability, and reliability of
 our lesson infrastructure as the repertoir of our lesson developers continues
 to grow.
 
-Following the guidelines we set out in [our post on design
-principles][design-principles], The Carpentries Workbench is built with
+Following the guidelines we set out in [our post on design principles][design-principles], The Carpentries Workbench is built with
 [R](https://r-project.org) and [Pandoc](https://pandoc.org) in three custom
 packages called [{sandpaper}], [{varnish}], and [{pegboard}] for deployment,
 styling, and validation, respectively. It is important to note here that
 knowledge of R or pandoc is not necessary to build a lesson using The
 Workbench. The only requirement is a working knowledge of markdown syntax.
 To find out more about the process we used for validating the usability of the
-infrastructure, you can read our [blog post about the alpha
-testing][alpha-test] and our [blog post about the UX testing and
-design][ux-test], or if you have 20 minutes to spare, you can [watch a video of
-Zhian's UseR!2021 talk: "Using R as Community Workbench for The Carpentries
-Lesson Infrastructure][yt-vid] (with [slides available
-here](https://zkamvar.github.io/user2021/#1)).
+infrastructure, you can read our [blog post about the alpha testing][alpha-test]
+and our [blog post about the UX testing and design][ux-test], or if you have 20 
+minutes to spare, you can [watch a video of Zhian's UseR!2021 talk: "Using R as Community Workbench for The Carpentries Lesson Infrastructure][yt-vid]
+(with [slides available here](https://zkamvar.github.io/user2021/#1)).
 
 Because these are large changes with far-reaching consequences for our community,
 we are going to make this transition as smooth as possible, starting with **a
@@ -65,8 +62,7 @@ You can see The Carpentries Workbench in action at [the documentation
 site][workbench]. Of course, pictures are worth a thousand words. I have
 converted the "Programming With Python" Software Carpentry Lesson and hosted it
 in a sandbox github organisation[^2]. This is what the 'Making Choices' episode
-of the "Programming with Python" lesson looks like right now using the [Styles
-template][styles]:
+of the "Programming with Python" lesson looks like right now using the [Styles template][styles]:
 
 <figure style="text-align: center">
   <img src="{{site.urlimg }}/blog/2022/01/2022-01-31-python-choice-old.png" 
@@ -139,8 +135,7 @@ lesson development and maintenance.
 
 Our [current lesson template][styles] can be thought of as an all-in-one box of
 tools that you can add markdown files to and get a lesson out of at the end. One
-of the biggest pain points of this setup is that [as the template improves, 
-older lessons rapidly become outdated and miss out on new features][slide-19].
+of the biggest pain points of this setup is that [as the template improves, older lessons rapidly become outdated and miss out on new features][slide-19].
 The official way to update a lesson with the new features is to manually create
 a pull request from the [styles repository][styles], but this can lead to a 
 backlog of github notifications:
@@ -154,9 +149,8 @@ A huge backlog of notifications that Zhian needs to address :'(
 </figure>
 
 With the new lesson infrastructure, changes, even major changes are applied
-immediately. Take for example this [chapter on editing (captured on 
-2022-01-26)][new-episodes] and compare it with [the same content, but using the 
-previous version of the lesson infrastructure][old-episodes]. This change
+immediately. Take for example this [chapter on editing (captured on 2022-01-26)][new-episodes]
+and compare it with [the same content, but using the previous version of the lesson infrastructure][old-episodes]. This change
 happened with the click of a button (or had I been patient, I could have just
 waited a week for the change to implement itself). 
 
@@ -167,15 +161,15 @@ maintaining lessons easier for everyone including automated checks for
 missing alt text, abnormal heading structure, and invalid internal links.
 
 We are now piloting the inclusion of BioSchemas metadata in our
-lessons so that they can be indexed and aggregated on repositories such as [ELIXIR's Training Portal, 
-TeSS](https://tess.elixir-europe.org/), which will increase the lessons' reach and give more exposure to the
+lessons so that they can be indexed and aggregated on repositories such as 
+[ELIXIR's Training Portal, TeSS](https://tess.elixir-europe.org/), which will
+increase the lessons' reach and give more exposure to the
 work of our lesson authors and maintainers.
 
 One of the things we're really excited about with the lesson infrastructure is a
-[less invasive and faster build process for our R-based
-lessons][sandpaper-cache] that freezes the package versions and provides [pull
-request previews][pr-preview] that will avoid lessons suddenly breaking when
-new package versions are released.
+[less invasive and faster build process for our R-based lessons][sandpaper-cache]
+that freezes the package versions and provides [pull request previews][pr-preview] 
+that will avoid lessons suddenly breaking when new package versions are released.
 
 ### Demonstration
 
@@ -210,20 +204,22 @@ the project, as [outlined in our blog post from December 2021](https://carpentri
 OMAR PLEASE HELP THING OF A GOOD ENDING
 
 
+[design-principles]: "https://carpentries.org/blog/2020/08/lesson-template-design/"
+[{sandpaper}]: "https://carpentries.github.io/sandpaper/"
+[{pegboard}]: "https://carpentries.github.io/pegboard/"
+[{varnish}]: "https://github.com/carpentries/varnish#readme"
+[alpha-test]: "https://carpentries.org/blog/2021/07/infrastructure-testing/"
+[ux-test]: "https://carpentries.org/blog/2021/05/lesson-template-design-process/"
+[yt-vid]: "https://www.youtube.com/watch?v=vd8XZSuY_Rs&list=PLSFzyC3wp8-csb8rtreOUoW8C_1J87QD5&index=1&t=1271s"
+[workbench]: "https://carpentries.github.io/sandpaper-docs"
+[styles]: "https://github.com/carpentries/styles/"
+[slide-19]: "https://zkamvar.github.io/user2021/#19"
+[old-episodes]: "https://web.archive.org/web/20220125163344/https://carpentries.github.io/sandpaper-docs/episodes.html"
+[new-episodes]: "https://web.archive.org/web/20220127011238/https://carpentries.github.io/sandpaper-docs/episodes.html"
+[sandpaper-cache]: "https://carpentries.github.io/sandpaper/articles/building-with-renv.html"
+[pr-preview]: "https://carpentries.github.io/sandpaper-docs/instructor/pull-request.html"
+
 [^1]: We are moving away from the 'template' terminology to describe our lesson infrastructure because it has caused some confusion in the past
 [^2]: note that this conversion was automated, so there may be a few rendering
   errors - please open an issue on the repository if you find any.
-[design-principles]: https://carpentries.org/blog/2020/08/lesson-template-design/ 
-[{sandpaper}]: https://carpentries.github.io/sandpaper/
-[{pegboard}]: https://carpentries.github.io/pegboard/
-[{varnish}]: https://github.com/carpentries/varnish#readme
-[alpha-test]: https://carpentries.org/blog/2021/07/infrastructure-testing/
-[ux-test]: https://carpentries.org/blog/2021/05/lesson-template-design-process/
-[yt-vid]: https://www.youtube.com/watch?v=vd8XZSuY_Rs&list=PLSFzyC3wp8-csb8rtreOUoW8C_1J87QD5&index=1&t=1271s
-[workbench]: https://carpentries.github.io/sandpaper-docs
-[styles]: https://github.com/carpentries/styles/
-[slide-19]: https://zkamvar.github.io/user2021/#19
-[old-episodes]: https://web.archive.org/web/20220125163344/https://carpentries.github.io/sandpaper-docs/episodes.html
-[new-episodes]: https://web.archive.org/web/20220127011238/https://carpentries.github.io/sandpaper-docs/episodes.html
-[sandpaper-cache]: https://carpentries.github.io/sandpaper/articles/building-with-renv.html
-[pr-preview]: https://carpentries.github.io/sandpaper-docs/instructor/pull-request.html
+
