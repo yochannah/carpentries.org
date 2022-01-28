@@ -10,6 +10,7 @@ infrastructure, and more. Visit the page for each committee or task force to fin
 
 - [Carpentries-es](https://carpentries.org/latam-tf)
 - [CarpentryCon Task Force](https://carpentries.org/carp-con-tf/)
+- [Curriculum Advisory Committees](https://carpentries.org/curriculum-advisors/)
 - [Code of Conduct Committee](https://carpentries.org/coc-ctte/)
 - [Instructor Development Committee](https://carpentries.org/inst-dev/)
 - [Lesson Infrastructure Committee](https://carpentries.org/lesson-infra/)
