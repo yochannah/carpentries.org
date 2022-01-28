@@ -194,7 +194,7 @@ For the maintainers, we have set up [a workflow for automated conversion with
 customisation](https://github.com/data-lessons/lesson-transition/), and once
 the maintainers/authors of the lesson are ready and they consent, we will
 transition the lesson, preserving the commit history (stripping the styles-
-specific commits). 
+specific commits).
 
 ## Future Plans
 
@@ -202,7 +202,10 @@ The Carpentries Workbench is the first step towards making our lesson
 infrastructure more equitable and accessible, but we are far from finished. In
 the future, we can envision a lesson infrastructure that drives lesson
 developers towards the [pit of success](https://engineering.rice.edu/news/hadley-wickham-identifies-good-design-data-science) in terms of creating accessible and
-up-to-date lessons in any language (both human and computer).
+up-to-date lessons in any language (both human and computer). As we get closer
+to the official release of The Carpentries Workbench, we will reform and restart
+The Lesson Infrastructure Committee, which will serve as an advisory board for
+the project, as [outlined in our blog post from December 2021](https://carpentries.org/blog/2021/12/lesson-infrastructure-committee/).
 
 OMAR PLEASE HELP THING OF A GOOD ENDING
 
