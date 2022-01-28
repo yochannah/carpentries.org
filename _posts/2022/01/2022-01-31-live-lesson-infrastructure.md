@@ -204,20 +204,20 @@ the project, as [outlined in our blog post from December 2021](https://carpentri
 OMAR PLEASE HELP THING OF A GOOD ENDING
 
 
-[design-principles]: "https://carpentries.org/blog/2020/08/lesson-template-design/"
-[{sandpaper}]: "https://carpentries.github.io/sandpaper/"
-[{pegboard}]: "https://carpentries.github.io/pegboard/"
-[{varnish}]: "https://github.com/carpentries/varnish#readme"
-[alpha-test]: "https://carpentries.org/blog/2021/07/infrastructure-testing/"
-[ux-test]: "https://carpentries.org/blog/2021/05/lesson-template-design-process/"
-[yt-vid]: "https://www.youtube.com/watch?v=vd8XZSuY_Rs&list=PLSFzyC3wp8-csb8rtreOUoW8C_1J87QD5&index=1&t=1271s"
-[workbench]: "https://carpentries.github.io/sandpaper-docs"
-[styles]: "https://github.com/carpentries/styles/"
-[slide-19]: "https://zkamvar.github.io/user2021/#19"
-[old-episodes]: "https://web.archive.org/web/20220125163344/https://carpentries.github.io/sandpaper-docs/episodes.html"
-[new-episodes]: "https://web.archive.org/web/20220127011238/https://carpentries.github.io/sandpaper-docs/episodes.html"
-[sandpaper-cache]: "https://carpentries.github.io/sandpaper/articles/building-with-renv.html"
-[pr-preview]: "https://carpentries.github.io/sandpaper-docs/instructor/pull-request.html"
+[design-principles]: https://carpentries.org/blog/2020/08/lesson-template-design/
+[{sandpaper}]: https://carpentries.github.io/sandpaper/
+[{pegboard}]: https://carpentries.github.io/pegboard/
+[{varnish}]: https://github.com/carpentries/varnish#readme
+[alpha-test]: https://carpentries.org/blog/2021/07/infrastructure-testing/
+[ux-test]: https://carpentries.org/blog/2021/05/lesson-template-design-process/
+[yt-vid]: https://www.youtube.com/watch?v=vd8XZSuY_Rs&list=PLSFzyC3wp8-csb8rtreOUoW8C_1J87QD5&index=1&t=1271s
+[workbench]: https://carpentries.github.io/sandpaper-docs
+[styles]: https://github.com/carpentries/styles/
+[slide-19]: https://zkamvar.github.io/user2021/#19
+[old-episodes]: https://web.archive.org/web/20220125163344/https://carpentries.github.io/sandpaper-docs/episodes.html
+[new-episodes]: https://web.archive.org/web/20220127011238/https://carpentries.github.io/sandpaper-docs/episodes.html
+[sandpaper-cache]: https://carpentries.github.io/sandpaper/articles/building-with-renv.html
+[pr-preview]: https://carpentries.github.io/sandpaper-docs/instructor/pull-request.html
 
 [^1]: We are moving away from the 'template' terminology to describe our lesson infrastructure because it has caused some confusion in the past
 [^2]: note that this conversion was automated, so there may be a few rendering
