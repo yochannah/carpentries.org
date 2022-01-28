@@ -28,18 +28,22 @@ you can [watch a video of Zhian's UseR!2021 talk: "Using R as Community
 Workbench for The Carpentries Lesson Infrastructure][yt-vid] (with [slides
 available here](https://zkamvar.github.io/user2021/#1)).
 
-Because we deeply understand the implications of changing things too rapidly, 
-we are going to make this transition as smooth as possible, starting with a soft
-beta release April 2022 with interested maintainers, lesson authors, and 
-instructors. **Are you interested in helping out with testing the new 
+Because we deeply understand the implications of changing things too rapidly,
+we are going to make this transition as smooth as possible, starting with **a
+soft beta release April 2022** with interested maintainers, lesson authors, and
+instructors. **Are you interested in helping out with testing the new
 infrastructure in how you work (either teaching, authoring, or maintianing)**
 
 
 ## Show me!
 
-Of course, pictures are worth a thousand words. This is what the 'Making Choices'
-episode of the "Programming with Python" lesson looks like right now using the
-[Styles template][styles]:
+You can see The Carpentries Workbench in action at [the documentation 
+site][workbench]. Of course, pictures are worth a thousand words. I have
+converted the "Programming With Python" Software Carpentry Lesson and hosted it
+in a sandbox github organisation[^note that this conversion was automated, so
+there may be a few rendering errors]. This is what the 'Making Choices' episode
+of the "Programming with Python" lesson looks like right now using the [Styles
+template][styles]:
 
 <figure>
   <img src="{{site.urlimg }}/blog/2022/01/2022-01-31-python-choice-old.png" 
@@ -125,12 +129,16 @@ previous version of the lesson infrastructure][old-editing]. This change
 happened with the click of a button (or had I been patient, I could have just
 waited a week for the change to implement itself). 
 
-
 ### And More!!!
 
 There are many more features that should make authoring, contributing, and
 maintaining lessons easier for everyone including automated checks for 
 missing alt text, abnormal heading structure, and invalid internal links.
+
+We are now piloting the inclusion of BioSchemas metadata in our
+lessons so that they can be indexed at [ELIXER's Training Portal, 
+TeSS](https://tess.elixir-europe.org/), which will give more exposure to the
+work of our lesson authors and maintainers.
 
 One of the things I'm really excited about with the lesson infrastructure is a
 [less invasive and faster build process for our R-based
@@ -144,25 +152,29 @@ Zhian is going to implement and fill this in on Friday :weary:
 
 ## Transition Plan
 
-As 
+As I mentioned earlier, we will not make this transition all at once. There are
+over a hundred lessons across The Carpentries (including Lab and Incubator),
+each with their own unique setup. Before any transition will happen, we will do
+one final lesson release and then slowly migrate the lessons based on an opt-in
+process by the maintainers and the instructors will be notified at least two
+weeks in advance of the migration. 
+
+For the maintainers, I have set up [a workflow for automated conversion with
+customisation](https://github.com/data-lessons/lesson-transition/), and once
+the maintainers/authors of the lesson are ready and they consent, I will
+transition the lesson, preserving the commit history (stripping the styles-
+specific commits). 
 
 ## Future Plans
 
-### Beta Testing (April 2022)
+The Carpentries Workbench is the first step towards making our lesson
+infrastructure more equitable and accessible, but we are far from finished. In
+the future, we can envision a lesson infrastructure that drives lesson
+developers towards the pit of success in terms of creating accessible and
+up-to-date lessons in any lanuguge (both human and computer).
 
-### Improvements/Integrations
+OMAR PLEASE HELP THING OF A GOOD ENDING
 
- - bring current infrastructure to feature pairity with old infrastructure
-   - Image Page
-   - all in one (aio) page
-   - integrated search bar
-   - non-menu resources
- - Integration with [glosario](https://glosario.carpentries.org/)
- - Localisation (l10n) for lessons written in different languages
- - Simplification of build processes
- - Accessibility alerts
- - Standardized authorship and metadata generation
- - Interactive dashboards for monitoring lesson contents, accessibility (a11y), and contributions
 
 [design-principles]: https://carpentries.org/blog/2020/08/lesson-template-design/ 
 [{sandpaper}]: https://carpentries.github.io/sandpaper/
