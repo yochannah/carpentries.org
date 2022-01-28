@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["SherAaron Hurt", “Erin Becker”]
+authors: ["SherAaron Hurt", "Erin Becker"]
 teaser: "The journey from Workshop Administrator to Director of Workshops!"
 title: "Introducing Sher!, Director of Workshops"
 date: 2022-01-28
