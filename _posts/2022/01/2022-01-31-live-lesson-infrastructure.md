@@ -120,12 +120,18 @@ The official way to update a lesson with the new features is to manually create
 a pull request from the [styles repository][styles], but this can lead to a 
 backlog of github notifications:
 
-![List of notifications requesting an update of lessons with the styles template]({{ site.urlimg }}/blog/2022/01/2022-01-31-gh-notifications.png)
+<figure style="text-align: center">
+  <img src="{{ site.urlimg }}/blog/2022/01/2022-01-31-gh-notifications.png" 
+   alt="List of notifications requesting an update of lessons with the styles template"/>
+  <figcaption>
+A huge backlog of notifications that Zhian needs to address :'(
+  </figcaption>
+</figure>
 
 With the new lesson infrastructure, changes, even major changes are applied
 immediately. Take for example this [chapter on editing (captured on 
-2022-01-26)][new-editing] and compare it with [the same content, but using the 
-previous version of the lesson infrastructure][old-editing]. This change
+2022-01-26)][new-episodes] and compare it with [the same content, but using the 
+previous version of the lesson infrastructure][old-episodes]. This change
 happened with the click of a button (or had I been patient, I could have just
 waited a week for the change to implement itself). 
 
