@@ -2,7 +2,7 @@
 layout: page
 authors: ["Zhian N. Kamvar"]
 teaser: "We announce the first draft of our accessible lesson infrastructure and call for beta testers"
-title: "First Draft of The Carpentries Workbench"
+title: "Introducing The Carpentries Workbench"
 date: 2022-01-31
 time: "09:00:00"
 tags: ["Lesson Infrastructure", "Community"]
@@ -11,28 +11,33 @@ tags: ["Lesson Infrastructure", "Community"]
 ## What is The Carpentries Workbench?
 
 [The Carpentries Workbench][workbench] is a fresh redesign of our lesson
-template from the ground up that clearly separates the tools from the content.
+infrastructure[^1] from the ground up that clearly separates the tools from the content.
 We hope it will better serve the needs of our community members and create
 paths forward for improving access, portability, stability, and reliability of
-our lesson infrastructure as the repoirtoir of our lesson developers continues
+our lesson infrastructure as the repertoir of our lesson developers continues
 to grow.
 
 Following the guidelines we set out in [our post on design
-principles][design-principles], The Carpentries Workbench is built with R and
-Pandoc in three custom packages called [{sandpaper}], [{varnish}], and
-[{pegboard}] for deployment, styling, and validation, respectively. To find out
-more about the process we used for validating the usability of the infrastructure, you can
-read our [blog post about the alpha testing][alpha-test] and our [blog post
-about the UX testing and design][ux-test], or if you have 20 minutes to spare,
-you can [watch a video of Zhian's UseR!2021 talk: "Using R as Community
-Workbench for The Carpentries Lesson Infrastructure][yt-vid] (with [slides
-available here](https://zkamvar.github.io/user2021/#1)).
+principles][design-principles], The Carpentries Workbench is built with
+[R](https://r-project.org) and [Pandoc](https://pandoc.org) in three custom
+packages called [{sandpaper}], [{varnish}], and [{pegboard}] for deployment,
+styling, and validation, respectively. It is important to note here that
+knowledge of R or pandoc is not necessary to build a lesson using The
+Workbench. The only requirement is a working knowledge of markdown syntax.
+To find out more about the process we used for validating the usability of the
+infrastructure, you can read our [blog post about the alpha
+testing][alpha-test] and our [blog post about the UX testing and
+design][ux-test], or if you have 20 minutes to spare, you can [watch a video of
+Zhian's UseR!2021 talk: "Using R as Community Workbench for The Carpentries
+Lesson Infrastructure][yt-vid] (with [slides available
+here](https://zkamvar.github.io/user2021/#1)).
 
 Because these are large changes with far-reaching consequences for our community,
 we are going to make this transition as smooth as possible, starting with **a
 soft beta release in April 2022** with interested maintainers, lesson authors, and
 instructors. **If you would like to begin exploring The Carpentries Workbench
-and help us out with beta testing, please get in touch by emailing me at <a href="mailto:zkamvar@carpentries.org?subject=I would like to beta test The Carpentries Workbench">zkamvar [at] carpentries.org</a>.**
+and help us out with beta testing, please get in touch by emailing me at 
+<a href="mailto:zkamvar@carpentries.org?subject=I would like to beta test The Carpentries Workbench">zkamvar [at] carpentries.org</a>.**
 It is vital that we include a wide range of perspectives in this process.
 We would like to learn from your experience with the new infrastructure 
 however you work with our lesson sites: 
@@ -45,14 +50,21 @@ regardless of whether you are new to The Carpentries community or
 have been working with our lesson sites for many years,
 we want you to get involved.
 
+## Table of Contents
+
+ - [Show me!](#show-me)
+   - [For Instructors: Instructor View](#for-instructors-instructor-view)
+   - [For Maintainers: Getting the Latest Features](#for-maintainers-getting-the-latest-features)
+   - [And More!](#and-more)
+ - [Transition Plan](#transition-plan)
+ - [Future Plans](#future-plans)
 
 ## Show me!
 
 You can see The Carpentries Workbench in action at [the documentation 
 site][workbench]. Of course, pictures are worth a thousand words. I have
 converted the "Programming With Python" Software Carpentry Lesson and hosted it
-in a sandbox github organisation[^note that this conversion was automated, so
-there may be a few rendering errors - please open an issue on the repository if you find any]. This is what the 'Making Choices' episode
+in a sandbox github organisation[^2]. This is what the 'Making Choices' episode
 of the "Programming with Python" lesson looks like right now using the [Styles
 template][styles]:
 
@@ -195,6 +207,9 @@ up-to-date lessons in any language (both human and computer).
 OMAR PLEASE HELP THING OF A GOOD ENDING
 
 
+[^1]: We are moving away from the 'template' terminology to describe our lesson infrastructure because it has caused some confusion in the past
+[^2]: note that this conversion was automated, so there may be a few rendering
+  errors - please open an issue on the repository if you find any.
 [design-principles]: https://carpentries.org/blog/2020/08/lesson-template-design/ 
 [{sandpaper}]: https://carpentries.github.io/sandpaper/
 [{pegboard}]: https://carpentries.github.io/pegboard/
