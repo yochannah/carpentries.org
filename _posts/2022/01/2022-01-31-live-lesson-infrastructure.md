@@ -31,8 +31,8 @@ minutes to spare, you can [watch a video of Zhian's UseR!2021 talk: "Using R as 
 
 Because these are large changes with far-reaching consequences for our community,
 we are going to make this transition as smooth as possible, starting with **a
-soft beta release in April 2022** with interested maintainers, lesson authors, and
-instructors. **If you would like to begin exploring The Carpentries Workbench
+soft beta release in April 2022** with interested Maintainers, Lgsson Authors, and
+Instructors. **If you would like to begin exploring The Carpentries Workbench
 and help us out with beta testing, please get in touch by emailing me at 
 <a href="mailto:zkamvar@carpentries.org?subject=I would like to beta test The Carpentries Workbench">zkamvar [at] carpentries.org</a>.**
 It is vital that we include a wide range of perspectives in this process.
@@ -108,26 +108,26 @@ in the Carpentries Workbench documentation.
 
 ### For Instructors: Instructor View
 
-One resource that is useful for instructors teaching new-to-them lessons is the
-instructor notes, but this page is often buried in the "extras" dropdown menu.
+One resource that is useful for Instructors teaching new-to-them lessons is the
+Instructor notes, but this page is often buried in the "extras" dropdown menu.
 Because it is out of sight, it is not used often, and goes out of sync with the
 content of the lesson.
 And while it is useful to have an overview of all the tips to teach a lesson, the new infrastructure offers a way
-to include these _in context_ in the lesson with the new _instructor view_.
+to include these _in context_ in the lesson with the new _Instructor View_.
 
 First, visit <https://carpentries.github.io/sandpaper-docs/episodes#instructor-notes> and you will see a section that contains a heading, paragraph, and a discussion block (in yellow).
 
-Now, visit <https://carpentries.github.io/sandpaper-docs/instructor/episodes#instructor-notes> and you will find an instructor note revealed:
+Now, visit <https://carpentries.github.io/sandpaper-docs/instructor/episodes#instructor-notes> and you will find an Instructor note revealed:
 
 <figure style="text-align: center">
   <img src="{{site.urlimg }}/blog/2022/01/2022-01-31-instructor-note.png" 
-   alt="Screen capture of a section showing an embedded instructor note which appears as a light grey rectangle spanning the page with a magenta box containing a white pencil icon on the left and a downward-pointing chevron on the right indicating that it contains content."/>
+   alt="Screen capture of a section showing an embedded Instructor note which appears as a light grey rectangle spanning the page with a magenta box containing a white pencil icon on the left and a downward-pointing chevron on the right indicating that it contains content."/>
   <figcaption>
-Screencapture of an instructor note from <a href="https://carpentries.github.io/sandpaper-docs/episodes#instructor-notes">The Carpentries Workbench Documentation</a> on 2022-01-27
+Screencapture of an Instructor note from <a href="https://carpentries.github.io/sandpaper-docs/episodes#instructor-notes">The Carpentries Workbench Documentation</a> on 2022-01-27
   </figcaption>
 </figure>
 
-Once we have the infrastructure established, we hope to organise instructor
+Once we have the infrastructure established, we hope to organise Instructor
 note sprints for our Instructors to share their knowledge and contribute to the
 lesson development and maintenance.
 
@@ -164,7 +164,7 @@ We are now piloting the inclusion of BioSchemas metadata in our
 lessons so that they can be indexed and aggregated on repositories such as 
 [ELIXIR's Training Portal, TeSS](https://tess.elixir-europe.org/), which will
 increase the lessons' reach and give more exposure to the
-work of our lesson authors and maintainers.
+work of our Lesson Authors and Maintainers.
 
 One of the things we're really excited about with the lesson infrastructure is a
 [less invasive and faster build process for our R-based lessons][sandpaper-cache]
@@ -181,12 +181,12 @@ As mentioned earlier, we will not make this transition all at once. There are
 over a hundred lessons across The Carpentries (including Lab and Incubator),
 each with their own unique setup. Before any transition will happen, we will do
 one more lesson release and then slowly migrate the lessons based on an opt-in
-process by the maintainers. Instructors will be notified at least two
+process by the Maintainers. Instructors will be notified at least two
 weeks in advance of these migrations. 
 
-For the maintainers, we have set up [a workflow for automated conversion with
+For the Maintainers, we have set up [a workflow for automated conversion with
 customisation](https://github.com/data-lessons/lesson-transition/), and once
-the maintainers/authors of the lesson are ready and they consent, we will
+the Maintainers/Authors of the lesson are ready and they consent, we will
 transition the lesson, preserving the commit history (stripping the styles-
 specific commits).
 
@@ -201,8 +201,20 @@ to the official release of The Carpentries Workbench, we will reform and restart
 The Lesson Infrastructure Committee, which will serve as an advisory board for
 the project, as [outlined in our blog post from December 2021](https://carpentries.org/blog/2021/12/lesson-infrastructure-committee/).
 
-OMAR PLEASE HELP THING OF A GOOD ENDING
+## How you can help
 
+ - If you are interested in beta testing The Carpentries Workbench and
+   providing valuable feedback as we iterate on the infrastructure, please
+   contact <a href="mailto:zkamvar@carpentries.org?subject=I would like to beta test The Carpentries Workbench">zkamvar [at] carpentries.org</a>
+ - If you find any errors in the infrastructure, please consider opening an
+   issue on the [{sandpaper} repository][{sandpaper}]
+ - Please continue providing feedback on the work outlined above
+
+Thank you to our community who has been instrumental in calling for these
+changes, and in advance for helping The Carpentries as we transition to a more
+equitable and accessible lesson infrastructure. Thank you also to 
+[CZI Science](https://chanzuckerberg.com/science/)
+for their support and funding for this work.
 
 [design-principles]: https://carpentries.org/blog/2020/08/lesson-template-design/
 [{sandpaper}]: https://carpentries.github.io/sandpaper/
