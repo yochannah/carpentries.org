@@ -67,4 +67,4 @@ If you are interested in learning more about how you can help us be the leading 
 
 - [United States Department of Agriculture (USDA)](https://www.usda.gov/) We have a collaborative agreement with the USDA to support
 instructor training and training for data and software skills throughout the USDA.
-- [Lawrence Berkeley Laboratory]() We have an agreement with the Lawrence Berkeley Laboratory to support instructor training and training for data and software skills in their community.
+- [Lawrence Berkeley Laboratory](https://www.lbl.gov/) We have an agreement with the Lawrence Berkeley Laboratory to support instructor training and training for data and software skills in their community.
