@@ -229,5 +229,5 @@ for their support and funding for this work.
 [pr-preview]: https://carpentries.github.io/sandpaper-docs/instructor/pull-request.html
 
 [^1]: We are moving away from the 'template' terminology to describe our lesson infrastructure because it has caused some confusion in the past.
-[^2]: Note that this conversion was automated, so there may be a few rendering errors----please open an issue on the repository if you find any.
+[^2]: Note that this conversion was automated, so there may be a few rendering errors---please open an issue on the repository if you find any.
 
