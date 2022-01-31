@@ -31,7 +31,7 @@ minutes to spare, you can [watch a video of Zhian's UseR!2021 talk: "Using R as 
 
 Because these are large changes with far-reaching consequences for our community,
 we are going to make this transition as smooth as possible, starting with **a
-soft beta release in April 2022** with interested Maintainers, Lgsson Authors, and
+soft beta release in April 2022** with interested Maintainers, Lesson Authors, and
 Instructors. **If you would like to begin exploring The Carpentries Workbench
 and help us out with beta testing, please get in touch by emailing me at 
 <a href="mailto:zkamvar@carpentries.org?subject=I would like to beta test The Carpentries Workbench">zkamvar [at] carpentries.org</a>.**
@@ -148,7 +148,7 @@ A huge backlog of notifications that Zhian needs to address :'(
   </figcaption>
 </figure>
 
-With the new lesson infrastructure, changes, even major changes are applied
+With the new lesson infrastructure, changes to the styling, even major changes are applied
 immediately. Take for example this [chapter on editing (captured on 2022-01-26)][new-episodes]
 and compare it with [the same content, but using the previous version of the lesson infrastructure][old-episodes]. This change
 happened with the click of a button (or had I been patient, I could have just
@@ -171,9 +171,6 @@ One of the things we're really excited about with the lesson infrastructure is a
 that freezes the package versions and provides [pull request previews][pr-preview] 
 that will avoid lessons suddenly breaking when new package versions are released.
 
-### Demonstration
-
-Zhian is going to implement and fill this in on Friday :weary:
 
 ## Transition Plan
 
@@ -227,7 +224,7 @@ for their support and funding for this work.
 [styles]: https://github.com/carpentries/styles/
 [slide-19]: https://zkamvar.github.io/user2021/#19
 [old-episodes]: https://web.archive.org/web/20220125163344/https://carpentries.github.io/sandpaper-docs/episodes.html
-[new-episodes]: https://web.archive.org/web/20220127011238/https://carpentries.github.io/sandpaper-docs/episodes.html
+[new-episodes]: https://carpentries.github.io/sandpaper-docs/episodes.html
 [sandpaper-cache]: https://carpentries.github.io/sandpaper/articles/building-with-renv.html
 [pr-preview]: https://carpentries.github.io/sandpaper-docs/instructor/pull-request.html
 
