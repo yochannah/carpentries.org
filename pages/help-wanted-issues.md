@@ -17,7 +17,7 @@ cells in that column which contain that term.
 If you are a Maintainer and would like to include issues
 from your lesson repository in this table,
 please read the
-[Information for Lesson Maintainers](#information-for-lesson-maintainers)
+[Information for Lesson Maintainers](#information-for-maintainers)
 at the end of the page.
 
 {% include _content_issue_table.html %}

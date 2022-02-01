@@ -12,6 +12,10 @@
   url: "https://docs.carpentries.org/topic_folders/policies/privacy.html"
   title: "Privacy Policy"
 
+- name: "Our Terms & Conditions"
+  url: "https://docs.carpentries.org/topic_folders/policies/terms-and-conditions.html"
+  title: "Terms and Conditions"
+
 - name: "Our Annual Reports"
   url: "/reports/"
   title: "Our Reports"
@@ -25,7 +29,7 @@
   title: "Software Carpentry"
 
 - name: "Data Carpentry website"
-  url: "http://www.datacarpentry.org/"
+  url: "https://datacarpentry.org/"
   title: "Data Carpentry"
 
 - name: "Library Carpentry website"

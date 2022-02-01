@@ -1,0 +1,155 @@
+
+- name: Adam Hughes
+  github: tautme
+  curriculum: astronomy
+  position: member
+
+- name: Azalee Bostroem
+  github: abostroem
+  curriculum: astronomy
+  position: chair
+
+- name: Brett Morris
+  github: bmorris3
+  curriculum: astronomy
+  position: member
+
+- name: Heather Andrews
+  github: HeatherAn
+  curriculum: astronomy
+  position: secretary
+
+- name: Ivelina Momcheva
+  github: ivastar
+  curriculum: astronomy
+  position: member
+  
+- name: Meredith Rawls
+  github: mrawls
+  curriculum: astronomy
+  position: member
+
+- name: Phil Rosenfield
+  github: philrosenfield
+  curriculum: astronomy
+  position: member
+
+- name: Rachel Lee McClure
+  github: rlmcclure
+  curriculum: astronomy
+  position: member
+
+- name: Alison Meynert
+  github: ameynert
+  curriculum: genomics
+  position: member
+
+- name: Anita Schurch
+  github: aschuerch
+  curriculum: genomics
+  position: member
+
+- name: Elizabeth McDaniel
+  github: elizabethmcd
+  curriculum: genomics
+  position: secretary
+
+- name: Jason Williams
+  github: jasonwilliamsny
+  curriculum: genomics
+  position: member
+  
+- name: Jeff Hollister
+  github: jhollist
+  curriculum: geospatial
+  position: chair
+
+- name: Ming Tang
+  github: crazyhottommy
+  curriculum: genomics
+  position: chair
+
+- name: Naupaka Zimmerman
+  github: naupaka
+  curriculum: genomics
+  position: member
+
+- name: Jeff Hollister
+  github: jhollist
+  curriculum: geospatial
+  position: co-chair
+
+- name: Justin Fain
+  github: fainjj
+  curriculum: geospatial
+  position: secretary
+
+- name: Mike Mahoney
+  github: mikemahoney218
+  curriculum: geospatial
+  position: member
+
+- name: Stephen Appel
+  github: srappel
+  curriculum: geospatial
+  position: co-chair
+
+- name: Annajiat Alim Rasel
+  github: annajiat
+  curriculum: library
+  position: member
+
+- name: Cody Hennesy
+  github: chennesy
+  curriculum: library
+  position: member
+
+- name: Liz Stokes
+  github: ragamouf
+  curriculum: library
+  position: chair
+
+- name: Mark Laufersweiler
+  github: laufers
+  curriculum: library
+  position: member
+
+- name: Phil Reed
+  github: PhilReedData
+  curriculum: library
+  position: member
+
+- name: Tim Dennis
+  github: jt14den
+  curriculum: library
+  position: member
+
+- name: Annajiat Alim Rasel
+  github: annajiat
+  curriculum: software
+  position: secretary
+
+- name: Byron J. Smith
+  github: bsmith89
+  curriculum: software
+  position: chair
+
+- name: James Balamuta
+  github: coatless
+  curriculum: software
+  position: member
+
+- name: Menglan Xiang
+  github: mxiang1
+  curriculum: software
+  position: member
+
+- name: Rich McCue
+  github: richmccue
+  curriculum: software
+  position: member
+  
+- name: Stephen Appel
+  github: srappel
+  curriculum: geospatial
+  position: chair
