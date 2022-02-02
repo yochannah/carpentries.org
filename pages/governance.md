@@ -19,15 +19,15 @@ The council also prepares [Yearly Summaries](https://github.com/carpentries/exec
 
 ### Current Executive Council Members
 
-- Cedric Chambers [Appointed since 2020]
 - John Chodacki [Appointed since 2021]
-- Konrad Förstner [Appointed since 2020], 2021 Secretary, 2020 [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) committee liaison
-- Paula Andrea Martinez [Elected since 2020], **2021 Vice Chair**
-- Lex Nederbragt [Elected since 2018], **2021 Chair**, 2020 Vice Chair, 2018 Secretary
+- Konrad Förstner [Appointed 2020-2021; Elected since 2021]
+- Amel Ghouila [Appointed since 2022]
 - Aleksandra Nenadic [Elected since 2021]
-- Michael Smith [Appointed since 2021], 2021 Treasurer
+- Annajiat Alim Rasel [Appointed since 2022]
+- Yanina Bellini Saibene [Elected since 2021]
+- Michael Smith [Appointed since 2021]
 - Sarah Stevens [Elected since 2021]
-- Masami Yamaguchi [Appointed since 2021], 2021 [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) committee liaison
+- Masami Yamaguchi [Appointed since 2021]
 
 ### Past Executive Council Members
 
