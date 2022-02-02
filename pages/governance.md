@@ -38,41 +38,8 @@ You will find our past Executive Council members [on the Carpentries Governance 
 Standing Committees are used by the Executive Council as a practical way to manage the work and engagement of the Executive Council.
 For a description of the different Standing Committees, see [the Carpentries' handbook](https://docs.carpentries.org/topic_folders/governance/executive-council.html?#executive-council-s-standing-committees).
 
-For the current Executive Council term, the Executive Council Standing Committees have the following composition:
+Committees for the 2022 Executive Council will be listed here once they are established.
 
-### Officers Committee
-
-* Lex Nederbragt (Chair)
-* Paula Andrea Martinez
-* Michael Smith
-* Konrad Förstner
-
-### Governance Committee
-
-* Paula Andrea Martinez (Committee Chair)
-* Sarah Stevens
-* Cedric Chambers
-* John Chodacki
-
-### Finance Committee
-
-* Michael Smith (Committee Chair)
-* John Chodacki
-* Cedric Chambers
-
-### Communications Committee
-
-* Konrad Förstner (Committee Chair)
-* Masami Yamaguchi
-* Aleksandra Nenadic
-* Omar Khan (Core Team member)
-
-### Program Committee
-
-* Sarah Stevens (Committee Chair)
-* Masami Yamaguchi
-* Aleksandra Nenadic
-* Lex Nederbragt
 
 ## Carpentries Bylaws and Policies
 
