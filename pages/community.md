@@ -161,21 +161,8 @@ They bring domain-specific expertise to lesson development and help ensure that
 lessons stay up to date with advances in technology. Being a Curriculum Advisor is a great way to keep up-to-date about changes in your field and
 network with other domain experts in The Carpentries community. We are not currently seeking new members to the Curriculum Advisory Committees.
 
+* [Curriculum Advisory Committee Members]({% link pages/curriculum-advisors.html %})
 * [Curriculum Advisory Committee (CAC) Duties](https://docs.carpentries.org/topic_folders/lesson_development/curriculum_advisory_committees.html#roles-and-responsibilities)
-
-##### Data Carpentry CAC
-* [Current Data Carpentry CAC members](http://www.datacarpentry.org/lesson-leadership/)
-* [Data Carpentry CAC Meeting minutes](https://github.com/datacarpentry/curriculum-advisors/)
-* [Data Carpentry CAC contact](mailto:ebecker@carpentries.org)
-
-##### Software Carpentry CAC
-* [Current Software Carpentry CAC members](https://software-carpentry.org/blog/2018/05/swc-cac.html)
-* [Software Carpentry CAC contact](mailto:{{site.contact}})
-
-##### Library Carpentry CAC
-* [Library Carpentry CAC members](https://librarycarpentry.org/cac/)
-* [Library Carpentry CAC discussion list](https://carpentries.topicbox.com/groups/curriculum-advisors-lc)
-* [Library Carpentry CAC contact](mailto:Christopher.Erdmann@ucop.edu)
 
 
 ### Lesson Developers
