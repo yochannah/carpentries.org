@@ -26,8 +26,11 @@ To indicate to other community members that accepted lessons have undergone this
 
 In the coming weeks, we will be reaching out to authors of lessons in The Carpentries Incubator to invite submissions to The Carpentries Lab. During this intial pilot phase, we will commit only to reviewing those lessons that are invited to submit. Watch this space for our reflections on these early reviews and updates on the next phase of this new program!
 
+If you are interested in learning more about lesson development with The Carpentries, check out the #lesson-dev channel on The Carpentries Slack, or stop by one of our [monthly co-working sessions][coworking-codimd].
+
 
 [community-lessons]: https://carpentries.org/community-lessons/
+[coworking-codimd]: https://codimd.carpentries.org/lessondev-coworking
 [crossref]: https://www.crossref.org/
 [curriculum-team]: https://carpentries.org/core-team-projects/#curriculum-team
 [incubator]: https://carpentries-incubator.org/
