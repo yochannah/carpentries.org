@@ -10,7 +10,7 @@ tags: ["Community", "Champions", "Community Facilitators", "Regional Coordinator
 
 In October of last year, the Community Development Team (CDT) [announced that it would be launching a new effort that would merge and enhance three of our existing programs into one program to support community building across The Carpentries organisation](https://carpentries.org/blog/2021/10/announcing-community-development-program/). The primary goal of the Community Development Program is to improve how The Carpentries’ subcommunities are supported to maximize benefits to our community members and to ensure the long term sustainability of the organisation as we continue to grow globally. Here, we define a subcommunity as a group of community members serving in the same role within the organisation (e.g., Instructor Trainers, Maintainers), located in the same geographic region (e.g., Africa, Midwest USA), or sharing common interests (e.g., HPC, Accessibility). Over the past few months, the Director of Community has conducted interviews and collected data from a number of our community members who currently serve in subcommunity leadership roles. This effort resulted in a number of recommendations that will guide the development and implementation of the Community Development Program over the next year.
 
-##Recommendations
+## Recommendations
 **Recommendation 1: Develop roadmaps for diverse subcommunity types** 
 
 **Recommendation 2: Develop resources (tip sheets) for each stage of a subcommunity’s roadmap**
@@ -65,7 +65,7 @@ Many subcommunities are currently run by individuals who are doing this work thr
 
 Community members continue to show interest in starting a new local or regional subcommunity as support for The Carpentries grows globally. The Carpentries Champions program, which became inactive in 2019, aimed to “help support the growth of existing communities and attract new communities to build digital skills capacity at research organizations around the world.” Based on our findings, we plan to pilot a relaunch of the program to provide support to new, emerging subcommunities. Champions would utilize the resources and collaboration opportunities described above to support these new groups.
 
-##Next Steps
+## Next Steps
 
 Our community management challenges are complex, which will require care when implementing any of the above recommendations. Therefore, before acting on them, feedback was gathered over the past month from members of The Carpentries Core Team and from the community members who participated in the interviews to see if there were any concerns and/or additional recommendations. Once their feedback has been addressed and the Community Development Program is initiated, resources will continue to be developed in collaboration with the community and programs will be piloted before broad-scale implementation. 
 
