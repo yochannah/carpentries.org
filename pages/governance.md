@@ -19,15 +19,15 @@ The council also prepares [Yearly Summaries](https://github.com/carpentries/exec
 
 ### Current Executive Council Members
 
-- Cedric Chambers [Appointed since 2020]
 - John Chodacki [Appointed since 2021]
-- Konrad Förstner [Appointed since 2020], 2021 Secretary, 2020 [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) committee liaison
-- Paula Andrea Martinez [Elected since 2020], **2021 Vice Chair**
-- Lex Nederbragt [Elected since 2018], **2021 Chair**, 2020 Vice Chair, 2018 Secretary
+- Konrad Förstner [Appointed 2020-2021; Elected since 2021]
+- Amel Ghouila [Appointed since 2022]
 - Aleksandra Nenadic [Elected since 2021]
-- Michael Smith [Appointed since 2021], 2021 Treasurer
+- Annajiat Alim Rasel [Appointed since 2022]
+- Yanina Bellini Saibene [Elected since 2021]
+- Michael Smith [Appointed since 2021]
 - Sarah Stevens [Elected since 2021]
-- Masami Yamaguchi [Appointed since 2021], 2021 [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) committee liaison
+- Masami Yamaguchi [Appointed since 2021]
 
 ### Past Executive Council Members
 
@@ -38,41 +38,8 @@ You will find our past Executive Council members [on the Carpentries Governance 
 Standing Committees are used by the Executive Council as a practical way to manage the work and engagement of the Executive Council.
 For a description of the different Standing Committees, see [the Carpentries' handbook](https://docs.carpentries.org/topic_folders/governance/executive-council.html?#executive-council-s-standing-committees).
 
-For the current Executive Council term, the Executive Council Standing Committees have the following composition:
+Committees for the 2022 Executive Council will be listed here once they are established.
 
-### Officers Committee
-
-* Lex Nederbragt (Chair)
-* Paula Andrea Martinez
-* Michael Smith
-* Konrad Förstner
-
-### Governance Committee
-
-* Paula Andrea Martinez (Committee Chair)
-* Sarah Stevens
-* Cedric Chambers
-* John Chodacki
-
-### Finance Committee
-
-* Michael Smith (Committee Chair)
-* John Chodacki
-* Cedric Chambers
-
-### Communications Committee
-
-* Konrad Förstner (Committee Chair)
-* Masami Yamaguchi
-* Aleksandra Nenadic
-* Omar Khan (Core Team member)
-
-### Program Committee
-
-* Sarah Stevens (Committee Chair)
-* Masami Yamaguchi
-* Aleksandra Nenadic
-* Lex Nederbragt
 
 ## Carpentries Bylaws and Policies
 
