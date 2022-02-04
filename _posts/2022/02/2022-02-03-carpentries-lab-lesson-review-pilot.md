@@ -1,9 +1,9 @@
 ---
 layout: page
 authors: ["Michael Culshaw-Maurer", "Toby Hodges"]
-teaser: "Publishing peer-reviewed lessons in The Carpentries Lab."
+teaser: "The Carpentries will start publishing peer-reviewed lessons in The Carpentries Lab."
 title: "Piloting Open Peer Review of Lessons"
-date: 2022-02-03
+date: 2022-02-08
 time: "09:00:00"
 tags: ["Curriculum", "The Carpentries Lab"]
 ---
