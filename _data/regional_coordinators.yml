@@ -117,20 +117,19 @@
     - icon: fab fa-orcid
       url:  https://orcid.org/0000-0002-2269-3894
 
-- name: SherAaron Hurt
+- name: Danielle Sieh
   region: Global
   pronoun_subjective: she
   pronoun_objective: her
   pronoun_possessive: hers
-  pic: https://avatars.githubusercontent.com/sheraaronhurt
+  pic: https://avatars.githubusercontent.com/danielle06
   position: Regional Coordinator (Global)
   social:
     - icon: fa fa-envelope
-      url: mailto:team@carpentries.org
+      url: mailto:workshops@carpentries.org
     - icon: fab fa-github
-      url: https://github.com/sheraaronhurt
-    - icon: fab fa-twitter
-      url: https://twitter.com/SherAaronHurt
+      url: https://github.com/danielle06
+
 
 
 - name: Rabea Müller
