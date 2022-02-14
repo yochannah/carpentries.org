@@ -20,13 +20,16 @@ and [determination letter]({{ site.filesurl }}/assessment/IRB_decision_letter_08
 ### <i class="fas fa-file-alt"></i>  Surveys
 
 We conduct pre and post workshop surveys for each workshop
+
 #### The Carpentries Pre and Post-Workshop Surveys
+
 - [Pre-Workshop Survey](https://carpentries.github.io/assessment-archives/pre-workshop/pre-workshop.html)
 - [Post-Workshop Survey](https://carpentries.github.io/assessment-archives/post-workshop/post-workshop.html)
 
 #### Instructor Training Pre and Post-Workshop Surveys
-- [Pre-Workshop Survey](https://www.surveymonkey.com/r/Preview/?sm=pRLWB3SiycOkcDiF9r3UP5tGr2zOHWJy_2BRNgUdCAjNuIlHUEY1KC2IWSB2dl2tqg)
-- [Post-Workshop Survey](https://www.surveymonkey.com/r/Preview/?sm=hQSz5bZR9XQTtTAbzlsettnvvkFKrSMGTgF9g5mNjL9_2BhGpHKFbH_2FCWLbV0OmeLz)
+
+- [Pre-Workshop Survey](https://carpentries.github.io/assessment-archives/instructor-training-pre/instructor-training-pre.html)
+- [Post-Workshop Survey](https://carpentries.github.io/assessment-archives/instructor-training-post/instructor-training-post.html)
 
 #### Long-Term Survey
 
