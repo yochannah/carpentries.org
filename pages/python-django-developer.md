@@ -4,8 +4,6 @@ title: "Python/Django Developer"
 permalink: /python-django-developer/
 ---
 
-**We are no longer reviewing applications for this position.**
-
 
 [The Carpentries](http://carpentries.org/) is committed to “training and
 fostering an active, inclusive, diverse community of learners and instructors
@@ -31,8 +29,7 @@ scholarship and society. We aim to build that world by scaling evidence-based
 teaching, creating inclusive environments, and building communities of practice
 based on open principles. In this role, you will join a diverse team of
 professionals working to spread data-driven research skills. Our community
-comprises approximately 70,000 learners, 2,500 instructors, 100 Trainers, and 85 partner organisations
-organisations from research institutions around the world.
+comprises approximately 85,000 learners, 3,700 instructors, 150 Trainers, and 100 partner organisations from research institutions around the world.
 
 ## Qualifications
 
@@ -48,7 +45,7 @@ AMY.
 * Ability to work remotely with a distributed team
 * Experience with Git and GitHub
 * Experience with writing tested, production grade Python and Django
-* Commercial knowledge and practice of Linux, Docker, AWS
+* Commercial knowledge and practice of Linux, Docker, and AWS
 
 
 ### Preferred
@@ -56,7 +53,7 @@ AMY.
 * Experience with The Carpentries
 * Experience with PostgreSQL, Redis
 * Experience with CI/CD workflows
-* Experience with UX and front-end libraries
+* Experience with UX and front-end libraries (especially Bootstrap)
 
 Our team values openness, honesty, fairness, and transparency as the keys to
 fostering trust. We believe that the individuals who make up our community are
@@ -69,7 +66,7 @@ learn.
 
 ## About Us
 
-We are a [Core Team](https://carpentries.org/team/) of thirteen staff and independent
+We are a [Core Team](https://carpentries.org/team/) of fifteen staff and independent
 contractors, with a nine-person Executive Council. We are a fiscally sponsored
 project of the 501(c)3 [Community Initiatives](http://communityin.org/). We have
 [a large community](https://carpentries.org/instructors-map/) of instructors and
@@ -88,8 +85,7 @@ hours/week commitment is required.
 
 For US-based candidates, compensation will be USD $25-70/hour, commensurate with
 experience. This position comes with no benefits. You might be hired either as a
-temporary employee or a contractor. Please state your preference in your
-application.
+temporary employee or a contractor.
 
 Outside the US, total compensation may need to be adjusted in accordance with
 legal and financial costs associated with international hiring and contracting
@@ -115,13 +111,13 @@ individuals to apply.
 ## To Apply
 
 Please submit a cover letter and resume or CV to
-[jobs@carpentries.org](mailto:jobs@carpentries.org) using "AMY Developer" as the
-subject line. Please also clearly indicate your country of residence, and
-whether or not you have work authorization in that country. We encourage you to
-include links to a portfolio (e.g., GitHub profile) that shows examples of
-Python/Django apps you have written as part of your application.
+[jobs@carpentries.org](mailto:jobs@carpentries.org) using "Python/Django
+Developer" as the subject line. Please also clearly indicate your country of
+fiscal residence. We encourage you to include links to a portfolio (e.g., GitHub
+profile) that shows examples of Python/Django apps you have written as part of
+your application.
 
-Applications received before November 15th, 23:59 UTC will receive full
+Applications received before March 13th, 2022, 23:59 UTC will receive full
 consideration.
 
 Feel free to contact François
