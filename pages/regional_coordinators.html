@@ -10,7 +10,7 @@ permalink: /regionalcoordinators/
 Around the world, Carpentries workshops are organized by a team of Regional Coordinators.
 
 <p>
-Our core team Deputy Director of Workshops and Meetings, SherAaron Hurt, manages workshops in most of the world. In some parts of the world, local Carpenters support managing local workshops and building local communities. They work with our <a href="{% link pages/members.md %}">member sites</a> or as volunteers.
+Our Workshop Administrator, Daneille Sieh, manages workshops in most of the world. In some parts of the world, local Carpenters support managing local workshops and building local communities. They work with our <a href="{% link pages/members.md %}">member sites</a> or as volunteers.
 </p>
 
 <p>
@@ -130,30 +130,6 @@ Meet our Regional Coordinators and Carpentries communities in these regions.  Cl
 
 
 
-<!--  Begin Nordic  -->  
-
-    <tr>
-        <td align="center"><h3><a href="{% link pages/regional_nordic.html %}">Nordic Countries</a></h3><a href="mailto:{{site.contact_nordic}}">{{site.contact_nordic}}</a></td>
-        <td>
-            {% assign regional_coordinators_nordic = site.data.regional_coordinators | where: "region", "Nordic Countries"  %}
-
-            {% for person in regional_coordinators_nordic %}
-            {% if regional_coordinators_nordic.size > 1 %}
-            <div class="medium-6 columns">
-            {% else %}
-            <div class="medium columns">
-            {% endif %}
-
-            <div class="team-member">
-            {% include single_profile.md %}
-            </div></div>
-
-        {% endfor %}
-        </td>
-    </tr>
-
-<!--  End Nordic -->  
-
 
 <!-- Begin South Africa -->
 
@@ -178,31 +154,6 @@ Meet our Regional Coordinators and Carpentries communities in these regions.  Cl
     </tr>
 
 <!-- End South Africa -->
-
-
-<!--  Begin United Kingdom  -->  
-    <tr>
-        <td align="center !important"><h3><a href="{% link pages/regional_UK.html %}">United Kingdom</a></h3>
-            <a href="mailto:{{site.contact_uk}}">{{site.contact_uk}}</a></td>
-        <td>
-            {% assign regional_coordinators_uk = site.data.regional_coordinators | where: "region", "United Kingdom"  %}
-
-            {% for person in regional_coordinators_uk %}
-            {% if regional_coordinators_uk.size > 1 %}
-            <div class="medium-6 columns">
-            {% else %}
-            <div class="medium columns">
-            {% endif %}
-
-            <div class="team-member">
-            {% include single_profile.md %}
-            </div></div>
-
-        {% endfor %}
-       </td>
-    </tr>
-
-<!--  End United Kingdom  -->  
 
 <!--  Begin Global  -->  
     <tr>
