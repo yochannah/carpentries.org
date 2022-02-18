@@ -16,5 +16,5 @@ infrastructure, and more. Visit the page for each committee or task force to fin
 - Curriculum Advisory Committee*
   - [Library Carpentry](https://librarycarpentry.org/cac/)
   - [Data Carpentry](http://www.datacarpentry.org/lesson-leadership/)
-\* a Curriculum Advisory Committee for Software Carpentry is being established and will be linked from here soon.
+  - [Software Carpentry](https://carpentries.org/curriculum-advisors/)
 - [Trainer Leadership Committee](https://github.com/carpentries/trainers/blob/main/governance.md)
