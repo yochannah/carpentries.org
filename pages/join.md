@@ -16,16 +16,13 @@ The Carpentries by becoming a <a href="{% link pages/membership.html %}">Member 
 
 #### Become a Sponsor
 
-Organisations and individuals can support The Carpentries by [donating]({{site.fundraising_link}}) or becoming a Sponsoring organisation. If you are interested in being a Corporate Sponsor, please [get in touch](mailto:{{site.sponsorship_contact}})!
-
-
-
+Organisations can support The Carpentries by [making a donation]({{site.fundraising_link}}) or becoming a Sponsoring organisation. Read more about our [sponsorship program]({% link pages/sponsorship.md %}).
   
 <hr>
 
 ### Pathways for Engagement - Individuals
   
-Individuals have many ways to get involved. See our [community page]({{site.url}}/community/).
+Individuals have many ways to get involved. See our [community page]({{site.url}}/community/). Individuals can also support The Carpentries by [making a donation]({{site.fundraising_link}}).
 
 #### Share Your Knowledge
 
