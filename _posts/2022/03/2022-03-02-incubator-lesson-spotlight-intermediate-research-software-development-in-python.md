@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Aleksandra Nenadic, Steve Crouch”]
+authors: ["Aleksandra Nenadic", "Steve Crouch"]
 teaser: "Get involved with a community lesson teaching intermediate research software development"
 title: "Incubator Lesson Spotlight: Intermediate Research Software Development in Python"
 date: 2022-03-02
