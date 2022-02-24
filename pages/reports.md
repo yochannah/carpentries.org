@@ -22,7 +22,7 @@ Our annual reports are published under a [Creative Commons Attribution 4.0](http
 
 ## Financial reports
 
-Our Financial Reports are created in the interest of transparency, and to help communicate information on financial planning, and sustainability in The Carpentries more broadly with our global community. They contain information about key sources of income for The Carpentries,, our programmatic expenditure and income, new grant funding and community sponsorship, and a summary of our financial position at the time of release.
+Our Financial Reports are created in the interest of transparency, and to help communicate information on financial planning, and sustainability in The Carpentries more broadly with our global community. They contain information about key sources of income for The Carpentries, our programmatic expenditure and income, new grant funding and community sponsorship, and a summary of our financial position at the time of release.
 
 - [Financial Report, 2020 (pdf)](/files/reports/Carpentries2020FinancialReport.pdf)
 - [Financial Report, 2020 (HTML)](https://carpentries.org/financial-report-2020/)
