@@ -103,7 +103,7 @@ The Trainer community is a group of experienced Instructors, local champions, an
 * [Duties](http://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html#trainer-agreement)
 * [Current members](https://github.com/carpentries/trainers/blob/main/README.md#current-members)
 * [Meeting minutes](https://github.com/carpentries/trainers/tree/main/minutes)
-* [Contact](mailto:{{site.instructor_training_contact}}).
+* [Contact](mailto:{{site.instructor_training_contact}})
 
 Private resources for current Trainers:
 * [Upcoming meetings](http://pad.carpentries.org/trainers) *Meetings are private to Trainers and invited guests*
