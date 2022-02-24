@@ -77,7 +77,7 @@ teaching practices to teach the core skills for effective computational and data
 work, and we promote reproducible research and open science/open source widely.
 All interactions in The Carpentries community and spaces, both virtual and
 in-person, are governed by our [Code of
-Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#code-of-conduct-detailed-view).
+Conduct]({{ site.code_of_conduct_url }}).
 
 
 ### Compensation and Benefits

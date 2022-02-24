@@ -32,7 +32,7 @@ The Carpentries is excited to let our community members know that we will be pil
 As with the standard workshops, there will still be requirements in order for this to use the Carpentries name: 
 * Have at least 1 [certified instructor](https://carpentries.org/instructors/) 
 * Must use The Carpentries surveys to get evaluations
-* Abide by our [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
+* Abide by our [Code of Conduct]({{ site.code_of_conduct_url }})
 * Use Carpentries curriculum
 
 Once we begin tracking non-standard workshops, we will accept instructors registering any upcoming workshops. Unfortunately, we do not have the capacity to track previous workshops. This is a pilot, so we’ll be able to better track and evaluate these workshop formats.  

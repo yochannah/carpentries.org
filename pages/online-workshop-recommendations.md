@@ -278,7 +278,7 @@ With a large workshop, even a short prompt can take a while! For best results, k
 #### Communicate information learners need to know
 Everything you have planned with regard to how your workshop will function now needs to be conveyed to your learners. In addition to introducing the exciting content of your workshop, your learners need to know what to expect and how to behave. This should include:
 * The workshop schedule (including break times)
-* [The Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
+* [The Code of Conduct]({{ site.code_of_conduct_url }})
 * [The Emergency Plan](#emergency-planning-know-your-rally-point)
 * How to use the technology (e.g., conferencing platform features, chat, collaborative notetaking document)
 * Communication norms (e.g., [How to ask questions](#handling-questions), [how to indicate when you are ok or stuck](#tracking-progress))

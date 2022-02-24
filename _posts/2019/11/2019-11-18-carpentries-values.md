@@ -46,7 +46,7 @@ We help people build knowledge by creating a conducive environment for the excha
 
 ### Value All Contributions
 
-We value all contributions by individuals and entities to our community, code, lessons and broader ecosystem as long as those contributions adhere to [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
+We value all contributions by individuals and entities to our community, code, lessons and broader ecosystem as long as those contributions adhere to [The Carpentries Code of Conduct]({{ site.code_of_conduct_url }}).
 
 **We are...**
 

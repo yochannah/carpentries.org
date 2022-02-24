@@ -27,7 +27,7 @@ Our new team members will join a diverse and engaged team of remote professional
 
 The Carpentries is a fiscally sponsored project of the 501(c)3 [Community Initiatives](http://communityin.org/). We have [a large community](https://carpentries.org/instructors-map/) of instructors and contributors, and a much larger community of users. We use evidence-based teaching practices to build global capacity in essential data and computational skills, and we promote reproducible research and open science/open source widely. All interactions in The Carpentries community and spaces, both
 virtual and in-person, are governed by our
-[Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#code-of-conduct-detailed-view).
+[Code of Conduct]({{ site.code_of_conduct_url }}).
 
 In the U.S., Community Initiatives offers a comprehensive benefits package including:
 - Fully paid medical, dental and vision

@@ -41,7 +41,7 @@ are interested in having a lesson reviewed for inclusion in The Lab, please subm
 [cc-by]: https://creativecommons.org/licenses/by/4.0/
 [cdh]: https://cdh.carpentries.org/
 [carpentries-lab]: https://github.com/carpentrieslab/proposals
-[coc]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#code-of-conduct-summary-view
+[coc]: {{ site.code_of_conduct_url }}
 [comms]: https://carpentries.org/connect/
 [community-lessons]: https://carpentries.org/community-lessons/
 [issues]: https://github.com/carpentries-incubator/proposals/issues

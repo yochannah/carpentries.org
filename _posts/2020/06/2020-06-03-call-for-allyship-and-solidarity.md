@@ -15,7 +15,7 @@ We find solace in being members of The Carpentries community. Our community enga
 
 Through our programs, we are working to positively impact the broken power structures and resource distribution that negatively impact communities of color within the United States and around the world. We are empowering diverse groups of people to work with data and code. This is wonderful, and yet, there is more we can do.
 
-If you are in a position of privilege, we implore you to leverage that privilege to combat the systemic inequalities prevalent on a global scale, and advocate for equity and inclusivity in your own communities. If you believe in our [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) and [Core Values](https://carpentries.org/values/), you are an ally.
+If you are in a position of privilege, we implore you to leverage that privilege to combat the systemic inequalities prevalent on a global scale, and advocate for equity and inclusivity in your own communities. If you believe in our [Code of Conduct]({{ site.code_of_conduct_url }}) and [Core Values](https://carpentries.org/values/), you are an ally.
 
 In this moment in our history, silence is complicity. Now is the time for empathy and empowerment. We encourage you to get involved by exploring some of the resources below, and sharing your support with us via Twitter at [@thecarpentries](https://twitter.com/thecarpentries).
 
