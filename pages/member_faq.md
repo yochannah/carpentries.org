@@ -26,7 +26,7 @@ self-organised workshops and access to Member pricing for additional Centrally-O
 like to maintain their membership status, financially support The Carpentries, and connect with other Members. To be eligible for 
 Titanium membership, organisations must have at least one prior year of membership.<br><br>
 3. **What if those membership packages do not fit my institution’s needs?**<br>
-We would be happy to talk with you to learn more about your institution’s goals and create a custom plan that works for you.  Contact our membership team to schedule a meeting at [membership@carpentries.org](mailto:membership@carpentries.org).
+We would be happy to talk with you to learn more about your institution’s goals and create a custom plan that works for you.  Contact our membership team to schedule a meeting at [{{site.membership_contact}}](mailto:{{site.membership_contact}}).
 
 4. **Do I need to renew my membership each year?**<br>
 Yes. The Carpentries memberships are annual memberships, extending for a period of one year. Renewing your membership in advance is a great way to avoid a lapse in membership. 
@@ -48,7 +48,7 @@ equivalent to six (6) seats in Instructor Training per active Instructor Trainer
 
 8. **How can I find out if my institution already has a membership?**<br>
 A list of our [current Member organisations](https://carpentries.org/members/) can be found on our website. If you would like 
-help in making contact with the person in charge of your institutional membership, email [membership@carpentries.org](mailto:membership@carpentries.org).
+help in making contact with the person in charge of your institutional membership, email [{{site.membership_contact}}](mailto:{{site.membership_contact}}).
 
 
 ## Workshops
@@ -60,7 +60,7 @@ Instructor travel expenses are the responsibility of the Member and are not cove
 Centrally-Organised workshops can also be purchased [a la carte](/membership/#a-la-carte-pricing) or added to an existing 
 membership. If you would like to run a Centrally-Organised workshops in order to demonstrate the value of The Carpentries 
 membership at your organisation, we will count the workshop fee towards a membership if purchased within twelve (12) months.<br><br>
-Workshops can cover curricula from any of our lesson programs: [Data Carpentry](https://datacarpentry.org/lessons/), [Library Carpentry](https://librarycarpentry.org/lessons/), or [Software Carpentry](https://software-carpentry.org/lessons/).  An overview of available workshops is located on our [curricula page](/workshops-curricula/). Contact us at [workshops@carpentries.org](mailto:workshops@carpentries.org) to learn more about our workshop operations.
+Workshops can cover curricula from any of our lesson programs: [Data Carpentry](https://datacarpentry.org/lessons/), [Library Carpentry](https://librarycarpentry.org/lessons/), or [Software Carpentry](https://software-carpentry.org/lessons/).  An overview of available workshops is located on our [curricula page](/workshops-curricula/). Contact us at [{{site.workshops_contact}}](mailto:{{site.workshops_contact}}) to learn more about our workshop operations.
 
 2. **How soon after signing my membership can I get started with hosting workshops?**<br>
 Right away! You can request workshops as soon as your membership agreement is in place by completing [this form]({{ site.wrf_landing }}). To allow us time to recruit Instructors and give them time to plan the workshop with you, we generally require 2-3 months lead time to schedule a workshop. 
@@ -106,7 +106,7 @@ will reply within 3-5 business days with the information we can provide.
 5. **What if I do not use all of my Instructor Training seats before the end of my membership?**<br>
 The success of our program depends on accurately predicting our capacity needs, so we may not be able to accommodate all 
 situations.  However, we know unexpected things can come up. If you are nearing the end of your membership term and have not used 
-all your seats, please contact us at [membership@carpentries.org](mailto:membership@carpentries.org).
+all your seats, please contact us at [{{site.membership_contact}}](mailto:{{site.membership_contact}}).
 
 6. **What if I want to train more people at my site than my agreement allows?**<br>
 All members are eligible to purchase additional Instructor Training seats at a discount. 
@@ -123,7 +123,7 @@ this program by selecting “Open Training Application” in our [Instructor Tra
 ## Contact us
 *Who do I talk to about...*
 
- **...general membership questions?** Contact [membership@carpentries.org](mailto:membership@carpentries.org)<br>
- **...workshops?** Contact [workshops@carpentries.org](mailto:workshops@carpentries.org)<br>
+ **...general membership questions?** Contact [{{site.membership_contact}}](mailto:{{site.membership_contact}})<br>
+ **...workshops?** Contact [{{site.workshops_contact}}](mailto:{{site.workshops_contact}})<br>
  **...instructor training?** Contact [{{site.instructor_training_contact}}g](mailto:{{site.instructor_training_contact}})<br>
  **...legal or financial questions?** Contact [finance@carpentries.org](mailto:finance@carpentries.org)<br>
