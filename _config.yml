@@ -33,9 +33,19 @@ author: admin
 url: 'https://carpentries.org'
 baseurl: ''
 filesurl: 'https://carpentries.org/files'
+
+# Helpscout boxes
 contact: "team@carpentries.org"
 instructor_training_contact: "instructor.training@carpentries.org"
 carpentrycon_contact: "carpentrycon@carpentries.org"
+workshops_contact: "workshops@carpentries.org"
+membership_contact: "membership@carpentries.org"
+community_contact: "community@carpentries.org"
+finance_contact: "finance@carpentries.org"
+jobs_contact: "jobs@carpentries.org"
+sponsorship_contact: "sponsorship@carpentries.org"
+
+# Code of Conduct URL
 code_of_conduct_url: "https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html"
 
 # Regional contacts
