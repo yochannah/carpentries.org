@@ -36,6 +36,7 @@ filesurl: 'https://carpentries.org/files'
 contact: "team@carpentries.org"
 instructor_training_contact: "instructor.training@carpentries.org"
 carpentrycon_contact: "carpentrycon@carpentries.org"
+code_of_conduct_url: "https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html"
 
 # Regional contacts
 contact_ca: "admin-ca@carpentries.org"      # Canada
