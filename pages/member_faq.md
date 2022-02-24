@@ -88,7 +88,7 @@ commitment to teaching. There are no specific technical skills required to becom
 individuals with a range of experiences and technical competencies. Trainees will be required to demonstrate their ability to
 teach one of our lessons, with options ranging from spreadsheet formatting to Python programming. Although we do not provide 
 screening or selection of trainee candidates, Member organisations are welcome to make use of our 
-[application questions](https://amy.carpentries.org/forms/request_training/) and 
+[application questions]({{site.instructor_training_app}}) and 
 [rubric](https://github.com/carpentries/instructor-training/blob/gh-pages/files/rubric.md), which we use for evaluating 
 non-member affiliated trainees. For more information about selecting trainees, read our [Information for Member Organizations](https://carpentries.github.io/instructor-training/members/) page.
 
@@ -117,7 +117,7 @@ Yes! Individuals can purchase Instructor Training seats at the [a la carte price
 for their region. Individuals purchasing seats a la carte will receive equal priority with Members in scheduling.<br><br>
 Individuals who are not able to purchase seats can apply through our Open Instructor Training program. Acceptance rate varies, 
 not all applications are accepted, and multiple trainees from a single institution are not accepted at the same time. Apply to 
-this program by selecting “Open Training Application” in our [Instructor Training application form](https://amy.carpentries.org/forms/request_training/).
+this program by selecting “Open Training Application” in our [Instructor Training application form]({{site.instructor_training_app}}).
 
 
 ## Contact us
