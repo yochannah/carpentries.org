@@ -12,7 +12,7 @@ The Carpentries Executive Council is the highest leadership body of The Carpentr
 
 ## What is the Executive Council working on?
 
-In addition to [publicly posting meeting minutes](https://github.com/carpentries/executive-council-info/tree/master/minutes), the Executive Council reports on its activities periodically in [Carpentry Clippings](https://carpentries.org/newsletter/) (the organizational newsletter) as well as through [blog posts](https://carpentries.org/posts-by-tags/#blog-tag-governance).
+In addition to [publicly posting meeting minutes](https://github.com/carpentries/executive-council-info/tree/master/minutes), the Executive Council reports on its activities periodically in [Carpentries Clippings](https://carpentries.org/newsletter/) (the organizational newsletter) as well as through [blog posts](https://carpentries.org/posts-by-tags/#blog-tag-governance).
 The council also prepares [Yearly Summaries](https://github.com/carpentries/executive-council-info/tree/master/year-in-review) of its activities.
 
 ## Executive Council Members
