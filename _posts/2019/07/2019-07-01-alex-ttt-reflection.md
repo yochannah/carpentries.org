@@ -52,7 +52,7 @@ Some of the most interesting things I picked up during the training:
 
 **Make and solve errors**: live coding also means that errors will have to be handled on the fly by the instructor. There is a lot of learning involved in seeing someone else troubleshoot code, so this should be embraced. I have been live coding as a teacher for more than a decade now, so I am very used to it. But I still remember how challenging it was to get started with all the realtime, public error-handling in the beginning.
 
-**[Code of conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)**: The Carpentries are very concerned about being an inclusive community. Thus the code of conduct is easily available on the web pages, and it is also explicitly mentioned at the beginning of lectures. I think this is something that should be embraced more generally in teaching.
+**[Code of conduct]({{ site.code_of_conduct_url }})**: The Carpentries are very concerned about being an inclusive community. Thus the code of conduct is easily available on the web pages, and it is also explicitly mentioned at the beginning of lectures. I think this is something that should be embraced more generally in teaching.
 
 **[Feedback strategies](https://carpentries.github.io/instructor-training/06-feedback/index.html)**: There is a very structured approach to feedback in Carpentries:
 

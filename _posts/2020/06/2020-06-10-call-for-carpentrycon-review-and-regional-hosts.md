@@ -14,7 +14,7 @@ CarpentryCon @ Home kicks off on July 14 and now is a great time for as many as 
 We invite you to review sessions proposed for [CarpentryCon @ Home](https://2020.carpentrycon.org/) by other community members in [the issues section of this repository](https://github.com/carpentrycon/carpentryconhome-proposals/issues?q=is%3Aissue+is%3Aopen). Reviewing proposals is a two-step process:
 - Read each proposal, ask clarifying questions or volunteer to help run the session in the comments section, and
 - Upvote (using the thumbs-up emoji 👍) or comment on the proposals you would like to see included in the six-week schedule between 14 July - 31 August 2020.
-Please note that all CarpentryCon @ Home sessions will be expected to adhere to The Carpentries [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
+Please note that all CarpentryCon @ Home sessions will be expected to adhere to The Carpentries [Code of Conduct]({{ site.code_of_conduct_url }}).
 
 ### Volunteer to Help Run Specific Sessions
 
