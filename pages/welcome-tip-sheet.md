@@ -25,7 +25,7 @@ Glad you asked! [The Carpentries](https://carpentries.org/about/) is an organisa
 The Carpentries supports communications from our Core Team and across our community members in several ways. Worried about too many communications? Don’t be! Only subscribe to the communications you want, and you can unsubscribe at any time.
 
 - [Email Listservs](https://carpentries.topicbox.com/latest): Browse the various options and sign up to receive relevant regional and global communications. We recommend the “Discuss” listserv, which is used for general discussion, but you can find information on [other available listservs](https://docs.carpentries.org/topic_folders/communications/tools/slack-and-email.html).
-- [Newsletter](https://carpentries.org/newsletter/): Carpentry Clippings is published every two weeks and includes community news and relevant job postings.
+- [Newsletter](https://carpentries.org/newsletter/): Carpentries Clippings is published every two weeks and includes community news and relevant job postings.
 - [Carpentries Philanthropy](https://carpentries.us14.list-manage.com/subscribe?u=46d7513c798c6bd41e5f58f4a&id=33f76196ac): Receive communications about the philanthropic work of our organisation.
 - Social media: Follow our organisation’s activities on [Twitter](https://twitter.com/thecarpentries), [Facebook](https://www.facebook.com/carpentries), [LinkedIn](https://www.linkedin.com/company/the-carpentries/), and [YouTube](https://www.youtube.com/c/TheCarpentries).
 
