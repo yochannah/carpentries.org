@@ -23,12 +23,3 @@ Organisations can support The Carpentries by [making a donation]({{site.fundrais
 ### Pathways for Engagement - Individuals
   
 Individuals have many ways to get involved. See our [community page]({{site.url}}/community/). Individuals can also support The Carpentries by [making a donation]({{site.fundraising_link}}).
-
-#### Share Your Knowledge
-
-- <a href="https://carpentries.typeform.com/to/BK55ld">Blog for us</a> about a workshop, event, or insight.
-- Share information <a href="https://docs.google.com/forms/d/e/1FAIpQLSeiu5NzJsLxYueaQrNn_qKbaa5JR2Sz12CeCRyedKQxwb54Dw/viewform">about your favourite tool</a>.
-
-  
-
-
