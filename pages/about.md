@@ -37,9 +37,9 @@ The Carpentries community.
 
 #### How is The Carpentries Funded?
 
-We now have more than 80 [member organisations]({{site.url}}/members/) in 10 countries.  The memberships program generates 32.7% of revenue. Collectively, Workshops & Instructor Training generate 9.1% of revenue, while Grants & Donations generate 58.2% of revenue. These income streams support the work of the Core Team, workshop & lesson infrastructure, CarpentryCon, and our continued work towards The Carpentries mission.
+The Carpentries revenue sources include [membership fees]({{site.url}}/membership), [grants and donations]({{site.url}}/grants), Workshops and Instructor Training fees, sponsorships, and individual donations. These income streams support the work of the Core Team, workshop & lesson infrastructure, CarpentryCon, and our continued work towards The Carpentries mission. The Carpentries [Financial Reports]({{site.url/reports}}) provide more inforation about our annual income and expenditures.
 
-You can <a href="{{site.fundraising_link}}">donate to The Carpentries</a> using our online portal.
+Read more about becoming a [Sponsor Organisation]({{site.url}}/sponsorship). You can also <a href="{{site.fundraising_link}}">donate to The Carpentries</a> using our online portal.
 
 #### What Information is Where?
 
