@@ -79,7 +79,7 @@ The Carpentries [Instructor Training](https://carpentries.github.io/instructor-t
 multi-day training, led by pedagogically trained community members (Trainers). Once your membership is in place, you will be 
 provided with a registration code which your selected trainees can use to register for an event of their choice from our 
 [Instructor Training calendar](https://carpentries.github.io/instructor-training/training_calendar/). Contact us at 
-[instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) to learn more about our Instructor Training 
+[{{site.instructor_training_contact}}](mailto:{{site.instructor_training_contact}}) to learn more about our Instructor Training 
 program.
 
 2. **How should I select individuals to be trained as Instructors?**<br>
@@ -100,7 +100,7 @@ It is difficult to schedule events in every time zone, so your trainees are alwa
 For best results, we recommend tracking this locally. Keeping in touch with trainees can have additional value in building your 
 local community. Due to regional variation in privacy laws and delays in our registration workflows, not all information from our
 database is guaranteed to be available or fully up to date. You are welcome to email us at 
-[instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) at any time with a request for information. We
+[{{site.instructor_training_contact}}](mailto:{{site.instructor_training_contact}}) at any time with a request for information. We
 will reply within 3-5 business days with the information we can provide.
 
 5. **What if I do not use all of my Instructor Training seats before the end of my membership?**<br>
@@ -125,5 +125,5 @@ this program by selecting “Open Training Application” in our [Instructor Tra
 
  **...general membership questions?** Contact [{{site.membership_contact}}](mailto:{{site.membership_contact}})<br>
  **...workshops?** Contact [{{site.workshops_contact}}](mailto:{{site.workshops_contact}})<br>
- **...instructor training?** Contact [{{site.instructor_training_contact}}g](mailto:{{site.instructor_training_contact}})<br>
+ **...instructor training?** Contact [{{site.instructor_training_contact}}](mailto:{{site.instructor_training_contact}})<br>
  **...legal or financial questions?** Contact [{{site.finance_contact}}](mailto:{{site.finance_contact}})<br>
