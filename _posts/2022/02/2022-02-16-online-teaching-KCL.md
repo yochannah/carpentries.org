@@ -8,11 +8,11 @@ time: "09:00:00"
 tags: ["Teaching", "Carpentries workshops"]
 ---
 
-# Who we are
+## Who we are
 We are Alessia, Flavia and Stefania, part of the [King's College London Carpentries Instructor Team](https://kcl-carpentries.github.io/index.html).
 We run regular Carpentries-like workshops on Unix and Git (8 so far, more to come!) and we are here to share some tips and tricks with the community!
 
-# Background
+## Background
 Some background first. We teach our workshops online: we started doing so during the pandemic, but we found that the format suited our personal needs, so we are planning to keep them online for the foreseeable future. This also seems to widen accessibility for our participants, allowing extra flexibility (e.g., working from home, childcare, etc.). The Unix workshop is structured in 3 half-day sessions (3 hours each), plus an optional short exercise session (~1 hour); the Git workshop counts 2 half-day sessions plus an optional exercise session. Workshops are normally open to internal participants from King's College London and the NHS trust, however, we allow external participants in some instances (e.g., Global South collaborations).
 We aim for about 15-20 participants per workshop (as we have found this to be a manageable number for online sessions), with the three of us instructing plus one or two helpers, if available. We take turns for leading the session (we all have favourite sessions/topics), but we can be flexible to cover for each other should the need arise. The instructors who are not teaching at a given time take care of breakout rooms (for individual help to participants), of questions in the chat, and of taking notes.
 We use Zoom as a platform. This allows us to easily create breakout rooms (one participant + one instructor/helper when needed to solve issues), and to keep on screen the participants' list and the chat, alongside the main call window. We ask our participants to keep their cameras off to save some bandwidth, and we find the use of the Zoom reactions particularly helpful (more on this to follow!). One of the instructors not leading the session is made host of the call, so that they can manage breakout rooms; all the instructors are co-hosts in the call (helpful if one's internet connection drops).
@@ -25,13 +25,13 @@ Reminder emails before the start of the workshop also include instructions for s
 Due to security settings and setup on university-managed machines, we sometimes incurred in problems with installations. These are dealt with in a case-by-case manner, but issues often involved lack of admin rights, double installations (the same software was installed twice with different versions), or unusual locations of the Desktop folder (e.g., on a local drive). We were recently made aware of the [Carpentries scaffolds](https://github.com/carpentries/scaffolds/blob/main/instructions/workshop-coordination.md#shell), which might also be a helpful resource in these situations.
 We do not offer recording of our sessions. This choice is made in line with GDPR compliance (as participants might share their screen during the sessions) and to encourage more active engagement with the live-coding.
 
-# Workshop structure
+## Workshop structure
 Each session is 3-hour long with a 10-15 minute break about half-way through. We always leave about 15 minutes at the end to allow for feedback, which we get through a "one up one down" format on the shared pad. Before the first session, instructors log into the call early, to give the opportunity to whoever had issues with software installation to get ready before we get started. At the beginning of the first session, we also run introductions, while the other two sessions start with a short recap of the previously learnt concepts/commands.
 Each session is based on live-coding. The instructor leading the session shares their terminal (or other necessary windows, e.g., browser for GitHub), and participants are encouraged to code along. All the concepts/commands covered are first demonstrated with examples, and then exercises are given for participants to test their understanding. When we give solutions to exercise, we always run them step by step on our terminal, and we were given good feedback about this practice as it helps having everybody on board before moving on to the next topic. In general, we noticed exercises take much longer online than in person, so take into account you might need to allow extra time for those!
 At the end of the session, we circulate the pad (where one of the instructors took notes) in pdf format with some added resources, which normally include command cheatsheets and Carpentries material, plus any useful links to solve issues that we found during the session. We prefer to avoid giving material beforehand, as we found participants often decide not to live-code along with the instructor if they already have the lesson notes. We might also add to the pad some extra exercises as "homework", but those are optional and are often exercises that we were planning to go through during the session but did not have time for.
 We often received feedback regarding the need for more practical sessions after the course, so we added an optional 1-hour long session, for each workshop, in which we give participants an exercise that recapitulates many of the concepts learnt. We are available for questions throughout and before the end of the session we walk them through the solution on our terminal. We had a limited amount of participants taking advantage of this extra session, but the ones who did found it helpful to translate what they have learnt into their personal work.
 
-# Workshop contents (Unix)
+## Workshop contents (Unix)
 The workshop is aimed at individuals who have no experience with coding, so no pre-requisites are expected. It covers the following concepts during 3 sessions:
 
 how to navigate folders
@@ -46,7 +46,7 @@ how to write scripts to automate tasks.
 
 This is equivalent to the following lessons in the [Shell Novice Carpentries material](https://swcarpentry.github.io/shell-novice/): 01 to 03 in the first session, 04 and 07 in the second, 05 and 06 in the third. You will notice a little bit of re-shuffling here, but this is just what works well for us!
 
-# Workshop contents (Git)
+## Workshop contents (Git)
 The workshop is aimed at individuals who have no experience of version control but are familiar with the Unix shell (i.e., Shell Novice sessions 01 to 03). It will cover the basics of version control, how to collaborate with other people, and how to interface ourselves with GitHub. More in detail, the following concepts are covered during two sessions:
 
 how to set up Git on your computer
@@ -60,5 +60,5 @@ how to collaborate to a common repository
 
 This is equivalent to the following lessons in the [Git Novice Carpentries material](https://swcarpentry.github.io/git-novice/): 01 to 05 in the first session, 07 and 08 in the second. Moreover, some [mentions to branches](https://www.atlassian.com/git/tutorials/using-branches) are included . Similarly to Unix, you will notice a little bit of re-shuffling, but again, this is just what works well for us!
 
-# Closing remarks
+## Closing remarks
 We hope that this run through our experience with teaching online Carpentries-like workshops might be helpful for other instructors! Should you have any questions for us, you can reach us at carpentries@kcl.ac.uk.
