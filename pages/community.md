@@ -64,7 +64,7 @@ More information about the Executive Council and current members is available on
 
 
 ### Instructors
-Carpentry Instructors are the core of our community. Instructors organise and teach Carpentry workshops to spread data literacy and programmatic skills both locally and globally. Members of our Instructor community work together to actively grow their instructional and technical skills. Becoming an Instructor is a great step to leveling-up your own technical skills and helps you to become a more effective technical communicator.
+The Carpentries Instructors are the core of our community. Instructors organise and teach Carpentries workshops to spread data literacy and programmatic skills both locally and globally. Members of our Instructor community work together to actively grow their instructional and technical skills. Becoming an Instructor is a great step to leveling-up your own technical skills and helps you to become a more effective technical communicator.
 
 * [Instructor training curriculum](https://carpentries.github.io/instructor-training/)
 * [Become an Instructor!](https://carpentries.org/become-instructor/)
