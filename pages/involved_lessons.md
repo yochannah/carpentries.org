@@ -34,7 +34,7 @@ are interested in having a lesson reviewed for inclusion in The Lab, please subm
 [GitHub Repository](https://github.com/carpentries-incubator/proposals#readme).
 
 
-[git-tutorial]: https://github.com/dmgt/swc_github_flow/blob/master/for_novice_contributors.md
+[git-tutorial]: https://github.com/carpentries-incubator/swc_github_flow/blob/master/for_novice_contributors.md
 [incubator]: https://github.com/carpentries-incubator/proposals/blob/master/README.md
 [join-github]: https://github.com/join
 [cc-0]: https://creativecommons.org/share-your-work/public-domain/cc0/
