@@ -13,7 +13,7 @@ With support from sponsors, The Carpentries will continue our efforts to make co
             Sponsorship Application Form
         </button>
 
-The Sponsorship Application Form is also available as a [fillable PDF](/files/pdf/Sponsorship-Form.pdf). If you choose to download and fill out the PDF, please email the completed form to [sponsorship@carpentries.org](mailto:sponsorship@carpentries.org)
+The Sponsorship Application Form is also available as a [fillable PDF](/files/pdf/Sponsorship-Form.pdf). If you choose to download and fill out the PDF, please email the completed form to [{{site.sponsorship_contact}}](mailto:{{site.sponsorship_contact}})
 
 ## Our Sponsors
 
@@ -173,4 +173,4 @@ Attend one Data, Software, or Library Carpentry [workshop](https://carpentries.o
         </button>
 
 <hr>
-If you have any questions please contact us at [sponsorship@carpentries.org](mailto:sponsorship@carpentries.org)
+If you have any questions please contact us at [{{site.sponsorship_contact}}](mailto:{{site.sponsorship_contact}})
