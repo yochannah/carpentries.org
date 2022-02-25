@@ -4,34 +4,43 @@ people:
   github: chodacki
   twitter: 
   country: US
+  active: True
 
 - person_name: Annajiat Alim Rasel
   github: annajiat
   country: BD
+  active: True
 
 - person_name:  Konrad Förstner
   github: konrad
   country: DE
+  active: True
 
 - person_name:  Amel Ghoulia
   github: amelgh
   country: 
+  active: True
 
 - person_name: Aleksandra Nenadic
   github: anenadic
   country: GB
+  active: True
 
 - person_name: Yanina Bellini Saibene
   github: 	yabellini
   country: AR
+  active: True
 
 - person_name: Michael Smith
+  active: True
 
 - person_name: Sarah Stevens
   github: sstevens2
   country: US
+  active: True
 
 
 - person_name: Masami Yamaguchi
   github: 	masamiy
   country: AU
+  active: True
