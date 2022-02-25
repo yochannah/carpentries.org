@@ -1,0 +1,37 @@
+people:
+
+- person_name: John Chodacki
+  github: chodacki
+  twitter: 
+  country: US
+
+- person_name: Annajiat Alim Rasel
+  github: annajiat
+  country: BD
+
+- person_name:  Konrad Förstner
+  github: konrad
+  country: DE
+
+- person_name:  Amel Ghoulia
+  github: amelgh
+  country: 
+
+- person_name: Aleksandra Nenadic
+  github: anenadic
+  country: GB
+
+- person_name: Yanina Bellini Saibene
+  github: 	yabellini
+  country: AR
+
+- person_name: Michael Smith
+
+- person_name: Sarah Stevens
+  github: sstevens2
+  country: US
+
+
+- person_name: Masami Yamaguchi
+  github: 	masamiy
+  country: AU
