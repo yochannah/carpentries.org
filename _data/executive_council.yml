@@ -5,42 +5,61 @@ people:
   twitter: 
   country: US
   active: True
+  term:
+    - {type: appointed, start_year: 2021}
 
 - person_name: Annajiat Alim Rasel
   github: annajiat
   country: BD
   active: True
+  term:
+    - {type: appointed, start_year: 2022}
 
 - person_name:  Konrad Förstner
   github: konrad
   country: DE
   active: True
+  term:
+    - {type: appointed, start_year: 2020}
+    - {type: elected, start_year: 2022}
+
 
 - person_name:  Amel Ghoulia
   github: amelgh
   country: 
   active: True
+  term:
+    - {type: appointed, start_year: 2022}
 
 - person_name: Aleksandra Nenadic
   github: anenadic
   country: GB
   active: True
+  term:
+    - {type: elected, start_year: 2021}
 
 - person_name: Yanina Bellini Saibene
   github: 	yabellini
   country: AR
   active: True
+  term:
+    - {type: elected, start_year: 2022}
 
 - person_name: Michael Smith
   active: True
+  term:
+  - {type: appointed, start_year: 2021}
 
 - person_name: Sarah Stevens
   github: sstevens2
   country: US
   active: True
-
+  term:
+    - {type: elected, start_year: 2021}
 
 - person_name: Masami Yamaguchi
   github: 	masamiy
   country: AU
   active: True
+  term:
+    - {type: appointed, start_year: 2021}
