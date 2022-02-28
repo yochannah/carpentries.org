@@ -44,5 +44,9 @@ As the Accessibility Coordinator, you will lead accessibility audits of The Carp
 
 As the (Deputy) Director of Fundraising, you will set and meet annual revenue and fundraising goals; identify, cultivate, build and solidify relationships with new and established donors; and coordinate fundraising campaigns. You will engage with potential [Member Organisations](https://carpentries.org/membership/) to sell memberships and will develop and administer The Carpentries’ [Sponsorship Program](https://carpentries.org/sponsorship/), especially in scaling outside of the United States. You will work closely with programmatic Team Leads to ensure program growth and development align with fundraising efforts. __The success of this position in meeting fundraising goals will be assessed 6-months and one year post-hire.__
 
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}{% link pages/director-of-fundraising.md %}">Learn more about this position</a>
+<a href="/director-of-fundraising/">
+        <button class="btn">
+          Learn more about this position
+        </button>
+</a>
 
