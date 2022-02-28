@@ -1,3 +1,9 @@
+---
+layout: page-fullwidth
+title: "Workshop Administrator"
+permalink: /workshop-administrator/
+---
+
 ## Director of Fundraising
 [The Carpentries](http://carpentries.org/) is committed to training and fostering an active, inclusive, diverse community of learners and instructors who promote and model the importance of software and data in research. We seek an engaged and collaborative individual who shares this vision for a full-time position as the Deputy Director or Director of Fundraising for The Carpentries. The (Deputy) Director of Fundraising has a broad responsibility for the development and execution of The Carpentries fund development plan. 
 
