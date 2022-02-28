@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
-title: "Workshop Administrator"
-permalink: /workshop-administrator/
+title: "Director of Fundraising"
+permalink: /director-of-fundraising/
 ---
 
 ## Director of Fundraising
