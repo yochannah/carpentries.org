@@ -4,7 +4,6 @@ title: "Director of Fundraising"
 permalink: /director-of-fundraising/
 ---
 
-## Director of Fundraising
 [The Carpentries](http://carpentries.org/) is committed to training and fostering an active, inclusive, diverse community of learners and instructors who promote and model the importance of software and data in research. We seek an engaged and collaborative individual who shares this vision for a full-time position as the Deputy Director or Director of Fundraising for The Carpentries. The (Deputy) Director of Fundraising has a broad responsibility for the development and execution of The Carpentries fund development plan. 
 
 As the (Deputy) Director of Fundraising, you will set and meet annual revenue and fundraising goals; identify, cultivate, build and solidify relationships with new and established donors; and coordinate fundraising campaigns. You will engage with potential [Member Organisations](https://carpentries.org/membership/) to sell memberships and will develop and administer The Carpentries’ [Sponsorship Program](https://carpentries.org/sponsorship/), especially in scaling outside of the United States. You will work closely with programmatic Team Leads to ensure program growth and development align with fundraising efforts. The success of this position in meeting fundraising goals will be assessed 6-months and one year post-hire.
