@@ -3,7 +3,7 @@ layout: page
 authors: ["Alessia Visconti", "Flavia Flaviani", "Stefania Marcotti"]
 teaser: "King's College London Carpentries Instructor Team share their experience"
 title: "Our tips and tricks for online workshop teaching"
-date: 2022-02-16
+date: 2022-03-01
 time: "09:00:00"
 tags: ["Teaching", "Carpentries workshops"]
 ---
