@@ -35,7 +35,7 @@ The Carpentries Executive Council is the highest leadership body of The Carpentr
     <div class="row">
       <div class="col-lg-12 text-center">
   
-      {% assign people_list = site.data.executive_council.people %}
+      {% assign people_list = site.data.executive_council.people | where: "active", true  %}
       {% include executive_council_profiles.md %}  
       </div>
     </div>

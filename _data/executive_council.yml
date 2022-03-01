@@ -4,7 +4,7 @@ people:
   pic: sarah_stevens.jpg
   github: sstevens2
   country: US
-  active: True
+  active: true
   term:
     - {type: elected, start_year: 2021}
   roles: 
@@ -15,7 +15,7 @@ people:
   pic: konrad_foerstner.jpg
   github: konrad
   country: DE
-  active: True
+  active: true
   term:
     - {type: appointed, start_year: 2020}
     - {type: elected, start_year: 2022}
@@ -27,7 +27,7 @@ people:
   pic: aleksandra_nenadic.jpg
   github: anenadic
   country: GB
-  active: True
+  active: true
   term:
     - {type: elected, start_year: 2021}
   roles: 
@@ -36,7 +36,7 @@ people:
 
 - person_name: Michael Smith
   pic: michael_smith.png
-  active: True
+  active: true
   term:
   - {type: appointed, start_year: 2021}
   roles: 
@@ -48,7 +48,7 @@ people:
   pic: yanina_ellini_saibene.jpg
   github: 	yabellini
   country: AR
-  active: True
+  active: true
   term:
     - {type: elected, start_year: 2022}
   roles: 
@@ -59,7 +59,7 @@ people:
   pic: masami_yamaguchi.jpg
   github: 	masamiy
   country: AU
-  active: True
+  active: true
   term:
     - {type: appointed, start_year: 2021}
   roles: 
@@ -71,7 +71,7 @@ people:
   github: chodacki
   twitter: 
   country: US
-  active: True
+  active: true
   term:
     - {type: appointed, start_year: 2021}
   roles: 
@@ -81,7 +81,7 @@ people:
   pic: annajiat_alim_rasel.jpg
   github: annajiat
   country: BD
-  active: True
+  active: true
   term:
     - {type: appointed, start_year: 2022}
   roles: 
@@ -92,10 +92,16 @@ people:
   pic: amel_ghoulia.jpg
   github: amelgh
   country: 
-  active: True
+  active: true
   term:
     - {type: appointed, start_year: 2022}
   roles: 
     - {committee: Governance Committee, role: Member}
     - {committee: Program Committee, role: Committee Chair}
+
+
+- person_name: Cedric Chambers
+  active: false
+  term: 
+  - {type: appointed, start_year: 2020}
 
