@@ -13,6 +13,12 @@
 <img src="{{ site.filesurl }}/exec_council/{{ person.pic }}" class="img-responsive img-circle" alt="">
 
   <h3>{{ person.person_name }}</h3>
+
+{% for role in person.roles %}{% if role.role != "Member" %}   
+{{ role.committee }} {{role.role }}<br>
+{% endif %} {% endfor %}
+
+
   <ul class="list-inline social-buttons">
       {% if person.twitter %}<li> <a href="https://twitter.com/{{ person.twitter }}"> <i class="fab fa-twitter" title="Twitter"></i> </a> </li> {% endif %}
       {% if person.github %}<li> <a href="https://github.com/{{ person.github }}"> <i class="fab fa-github" title="GitHub"></i> </a> </li> {% endif %}
