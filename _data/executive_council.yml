@@ -123,66 +123,74 @@ people:
   active: false
   term: 
   - {type: elected, start_year: 2020}
+  roles: 
+    - {committee: Executive Council Officers, role: Vice Chair}
 
-- person_name: 
+- person_name: Lex Nederbragt
   active: false
   term: 
-    - {type: , start_year: }
+    - {type: Elected, start_year: 2018}
 
-- person_name: 
+- person_name: Mesfin Diro Charka
   active: false
   term: 
-    - {type: , start_year: }
+    - {type: Appointed, start_year: 2019 }
+  roles: 
+    - {committee: Executive Council Officers, role: Secretary}
 
-- person_name: 
+- person_name: Amy Hodge
   active: false
   term: 
-    - {type: , start_year: }
+    - {type: Elected, start_year: 2019}
+  roles: 
+    - {committee: Executive Council Officers, role: Chair}
 
-- person_name: 
+- person_name: Joslyn Lee
   active: false
   term: 
-    - {type: , start_year: }
+    - {type: Appointed, start_year: 2019}
+  roles: 
+    - {committee: Executive Council Officers, role: Secretary}
 
-- person_name: 
+- person_name:  Juan Steyn
   active: false
   term: 
-    - {type: , start_year: }
+    - {type: Appointed, start_year: 2019}
 
-- person_name: 
+- person_name: Elizabeth Wickes
   active: false
   term: 
-    - {type: , start_year: }
+    - {type: Elected, start_year: 2018}
 
-- person_name: 
+- person_name: Kate Hertweck
   active: false
   term: 
-    - {type: , start_year: }
+    - {type: Elected, start_year: }
 
-- person_name: 
+- person_name: Raniere Silva
   active: false
   term: 
-    - {type: , start_year: }
+    - {type: Elected, start_year: }
 
-- person_name: 
+- person_name: Karen Cranston
   active: false
   term: 
-    - {type: , start_year: }
+    - {type: Appointed, start_year: }
 
-- person_name: 
+- person_name: Sue McClatchy
   active: false
   term: 
-    - {type: , start_year: }
+    - {type: Appointed, start_year: }
 
-- person_name: 
+- person_name: Mateusz Kusak
   active: false
   term: 
-    - {type: , start_year: }
+    - {type: Appointed, start_year: }
 
-- person_name: 
+- person_name: Ethan White
   active: false
   term: 
-    - {type: , start_year: }
+    - {type: Appointed, start_year: }
 
 - person_name: 
   active: false
