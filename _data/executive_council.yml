@@ -1,14 +1,17 @@
 people:
 
 - person_name: John Chodacki
+  pic: john_chodacki.png
   github: chodacki
   twitter: 
   country: US
   active: True
   term:
     - {type: appointed, start_year: 2021}
+  
 
 - person_name: Annajiat Alim Rasel
+  pic: annajiat_alim_rasel.jpg
   github: annajiat
   country: BD
   active: True
@@ -16,6 +19,7 @@ people:
     - {type: appointed, start_year: 2022}
 
 - person_name:  Konrad Förstner
+  pic: konrad_foerstner.jpg
   github: konrad
   country: DE
   active: True
@@ -25,6 +29,7 @@ people:
 
 
 - person_name:  Amel Ghoulia
+  pic: amel_ghoulia.jpg
   github: amelgh
   country: 
   active: True
@@ -32,6 +37,7 @@ people:
     - {type: appointed, start_year: 2022}
 
 - person_name: Aleksandra Nenadic
+  pic: aleksandra_nenadic.jpg
   github: anenadic
   country: GB
   active: True
@@ -39,6 +45,7 @@ people:
     - {type: elected, start_year: 2021}
 
 - person_name: Yanina Bellini Saibene
+  pic: yanina_ellini_saibene.jpg
   github: 	yabellini
   country: AR
   active: True
@@ -46,11 +53,13 @@ people:
     - {type: elected, start_year: 2022}
 
 - person_name: Michael Smith
+  pic: michael_smith.png
   active: True
   term:
   - {type: appointed, start_year: 2021}
 
 - person_name: Sarah Stevens
+  pic: sarah_stevens.jpg
   github: sstevens2
   country: US
   active: True
@@ -58,6 +67,7 @@ people:
     - {type: elected, start_year: 2021}
 
 - person_name: Masami Yamaguchi
+  pic: masami_yamaguchi.jpg
   github: 	masamiy
   country: AU
   active: True
