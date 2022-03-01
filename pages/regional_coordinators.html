@@ -103,34 +103,6 @@ Meet our Regional Coordinators and Carpentries communities in these regions.  Cl
 
 <!--  End DACH Countries -->
 
-
-<!--  Begin New Zealand  -->  
-
-    <tr>
-        <td align="center"><h3><a href="{% link pages/regional_NZ.html %}">New Zealand</a></h3><a href="mailto:{{site.contact_nz}}">{{site.contact_nz}}</a></td>
-        <td>
-            {% assign regional_coordinators_nz = site.data.regional_coordinators | where: "region", "New Zealand"  %}
-
-            {% for person in regional_coordinators_nz %}
-            {% if regional_coordinators_nz.size > 1 %}
-            <div class="medium-6 columns">
-            {% else %}
-            <div class="medium columns">
-            {% endif %}
-
-            <div class="team-member">
-            {% include single_profile.md %}
-            </div></div>
-
-        {% endfor %}
-        </td>
-    </tr>
-
-<!--  End New Zealand -->  
-
-
-
-
 <!-- Begin South Africa -->
 
     <tr>
