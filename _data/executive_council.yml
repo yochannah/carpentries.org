@@ -118,3 +118,108 @@ people:
   term: 
   - {type: Appointed, start_year: 2020}
 
+
+- person_name: Paula Andrea Martinez
+  active: false
+  term: 
+  - {type: elected, start_year: 2020}
+
+- person_name: 
+  active: false
+  term: 
+    - {type: , start_year: }
+
+- person_name: 
+  active: false
+  term: 
+    - {type: , start_year: }
+
+- person_name: 
+  active: false
+  term: 
+    - {type: , start_year: }
+
+- person_name: 
+  active: false
+  term: 
+    - {type: , start_year: }
+
+- person_name: 
+  active: false
+  term: 
+    - {type: , start_year: }
+
+- person_name: 
+  active: false
+  term: 
+    - {type: , start_year: }
+
+- person_name: 
+  active: false
+  term: 
+    - {type: , start_year: }
+
+- person_name: 
+  active: false
+  term: 
+    - {type: , start_year: }
+
+- person_name: 
+  active: false
+  term: 
+    - {type: , start_year: }
+
+- person_name: 
+  active: false
+  term: 
+    - {type: , start_year: }
+
+- person_name: 
+  active: false
+  term: 
+    - {type: , start_year: }
+
+- person_name: 
+  active: false
+  term: 
+    - {type: , start_year: }
+
+- person_name: 
+  active: false
+  term: 
+    - {type: , start_year: }
+
+- person_name: 
+  active: false
+  term: 
+    - {type: , start_year: }
+
+- person_name: 
+  active: false
+  term: 
+    - {type: , start_year: }
+
+- person_name: 
+  active: false
+  term: 
+    - {type: , start_year: }
+
+- person_name: 
+  active: false
+  term: 
+    - {type: , start_year: }
+
+- person_name: 
+  active: false
+  term: 
+    - {type: , start_year: }
+
+- person_name: 
+  active: false
+  term: 
+    - {type: , start_year: }
+
+- person_name: 
+  active: false
+  term: 
+    - {type: , start_year: }
