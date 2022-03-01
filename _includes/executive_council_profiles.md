@@ -14,6 +14,12 @@
 
   <h3>{{ person.person_name }}</h3>
 
+{% for t in person.term %}
+<i>{{ t.type }} {{ t.start_year }}</i>
+{% if forloop.last %}<br>{% else %}&#8226;{% endif %}
+{% endfor %}
+
+
 {% for role in person.roles %}{% if role.role != "Member" %}   
 {{ role.committee }} {{role.role }}<br>
 {% endif %} {% endfor %}
