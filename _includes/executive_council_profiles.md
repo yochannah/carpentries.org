@@ -10,11 +10,8 @@
 
 <div class="medium-4 columns">
 <div class="team-member anchor-offset" id="{{ person.github }}">
-  {% if person.github %}
-  <img src="https://avatars.githubusercontent.com/{{ person.github }}" width=128 height=128 class="img-responsive img-circle lazyload" alt="GitHub profile photo of {{person.person_name}}">
-  {% else %}
-  <img src="https://www.gravatar.com/avatar/{{ person.gravatar }}?d=mp" width=128 height=128 class="img-responsive img-circle lazyload" alt="Gravatar profile photo of {{person.person_name}}">
-  {% endif %}
+<img src="{{ site.filesurl }}/exec_council/{{ person.pic }}" class="img-responsive img-circle" alt="">
+
   <h3>{{ person.person_name }}</h3>
   <ul class="list-inline social-buttons">
       {% if person.twitter %}<li> <a href="https://twitter.com/{{ person.twitter }}"> <i class="fab fa-twitter" title="Twitter"></i> </a> </li> {% endif %}
