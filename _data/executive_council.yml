@@ -1,28 +1,15 @@
 people:
 
-- person_name: John Chodacki
-  pic: john_chodacki.png
-  github: chodacki
-  twitter: 
+- person_name: Sarah Stevens
+  pic: sarah_stevens.jpg
+  github: sstevens2
   country: US
   active: True
   term:
-    - {type: appointed, start_year: 2021}
+    - {type: elected, start_year: 2021}
   roles: 
-  - {committee: finance, role: member}
-    
-
-- person_name: Annajiat Alim Rasel
-  pic: annajiat_alim_rasel.jpg
-  github: annajiat
-  country: BD
-  active: True
-  term:
-    - {type: appointed, start_year: 2022}
-  roles: 
-    - {committee: governance, role: member}
-    - {committee: program, role:  member}
-
+    - {committee: Executive Council Officers, role: Chair}
+    - {committee: Program Committee, role: Member}
 
 - person_name:  Konrad Förstner
   pic: konrad_foerstner.jpg
@@ -33,21 +20,8 @@ people:
     - {type: appointed, start_year: 2020}
     - {type: elected, start_year: 2022}
   roles: 
-    - {committee: officers, role: vice-chair}
-    - {committee: governance, role: committee chair}
-
-
-- person_name:  Amel Ghoulia
-  pic: amel_ghoulia.jpg
-  github: amelgh
-  country: 
-  active: True
-  term:
-    - {type: appointed, start_year: 2022}
-  roles: 
-    - {committee: governance, role: member}
-    - {committee: program, role: committee chair}
-
+    - {committee: Executive Council Officers, role: Vice-Chair}
+    - {committee: Governance, role: Committee Chair}
 
 - person_name: Aleksandra Nenadic
   pic: aleksandra_nenadic.jpg
@@ -57,8 +31,18 @@ people:
   term:
     - {type: elected, start_year: 2021}
   roles: 
-    - {committee: officers, role: secretary}
-    - {committee: program, role: member}
+    - {committee: Executive Council Officers, role: Secretary}
+    - {committee: Program Committee, role: Member}
+
+- person_name: Michael Smith
+  pic: michael_smith.png
+  active: True
+  term:
+  - {type: appointed, start_year: 2021}
+  roles: 
+    - {committee: Executive Council Officers, role: Treasurer }
+    - {committee: Finance, role: Committee Chair }
+
 
 - person_name: Yanina Bellini Saibene
   pic: yanina_ellini_saibene.jpg
@@ -68,31 +52,8 @@ people:
   term:
     - {type: elected, start_year: 2022}
   roles: 
-    - {committee: governance, role: member}
-    - {committee: communications, role: member}
-
-
-- person_name: Michael Smith
-  pic: michael_smith.png
-  active: True
-  term:
-  - {type: appointed, start_year: 2021}
-  roles: 
-    - {committee: officers, role: treasurer }
-    - {committee: finance, role: committee chair }
-
-    
-- person_name: Sarah Stevens
-  pic: sarah_stevens.jpg
-  github: sstevens2
-  country: US
-  active: True
-  term:
-    - {type: elected, start_year: 2021}
-  roles: 
-    - {committee: officers, role: chair}
-    - {committee: program, role: member}
-
+    - {committee: Governance Committee, role: Member}
+    - {committee: Communications Committee, role: Member}
 
 - person_name: Masami Yamaguchi
   pic: masami_yamaguchi.jpg
@@ -102,5 +63,39 @@ people:
   term:
     - {type: appointed, start_year: 2021}
   roles: 
-    - {committee: finance, role: member}
-    - {committee: communications, role: committee chair }
+    - {committee: Finance Committee, role: Member}
+    - {committee: Communications Committee, role: Committee Chair }
+
+- person_name: John Chodacki
+  pic: john_chodacki.png
+  github: chodacki
+  twitter: 
+  country: US
+  active: True
+  term:
+    - {type: appointed, start_year: 2021}
+  roles: 
+  - {committee: Finance Committee, role: Member}
+    
+- person_name: Annajiat Alim Rasel
+  pic: annajiat_alim_rasel.jpg
+  github: annajiat
+  country: BD
+  active: True
+  term:
+    - {type: appointed, start_year: 2022}
+  roles: 
+    - {committee: Governance Committee, role: Member}
+    - {committee: Program Committee, role:  Member}
+
+- person_name:  Amel Ghoulia
+  pic: amel_ghoulia.jpg
+  github: amelgh
+  country: 
+  active: True
+  term:
+    - {type: appointed, start_year: 2022}
+  roles: 
+    - {committee: Governance Committee, role: Member}
+    - {committee: Program Committee, role: Committee Chair}
+
