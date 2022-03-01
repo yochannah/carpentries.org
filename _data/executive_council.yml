@@ -8,7 +8,9 @@ people:
   active: True
   term:
     - {type: appointed, start_year: 2021}
-  
+  roles: 
+  - {committee: finance, role: member}
+    
 
 - person_name: Annajiat Alim Rasel
   pic: annajiat_alim_rasel.jpg
@@ -17,6 +19,10 @@ people:
   active: True
   term:
     - {type: appointed, start_year: 2022}
+  roles: 
+    - {committee: governance, role: member}
+    - {committee: program, role:  member}
+
 
 - person_name:  Konrad Förstner
   pic: konrad_foerstner.jpg
@@ -26,6 +32,9 @@ people:
   term:
     - {type: appointed, start_year: 2020}
     - {type: elected, start_year: 2022}
+  roles: 
+    - {committee: officers, role: vice-chair}
+    - {committee: governance, role: committee chair}
 
 
 - person_name:  Amel Ghoulia
@@ -35,6 +44,10 @@ people:
   active: True
   term:
     - {type: appointed, start_year: 2022}
+  roles: 
+    - {committee: governance, role: member}
+    - {committee: program, role: committee chair}
+
 
 - person_name: Aleksandra Nenadic
   pic: aleksandra_nenadic.jpg
@@ -43,6 +56,9 @@ people:
   active: True
   term:
     - {type: elected, start_year: 2021}
+  roles: 
+    - {committee: officers, role: secretary}
+    - {committee: program, role: member}
 
 - person_name: Yanina Bellini Saibene
   pic: yanina_ellini_saibene.jpg
@@ -51,13 +67,21 @@ people:
   active: True
   term:
     - {type: elected, start_year: 2022}
+  roles: 
+    - {committee: governance, role: member}
+    - {committee: communications, role: member}
+
 
 - person_name: Michael Smith
   pic: michael_smith.png
   active: True
   term:
   - {type: appointed, start_year: 2021}
+  roles: 
+    - {committee: officers, role: treasurer }
+    - {committee: finance, role: committee chair }
 
+    
 - person_name: Sarah Stevens
   pic: sarah_stevens.jpg
   github: sstevens2
@@ -65,6 +89,10 @@ people:
   active: True
   term:
     - {type: elected, start_year: 2021}
+  roles: 
+    - {committee: officers, role: chair}
+    - {committee: program, role: member}
+
 
 - person_name: Masami Yamaguchi
   pic: masami_yamaguchi.jpg
@@ -73,3 +101,6 @@ people:
   active: True
   term:
     - {type: appointed, start_year: 2021}
+  roles: 
+    - {committee: finance, role: member}
+    - {committee: communications, role: committee chair }
