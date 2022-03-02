@@ -32,7 +32,7 @@ A typical learner is someone who is working in academic research and, needing to
 
 ## Lesson Progress
 
-All the lessons have been completely written and piloted in 3 workshops. We are doing final checks for language, diagram and snapshots and code output consistency, and finalising instructor notes. It is ready for reuse by the community and can be either delivered in code-along setting or as self-learning course.
+All the lessons have been completely written and piloted in 5 workshops, including one time in an industrial setting. We are currently working on finalising instructor notes. It is ready for reuse by the community and, while the course be delivered in a code-along setting, we have found it works best as a self-learning course for learners with previous programming experience, with helpers in attendance to aid learners where necessary.
 
 ## How You Can Help Develop This Lesson
 
