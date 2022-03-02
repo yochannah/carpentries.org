@@ -43,6 +43,7 @@ people:
 
 - person_name: Michael Smith
   pic: michael_smith.png
+  country: US
   active: true
   term:
   - {type: Appointed, start_year: 2021}
@@ -104,7 +105,7 @@ people:
 - person_name:  Amel Ghoulia
   pic: amel_ghoulia.jpg
   github: amelgh
-  country: 
+  country: US
   active: true
   term:
     - {type: Appointed, start_year: 2022}
