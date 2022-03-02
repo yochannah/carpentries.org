@@ -37,7 +37,7 @@ The Carpentries community.
 
 #### How is The Carpentries Funded?
 
-The Carpentries revenue sources include [membership fees]({{site.url}}/membership), [grants and donations]({{site.url}}/grants), Workshops and Instructor Training fees, sponsorships, and individual donations. These income streams support the work of the Core Team, workshop & lesson infrastructure, CarpentryCon, and our continued work towards The Carpentries mission. The Carpentries [Financial Reports]({{site.url/reports}}) provide more inforation about our annual income and expenditures.
+The Carpentries revenue sources include [membership fees]({{site.url}}/membership), [grants and donations]({{site.url}}/grants), Workshops and Instructor Training fees, sponsorships, and individual donations. These income streams support the work of the Core Team, workshop & lesson infrastructure, CarpentryCon, and our continued work towards The Carpentries mission. The Carpentries [Annual Financial Reports]({{site.url/reports}}) provide more detailed information about our annual income and expenditures.
 
 Read more about becoming a [Sponsor Organisation]({{site.url}}/sponsorship). You can also <a href="{{site.fundraising_link}}">donate to The Carpentries</a> using our online portal.
 
