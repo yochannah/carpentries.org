@@ -37,6 +37,8 @@
 
 
 <script>
+   // This script translates the two character country codes into the full country name.
+  // See https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/DisplayNames
     var images = document.getElementsByTagName('img')
     // Start loop at 1. Hacky way to avoid the banner image.
     for (let i=1; i < images.length; i++) {

@@ -54,7 +54,7 @@ Carpentries Instructors are the core of our community, organising and teaching w
 
 There are multiple ways to network with other members who share our mission to teach foundational computational and data science skills to researchers as well as collaborate and co-create resources with them.
 
-- [Curriculum Advisors](https://docs.carpentries.org/topic_folders/lesson_development/lesson_development_roles.html#curriculum-advisory-committees): those who provide high-level guidance on the overall structure of a particular curriculum
+- [Curriculum Advisors](https://docs.carpentries.org/topic_folders/lesson_development/curriculum_advisory_committees.html): those who provide high-level guidance on the overall structure of a particular curriculum
 - [Lesson Maintainers](https://docs.carpentries.org/topic_folders/maintainers/maintainers.html#maintainer-guidelines): those who support the maintenance of existing lessons
 - [The Carpentries Incubator](https://carpentries-incubator.org/): where community members go to collaborate on the development of new lessons.
   - [Lesson Development Study Groups](https://carpentries-incubator.github.io/study-groups/): for community members who would like to begin working on a new lesson in The Carpentries Incubator as a cohort

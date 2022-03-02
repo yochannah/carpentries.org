@@ -48,19 +48,6 @@
       url: https://twitter.com/@symulation
 
 
-- name: Megan Guidry
-  region: New Zealand
-  pronoun_subjective: she
-  pronoun_objective: her
-  pronoun_possessive: hers
-  pic: https://avatars.githubusercontent.com/megan-guidry
-  position: Regional Coordinator for New Zealand
-  social:
-    - icon: fa fa-envelope
-      url: mailto:admin-nz@carpentries.org
-    - icon: fab fa-github
-      url: https://github.com/megan-guidry
-
 - name: Angelique Trusler
   region: South Africa
   pronoun_subjective: she
