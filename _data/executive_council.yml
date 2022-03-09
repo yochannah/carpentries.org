@@ -1,0 +1,234 @@
+people:
+
+- person_name: Sarah Stevens
+  pic: sarah_stevens.jpg
+  github: sstevens2
+  twitter: microStevens
+  orcid: 0000-0002-7040-548X
+  url: http://sarahlrstevens.info/
+  country: US
+  active: true
+  term:
+    - {type: Elected, start_year: 2021}
+  roles: 
+    - {committee: Executive Council, role: Chair}
+    - {committee: Program Committee, role: Member}
+
+- person_name:  Konrad Förstner
+  pic: konrad_foerstner.jpg
+  github: konrad
+  twitter: konrad.foerstner
+  orcid: 0000-0002-1481-2996
+  url: http://konrad.foerstner.org/
+  country: DE
+  active: true
+  term:
+    - {type: Appointed, start_year: 2020}
+    - {type: Elected, start_year: 2022}
+  roles: 
+    - {committee: Executive Council, role: Vice-Chair}
+    - {committee: Governance, role: Committee Chair}
+
+- person_name: Aleksandra Nenadic
+  pic: aleksandra_nenadic.jpg
+  github: anenadic
+  orcid: 0000-0002-2269-3894
+  country: GB
+  active: true
+  term:
+    - {type: Elected, start_year: 2021}
+  roles: 
+    - {committee: Executive Council, role: Secretary}
+    - {committee: Program Committee, role: Member}
+
+- person_name: Michael Smith
+  pic: michael_smith.png
+  country: US
+  active: true
+  term:
+  - {type: Appointed, start_year: 2021}
+  roles: 
+    - {committee: Executive Council, role: Treasurer }
+    - {committee: Finance Committee, role:  Chair }
+
+
+- person_name: Yanina Bellini Saibene
+  pic: yanina_ellini_saibene.jpg
+  github: 	yabellini
+  twitter: yabellini
+  orcid: 0000-0002-4522-7466
+  url: https://yabellini.netlify.app/
+  country: AR
+  active: true
+  term:
+    - {type: Elected, start_year: 2022}
+  roles: 
+    - {committee: Governance Committee, role: Member}
+    - {committee: Communications Committee, role: Member}
+
+- person_name: Masami Yamaguchi
+  pic: masami_yamaguchi.jpg
+  github: 	masamiy
+  country: AU
+  active: true
+  term:
+    - {type: Appointed, start_year: 2021}
+  roles: 
+    - {committee: Finance Committee, role: Member}
+    - {committee: Communications Committee, role: Chair }
+
+- person_name: John Chodacki
+  pic: john_chodacki.png
+  github: chodacki
+  twitter: 
+  country: US
+  active: true
+  term:
+    - {type: Appointed, start_year: 2021}
+  roles: 
+  - {committee: Finance Committee, role: Member}
+    
+- person_name: Annajiat Alim Rasel
+  pic: annajiat_alim_rasel.jpg
+  github: annajiat
+  twitter: annajiat
+  orcid: 0000-0003-0198-3734
+  url: http://annajiat.googlepages.com/
+  country: BD
+  active: true
+  term:
+    - {type: Appointed, start_year: 2022}
+  roles: 
+    - {committee: Governance Committee, role: Member}
+    - {committee: Program Committee, role:  Member}
+
+- person_name:  Amel Ghoulia
+  pic: amel_ghoulia.jpg
+  github: amelgh
+  country: US
+  active: true
+  term:
+    - {type: Appointed, start_year: 2022}
+  roles: 
+    - {committee: Governance Committee, role: Member}
+    - {committee: Program Committee, role: Chair}
+
+
+- person_name: Cedric Chambers
+  active: false
+  term: 
+  - {type: Appointed, start_year: 2020}
+
+
+- person_name: Paula Andrea Martinez
+  active: false
+  term: 
+  - {type: elected, start_year: 2020}
+  roles: 
+    - {committee: Executive Council Officers, role: Vice Chair}
+
+- person_name: Lex Nederbragt
+  active: false
+  term: 
+    - {type: Elected, start_year: 2018}
+
+- person_name: Mesfin Diro Charka
+  active: false
+  term: 
+    - {type: Appointed, start_year: 2019 }
+  roles: 
+    - {committee: Executive Council Officers, role: Secretary}
+
+- person_name: Amy Hodge
+  active: false
+  term: 
+    - {type: Elected, start_year: 2019}
+  roles: 
+    - {committee: Executive Council Officers, role: Chair}
+
+- person_name: Joslyn Lee
+  active: false
+  term: 
+    - {type: Appointed, start_year: 2019}
+  roles: 
+    - {committee: Executive Council Officers, role: Secretary}
+
+- person_name:  Juan Steyn
+  active: false
+  term: 
+    - {type: Appointed, start_year: 2019}
+
+- person_name: Elizabeth Wickes
+  active: false
+  term: 
+    - {type: Elected, start_year: 2018}
+
+- person_name: Kate Hertweck
+  active: false
+  term: 
+    - {type: Elected, start_year: }
+
+- person_name: Raniere Silva
+  active: false
+  term: 
+    - {type: Elected, start_year: }
+
+- person_name: Karen Cranston
+  active: false
+  term: 
+    - {type: Appointed, start_year: }
+
+- person_name: Sue McClatchy
+  active: false
+  term: 
+    - {type: Appointed, start_year: }
+
+- person_name: Mateusz Kusak
+  active: false
+  term: 
+    - {type: Appointed, start_year: }
+
+- person_name: Ethan White
+  active: false
+  term: 
+    - {type: Appointed, start_year: }
+
+- person_name: 
+  active: false
+  term: 
+    - {type: , start_year: }
+
+- person_name: 
+  active: false
+  term: 
+    - {type: , start_year: }
+
+- person_name: 
+  active: false
+  term: 
+    - {type: , start_year: }
+
+- person_name: 
+  active: false
+  term: 
+    - {type: , start_year: }
+
+- person_name: 
+  active: false
+  term: 
+    - {type: , start_year: }
+
+- person_name: 
+  active: false
+  term: 
+    - {type: , start_year: }
+
+- person_name: 
+  active: false
+  term: 
+    - {type: , start_year: }
+
+- person_name: 
+  active: false
+  term: 
+    - {type: , start_year: }
