@@ -23,7 +23,16 @@ run through this [etherpad](https://pad.carpentries.org/scf-mentoring).
 For more about committee roles, see the [Handbook](https://docs.carpentries.org/topic_folders/instructor_development/instructor_development_committee.html). We also organise information about our work though this [GitHub repo](https://github.com/carpentries/mentoring).
 
 **_Our Leadership:_**    
-Currently, the IDC is transitioning and there is no one serving in these roles. New members will be recruited to start their term in 2022. Please reach out to our staff liaison, [Sher! Hurt](mailto:sheraaron@carpentries.org), with any questions. 
+* Elnaz AmanzadehJajin, Chair
+* Jonathan Stoneman, Mentoring Co-Chair
+* Lynne Williams, Mentoring Co-Chair
+* Emmanuelle Rodrigues Nunes, Special Projects Chair
+* Rohit Goswami, Member at Large
+* Dianna Morganti, Member at Large
+* Annajiat Alim Rasel, Member at Large
+* Katherine Simeon, Member at Large
+* Abisola Regina Sholeye, Member at Large
+* Sher! Hurt, Staff Liason
 
 **_Contacting the Committee:_**
 [Join us](https://carpentries.topicbox.com/groups/instructor-development) on TopicBox!
