@@ -27,6 +27,7 @@ For more about committee roles, see the [Handbook](https://docs.carpentries.org/
 * Jonathan Stoneman, Mentoring Co-Chair
 * Lynne Williams, Mentoring Co-Chair
 * Emmanuelle Rodrigues Nunes, Special Projects Chair
+* Yared Abera, Member at Large
 * Rohit Goswami, Member at Large
 * Dianna Morganti, Member at Large
 * Annajiat Alim Rasel, Member at Large
@@ -38,15 +39,4 @@ For more about committee roles, see the [Handbook](https://docs.carpentries.org/
 [Join us](https://carpentries.topicbox.com/groups/instructor-development) on TopicBox!
 
 
-**_Many Thanks to our 2021 Committee Leadership_**
-
-* Annajiat Alim Rasel (Co-Chair)
-* Maria Prokofieva (Co-Chair)
-* Yared Abera (Communications Chair)
-* Samar Elsheikh (Mentoring Co-chair)
-* Katherine Simeon (Mentoring Co-chair)
-* Caroline Fadeke Ajilogba (Discussion Session Coordinator)
-* Rohit Goswami (Special Projects Chair)
-* Alycia Crall (Core Team liaison)
-
-The secretary role was a rotating role.
+*
