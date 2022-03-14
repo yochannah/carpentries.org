@@ -38,5 +38,3 @@ For more about committee roles, see the [Handbook](https://docs.carpentries.org/
 **_Contacting the Committee:_**
 [Join us](https://carpentries.topicbox.com/groups/instructor-development) on TopicBox!
 
-
-*
