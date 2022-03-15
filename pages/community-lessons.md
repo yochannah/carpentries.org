@@ -5,8 +5,8 @@ title: Community Developed Lessons
 ---
 
 
-The Carpentries community is commited to a collaborative and open process for lesson development and to sharing teaching materials. 
-We provide two avenues for community members to share lesson materials - [The Carpentries Incubator](https://carpentries-incubator.org/) and The Carpentries Lab.
+The Carpentries community is commited to a collaborative and open process for lesson development and to sharing teaching materials.
+We provide two avenues for community members to share lesson materials - [The Carpentries Incubator](https://carpentries-incubator.org/) and [The Carpentries Lab](https://carpentries-lab.org/).
 
 [The Carpentries Incubator](#the-carpentries-incubator) is for:
 
@@ -16,7 +16,7 @@ We provide two avenues for community members to share lesson materials - [The Ca
 [The Carpentries Lab](#the-carpentries-lab) is for:
 
 - Peer-reviewed, short-format, lessons that use the teaching approach and lesson design from The Carpentries.
-- Submitting lessons for peer-review in a way traditional journal peer-review would not be able to provide.
+- [Submitting lessons for peer-review](https://github.com/carpentries-lab/reviews/) in a way traditional journal peer-review would not be able to provide.
 
 ## Browse Community Developed Lessons
 
@@ -52,14 +52,15 @@ You can also find
 
 ## The Carpentries Lab
 
-[The Carpentries Lab](https://github.com/carpentries-lab/reviews/) is a place for sharing high-quality, peer-reviewed lessons
+[The Carpentries Lab](https://carpentries-lab.org/) is a place for sharing high-quality, peer-reviewed lessons
 that follow best practices in pedagogy and
 the general teaching practices used in Carpentries workshops.
 
 Lessons in The Carpentries Lab have been peer-reviewed and are vetted by The Carpentries as high-quality resources. We encourage you to browse the Lab lessons for materials that meet your needs and to use these materials freely (all lessons are licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)). However, we are unable to offer workshops teaching these lessons upon request.
 
-At this time, we are inviting submissions for review and acceptance to The Carpentries Lab.
-If you are interested in having a lesson reviewed for inclusion in The Lab, please visit [The Carpentries Lab reviews repository](https://github.com/carpentries-lab/reviews/).
+While we pilot our review process, we can commit only to review lessons that have been invited to submit to The Carpentries Lab.
+Authors who have not been invited may still submit a lesson for review, but can expect some delay in the processing of their request.
+For more information about The Carpentries Lab and the open peer review process, please visit [the reviews repository](https://github.com/carpentries-lab/reviews/).
 
 ## Information for Lesson Developers
 
