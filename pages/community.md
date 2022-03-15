@@ -113,7 +113,7 @@ Private resources for current Trainers:
 
 
 ### Maintainers
-The Carpentries Maintainers work with the community to make sure that lessons stay up-to-date, accurate, functional and cohesive. Maintainers monitor their lesson repository, make sure that pull requests and issues are addressed in a timely manner, and participate in the lesson development cycle including lesson releases. They endeavor to be welcoming and supportive of contributions from all members of the community. This community of practice is a great place to learn to collaborate effectively in Git and GitHub. Upcoming rounds of Maintainer Onboarding will be announced on our [newsletter]({{ site.url }}{{ site.baseurl }}/newsletter/) and [blog]({{ site.url }}{{ site.baseurl }}/blog/).  
+The Carpentries Maintainers work with the community to make sure that lessons stay up-to-date, accurate, functional and cohesive. Maintainers monitor their lesson repository, make sure that pull requests and issues are addressed in a timely manner, and participate in the lesson development cycle including lesson releases. They endeavor to be welcoming and supportive of contributions from all members of the community. This community of practice is a great place to learn to collaborate effectively in Git and GitHub. Upcoming rounds of Maintainer Onboarding will be announced on our [newsletter]({{ site.url }}{{ site.baseurl }}/newsletter/) and [blog]({{ site.url }}{{ site.baseurl }}/blog/).
 
 * [Training materials](https://carpentries.github.io/maintainer-onboarding/)
 * [Maintainer guidelines](http://docs.carpentries.org/topic_folders/maintainers/maintainers.html#maintainer-guidelines)
@@ -171,7 +171,7 @@ The Carpentries community is commited to a collaborative and open process for le
 
 [The Carpentries Incubator](https://carpentries-incubator.org/) is for Carpentries community members to share Carpentries-style teaching materials at all stages of development, to receive feedback from other community members. These lessons are not officially endorsed by The Carpentries. Read [more information](https://github.com/carpentries-incubator/proposals/blob/master/README.md) about contributing to The Carpentries Incubator.
 
-[The Carpentries Lab](/community-lessons/#the-carpentrieslab) is for sharing peer-reviewed lessons, vetted by the The Carpentries. We are not currently accepting submissions for these lessons.
+[The Carpentries Lab](https://carpentries-lab.org/) is for sharing peer-reviewed lessons, vetted by the The Carpentries. We are currently piloting [an open peer review process for lessons entering The Carpentries Lab](https://github.com/carpentries-lab/reviews/). Although the system is open for submissions, we can currently only commit to review those lessons that have been invited. If you would like to volunteer as a reviewer for The Carpentries Lab, please send an email to [incubator@carpentries.org](mailto:incubator@carpentries.org).
 
 Those looking for ways to contribute to existing lesson material can find
 a list of issues in need of attention on the [Help Wanted page](/help-wanted-issues/).
@@ -253,7 +253,7 @@ Here are details about The Carpentries Instructor community in the Nordics:
 
 * [Join mailing list](https://carpentries.topicbox.com/groups/local-nordic)
 * [Join in monthly calls for Carpentries Nordics](https://codimd.carpentries.org/nordic-community-call)
-* [Join CodeRefinery Zulip chat](https://coderefinery.zulipchat.com/#) where many Carpentries community members in Nordics and around are actively discussing. 
+* [Join CodeRefinery Zulip chat](https://coderefinery.zulipchat.com/#) where many Carpentries community members in Nordics and around are actively discussing.
 * [Contact](mailto:local-nordic@lists.carpentries.org)
 
 
@@ -281,8 +281,8 @@ Here are details about The Carpentries Instructor community in the Nordics:
 
 ### CarpentryCon
 
-The Carpentries hosts [CarpentryCon](http://www.carpentrycon.org/), a community-organised meeting for our global community. 
-* [CarpentryCon 2018](https://2018.carpentrycon.org/) was held from 30 May to 1 June 2018 in Dublin, Ireland. 
+The Carpentries hosts [CarpentryCon](http://www.carpentrycon.org/), a community-organised meeting for our global community.
+* [CarpentryCon 2018](https://2018.carpentrycon.org/) was held from 30 May to 1 June 2018 in Dublin, Ireland.
 * [CarpentryCon 2020](https://2020.carpentrycon.org) was held between July and August 2020 as a seven week online event.
 * [CarpentryCon 2022](https://2022.carpentrycon.org/) will be 1-12 August 2022 as an online event.
 
