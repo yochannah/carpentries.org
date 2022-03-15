@@ -19,7 +19,7 @@ We run regular [instructor discussion sessions](https://pad.carpentries.org/inst
 
 **_Our Structure:_**    
 The Committee has monthly meetings, which are open to new members. Meetings are scheduled, organised, and 
-run through this [etherpad](https://pad.carpentries.org/scf-mentoring).
+run through this [etherpad](https://pad.carpentries.org/instructor-development).
 For more about committee roles, see the [Handbook](https://docs.carpentries.org/topic_folders/instructor_development/instructor_development_committee.html). We also organise information about our work though this [GitHub repo](https://github.com/carpentries/mentoring).
 
 **_Our Leadership:_**    
