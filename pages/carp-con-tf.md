@@ -18,5 +18,5 @@ CarpentryCon is the key biennial community-building and networking event in The 
 
 ## Contacting the Task Force
 
-You can email the Task Force at [email us](mailto:{{site.carpentrycon_contact}}). You can also join the `#carpentrycon` channel on The Carpentries [Slack](https://swc-slack-invite.herokuapp.com/). 
+You can email the Task Force at [{{site.carpentrycon_contact}}](mailto:{{site.carpentrycon_contact}}). You can also join the `#carpentrycon` channel on The Carpentries [Slack](https://swc-slack-invite.herokuapp.com/). 
 
