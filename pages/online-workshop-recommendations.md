@@ -11,14 +11,14 @@ header-includes: |
 
 <div class="row text-right">
   <p>
-  <a href="https://carpentries.org/files/pdf/online-workshop-recommendations.pdf" class="edit-on-github">
+  <a href="/files/pdf/online-workshop-recommendations.pdf" class="edit-on-github">
     <i class="far fa-file-pdf fa-lg"></i>
     This page is also available as a PDF file.
   </a>
   </p>
 </div>
 
-An evolving list of all community-created resources and conversations on the subject can be found [in our Handbook](https://docs.carpentries.org/topic_folders/hosts_instructors/resources_for_online_workshops.html).
+An evolving list of all community-created resources and conversations on the subject can be found [in our Handbook]({{site.handbook_url}}/topic_folders/hosts_instructors/resources_for_online_workshops.html).
 
 **Note: This official set of recommendations will be updated as we receive feedback from the community.**
 
@@ -99,7 +99,7 @@ Use this list to be sure you have given time and thought to each item. Not all i
     - Spin up [cloud instances](https://github.com/carpentries/scaffolds/blob/master/instructions/workshop-coordination.md#supporting-learners-with-carpentries-scaffolds) (especially if using MyBinder)
     - Practice with security features (e.g. waiting rooms)
 * [Plan your post-workshop follow up](#follow-up)
-* Consult [The Carpentries Handbook](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#workshop-checklists) for any additional items that may apply from our in-person workshop checklists
+* Consult [The Carpentries Handbook]({{site.handbook_url}}/topic_folders/hosts_instructors/hosts_instructors_checklist.html#workshop-checklists) for any additional items that may apply from our in-person workshop checklists
 
 </div>
 
@@ -126,7 +126,7 @@ Where you do have choices with regard to these platforms, our advice is as follo
 The Carpentries recommends, in order:
 
 1. Any service that your institution recommends and provides support for and has the minimum and recommended features listed below.
-1. Zoom. This is the platform used by The Carpentries. For Centrally-Organised workshops, a Zoom room can be scheduled with The Carpentries. Depending on demand, schedules may be constrained to 2 consecutive days. Self-Organised workshops without institutional access to Zoom would need to purchase a pro account to run a workshop. We are looking into scholarship options and will update if these become available. For more Zoom tips, see [The Carpentries Handbook](https://docs.carpentries.org/topic_folders/communications/tools/zoom_rooms.html#zoom-manual).
+1. Zoom. This is the platform used by The Carpentries. For Centrally-Organised workshops, a Zoom room can be scheduled with The Carpentries. Depending on demand, schedules may be constrained to 2 consecutive days. Self-Organised workshops without institutional access to Zoom would need to purchase a pro account to run a workshop. We are looking into scholarship options and will update if these become available. For more Zoom tips, see [The Carpentries Handbook]({{site.handbook_url}}/communications/tools/zoom_rooms.html#zoom-manual).
 1. Google Hangouts or Skype, depending on local access, permissions, and expertise.
 
 **Your conferencing platform needs to have:**
@@ -206,11 +206,11 @@ Think through the learner experience you would like to create during your instru
 ##### Making Your Workshop Accessible
 Online workshops introduce many challenges and opportunities with regard to accessibility. The ability to join a workshop remotely opens up many options for learners otherwise affected by travel constraints or physical accessibility concerns. However, it also introduces new challenges related to internet access, technology limitations, and sensory disabilities. 
 
-When you email your learners, you should request and receive information about any accessibility challenges they may face. Be sure you have a plan for addressing and responding to these. Suggested language for this email, and other routine workshop emails, is available in [The Carpentries Handbook](https://docs.carpentries.org/topic_folders/workshop_administration/email_templates.html#email-learners-before-workshop).
+When you email your learners, you should request and receive information about any accessibility challenges they may face. Be sure you have a plan for addressing and responding to these. Suggested language for this email, and other routine workshop emails, is available in [The Carpentries Handbook]({{site.handbook_url}}/topic_folders/workshop_administration/email_templates.html#email-learners-before-workshop).
 
 Internet access may not always be a predictable challenge. Providing links to the curriculum and following it closely will help learners to catch up on content they miss due to a low-quality or dropped connection. Where instructions diverge, a command log in a collaborative document may play the same role. When possible and practical, recordings are also a potential source of support for learners who experience internet failures. See [note about privacy concerns](#a-note-about-recording).
 
-Some disabilities may be supported in an online environment through captioning. Zoom offers both automatic captioning and allows a participant to type captions.  Read more about [Zoom captioning in our Handbook](https://docs.carpentries.org/topic_folders/communications/tools/zoom_rooms.html#closed-captioning). Alternatively, a note-taker may be assigned to work in a collaborative document; however, keeping that document in view can be a challenge on a small screen. 
+Some disabilities may be supported in an online environment through captioning. Zoom offers both automatic captioning and allows a participant to type captions.  Read more about [Zoom captioning in our Handbook]({{site.handbook_url}}/topic_folders/communications/tools/zoom_rooms.html#closed-captioning). Alternatively, a note-taker may be assigned to work in a collaborative document; however, keeping that document in view can be a challenge on a small screen. 
 
 ##### Emergency Planning: Know your rally point!
 Just like in a fire drill, everyone should know where to go in the event of an emergency. In this case, emergency means technological failure that affects the instructional team or (it can happen!) the entire workshop. 
@@ -242,7 +242,7 @@ After a workshop, everyone will be tired and (hopefully) basking in the success 
 ### How to register your online workshop
 Please be sure to [register]({{site.wrf_landing}}) your Self-Organised workshop, as you begin planning your Carpentries online event. It is important that you use a unique workshop id (or slug) so that we can add your workshop to our database and provide the proper communications with you. 
 
-Read about the naming convention for the workshop slug in the [workshops FAQ](https://carpentries.org/workshop_faq/#what-is-a-slug-and-how-should-i-use-it-to-name-my-workshop-website).
+Read about the naming convention for the workshop slug in the [workshops FAQ](/workshop_faq/#what-is-a-slug-and-how-should-i-use-it-to-name-my-workshop-website).
 
 
 ### Pre-Workshop Emails to Learners
@@ -250,13 +250,13 @@ For in-person workshops, we recommend that workshop hosts contact learners ahead
 
 For online workshops, the role of a workshop host is less clear, since there is no physical venue, need for snacks, or other peripheral arrangements. Furthermore, accessibility concerns are far more likely to be of direct relevance to Instructors.
 
-We do not yet have a template email specific to online events. However, our [template for in-person](https://docs.carpentries.org/topic_folders/workshop_administration/email_templates.html#email-learners-before-workshop) workshops may be useful in drafting your own. For online workshops in particular, we suggest providing a schedule of all breaks, not only lunch breaks, as this will make your workshop more accessible to participants with concurrent family and work obligations.
+We do not yet have a template email specific to online events. However, our [template for in-person]({{site.handbook_url}}/topic_folders/workshop_administration/email_templates.html#email-learners-before-workshop) workshops may be useful in drafting your own. For online workshops in particular, we suggest providing a schedule of all breaks, not only lunch breaks, as this will make your workshop more accessible to participants with concurrent family and work obligations.
 
 ## During Your Workshop
 ### Setting Up
 Instructors and helpers should sign-on to the video conferencing platform and any communications tools you will be using for the workshop at least 10-15 minutes before the scheduled start time. 
 
-This is also a good time to prepare your own technical environment to suit your instructional role. Everyone will have different equipment and preferences, but the instructor setup at [this workshop](https://carpentries.org/blog/2020/04/plan-map-live-coding-workshop/#my-personal-teaching-setup) might be a fun model to emulate if you can!
+This is also a good time to prepare your own technical environment to suit your instructional role. Everyone will have different equipment and preferences, but the instructor setup at [this workshop](/blog/2020/04/plan-map-live-coding-workshop/#my-personal-teaching-setup) might be a fun model to emulate if you can!
 
 ### At the Beginning of a Workshop
 Setting up an online workshop takes time, but a good setup paves the way for a great workshop. Many of these features are a good idea at all workshops! In an online environment, they are particularly important because they give time and space to things that can no longer resolve themselves through classroom interactions.
@@ -285,7 +285,7 @@ Everything you have planned with regard to how your workshop will function now n
 * How to arrange windows on a single, small laptop screen
 
 For this last item, a picture really is worth a thousand words. Here is a great example to get you started:
-![Example of layout](https://carpentries.org/images/layoutExample.png) credit: Eric Jankowski
+![Example of layout](/images/layoutExample.png) credit: Eric Jankowski
 
 As your workshop moves between lessons and different people on your team take the lead, you may make adjustments to your guidelines. Be sure to re-visit [introductions](#have-everyone-introduce-themselves) and instructions as needed throughout the workshop to keep things running smoothly!
 
@@ -377,10 +377,10 @@ At workshops more generally, it is often the case that one or more advanced lear
 For disruptions that cannot be resolved by gentle redirection or need to be addressed immediately, you will want to be familiar with your video conferencing platform's options for excluding participants from the main session.
 On Zoom, you can enable a "waiting room" and hosts or co-hosts can assign participants there at any time. Participants can receive messages in the waiting room but cannot respond. When someone is in the waiting room they may then be (re)admitted to the meeting or removed. Depending on the settings for your Zoom account (which may be determined by your institution), someone removed from a meeting may or may not be able to rejoin (so be careful with that "remove" button!). As long as waiting rooms are enabled, no one will be able to re-enter the main meeting without permission.
 If you feel that a private conversation may be helpful, hosts can invite a participant to join a breakout room or (with some advanced settings) force them to join. This takes a few moments to set up, however, and may disrupt any groupings you may have established.
-Whatever your platform, we recommend testing out controls for these processes in advance of the meeting. For more details on using Zoom with The Carpentries, see our [Handbook](https://docs.carpentries.org/topic_folders/communications/tools/zoom_rooms.html).
+Whatever your platform, we recommend testing out controls for these processes in advance of the meeting. For more details on using Zoom with The Carpentries, see our [Handbook]({{site.handbook_url}}/topic_folders/communications/tools/zoom_rooms.html).
 
 ### Feedback time
-With workshops running longer and slower online, we know it is hard to make time to have learners complete minute cards and post-assessment surveys during the workshop. If at all possible, please remember to make space for this. Continuous learning is a [Carpentries core value](https://carpentries.org/values/), and learner feedback is a vital guide in that process! 
+With workshops running longer and slower online, we know it is hard to make time to have learners complete minute cards and post-assessment surveys during the workshop. If at all possible, please remember to make space for this. Continuous learning is a [Carpentries core value](/values/), and learner feedback is a vital guide in that process! 
 In addition to informing our growth and development, Carpentries survey data are the measure of your impact. Results benefit you (tell your future employers!) as well as The Carpentries, and they educate our funders about the good they are doing by supporting our work. 
 
 ## After Your Workshop
