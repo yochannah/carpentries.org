@@ -103,14 +103,11 @@ When planning a Self-Organised workshop, we ask that you notify us of your plann
 ### If I need help recruiting Instructors, Supporting Instructors, and/or Helpers for a Self-Organised workshop, what are my options?
 
 If you are organising a Self-Organised workshop, there are resources for you to recruit Instructors, Supporting Instructors and/or Helpers. Below are the channels you can use:
+
 * Any local or group specific mailing list on [TopicBox](https://carpentries.topicbox.com/groups)
 * Any local or group specific slack channel
 
-We ask that you only use the resources listed above. Please **do not** use the following channels, as any recruitment messages used on these channels will be removed.
-* [Discuss list](https://carpentries.topicbox.com/groups/discuss) on TopicBox
-* [General Channel](https://swcarpentry.slack.com/archives/C03LE48AY) on Slack
-* [Instructors Channel](https://swcarpentry.slack.com/archives/C08BVNU00) on Slack
-
+These channels were designed specifically for community members to communicate about specific needs and to build local capacity.  Recruiting done in any other channel will be removed.
 
 ## Online Workshops
 
