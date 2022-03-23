@@ -8,7 +8,7 @@ permalink: /about/
 
 **Mission:** The Carpentries builds global capacity in essential data and computational skills for conducting efficient, open, and reproducible research. We train and foster an active, inclusive, diverse community of learners and instructors that promotes and models the importance of software and data in research. We collaboratively develop openly-available lessons and deliver these lessons using evidence-based teaching practices. We focus on people conducting and supporting research.
 
-Here you will find a range of useful information about our work. For more information on all things Carpentries, see [The Carpentries Handbook](https://docs.carpentries.org/).  On our [Reports page](/reports/) you'll find our Annual Reports, Financial Reports, Grant Reports, and Assessment Reports.
+Here you will find a range of useful information about our work. For more information on all things Carpentries, see [The Carpentries Handbook]({{site.handbook_url}}).  On our [Reports page](/reports/) you'll find our Annual Reports, Financial Reports, Grant Reports, and Assessment Reports.
 
 * [About The Carpentries](#about-the-carpentries)   
 * [How is The Carpentries Managed?](#how-is-the-carpentries-managed)   
@@ -23,9 +23,9 @@ Here you will find a range of useful information about our work. For more inform
 
 The Carpentries project comprises the <a href="https://software-carpentry.org/">Software Carpentry</a>, <a href="http://www.datacarpentry.org/">Data Carpentry</a>, and <a href="https://librarycarpentry.org/">Library Carpentry</a> communities of Instructors, Trainers, Maintainers, helpers, and supporters who share a mission to teach foundational computational and data science skills to researchers. 
 
-The Carpentries subscribes to a shared <a href="{{ site.code_of_conduct_url }}">Code of Conduct</a>. In January, 2018, Software Carpentry and Data Carpentry merged their projects to form <strong>The Carpentries</strong>. On November 1, 2018, The Carpentries Executive Council approved Library Carpentry as the third official Lesson Program of The Carpentries. The following two blog posts provide further background:  <i><a href="https://software-carpentry.org/blog/2017/09/merger.html">Joint future for Software Carpentry and Data Carpentry</a></i> and <i><a href="https://carpentries.org/blog/2018/11/welcoming-library-carpentry/">Library Carpentry is now officially a Lesson Program!</a></i>. Visit the individual <a href="https://software-carpentry.org/">Software Carpentry</a>, <a href="http://www.datacarpentry.org/">Data Carpentry</a>, and <a href="https://librarycarpentry.org/">Library Carpentry</a> web sites for more detailed project histories.
+The Carpentries subscribes to a shared <a href="{{ site.code_of_conduct_url }}">Code of Conduct</a>. In January, 2018, Software Carpentry and Data Carpentry merged their projects to form <strong>The Carpentries</strong>. On November 1, 2018, The Carpentries Executive Council approved Library Carpentry as the third official Lesson Program of The Carpentries. The following two blog posts provide further background:  <i><a href="https://software-carpentry.org/blog/2017/09/merger.html">Joint future for Software Carpentry and Data Carpentry</a></i> and <i><a href="{{site.url}}/blog/2018/11/welcoming-library-carpentry/">Library Carpentry is now officially a Lesson Program!</a></i>. Visit the individual <a href="https://software-carpentry.org/">Software Carpentry</a>, <a href="http://www.datacarpentry.org/">Data Carpentry</a>, and <a href="https://librarycarpentry.org/">Library Carpentry</a> web sites for more detailed project histories.
 
-[The Carpentries Strategic Plan](https://carpentries.org/strategic-plan) was developed by the Executive Council together with the Core Team and approved by the Executive Council in January 2020.
+[The Carpentries Strategic Plan]({{site.url}}/strategic-plan) was developed by the Executive Council together with the Core Team and approved by the Executive Council in January 2020.
 
 #### How is The Carpentries Managed?
 
@@ -60,12 +60,12 @@ You can also follow the [Software Carpentry](https://twitter.com/swcarpentry), [
 
 #### Referencing The Carpentries
 
-The Carpentries, while sounding plural, is a singular entity. Therefore, when referring to The Carpentries, verbs should also be singular, e.g. *'The Carpentries is ...'*. The correct title for the merged organisation is **The Carpentries**. However, you can use terminology such as *'A Carpentries workshop ...'*. We have a [Style Guide](https://docs.carpentries.org/topic_folders/communications/resources/style-guide.html) to help you.
+The Carpentries, while sounding plural, is a singular entity. Therefore, when referring to The Carpentries, verbs should also be singular, e.g. *'The Carpentries is ...'*. The correct title for the merged organisation is **The Carpentries**. However, you can use terminology such as *'A Carpentries workshop ...'*. We have a [Style Guide]({{site.handbook_url}}/topic_folders/communications/resources/style-guide.html) to help you.
 
 We appreciate being mentioned in the acknowledgments sections of papers, theses, and proposals, as it helps us show current and potential funders what impact we are having. If you would like to acknowledge The Carpentries, please use wording like this:
 
 > We were aided in this work by the training and other support offered by The Carpentries [1].    
-> [1] The Carpentries https://carpentries.org
+> [1] The Carpentries {{https://carpentries.org}}
 
 #### The Carpentries in the Literature
 

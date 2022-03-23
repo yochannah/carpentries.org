@@ -43,6 +43,6 @@ are interested in having a lesson reviewed for inclusion in The Lab, please subm
 [carpentries-lab]: https://github.com/carpentrieslab/proposals
 [coc]: {{ site.code_of_conduct_url }}
 [comms]: https://carpentries.org/connect/
-[community-lessons]: https://carpentries.org/community-lessons/
+[community-lessons]: /community-lessons/
 [issues]: https://github.com/carpentries-incubator/proposals/issues
 [lesson-template]: https://github.com/carpentries/styles

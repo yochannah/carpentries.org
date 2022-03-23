@@ -16,7 +16,7 @@ practices and create accessible and inclusive workshops, including using a [Code
 
 
 
-We offer [instructor training](https://docs.carpentries.org/topic_folders/instructor_training/index.html) to train people in how to teach Carpentries workshops, including educational pedagogy and Carpentries-specific information.
+We offer [instructor training]({{site.handbook_url}}/topic_folders/instructor_training/index.html) to train people in how to teach Carpentries workshops, including educational pedagogy and Carpentries-specific information.
 
 
 Find out how to [become an instructor]({% link pages/become-instructor.md %}) and join The

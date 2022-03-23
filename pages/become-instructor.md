@@ -53,7 +53,7 @@ Member organisations have agreements with The Carpentries that include a specifi
 
 If you have received an access code, you are ready to use your code to [sign up for an Instructor Training event](https://carpentries.github.io/instructor-training/training_calendar/index.html)! When you register, you will also be asked to [create a profile in our database]({{site.instructor_training_app}}).
 Where membership is not possible, The Carpentries occasionally sponsors groups for Instructor Training. At this time, applications for group sponsorship are available by invitation only. However, if you have a group that you believe will advance The Carpentries’ goal of reaching historically under-represented groups through sponsorship, you are welcome to [contact us](mailto:{{site.instructor_training_contact}}) with inquiries. 
-For more information about membership and other options for group access to training, visit our [Membership page](https://carpentries.org/membership/). 
+For more information about membership and other options for group access to training, visit our [Membership page]({{site.url}}/membership/). 
 
 2\. **Apply through the Open Instructor Training Program** 
 
