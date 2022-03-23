@@ -5,7 +5,7 @@ title: Community Developed Lessons
 ---
 
 
-The Carpentries community is commited to a collaborative and open process for lesson development and to sharing teaching materials.
+The Carpentries community is committed to a collaborative and open process for lesson development and to sharing teaching materials.
 We provide two avenues for community members to share lesson materials - [The Carpentries Incubator](https://carpentries-incubator.org/) and [The Carpentries Lab](https://carpentries-lab.org/).
 
 [The Carpentries Incubator](#the-carpentries-incubator) is for:
