@@ -11,7 +11,7 @@ This page holds all reports published by The Carpentries' Core Team and Executiv
 Our annual reports serve as a high-level summary of The Carpentries work, providing a succinct introduction to our organisation for potential funders, new members, and others joining our community. These reports also serve as a rich resource for our existing community members, showcasing the work and growth of our community and providing a summary of the previous year, and what we plan to achieve in the coming year. Our annual reports also include a short overview of our finances for the year.
 
 - [Annual Report, 2020 (pdf)](/files/reports/Carpentries2020AnnualReport.pdf)
-- [Annual Report, 2020 (HTML)](https://carpentries.org/annual-report-2020/)
+- [Annual Report, 2020 (HTML)](/annual-report-2020/)
 - [Annual Report, 2019 (pdf)](/files/reports/TheCarpentries2019AnnualReport.pdf) // [Zenodo record](https://zenodo.org/record/3840372#.Xsgc2RNKiv4) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3840372.svg)](https://doi.org/10.5281/zenodo.3840372)
 - [Annual Report, 2018 (pdf)](/files/reports/TheCarpentries2018AnnualReport.pdf)
 
@@ -25,7 +25,7 @@ Our annual reports are published under a [Creative Commons Attribution 4.0](http
 Our Financial Reports are created in the interest of transparency, and to help communicate information on financial planning, and sustainability in The Carpentries more broadly with our global community. They contain information about key sources of income for The Carpentries, our programmatic expenditure and income, new grant funding and community sponsorship, and a summary of our financial position at the time of release.
 
 - [Financial Report, 2020 (pdf)](/files/reports/Carpentries2020FinancialReport.pdf)
-- [Financial Report, 2020 (HTML)](https://carpentries.org/financial-report-2020/)
+- [Financial Report, 2020 (HTML)](/financial-report-2020/)
 - [Financial Report Appendix, 2020 (pdf)](/files/reports/Carpentries2020FinancialReportAppendix.pdf)
 - [Financial Report, 2019 (pdf)](/files/reports/2019FinancialReport.pdf)
 - [Financial Report Appendix, 2019 (pdf)](/files/reports/2019FinancialReportAppendix.pdf)
@@ -63,13 +63,13 @@ encountered, and lessons learned through this work.
 
 ## Executive Council Reports
 
-- [2019 Executive Council In-Person meeting](https://carpentries.org/blog/2019/11/ec-meeting-2019/)
-- [2018 Executive Council In-Person meeting](https://carpentries.org/blog/2018/06/executive-council-meeting-report/)
-- [First 2018 Executive Council Tertile Report](https://carpentries.org/blog/2018/05/ec-report/)
+- [2019 Executive Council In-Person meeting](/blog/2019/11/ec-meeting-2019/)
+- [2018 Executive Council In-Person meeting](/blog/2018/06/executive-council-meeting-report/)
+- [First 2018 Executive Council Tertile Report](/blog/2018/05/ec-report/)
 
 ## CarpentryCon Reports
 
-- [CarpentryCon 2018 Post-Conference Report](https://carpentries.org/blog/2018/09/carpentrycon-call/)
+- [CarpentryCon 2018 Post-Conference Report](/blog/2018/09/carpentrycon-call/)
 - [CarpentryCon 2020 Post-Conference Report](/files/reports/2020CarpentryCon.pdf)
 
 ## Code of Conduct Reports

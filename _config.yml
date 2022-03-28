@@ -34,6 +34,9 @@ url: 'https://carpentries.org'
 baseurl: ''
 filesurl: 'https://carpentries.org/files'
 
+# Other URLs
+handbook_url: "https://docs.carpentries.org"
+
 # Helpscout boxes
 contact: "team@carpentries.org"
 instructor_training_contact: "instructor.training@carpentries.org"
