@@ -3,7 +3,7 @@ layout: page
 authors: ["Toby Hodges"]
 teaser: "Help us test out a new training curriculum."
 title: "Piloting Collaborative Lesson Development Training"
-date: 2022-04-06
+date: 2022-04-07
 time: 09:00
 tags: ["Curriculum Development"]
 ---
