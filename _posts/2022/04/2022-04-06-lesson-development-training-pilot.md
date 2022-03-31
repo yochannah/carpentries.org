@@ -37,7 +37,35 @@ creating a sound foundation for their lesson
 in a series of hands-on exercises, 
 trialling newly-developed content, 
 and preparing their lesson repository for collaboration.
+### Planned Schedule
+#### Day 1
+- Introduction
+- About your lessons
+- Identifying your target audience
+- Defining lesson objectives
 
+#### Day 2
+- The Carpentries Workbench
+- Designing assessments 1
+
+#### Day 3
+- Designing assessments 2
+- Example data and narrative
+
+#### Day 4
+- How to write a lesson
+- How we operate
+- Preparing to teach
+
+**_break for participants to test their lesson content_**
+
+#### Day 5
+- Reflecting on trial runs
+- Collaborating with newcomers	
+
+#### Day 6
+- Collaborating with people you already know
+- Wrap-up
 The pilot will be taught by
 [Toby Hodges](https://github.com/tobyhodges),
 [Aleksandra Nenadic](https://github.com/anenadic),
