@@ -100,9 +100,9 @@ Self-Organised workshops are managed by the instructor/organiser. Since you will
 
 When planning a Self-Organised workshop, we ask that you notify us of your planned workshop. Once the workshop webpage is created, please share the link with us and notify us of your planned workshop via the [Self-Organised workshop form]({{site.wrf_landing}}). Once we receive the link to the workshop webpage, we will be able to [add your workshop to our website](/upcoming_workshops/), provide support (in the form of survey result links and AMI instances for Genomics workshops), and get Instructors and helpers credit for the workshops they teach.
 
-### If I need help recruiting Instructors, Supporting Instructors, and/or Helpers for a Self-Organised workshop, what are my options?
+### If I need help recruiting Instructors and/or Helpers for a Self-Organised workshop, what are my options?
 
-If you are organising a Self-Organised workshop, there are resources for you to recruit Instructors, Supporting Instructors and/or Helpers. Below are the channels you can use:
+If you are organising a Self-Organised workshop, there are resources for you to recruit Instructors and/or Helpers. Below are the channels you can use:
 
 * Any local or group specific mailing list on [TopicBox](https://carpentries.topicbox.com/groups)
 * Any local or group specific slack channel
@@ -113,15 +113,7 @@ These channels were designed specifically for community members to communicate a
 
 ### I have never taught an online workshop, where should I begin?
 
-It is required that experienced Instructors (have taught **three** or more Carpentries workshops) teach online workshops. If you have not taught three Carpentries workshops you are encouraged to be a Supporting Instructor (see below). All Instructors should be familiar with the [Recommendation for Teaching Carpentries Workshops Online](/online-workshop-recommendations/).
-
-### What is a Supporting Instructor?
-
-The Supporting Instructor role is intended for Instructors with less practice teaching Carpentries curricula to offer experience with online workshops. It also ensures that the instructional team consists of several Carpentries-trained participants. The Supporting Instructor role will be assigned to certified Carpentries Instructors who have taught less than three workshops.
-
-### When can a Supporting Instructor become an Experienced Instructor?
-
-After being a Supporting Instructor for three Carpentries workshops you will be able to take the role of Experienced Instructor in any Carpentries online workshop. If you would like to continue in the Supporting Instructor role, please indicate your preference on the Instructor signup sheet.
+You can review the  [Recommendation for Teaching Carpentries Workshops Online](https://carpentries.org/online-workshop-recommendations/) [Resources for Online Workshops]({{site.handbook_url}}/topic_folders/hosts_instructors/resources_for_online_workshops.html) .
 
 ### How do I indicate my workshop will be online in the workshop website template?
 
@@ -145,8 +137,6 @@ Teaching online is a challenge. We recommend a minimum of two Instructors and a 
 ### What are the roles of everyone participating in a workshop?
 
 *Instructor*: A person who has been certified by The Carpentries and understands best practices as outlined by The Carpentries Curricula. These persons will lead the workshop and teach the scheduled lessons.
-
-*Supporting Instructor*: A certified Carpentries Instructor who has taught The Carpentries workshops less than 3 times. These persons are gaining experience while observing and teaching portions of the scheduled lessons.
 
 *Helper*: A person who is familiar with the topics being taught at a workshop. They support learners one-on-one if they are stuck installing software, understanding a certain line of code, or any other parts of the learning process.
 
