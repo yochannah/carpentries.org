@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: "The CarpentryCon Task Force"
 permalink: /carp-con-tf/
-excerpt: The CarpentryCon Task Force mission organises a meeting to bring together members of the global Carpentries community.
+excerpt: The goal of the CarpentryCon Task Force is to organise a biennual conference to bring together members of the global Carpentries community and others who share our core values.
 ---
 
 
