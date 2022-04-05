@@ -27,31 +27,31 @@ The work of the ACDC will now be transferred to the Lesson Maintainers (Azalee B
 Thanks to all the community members who took part.
 
 Special thanks go to:
-AIP for the [Venture Partnership Fund](https://www.aip.org/aip/member-benefits/venture-fund) (now the Venture Fund) award and the AAS and The Carpentries for facilitating use of the award.
-Diane Frendak and American Astronomical Society, Susan White and American Institute of Physics.
-Matthew Bourque, Jules Fowler, and Rodolfo Montez Jr. for developing and Matthew Bourque and Jules Fowler for teaching the early prototype SQL lessons at a Software Carpentry Workshop.
-Allen Downey, who carried out the bulk of the lesson development.
-Preliminary design and contributions from the rest of the ACDC: Erin Becker, Azalee Bostroem, Rodolfo Montez Jr., Brett Morris, and Phil Rosenfield.
-Our learners and hosts for the pilot workshops:
-Azalee Bostroem and Allen Downey, the Instructors, and Meredith Rawls, Ivelina Momcheva, Rodolfo Montez Jr., the helpers, at the pilot alpha workshop organized by the ACDC.
-Azalee Bostroem, Allen Downey, and Rodolfo Montez Jr., the Instructors, and Meredith Rawls and Ivelina Momcheva, the helpers, at the alpha workshop organized by ACDC and held virtually at the AAS winter meeting.
-Heather Andrews and Johan Hidding - the Instructors, Jelle de Plaa, Daniela Huppenkothen, Leon Oostrum, Hanno Spreeuw, and Maxwell Tsai - the helpers, and Paula Martinez Lavanchy - organizer, at the beta workshop organized at the Technische Universiteit Delft in the Netherlands.
-Annajiat Alim Rasel, Brian Gue, and Adam Hughes - the Instructors, Yotam Cohen, Catherine Martlin, Erik Tollerud - the helpers, and Jody Charles - organizer, at the beta workshop organized at the Space Telescope Science Institute in the United States.
-Erik Tollerud for advice on improving the introduction to the science case used in the curriculum.
-European Space Agency (ESA) and the Gaia Data Processing and Analysis Consortium (DPAC) for collecting, processing, and making the data available from the [Gaia mission](https://www.cosmos.esa.int/web/gaia).  
-The [Panoramic Survey Telescope and Rapid Response System (Pan-STARRS)](https://panstarrs.stsci.edu/) public science archive for collecting, processing, and making photometry available.
-The developers and supporters of the [AstroPy](https://www.astropy.org/index.html) and [AstroQuery](https://astroquery.readthedocs.io/en/latest/) Python packages for enabling and empowering the astronomical community.
-Folks at The Carpentries, past and present:
-Erin Becker for guiding lesson developments and assisting on The Carpentries lesson infrastructure.
-Zhian Kamvar for transferring the lessons to the current lesson template.
-Tracy Teal for early conceptual and logistical work in lesson development.
-Talisha Sutton-Kennedy for administrative and financial support.
-Toby Hodges for supporting the pilot workshops.
+- AIP for the [Venture Partnership Fund](https://www.aip.org/aip/member-benefits/venture-fund) (now the Venture Fund) award and the AAS and The Carpentries for facilitating use of the award.
+- Diane Frendak and American Astronomical Society, Susan White and American Institute of Physics.
+- Matthew Bourque, Jules Fowler, and Rodolfo Montez Jr. for developing and Matthew Bourque and Jules Fowler for teaching the early prototype SQL lessons at a Software Carpentry Workshop.
+- Allen Downey, who carried out the bulk of the lesson development.
+- Preliminary design and contributions from the rest of the ACDC: Erin Becker, Azalee Bostroem, Rodolfo Montez Jr., Brett Morris, and Phil Rosenfield.
+- Our learners and hosts for the pilot workshops:
+  - Azalee Bostroem and Allen Downey, the Instructors, and Meredith Rawls, Ivelina Momcheva, Rodolfo Montez Jr., the helpers, at the pilot alpha workshop organized by the ACDC.
+  - Azalee Bostroem, Allen Downey, and Rodolfo Montez Jr., the Instructors, and Meredith Rawls and Ivelina Momcheva, the helpers, at the alpha workshop organized by ACDC and held virtually at the AAS winter meeting.
+  - Heather Andrews and Johan Hidding - the Instructors, Jelle de Plaa, Daniela Huppenkothen, Leon Oostrum, Hanno Spreeuw, and Maxwell Tsai - the helpers, and Paula Martinez Lavanchy - organizer, at the beta workshop organized at the Technische Universiteit Delft in the Netherlands.
+  - Annajiat Alim Rasel, Brian Gue, and Adam Hughes - the Instructors, Yotam Cohen, Catherine Martlin, Erik Tollerud - the helpers, and Jody Charles - organizer, at the beta workshop organized at the Space Telescope Science Institute in the United States.
+- Erik Tollerud for advice on improving the introduction to the science case used in the curriculum.
+- European Space Agency (ESA) and the Gaia Data Processing and Analysis Consortium (DPAC) for collecting, processing, and making the data available from the [Gaia mission](https://www.cosmos.esa.int/web/gaia).  
+- The [Panoramic Survey Telescope and Rapid Response System (Pan-STARRS)](https://panstarrs.stsci.edu/) public science archive for collecting, processing, and making photometry available.
+- The developers and supporters of the [AstroPy](https://www.astropy.org/index.html) and [AstroQuery](https://astroquery.readthedocs.io/en/latest/) Python packages for enabling and empowering the astronomical community.
+- Folks at The Carpentries, past and present:
+  - Erin Becker for guiding lesson developments and assisting on The Carpentries lesson infrastructure.
+  - Zhian Kamvar for transferring the lessons to the current lesson template.
+  - Tracy Teal for early conceptual and logistical work in lesson development.
+  - Talisha Sutton-Kennedy for administrative and financial support.
+  - Toby Hodges for supporting the pilot workshops.
 
 
 ## Want to get involved with the Astronomy materials?
 
-Watch the [onboarding video](https://www.youtube.com/watch?v=gfaNFaKIOrY) and [let us know](mailto:team@carpentries.org) so we can give you priority consideration in teaching upcoming Astronomy workshops.
-Request a Astronomy workshop at your institution using [this form](https://amy.carpentries.org/forms/workshop/) or
-Self-organize an Astronomy workshop using our [workshop checklists](https://docs.carpentries.org/topic_folders/hosts_instructors/index.html#self-organised-workshop).
-Apply to become a Maintainer for the Astronomy lesson (announcement coming soon!)
+- Watch the [onboarding video](https://www.youtube.com/watch?v=gfaNFaKIOrY) and [let us know](mailto:team@carpentries.org) so we can give you priority consideration in teaching upcoming Astronomy workshops.
+- Request a Astronomy workshop at your institution using [this form](https://amy.carpentries.org/forms/workshop/) or
+- Self-organize an Astronomy workshop using our [workshop checklists](https://docs.carpentries.org/topic_folders/hosts_instructors/index.html#self-organised-workshop).
+- Apply to become a Maintainer for the Astronomy lesson (announcement coming soon!)
