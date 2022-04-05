@@ -8,7 +8,7 @@ excerpt: The goal of the CarpentryCon Task Force is to organise a biennual confe
 
 ## What is CarpentryCon?
 
-CarpentryCon is the key biennial community-building and networking event in The Carpentries' calendar of activities. This event brings together newer and more experienced community members to share knowledge, to network, to develop new skills, and to develop strategies for building strong local communities.  The CarpentryCon Task Force's mission is to organise and host this event, whether in-person or online. 
+CarpentryCon is the key biennial community-building and networking event in The Carpentries' calendar of activities. This event brings together newer and more experienced community members to share knowledge, to network, to develop new skills, and to develop strategies for building strong local communities.  The CarpentryCon Task Force's goal is to organise and host this event, whether in-person or online. 
 
 ## Upcoming and previous events
 
