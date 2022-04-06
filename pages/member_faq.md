@@ -52,6 +52,9 @@ equivalent to six (6) seats in Instructor Training per active Instructor Trainer
 A list of our [current Member organisations](https://carpentries.org/members/) can be found on our website. If you would like 
 help in making contact with the person in charge of your institutional membership, email [{{site.membership_contact}}](mailto:{{site.membership_contact}}).
 
+### What is The Carpentries Member Council?
+Member Council meetings are a quarterly opportunity for representatives from Member organisations to come together and share ideas and tips for building Carpentries community at their organisation. The Carpentries staff will also present a quarterly update on new programs, opportunities, and other topics of interest to Member organisations.
+
 ## Workshops
 
 ### How do your workshops run?
