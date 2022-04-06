@@ -38,4 +38,4 @@ and would like to add your repository to,
 or remove your repository from this listing,
 please send an email to [{{site.contact}}](mailto:{{site.contact}}).
 
-[Read this guide to learn more about how and when to add “help wanted” and other labels to issues on your lesson repository](https://docs.carpentries.org/topic_folders/maintainers/github_labels.html).
+[Read this guide to learn more about how and when to add “help wanted” and other labels to issues on your lesson repository]({{site.handbook_url}}/topic_folders/maintainers/github_labels.html).

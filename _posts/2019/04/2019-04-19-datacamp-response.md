@@ -24,7 +24,7 @@ of the overall community response.
 
 Our goal as The Carpentries is to build a community teaching software and data skills. We teach essential computing 
 skills to thousands of people in the research and library community each year. 
-Our [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) governs all of our 
+Our [Code of Conduct]({{ site.code_of_conduct_url }}) governs all of our 
 events, our team and online spaces. Sexual harassment is not tolerated at Carpentries events or online spaces by any 
 member of the staff, leadership, or volunteer community, and 
 our [enforcement manual](https://docs.carpentries.org/topic_folders/policies/index_coc.html) lays out 

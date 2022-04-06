@@ -21,8 +21,8 @@ and research software development through building local and global communities 
 	* Infrastructure - those who work to support our infrastructure
 	* [Regional Coordinators](#regional-coordinators) - those who coordinate workshops regionally
 	* [Code of Conduct Committee](#code-of-conduct-committee) - those who keep our community friendly and welcoming
-	* Feedback Facilitators - [community facilitators](https://carpentries.org/blog/2020/09/introducing-community-facilitators-program/) who collect and organise feedback shared publicly and informally in our community spaces for ease of filtering, action and response in The Carpentries
-	* Code of Conduct Facilitators - [community facilitators](https://carpentries.org/blog/2020/09/introducing-community-facilitators-program/) who serve as a bridge between community members at events and our Code of Conduct processes
+	* Feedback Facilitators - [community facilitators](/blog/2020/09/introducing-community-facilitators-program/) who collect and organise feedback shared publicly and informally in our community spaces for ease of filtering, action and response in The Carpentries
+	* Code of Conduct Facilitators - [community facilitators](/blog/2020/09/introducing-community-facilitators-program/) who serve as a bridge between community members at events and our Code of Conduct processes
 
 * Supporting regional communities of practice:
 	* [Carpentries en Latinoamérica](#carpentries-en-latinoamérica) - building The Carpentries community across Latin America
@@ -47,11 +47,11 @@ and research software development through building local and global communities 
 	* [Lesson infrastructure Committee](#lesson-infrastructure) - those who support lesson building and styling
 
 * Here are new roles we are planning on onboarding community members to in the near future
-	* Technology facilitators - [community facilitators](https://carpentries.org/blog/2020/09/introducing-community-facilitators-program/) who address everyday ‘how-do-I’ questions that newcomers have as they collaborate with others on platforms The Carpentries uses i.e. GitHub
-	* Community buddies - [community facilitators](https://carpentries.org/blog/2020/09/introducing-community-facilitators-program/) who spearhead the onboarding of new community members - saying hello and ‘come to me with any questions’, etc
-	* Communications facilitators - [community facilitators](https://carpentries.org/blog/2020/09/introducing-community-facilitators-program/) who help translate key communications so we can share these in languages other than English across our socials and lead region-specific outreach campaigns
-	* Resource-enhancement facilitators - [community facilitators](https://carpentries.org/blog/2020/09/introducing-community-facilitators-program/) who spearhead discussions around content design  to guide the publication and archiving of community-created resources in a way that makes them accessible to all, and lowers barriers to knowledge acquisition by other community members i.e. replacing sea of text with images, GIFs, videos, illustrating workflows to make them easier to understand, managing tags and their use to collate resources across Carpentries platforms, etc
-	* Accessibility facilitators - [community facilitators](https://carpentries.org/blog/2020/09/introducing-community-facilitators-program/) who lead conversations to review, update and implement Carpentries accessibility guidelines that guide interactions in online and in-person spaces, as well as the creation of written and audio-visual content and choice of platforms.
+	* Technology facilitators - [community facilitators](/blog/2020/09/introducing-community-facilitators-program/) who address everyday ‘how-do-I’ questions that newcomers have as they collaborate with others on platforms The Carpentries uses i.e. GitHub
+	* Community buddies - [community facilitators](/blog/2020/09/introducing-community-facilitators-program/) who spearhead the onboarding of new community members - saying hello and ‘come to me with any questions’, etc
+	* Communications facilitators - [community facilitators](/blog/2020/09/introducing-community-facilitators-program/) who help translate key communications so we can share these in languages other than English across our socials and lead region-specific outreach campaigns
+	* Resource-enhancement facilitators - [community facilitators](/blog/2020/09/introducing-community-facilitators-program/) who spearhead discussions around content design  to guide the publication and archiving of community-created resources in a way that makes them accessible to all, and lowers barriers to knowledge acquisition by other community members i.e. replacing sea of text with images, GIFs, videos, illustrating workflows to make them easier to understand, managing tags and their use to collate resources across Carpentries platforms, etc
+	* Accessibility facilitators - [community facilitators](/blog/2020/09/introducing-community-facilitators-program/) who lead conversations to review, update and implement Carpentries accessibility guidelines that guide interactions in online and in-person spaces, as well as the creation of written and audio-visual content and choice of platforms.
 
 
 ### Executive Council
@@ -60,14 +60,14 @@ Governance of The Carpentries is undertaken by the Executive Council, to whom th
 
 The Carpentries Executive Council is the highest leadership body of The Carpentries project. It is responsible for strategic and organisational planning, selecting the Executive Director and evaluating their performance, financial oversight, identifying revenue streams and resource development, approving and monitoring The Carpentries programs and services, and enhancing The Carpentries public image. Members of the council also serve as advocates and ambassadors for the organisation, leveraging their networks to benefit the project’s reputation and fundraising. The Executive Council executes these responsibilities through a combination of monthly Executive Council meetings and regular correspondence and collaboration via email and online platforms.
 
-More information about the Executive Council and current members is available on [the Governance page](https://carpentries.org/governance/).
+More information about the Executive Council and current members is available on [the Governance page](/governance/).
 
 
 ### Instructors
-Carpentry Instructors are the core of our community. Instructors organise and teach Carpentry workshops to spread data literacy and programmatic skills both locally and globally. Members of our Instructor community work together to actively grow their instructional and technical skills. Becoming an Instructor is a great step to leveling-up your own technical skills and helps you to become a more effective technical communicator.
+The Carpentries Instructors are the core of our community. Instructors organise and teach Carpentries workshops to spread data literacy and programmatic skills both locally and globally. Members of our Instructor community work together to actively grow their instructional and technical skills. Becoming an Instructor is a great step to leveling-up your own technical skills and helps you to become a more effective technical communicator.
 
 * [Instructor training curriculum](https://carpentries.github.io/instructor-training/)
-* [Become an Instructor!](https://carpentries.org/become-instructor/)
+* [Become an Instructor!](/become-instructor/)
 * [Update]({{site.amy_landing}}) your instructor profile
 * For more information, contact us at [{{site.instructor_training_contact}}](mailto:{{site.instructor_training_contact}}).
 
@@ -80,8 +80,8 @@ technical skills. We create an open and inviting environment through community d
 
 Mentoring Groups support Instructors in a variety of ways. Whether you are a new instructor preparing to teach your first workshop, a seasoned Instructor hoping to launch workshops in a new community, or an Instructor excited about getting involved with lesson development and maintenance, mentoring groups will help you gain the confidence, technical skills, and teaching skills you need to reach your goal.
 
-* [Training materials](https://docs.carpentries.org/topic_folders/instructor_development/mentoring_groups.html)
-* [Duties](https://docs.carpentries.org/topic_folders/instructor_development/mentoring_groups.html#mentor-agreement)
+* [Training materials]({{site.handbook_url}}/topic_folders/instructor_development/mentoring_groups.html)
+* [Duties]({{site.handbook_url}}/topic_folders/instructor_development/mentoring_groups.html#mentor-agreement)
 * [Join the #mentoring Slack channel](https://swc-slack-invite.herokuapp.com/)
 * For more information, contact [Alycia Crall](mailto:alycia@carpentries.org).
 
@@ -89,8 +89,8 @@ Mentoring Groups support Instructors in a variety of ways. Whether you are a new
 
 The Instructor Development Committee supports Instructors as they progress through training, teaching, curriculum development, and other community-related activities. They help promote community-building and networking, by providing virtual spaces where instructors from all over the world can share teaching success stories and discuss teaching strategies.
 
-* [Training materials](https://docs.carpentries.org/topic_folders/instructor_development/instructor_development_committee.html)
-* [Instructor Development Committee roles](https://docs.carpentries.org/topic_folders/instructor_development/instructor_development_committee.html#instructor-development-committee-roles)
+* [Training materials]({{site.handbook_url}}/topic_folders/instructor_development/instructor_development_committee.html)
+* [Instructor Development Committee roles]({{site.handbook_url}}/topic_folders/instructor_development/instructor_development_committee.html#instructor-development-committee-roles)
 * Join: Join the Instructor Development Committee by attending our monthly meeting.
 * [Upcoming meetings](http://pad.carpentries.org/instructor-development)
 * [Mailing list]({{site.mailing_lists}}/instructor-development)
@@ -100,10 +100,10 @@ The Instructor Development Committee supports Instructors as they progress throu
 The Trainer community is a group of experienced Instructors, local champions, and education specialists who inspire and prepare new Instructors. They work as a team to maintain and teach the [instructor training curriculum](https://carpentries.github.io/instructor-training/). They also host teaching demonstration sessions to provide vital feedback as prospective Carpentries Instructors prepare to join the community. They showcase and embody the enthusiasm and conduct of our community as they prepare new instructors. Becoming a Trainer lets you scale your impact - sharing your own passion, experience, and enthusiasm with the next generation of The Carpentries Instructors.
 
 * [Trainer Training materials](https://carpentries.github.io/trainer-training/)
-* [Duties](http://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html#trainer-agreement)
+* [Duties]({{site.handbook_url}}/topic_folders/instructor_training/duties_agreement.html#trainer-agreement)
 * [Current members](https://github.com/carpentries/trainers/blob/main/README.md#current-members)
 * [Meeting minutes](https://github.com/carpentries/trainers/tree/main/minutes)
-* [Contact](mailto:{{site.instructor_training_contact}}).
+* [Contact](mailto:{{site.instructor_training_contact}})
 
 Private resources for current Trainers:
 * [Upcoming meetings](http://pad.carpentries.org/trainers) *Meetings are private to Trainers and invited guests*
@@ -113,10 +113,10 @@ Private resources for current Trainers:
 
 
 ### Maintainers
-The Carpentries Maintainers work with the community to make sure that lessons stay up-to-date, accurate, functional and cohesive. Maintainers monitor their lesson repository, make sure that pull requests and issues are addressed in a timely manner, and participate in the lesson development cycle including lesson releases. They endeavor to be welcoming and supportive of contributions from all members of the community. This community of practice is a great place to learn to collaborate effectively in Git and GitHub. Upcoming rounds of Maintainer Onboarding will be announced on our [newsletter]({{ site.url }}{{ site.baseurl }}/newsletter/) and [blog]({{ site.url }}{{ site.baseurl }}/blog/).  
+The Carpentries Maintainers work with the community to make sure that lessons stay up-to-date, accurate, functional and cohesive. Maintainers monitor their lesson repository, make sure that pull requests and issues are addressed in a timely manner, and participate in the lesson development cycle including lesson releases. They endeavor to be welcoming and supportive of contributions from all members of the community. This community of practice is a great place to learn to collaborate effectively in Git and GitHub. Upcoming rounds of Maintainer Onboarding will be announced on our [newsletter]({{ site.url }}{{ site.baseurl }}/newsletter/) and [blog]({{ site.url }}{{ site.baseurl }}/blog/).
 
 * [Training materials](https://carpentries.github.io/maintainer-onboarding/)
-* [Maintainer guidelines](http://docs.carpentries.org/topic_folders/maintainers/maintainers.html#maintainer-guidelines)
+* [Maintainer guidelines]({{site.handbook_url}}/topic_folders/maintainers/maintainers.html#maintainer-guidelines)
 * [Upcoming meetings](https://codimd.carpentries.org/maintainers?both)
 * [Mailing list]({{site.mailing_lists}}/maintainers)
 * [Slack](https://swc-slack-invite.herokuapp.com/)
@@ -124,7 +124,7 @@ The Carpentries Maintainers work with the community to make sure that lessons st
 
 ### Community Facilitators
 
-[Community Facilitators](https://carpentries.org/blog/2020/09/introducing-community-facilitators-program/) are people who are empowered to advocate for others in the community and guide community members as they navigate The Carpentries global community. Seven facilitation roles have been identified in The Carpentries community:
+[Community Facilitators](/blog/2020/09/introducing-community-facilitators-program/) are people who are empowered to advocate for others in the community and guide community members as they navigate The Carpentries global community. Seven facilitation roles have been identified in The Carpentries community:
 
 #### Feedback Facilitators
 
@@ -161,21 +161,8 @@ They bring domain-specific expertise to lesson development and help ensure that
 lessons stay up to date with advances in technology. Being a Curriculum Advisor is a great way to keep up-to-date about changes in your field and
 network with other domain experts in The Carpentries community. We are not currently seeking new members to the Curriculum Advisory Committees.
 
-* [Curriculum Advisory Committee (CAC) Duties](http://docs.carpentries.org/topic_folders/lesson_development/lesson_development_roles.html)
-
-##### Data Carpentry CAC
-* [Current Data Carpentry CAC members](http://www.datacarpentry.org/lesson-leadership/)
-* [Data Carpentry CAC Meeting minutes](https://github.com/datacarpentry/curriculum-advisors/)
-* [Data Carpentry CAC contact](mailto:ebecker@carpentries.org)
-
-##### Software Carpentry CAC
-* [Current Software Carpentry CAC members](https://software-carpentry.org/blog/2018/05/swc-cac.html)
-* [Software Carpentry CAC contact](mailto:{{site.contact}})
-
-##### Library Carpentry CAC
-* [Library Carpentry CAC members](https://librarycarpentry.org/cac/)
-* [Library Carpentry CAC discussion list](https://carpentries.topicbox.com/groups/curriculum-advisors-lc)
-* [Library Carpentry CAC contact](mailto:Christopher.Erdmann@ucop.edu)
+* [Curriculum Advisory Committee Members]({% link pages/curriculum-advisors.html %})
+* [Curriculum Advisory Committee (CAC) Duties]({{site.handbook_url}}/topic_folders/lesson_development/curriculum_advisory_committees.html#roles-and-responsibilities)
 
 
 ### Lesson Developers
@@ -184,7 +171,7 @@ The Carpentries community is commited to a collaborative and open process for le
 
 [The Carpentries Incubator](https://carpentries-incubator.org/) is for Carpentries community members to share Carpentries-style teaching materials at all stages of development, to receive feedback from other community members. These lessons are not officially endorsed by The Carpentries. Read [more information](https://github.com/carpentries-incubator/proposals/blob/master/README.md) about contributing to The Carpentries Incubator.
 
-[The Carpentries Lab](/community-lessons/#the-carpentrieslab) is for sharing peer-reviewed lessons, vetted by the The Carpentries. We are not currently accepting submissions for these lessons.
+[The Carpentries Lab](https://carpentries-lab.org/) is for sharing peer-reviewed lessons, vetted by the The Carpentries. We are currently piloting [an open peer review process for lessons entering The Carpentries Lab](https://github.com/carpentries-lab/reviews/). Although the system is open for submissions, we can currently only commit to review those lessons that have been invited. If you would like to volunteer as a reviewer for The Carpentries Lab, please send an email to [incubator@carpentries.org](mailto:incubator@carpentries.org).
 
 Those looking for ways to contribute to existing lesson material can find
 a list of issues in need of attention on the [Help Wanted page](/help-wanted-issues/).
@@ -194,15 +181,15 @@ a list of issues in need of attention on the [Help Wanted page](/help-wanted-iss
 Regional Coordinators are the front face of The Carpentries, promoting our work and our culture in their geographical area. They manage workshop logistics, communicate with hosts and Instructors, and respond to general inquiries. They work together to support each other and ensure communities can thrive locally while maintaining quality and consistency globally.
 
 * [Regional Coordinators]({% link pages/regional_coordinators.html %})
-* [Duties](http://docs.carpentries.org/topic_folders/workshop_administration/expectations.html)
+* [Duties]({{site.handbook_url}}/topic_folders/workshop_administration/expectations.html)
 * [Contact](mailto:{{site.contact}})
 
 ### Code of Conduct Committee
 
 The Carpentries is a community-led project. We are committed to creating a friendly and respectful place for learning, teaching and contributing. The Code of Conduct Subcommittee handles reported code of conduct violations and works to keep our community welcoming for all.
 
-* [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/index_coc.html)
-* [The Code of Conduct Committee](https://carpentries.org/coc-ctte/)
+* [The Carpentries Code of Conduct]({{site.handbook_url}}/topic_folders/policies/index_coc.html)
+* [The Code of Conduct Committee](/coc-ctte/)
 * [Apply to join](https://goo.gl/forms/9NMhirB5wXGZ2FUc2)
 * Upcoming meetings: Meetings are closed to the group for confidentiality reasons.
 * Mailing list: This mailing list is confidential.
@@ -230,7 +217,7 @@ This group works to build a sustainable and active community in Latin America.
 
 The Carpentries Instructor community in Africa is growing, with over a hundred certified instructors in 2018!
 
-* [Activities](https://docs.carpentries.org/topic_folders/regional_communities/african_task_force.html#what-we-do)
+* [Activities]({{site.handbook_url}}/topic_folders/regional_communities/african_task_force.html#what-we-do)
 * [Join Slack and Mailing List](https://docs.carpentries.org/topic_folders/regional_communities/african_task_force.html#join-us)
 * [Community Etherpad](http://pad.carpentries.org/ZA-community-call)
 * [Contact the Regional Coordinator](mailto:{{site.contact_afr}})
@@ -266,7 +253,7 @@ Here are details about The Carpentries Instructor community in the Nordics:
 
 * [Join mailing list](https://carpentries.topicbox.com/groups/local-nordic)
 * [Join in monthly calls for Carpentries Nordics](https://codimd.carpentries.org/nordic-community-call)
-* [Join CodeRefinery Zulip chat](https://coderefinery.zulipchat.com/#) where many Carpentries community members in Nordics and around are actively discussing. 
+* [Join CodeRefinery Zulip chat](https://coderefinery.zulipchat.com/#) where many Carpentries community members in Nordics and around are actively discussing.
 * [Contact](mailto:local-nordic@lists.carpentries.org)
 
 
@@ -294,8 +281,8 @@ Here are details about The Carpentries Instructor community in the Nordics:
 
 ### CarpentryCon
 
-The Carpentries hosts [CarpentryCon](http://www.carpentrycon.org/), a community-organised meeting for our global community. 
-* [CarpentryCon 2018](https://2018.carpentrycon.org/) was held from 30 May to 1 June 2018 in Dublin, Ireland. 
+The Carpentries hosts [CarpentryCon](http://www.carpentrycon.org/), a community-organised meeting for our global community.
+* [CarpentryCon 2018](https://2018.carpentrycon.org/) was held from 30 May to 1 June 2018 in Dublin, Ireland.
 * [CarpentryCon 2020](https://2020.carpentrycon.org) was held between July and August 2020 as a seven week online event.
 * [CarpentryCon 2022](https://2022.carpentrycon.org/) will be 1-12 August 2022 as an online event.
 

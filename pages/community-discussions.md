@@ -15,6 +15,6 @@ Community Discussions are free and open to anyone. They provide opportunities to
 
 3.	__Carpentries Conversations__ These Conversations are hosted by one of our Committees or Task Forces to provide the community with the opportunity to learn about and discuss new developments and programs in our organisation. 
 
-Attend any Community Discussion by signing-up on the [community-discussions Etherpad](https://pad.carpentries.org/community-discussions).
+Attend any Community Discussion by signing up on the [community-discussions Etherpad](https://pad.carpentries.org/community-discussions).
 
 Interested in hosting a Community Discussion? Complete our [call for community discussion facilitators form](https://goo.gl/forms/STUEN15QWrlPlhm92)!

@@ -60,7 +60,7 @@ fiscally sponsored project of the 501(c)3 [Community Initiatives](http://communi
 [a large community](https://carpentries.org/instructors-map/) of instructors and contributors, and a much larger community of users. We use 
 evidence-based teaching practices to teach the core skills for effective computational and data work, and we promote reproducible research and open
 science/open source widely. All interactions in The Carpentries community and spaces, both virtual and in-person, are governed by our 
-[Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#code-of-conduct-detailed-view).
+[Code of Conduct]({{ site.code_of_conduct_url }}).
 
 ## Compensation and Benefits
 This is a remote, U.S. based position and is initially funded for one year, with the possibility of extension. Compensation will be 

@@ -13,7 +13,7 @@ With support from sponsors, The Carpentries will continue our efforts to make co
             Sponsorship Application Form
         </button>
 
-The Sponsorship Application Form is also available as a [fillable PDF](/files/pdf/Sponsorship-Form.pdf). If you choose to download and fill out the PDF, please email the completed form to [sponsorship@carpentries.org](mailto:sponsorship@carpentries.org)
+The Sponsorship Application Form is also available as a [fillable PDF](/files/pdf/Sponsorship-Form.pdf). If you choose to download and fill out the PDF, please email the completed form to [{{site.sponsorship_contact}}](mailto:{{site.sponsorship_contact}})
 
 ## Our Sponsors
 
@@ -135,13 +135,13 @@ The Carpentries provides a digital icon that can be displayed on sponsor’s web
 One mention in The Carpentries donor newsletter, [Carpentries Philanthropy](https://carpentries.us14.list-manage.com/subscribe?u=46d7513c798c6bd41e5f58f4a&id=33f76196ac).
 
 #### Logo on carpentries.org
-Logo linked to sponsor designated URL, posted on [The Carpentries Sponsorship page](https://carpentries.org/sponsorship). Sponsors listed in order of package level.
+Logo linked to sponsor designated URL, posted on [The Carpentries Sponsorship page](/sponsorship). Sponsors listed in order of package level.
 
 #### Mention in The Carpentries Newsletter
-One item submitted to The Carpentries biweekly newsletter, [Carpentries Clippings](https://carpentries.org/newsletter/).
+One item submitted to The Carpentries biweekly newsletter, [Carpentries Clippings](/newsletter/).
 
 #### Logo on carpentries.org/jobs
-Logo linked to sponsor’s careers page listed on [The Carpentries jobs page](https://carpentries.org/jobs/) for one year.
+Logo linked to sponsor’s careers page listed on [The Carpentries jobs page](/jobs/) for one year.
 
 #### Social media visibility
 Social media promotion via [@thecarpentries on Twitter](https://twitter.com/thecarpentries) (9,447 followers).
@@ -156,16 +156,16 @@ CarpentryCon attendance: ~300 persons
 - Champion - 2 registrations, 1 sponsorship table
 
 #### Logo listed on The Carpentries blog
-Logo will be placed on [The Carpentries blog](https://carpentries.org/blog/) for one year. The Carpentries blog receives ~2,500 views per month (~84,000 all time).
+Logo will be placed on [The Carpentries blog](/blog/) for one year. The Carpentries blog receives ~2,500 views per month (~84,000 all time).
 
 #### Original Blog Post
-One blog post on [The Carpentries blog](https://carpentries.org/blog/).
+One blog post on [The Carpentries blog](/blog/).
 
 #### Themed Community Discussion
 Opportunity to present at one virtual discussion with The Carpentries global community. Discussion will be moderated by a Carpentries Core Team member. Sponsor will give a 20 minute overview of their mission, vision, and values, and how The Carpentries community can get involved.
 
 #### Data, Software, or Library Carpentry Workshop
-Attend one Data, Software, or Library Carpentry [workshop](https://carpentries.org/workshops/) (in-person or virtual where available).
+Attend one Data, Software, or Library Carpentry [workshop](/workshops/) (in-person or virtual where available).
 
 <a href="https://carpentries.typeform.com/to/EQdv1Qx4 ">
         <button class="btn">
@@ -173,4 +173,4 @@ Attend one Data, Software, or Library Carpentry [workshop](https://carpentries.o
         </button>
 
 <hr>
-If you have any questions please contact us at [sponsorship@carpentries.org](mailto:sponsorship@carpentries.org)
+If you have any questions please contact us at [{{site.sponsorship_contact}}](mailto:{{site.sponsorship_contact}})

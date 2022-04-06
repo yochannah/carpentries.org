@@ -12,11 +12,11 @@ volunteer instructors around the world.
 Becoming an instructor with The Carpentries connects you with a global
 community of instructors who are passionate about helping others learn to
 code and work with data. We use educational pedagogy to inform our teaching
-practices and create accessible and inclusive workshops, including using a [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html), that promotes learning for all participants.
+practices and create accessible and inclusive workshops, including using a [Code of Conduct]({{ site.code_of_conduct_url }}), that promotes learning for all participants.
 
 
 
-We offer [instructor training](https://docs.carpentries.org/topic_folders/instructor_training/index.html) to train people in how to teach Carpentries workshops, including educational pedagogy and Carpentries-specific information.
+We offer [instructor training]({{site.handbook_url}}/topic_folders/instructor_training/index.html) to train people in how to teach Carpentries workshops, including educational pedagogy and Carpentries-specific information.
 
 
 Find out how to [become an instructor]({% link pages/become-instructor.md %}) and join The

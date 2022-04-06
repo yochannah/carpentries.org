@@ -12,7 +12,7 @@ General enquiries: <br>
 <a href="mailto:{{site.contact}}">{{site.contact}}</a><br>
 
 Membership enquiries:<br> 
-<a href="mailto:memberships@carpentries.org">memberships@carpentries.org</a><br>
+<a href="mailto:{{site.membership_contact}}">{{site.membership_contact}}</a><br>
 
 Instructor Training enquiries: <br>
 <a href="mailto:{{site.instructor_training_contact}}">{{site.instructor_training_contact}}</a><br>

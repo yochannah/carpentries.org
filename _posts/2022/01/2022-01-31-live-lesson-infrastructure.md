@@ -149,7 +149,7 @@ A huge backlog of notifications that Zhian needs to address :'(
 </figure>
 
 With the new lesson infrastructure, changes to the styling, even major changes are applied
-immediately. Take for example this [chapter on editing (captured on 2022-01-26)][new-episodes]
+immediately. Take for example this [chapter on editing (captured on 2022-01-28)][new-episodes]
 and compare it with [the same content, but using the previous version of the lesson infrastructure][old-episodes]. This change
 happened with the click of a button (or had I been patient, I could have just
 waited a week for the change to implement itself). 
@@ -224,7 +224,7 @@ for their support and funding for this work.
 [styles]: https://github.com/carpentries/styles/
 [slide-19]: https://zkamvar.github.io/user2021/#19
 [old-episodes]: https://web.archive.org/web/20220125163344/https://carpentries.github.io/sandpaper-docs/episodes.html
-[new-episodes]: https://carpentries.github.io/sandpaper-docs/episodes.html
+[new-episodes]: https://web.archive.org/web/20220128171242/https://carpentries.github.io/sandpaper-docs/episodes.html
 [sandpaper-cache]: https://carpentries.github.io/sandpaper/articles/building-with-renv.html
 [pr-preview]: https://carpentries.github.io/sandpaper-docs/instructor/pull-request.html
 

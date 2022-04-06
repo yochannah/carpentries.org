@@ -9,7 +9,7 @@ The Instructor Development Committee (formerly known as the **Mentoring Subcommi
 through training, teaching, curriculum development,
 and other community-related activities. They help promote community-building and networking, by 
 providing virtual spaces where instructors from all over the world can share teaching success stories and 
-discuss teaching strategies. For more about our work, [see this section of The Carpentries Handbook](https://docs.carpentries.org/topic_folders/instructor_development/index.html).
+discuss teaching strategies. For more about our work, [see this section of The Carpentries Handbook]({{site.handbook_url}}/topic_folders/instructor_development/index.html).
 
 **_Our Goal:_**    
 To support Instructors in our community through a range of activities. 
@@ -19,25 +19,22 @@ We run regular [instructor discussion sessions](https://pad.carpentries.org/inst
 
 **_Our Structure:_**    
 The Committee has monthly meetings, which are open to new members. Meetings are scheduled, organised, and 
-run through this [etherpad](https://pad.carpentries.org/scf-mentoring).
-For more about committee roles, see the [Handbook](https://docs.carpentries.org/topic_folders/instructor_development/instructor_development_committee.html). We also organise information about our work though this [GitHub repo](https://github.com/carpentries/mentoring).
+run through this [etherpad](https://pad.carpentries.org/instructor-development).
+For more about committee roles, see the [Handbook]({{site.handbook_url}}/topic_folders/instructor_development/instructor_development_committee.html). We also organise information about our work though this [GitHub repo](https://github.com/carpentries/mentoring).
 
 **_Our Leadership:_**    
-Currently, the IDC is transitioning and there is no one serving in these roles. New members will be recruited to start their term in 2022. Please reach out to our staff liaison, [Sher! Hurt](mailto:sheraaron@carpentries.org), with any questions. 
+* Elnaz AmanzadehJajin, Chair
+* Jonathan Stoneman, Mentoring Co-Chair
+* Lynne Williams, Mentoring Co-Chair
+* Emmanuelle Rodrigues Nunes, Special Projects Chair
+* Yared Abera, Member at Large
+* Rohit Goswami, Member at Large
+* Dianna Morganti, Member at Large
+* Annajiat Alim Rasel, Member at Large
+* Katherine Simeon, Member at Large
+* Abisola Regina Sholeye, Member at Large
+* Sher! Hurt, Staff Liason
 
 **_Contacting the Committee:_**
 [Join us](https://carpentries.topicbox.com/groups/instructor-development) on TopicBox!
 
-
-**_Many Thanks to our 2021 Committee Leadership_**
-
-* Annajiat Alim Rasel (Co-Chair)
-* Maria Prokofieva (Co-Chair)
-* Yared Abera (Communications Chair)
-* Samar Elsheikh (Mentoring Co-chair)
-* Katherine Simeon (Mentoring Co-chair)
-* Caroline Fadeke Ajilogba (Discussion Session Coordinator)
-* Rohit Goswami (Special Projects Chair)
-* Alycia Crall (Core Team liaison)
-
-The secretary role was a rotating role.

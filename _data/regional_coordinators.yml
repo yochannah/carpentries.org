@@ -48,32 +48,6 @@
       url: https://twitter.com/@symulation
 
 
-- name: Megan Guidry
-  region: New Zealand
-  pronoun_subjective: she
-  pronoun_objective: her
-  pronoun_possessive: hers
-  pic: https://avatars.githubusercontent.com/megan-guidry
-  position: Regional Coordinator for New Zealand
-  social:
-    - icon: fa fa-envelope
-      url: mailto:admin-nz@carpentries.org
-    - icon: fab fa-github
-      url: https://github.com/megan-guidry
-
-- name: Naoe Tatara
-  region: Nordic Countries
-  pronoun_subjective: she
-  pronoun_objective: her
-  pronoun_possessive: hers
-  pic: https://avatars.githubusercontent.com/naoe-tatara
-  position: Regional Coordinator for Nordic Countries
-  social:
-    - icon: fa fa-envelope
-      url: mailto:admin-nordic@carpentries.org
-    - icon: fab fa-github
-      url: https://github.com/naoe-tatara
-
 - name: Angelique Trusler
   region: South Africa
   pronoun_subjective: she
@@ -89,49 +63,19 @@
     - icon: fab fa-twitter
       url: https://twitter.com/AngeliquePhd
 
-- name: Giacomo Peru
-  pronoun_subjective: he
-  pronoun_objective: him
-  pronoun_possessive: his
-  region: United Kingdom
-  pic: https://avatars.githubusercontent.com/gperu
-  position: Regional Coordinator for United Kingdom 
-  social:
-    - icon: fa fa-envelope
-      url: mailto:admin-uk@carpentries.org
-    - icon: fab fa-github
-      url: https://github.com/gperu
 
-- name: Aleksandra Nenadic
-  region: United Kingdom
-  pronoun_subjective: she
-  pronoun_objective: her
-  pronoun_possessive: hers
-  pic: https://avatars.githubusercontent.com/anenadic
-  position: Regional Coordinator for United Kingdom 
-  social:
-    - icon: fa fa-envelope
-      url: mailto:admin-uk@carpentries.org
-    - icon: fab fa-github
-      url: https://github.com/anenadic
-    - icon: fab fa-orcid
-      url:  https://orcid.org/0000-0002-2269-3894
-
-- name: SherAaron Hurt
+- name: Danielle Sieh
   region: Global
   pronoun_subjective: she
   pronoun_objective: her
   pronoun_possessive: hers
-  pic: https://avatars.githubusercontent.com/sheraaronhurt
+  pic: https://avatars.githubusercontent.com/danielle06
   position: Regional Coordinator (Global)
   social:
     - icon: fa fa-envelope
-      url: mailto:team@carpentries.org
+      url: mailto:workshops@carpentries.org
     - icon: fab fa-github
-      url: https://github.com/sheraaronhurt
-    - icon: fab fa-twitter
-      url: https://twitter.com/SherAaronHurt
-
+      url: https://github.com/danielle06
 
 - name: Rabea Müller
   region: DACH Countries

@@ -32,7 +32,7 @@ our Code of Conduct and Enforcement Manual and came up with several suggestions 
 both documents within the Code of Conduct Committee (formerly, the Policy Committee). Thus, we recently released an updated 
 Code of Conduct. 
 
-The new [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) is 
+The new [Code of Conduct]({{ site.code_of_conduct_url }}) is 
 available in the [Carpentries Handbook](https://docs.carpentries.org/). As you might see, the new text is not radically 
 different from the old one. However, we have made changes that relate to the question of intent. As a community, we have 
 decided to step away from evaluating intent. If somebody’s behaviour is causing a problem, it really doesn’t matter *why* 

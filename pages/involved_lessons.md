@@ -34,15 +34,15 @@ are interested in having a lesson reviewed for inclusion in The Lab, please subm
 [GitHub Repository](https://github.com/carpentries-incubator/proposals#readme).
 
 
-[git-tutorial]: https://github.com/dmgt/swc_github_flow/blob/master/for_novice_contributors.md
+[git-tutorial]: https://github.com/carpentries-incubator/swc_github_flow/blob/master/for_novice_contributors.md
 [incubator]: https://github.com/carpentries-incubator/proposals/blob/master/README.md
 [join-github]: https://github.com/join
 [cc-0]: https://creativecommons.org/share-your-work/public-domain/cc0/
 [cc-by]: https://creativecommons.org/licenses/by/4.0/
 [cdh]: https://cdh.carpentries.org/
 [carpentries-lab]: https://github.com/carpentrieslab/proposals
-[coc]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#code-of-conduct-summary-view
+[coc]: {{ site.code_of_conduct_url }}
 [comms]: https://carpentries.org/connect/
-[community-lessons]: https://carpentries.org/community-lessons/
+[community-lessons]: /community-lessons/
 [issues]: https://github.com/carpentries-incubator/proposals/issues
 [lesson-template]: https://github.com/carpentries/styles

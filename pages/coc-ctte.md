@@ -6,7 +6,7 @@ excerpt: The Code of Conduct committee was established to enforce the Code, and 
 ---
 
 The Carpentries is dedicated to developing and empowering a diverse community of enthusiasts around computational methods 
-for research and data science. To facilitate this, The Carpentries has established a [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) that governs 
+for research and data science. To facilitate this, The Carpentries has established a [Code of Conduct]({{ site.code_of_conduct_url }}) that governs 
 behaviour within the community. The Code of Conduct committee was established to enforce the Code, and to manage any changes and updates to it.
 
 _Our Goal:_    
@@ -24,7 +24,7 @@ The structure of the committee is such that a community member is the Chair of t
 _Contacting the Committee:_     
 Please email your concerns to [coc@carpentries.org](mailto:coc@carpentries.org). All correspondence will be treated in confidence.
 
-_Our Governance Structure:_ Please see the [Code of Conduct Committee Governance document](https://docs.carpentries.org/topic_folders/policies/coc-governance.html) to find details on membership, onboarding, administration, positions, roles and responsibilities.
+_Our Governance Structure:_ Please see the [Code of Conduct Committee Governance document]({{site.handbook_url}}/topic_folders/policies/coc-governance.html) to find details on membership, onboarding, administration, positions, roles and responsibilities.
 
 #### Current Committee Members
 
@@ -32,9 +32,9 @@ _Our Governance Structure:_ Please see the [Code of Conduct Committee Governance
 
 [**Karen Cranston**](https://github.com/kcranston) is the Governance Chair of the committee. She is a computational evolutionary biologist working as an independent contractor from a farm in Ottawa, Canada. She has been involved with the Carpentries for many years, first as a Software Carpentry instructor, then as a founding board member of Data Carpentry, an instructor trainer, a member of The Carpentries merger commitee, and Chair of the first Executive Council of The Carpentries. Karen is the Executive Council liaison for the Committee. 
 
-[**Francois Michonneau**](https://github.com/fmichonneau) is the Senior Director of Technology for The Carpentries, and serves as the [core team](https://carpentries.org/team/) liaison to the Code of Conduct Committee.
+[**Francois Michonneau**](https://github.com/fmichonneau) is the Senior Director of Technology for The Carpentries, and serves as the [core team]({{site.url}}/team/) liaison to the Code of Conduct Committee.
 
-[**Masami Yamaguchi**](https://github.com/masamiy) is the [Executive Council](https://carpentries.org/governance/) liaison to the Code of Conduct Committee.
+[**Masami Yamaguchi**](https://github.com/masamiy) is the [Executive Council]({{site.url}}/governance/) liaison to the Code of Conduct Committee.
 
 [**Karin Lagesen**](https://github.com/karinlag) is a bioinformatician working at the Norwegian Veterinary Institute. Her time is spent building pipelines, teaching people how to analyze their data, and finding new and better ways of using bioinformatics for microbial surveillance. She was the chair of the CoC committee for 2 years, member of the Software Carpentry Steering Committee for three years, and is also an instructor trainer. Karin is part of this committee because she believes it is very important to ensure that The Carpentries is a safe and inclusive community. 
 
