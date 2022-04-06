@@ -23,6 +23,15 @@ Led by Kari L. Jordan, the Executive Team proactively brings together perspectiv
 
 <details>
 <summary>
+<strong>October - December (Q4) 2021</strong>
+</summary>
+Erin Becker · François Michonneau · Kari L. Jordan
+####Privacy Policy
+In Q4 2021, the Executive Team finalized the updates to our Privacy Policy which were [released](https://carpentries.org/blog/2022/01/updated-privacy-policy/) in January 2022. The new version of our [Privacy Policy](https://docs.carpentries.org/topic_folders/policies/privacy.html) follows a more standard structure and spells out your rights and how to exercise them under European Union’s General Data Protection Regulation (GDPR) and the California Customer Privacy Act (CCPA). It also includes the legal basis we use to process your personal information. Additionally, the Executive Team led our Core Team's performance review process, whereby Core Team members provided feedback via self and peer evaluations.
+</details>
+<details>
+<summary>
+
 <strong>July - September (Q3) 2021</strong>
 </summary>
 Erin Becker · François Michonneau · Kari L. Jordan
@@ -142,6 +151,22 @@ Led by Kari Jordan, the Business Team works on the legal and financial aspects o
 <strong>Business Team's Quarterly Projects</strong>
 </summary>
 
+<details>
+<summary>
+<strong>October - December (Q4) 2021</strong>
+</summary>
+Kari L. Jordan · Talisha Sutton-Kennedy
+
+#### Fundraising Campaign
+In Q4 2021, the Business Team collaborated both internally and externally on three major projects: The Carpentries' first Sponsorship Program, our Fundraising Campaign, and the Values Alignment Taskforce.
+
+We are piloting a sponsorship program through 2022 to support The Carpentries' mission and vision. Potential sponsors will receive incentives like recognition on The Carpentries website, a digital supporter badge, and mention in The Carpentries newsletter.
+
+Our 2021 Fundraising Campaign ran from November 2 - to December 31, 2021. We asked The Carpentries community to support us by either donating to the fundraising campaign or sharing the fundraising link with their network. We ran the fundraising campaign with the goal of raising $5,000 in individual donations, and we met that goal with a final tally of $5,535. Thank you all for sharing, donating, and otherwise assisting with our work towards our mission.
+
+The Values Alignment Taskforce's objective was to outline a set of recommendations that would be used to develop a due diligence process for how to identify whether an organisation or service is acting in accordance with [The Carpentries Core Values](https://carpentries.org/values/). The full set of recommendations are linked on our [blog](https://carpentries.org/blog/2021/12/values-alignment-task-force/).
+
+</details>
 
 <details>
 <summary>
@@ -285,6 +310,24 @@ setting up the Community Facilitators Program in The Carpentries, developing and
 <summary>
 <strong>Community Development Team's Quarterly Projects</strong>
 </summary>
+
+<details>
+<summary>
+<strong>October - December (Q4) 2021</strong>
+</summary>
+
+Alycia Crall · Angelique Trusler · Kelly Barnes · Omar Khan · Toby Hodges
+
+#### In Q4, the Community Development Team supported the following activities:
+- Registered with the annual Hacktoberfest event to support new contributions to Glosario, our open source glossary of data science terms
+- Identified and onboarded Task Force Co-Chairs who will lead planning for CarpentryCon 2022.
+- Conducted interviews with subcommunity members to inform development of the new Community Development Program.
+- Supported working groups with faculty from Tribal Colleges and Universities (TCUs) and Historically Black Colleges and Universities (HBCUs) engaged in data science education at their institutions as part of a grant funded by the National Science Foundation (Award #2135830)
+- Began development of a comprehensive assessment strategy for all activities of the Community Development Team
+- Supported the transition of the Instructor Development Committee from the Community Development Team to the Workshop Administration Team
+
+
+</details>
 
 <details>
 <summary>
@@ -544,6 +587,18 @@ about their quarterly projects work below.
 
 <details>
 <summary>
+<strong>October - December (Q4) 2021</strong>
+</summary>
+Erin Becker · Michael Culshaw-Maurer · François Michonneau · Zhian Kamvar · Toby Hodges
+
+#### In Q4 2021, The Curriculum Team worked on the following tasks in The Carpentries Strategic Plan:
+- Prepared the ground for a defined retirement process for Maintainers: [a single-question opt-in survey for Maintainers to tell us if they wish to remain active on their lesson](https://github.com/carpentries/maintainer-RFCs/issues/19). The information gathered will help us better identify which lessons are in need of new Maintainers, and assess the overall health of the Maintainer community. This survey has since been sent out to Maintainers.
+- Received a new, more accessible template for our lessons, and began incorporating that into [The Carpentries Workbench](https://carpentries.org/blog/2022/01/live-lesson-infrastructure/). The Workbench is a completely new approach to lesson infrastructure, designed with a focus on accessibility throughout. Alpha testing of this new infrastructure also took place in Q4 2021, and beta testing of the new infrastructure is planned for Q2 2022. The redesigned template includes several new features to make our lesson sites easier for Instructors and learners to use.
+- Recruited and onboarded [Curriculum Advisors](https://carpentries.org/curriculum-advisors/) for the Software Carpentry Lesson Program, and six Data Carpentry curricula. This formed part of a project to re-launch the Curriculum Advisors program, one part of a larger effort to strengthen our Community Roles.
+</details>
+
+<details>
+<summary>
 <strong>July - September (Q3)) 2021</strong>
 </summary>
 Erin Becker · Michael Culshaw-Maurer · François Michonneau · Zhian Kamvar · Toby Hodges
@@ -704,6 +759,24 @@ Led by François Michonneau, the Infrastructure Team is behind all of the system
 
 <details>
 <summary>
+<strong>October - December (Q4) 2021</strong>
+</summary>
+François Michonneau · Maneesha Sane · Zhian Kamvar
+
+#### AMY Updates and Maintenance
+- AMY updates
+  - Continued the planning of a new feature in AMY that would allow Instructors to sign up for upcoming workshops
+  - Added new features that would allow us to capture more accurately the diversity of roles community members have
+  - Released a new way to capture consents from AMY users, and especially we now ask for explicit consent for data transfer outside Europe
+
+- General updates
+  - Transitioned all our web analytics to Matomo instead of Google Analytics
+general maintenance of our infrastructure
+
+</details>
+
+<details>
+<summary>
 <strong>July - September (Q3) 2021</strong>
 </summary>
 François Michonneau · Maneesha Sane · Zhian Kamvar
@@ -844,6 +917,16 @@ Led by Karen Word, the Instructor Training Team manages our Instructor Training 
 <summary>
 <strong>Instructor Training Team's Quarterly Projects</strong>
 </summary>
+
+<details>
+<summary>
+<strong>October - December (Q4) 2021 </strong>
+</summary>
+Karen Word · Kelly Barnes · Maneesha Sane · Talisha Sutton-Kennedy · Sher! Hurt
+
+#### Q4 of 2021 was a time for wrapping up long-term projects as well as consolidation and evaluation of the internal processes for the Instructor Training team.
+The team implemented a major overhaul of its communications with Instructor trainees from start to finish. We finalized and [released updates to our Instructor Training curriculum](https://carpentries.org/blog/2021/11/IT-curriculum-update/). As the team prepared for one of its team-members to depart on leave, they invested time in cross-training as well as examining the work that we do and identifying opportunities for future improvement. The team also opened [applications for Trainer Training](https://carpentries.org/blog/2021/11/Trainer-Training-open/) as well as nominations for the second year of [elected Leadership](https://github.com/carpentries/trainers/blob/main/governance.md) in the Trainer community.
+</details>
 
 <details>
 <summary>
@@ -996,6 +1079,16 @@ Led by Erin Becker, the Membership Team coordinates the growing number of Carpen
 
 <details>
 <summary>
+<strong>October - December (Q4) 2021</strong>
+</summary>
+Erin Becker · Angelique Trusler · Kari Jordan · Talisha Sutton-Kennedy
+
+In Q4 2021, the Membership Team made progress towards Goal 1 of our Strategic Plan "Build regional and local capacity to empower sustainable communities" by [launching a geographically-tiered pricing structure](https://carpentries.org/blog/2022/01/new-prices-in-effect/) for our programming, which will enable us to better serve organisations outside high-income countries. We also initiated a financial support program to offer support for organisations who are unable to pay our standard fees, irrespective of location.
+
+</details>
+
+<details>
+<summary>
 <strong>July - September (Q3) 2021</strong>
 </summary>
 Al Obayuwana · Angelique Trusler · Kari Jordan · Talisha Sutton-Kennedy
@@ -1102,6 +1195,17 @@ Led by SherAaron Hurt, the Workshop Team develops and implements workflows to ke
 <strong>Workshop Administration Team's Quarterly Projects</strong>
 </summary>
 
+
+<details>
+<summary>
+<strong>October - December (Q4) 2021</strong>
+</summary>
+SherAaron Hurt · Angelique Trusler · Danielle Sieh · Maneesha Sane · Talisha Sutton-Kennedy
+
+For Q4 2021 the Workshop Administration Team focused on planning for the transition of online permanent workshops. Since the beginning of the pandemic, online workshops were being piloting. In 2020, we announced that we would make the decision by the the 2021, if we would continue to offer online workshops based on the success throughout the upcoming year. To help make this decision the project members included a representative from all of the teams. We took time to go through all of the blog posts written by the community regarding online workshops and made recommendations accordingly. The group identified where to update workflows and documentation. The work done in Q4 2021 will be implemented throughout 2022.
+
+
+</details>
 <details>
 <summary>
 <strong>July - September (Q3) 2021</strong>
