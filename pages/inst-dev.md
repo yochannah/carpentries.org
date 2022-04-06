@@ -24,6 +24,7 @@ For more about committee roles, see the [Handbook]({{site.handbook_url}}/topic_f
 
 **_Our Leadership:_**    
 * Elnaz AmanzadehJajin, Chair
+* Alicia Cappello, Secretary
 * Jonathan Stoneman, Mentoring Co-Chair
 * Lynne Williams, Mentoring Co-Chair
 * Emmanuelle Rodrigues Nunes, Special Projects Chair
