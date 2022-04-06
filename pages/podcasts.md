@@ -16,20 +16,6 @@ Serah Rono · Stef Butland · Naomi Penfold · Abigail Mayes · Toby Hodges · A
 
 In this episode, consisting of excerpts of discussions from the two Fireside Chat sessions during CarpentryCon @ Home 2020, we will be hearing from Stef Butland, Naomi Penfold, Abigail Mayes, Toby Hodges, Angela Li and Kate Hertweck on topics related to community building online.
 
-<div class="row">
-<div class="columns small-12">
-<audio src="https://files.carpentries.org/podcasts/2021e003-carpentries-podcast.mp3" type="audio/mp3" width="100%" controls preload></audio>
-</div>
-</div>
-
-
-<div class="row t30">
-<div class="columns small-3 small-centered">
-<a href="https://files.carpentries.org/podcasts/2021e003-carpentries-podcast.mp3" class="button small success" download>Download Episode</a>
-</div>
-</div>
-
-
 <details>
 <summary>
 <strong>English language Transcript</strong>
@@ -92,6 +78,21 @@ Thank you for listening to our podcast. On the next and final episode in this se
 
 </details>
 
+<div class="row">
+<div class="columns small-12">
+<audio src="https://files.carpentries.org/podcasts/2021e003-carpentries-podcast.mp3" type="audio/mp3" width="100%" controls preload></audio>
+</div>
+</div>
+
+
+<div class="row t30">
+<div class="columns small-3 small-centered">
+<a href="https://files.carpentries.org/podcasts/2021e003-carpentries-podcast.mp3" class="button small success" download>Download Episode</a>
+</div>
+</div>
+
+
+
 ## Equity & Inclusion in Online Communities (Episode 2)
 *Released 20 March 2021*
 
@@ -99,18 +100,6 @@ Serah Rono · Toby Hodges · Naomi Penfold · Kate Hertweck · Angela Li · Marl
 
 In this episode, consisting of excerpts of discussions from the two Fireside Chat sessions during CarpentryCon @ Home 2020, we will be hearing from Naomi Penfold, Marlene Mhangami, Kate Hertweck, Angela Li, Toby Hodges and Abigail Mayes on topics related to Equity and Inclusion in online communities.
 
-<div class="row">
-<div class="columns small-12">
-<audio src="https://files.carpentries.org/podcasts/2021e002-carpentries-podcast.mp3" type="audio/mp3" width="100%" controls preload></audio>
-</div>
-</div>
-
-
-<div class="row t30">
-<div class="columns small-3 small-centered">
-<a href="https://files.carpentries.org/podcasts/2021e002-carpentries-podcast.mp3" class="button small success" download>Download Episode</a>
-</div>
-</div>
 
 
 <details>
@@ -162,6 +151,20 @@ We have a very specific scenario here, and I’d like Toby or Abbie or both to s
 
 </details>
 
+
+<div class="row">
+<div class="columns small-12">
+<audio src="https://files.carpentries.org/podcasts/2021e002-carpentries-podcast.mp3" type="audio/mp3" width="100%" controls preload></audio>
+</div>
+</div>
+
+
+<div class="row t30">
+<div class="columns small-3 small-centered">
+<a href="https://files.carpentries.org/podcasts/2021e002-carpentries-podcast.mp3" class="button small success" download>Download Episode</a>
+</div>
+</div>
+
 ## Mindfulness & Self-Care (Episode 1)
 *Released 15 March 2021*
 
@@ -169,18 +172,6 @@ Serah Rono · Toby Hodges · Naomi Penfold · Angela Li · Marlene Mhangami · A
 
 In this episode, consisting of excerpts of discussions of the two Fireside Chat sessions, during CarpentryCon @ Home 2020, we will be hearing from Toby Hodges, Naomi Penfold, Angela Li, Marlene Mhangami, and Abigail Mayes on topics related to Mindfulness & Self-Care in online communities. 
 
-<div class="row">
-<div class="columns small-12">
-<audio src="https://files.carpentries.org/podcasts/2021e001-carpentries-podcast.mp3" type="audio/mp3" width="100%" controls preload></audio>
-</div>
-</div>
-
-
-<div class="row t30">
-<div class="columns small-3 small-centered">
-<a href="https://files.carpentries.org/podcasts/2021e001-carpentries-podcast.mp3" class="button small success" download>Download Episode</a>
-</div>
-</div>
 
 
 <details>
@@ -223,6 +214,18 @@ And then, to really help with that, I find it makes a big difference if you can 
 
 </details>
 
+<div class="row">
+<div class="columns small-12">
+<audio src="https://files.carpentries.org/podcasts/2021e001-carpentries-podcast.mp3" type="audio/mp3" width="100%" controls preload></audio>
+</div>
+</div>
+
+
+<div class="row t30">
+<div class="columns small-3 small-centered">
+<a href="https://files.carpentries.org/podcasts/2021e001-carpentries-podcast.mp3" class="button small success" download>Download Episode</a>
+</div>
+</div>
 
 
 
