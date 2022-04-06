@@ -55,30 +55,6 @@ Meet our Regional Coordinators and Carpentries communities in these regions.  Cl
     </tr>
 <!--  End Australia  -->  
 
-<!--  Begin Canada  -->  
-    <tr>
-       <td align="center"><h3><a href="{% link pages/regional_CA.html %}">Canada</a></h3>   
-        <a href="mailto:{{site.contact_ca}}">{{site.contact_ca}}</a></td>        
-       <td>
-        {% assign regional_coordinators_ca = site.data.regional_coordinators | where: "region", "Canada"  %}
-
-        {% for person in regional_coordinators_ca %}
-                {% if regional_coordinators_ca.size > 1 %}
-                <div class="medium-6 columns">
-                {% else %}
-                <div class="medium columns">
-                {% endif %}
-
-                <div class="team-member">
-                {% include single_profile.md %}
-                </div></div>
-
-            {% endfor %}
-        </td>
-    </tr>
-<!--  End Canada  -->  
-
-
 <!--  Begin DACH Countries  -->
 
 <tr>
