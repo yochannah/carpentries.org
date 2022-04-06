@@ -237,18 +237,20 @@ And then, to really help with that, I find it makes a big difference if you can 
 <!-- Here's how to add new podcast episode listings on this page
 
 
-## Podcast 2 Title
+## Episode Title (Episoce Number)
 <br/> Host 1 · Guest 1 · Guest 2 · Guest 3
 
 [3-4 sentence summary text about the episode goes here]
-
-[embed your audio below]
-<audio src="linktoyour.mp3?autoplay=1&loop=1&controls=0" controls preload></audio>
 
 <details>
 <summary>
 <strong>podcast episode transcript in specific language goes here</strong>
 </summary>
+
+[embed your audio below]
+<audio src="linktoyour.mp3?autoplay=1&loop=1&controls=0" controls preload></audio>
+
+
 
 [ add transcript text here please ]
 </details>
