@@ -18,36 +18,6 @@
       url:  https://orcid.org/0000-0003-1258-5002
 
 
-- name: James Desjardins
-  region: Canada
-  pronoun_subjective: he
-  pronoun_objective: him
-  pronoun_possessive: his
-  pic: https://avatars.githubusercontent.com/jadesjardins
-  position: Regional Coordinator for Canada 
-  social:
-    - icon: fa fa-envelope
-      url: mailto:admin-ca@carpentries.org
-    - icon: fab fa-github
-      url: https://github.com/jadesjardins
-
-
-- name: John Simpson
-  region: Canada
-  pronoun_subjective: he
-  pronoun_objective: him
-  pronoun_possessive: his
-  pic: https://avatars.githubusercontent.com/symulation
-  position: Regional Coordinator for Canada
-  social:
-    - icon: fa fa-envelope
-      url: mailto:admin-ca@carpentries.org
-    - icon: fab fa-github
-      url: https://github.com/symulation
-    - icon: fab fa-twitter
-      url: https://twitter.com/@symulation
-
-
 - name: Angelique Trusler
   region: South Africa
   pronoun_subjective: she
