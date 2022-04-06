@@ -37,7 +37,7 @@ The Carpentries community.
 
 #### How is The Carpentries Funded?
 
-The Carpentries revenue sources include [membership fees]({{site.url}}/membership), [grants and donations]({{site.url}}/grants), Workshops and Instructor Training fees, sponsorships, and individual donations. These income streams support the work of the Core Team, workshop & lesson infrastructure, CarpentryCon, and our continued work towards The Carpentries mission. The Carpentries [Annual Financial Reports]({{site.url/reports}}) provide more detailed information about our annual income and expenditures.
+The Carpentries revenue sources include [membership fees]({{site.url}}/membership), [grants and donations]({{site.url}}/grants), Workshops and Instructor Training fees, sponsorships, and individual donations. These income streams support the work of the Core Team, workshop & lesson infrastructure, CarpentryCon, and our continued work towards The Carpentries mission. The Carpentries [Annual Financial Reports]({{site.url}}/reports) provide more detailed information about our annual income and expenditures.
 
 Individuals and organisations are welcome to <a href="{{site.fundraising_link}}">donate to The Carpentries</a> using the online portal. Organisations interested in supporting The Carpentries are also encouraged to read about becoming a [Sponsor Organisation]({{site.url}}/sponsorship).
 
@@ -65,7 +65,7 @@ The Carpentries, while sounding plural, is a singular entity. Therefore, when re
 We appreciate being mentioned in the acknowledgments sections of papers, theses, and proposals, as it helps us show current and potential funders what impact we are having. If you would like to acknowledge The Carpentries, please use wording like this:
 
 > We were aided in this work by the training and other support offered by The Carpentries [1].    
-> [1] The Carpentries {{https://carpentries.org}}
+> [1] The Carpentries (https://carpentries.org)
 
 #### The Carpentries in the Literature
 
