@@ -9,12 +9,6 @@ our workshops to understand the impact workshops have on our learners, and how w
 
 Dr. Kari L. Jordan, our Executive Director, leads our assessment efforts. She has established the [Assessment Network]({{site.url}}/assessment-network/), a space where those working on assessment within the open source/research computing community can collaborate and share resources.
 
-Dr. Erin Becker, our Associate Director, serves as Principal Investigator for our research efforts related to assessing the
-effectiveness of our workshops. This work is carried out under supervison of the Institutional Review Board at University of California, Davis. Our faculty sponsor at UC Davis is Dr. Megan Welsh, Assistant Professor within the UC Davis School of Education.
-
-Please see our [IRB proposal]({{ site.filesurl }}/assessment/Data_Carpentry_IRB_for_workshops.pdf)
-and [determination letter]({{ site.filesurl }}/assessment/IRB_decision_letter_08_31_16_website.pdf) for more details about our research efforts.
-
 <hr>
 
 ### <i class="fas fa-file-alt"></i>  Surveys
