@@ -26,7 +26,7 @@ Led by Kari L. Jordan, the Executive Team proactively brings together perspectiv
 <strong>October - December (Q4) 2021</strong>
 </summary>
 Erin Becker · François Michonneau · Kari L. Jordan
-####Privacy Policy
+#### Privacy Policy
 In Q4 2021, the Executive Team finalized the updates to our Privacy Policy which were [released](https://carpentries.org/blog/2022/01/updated-privacy-policy/) in January 2022. The new version of our [Privacy Policy](https://docs.carpentries.org/topic_folders/policies/privacy.html) follows a more standard structure and spells out your rights and how to exercise them under European Union’s General Data Protection Regulation (GDPR) and the California Customer Privacy Act (CCPA). It also includes the legal basis we use to process your personal information. Additionally, the Executive Team led our Core Team's performance review process, whereby Core Team members provided feedback via self and peer evaluations.
 </details>
 <details>
