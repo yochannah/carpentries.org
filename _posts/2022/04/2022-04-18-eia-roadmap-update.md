@@ -8,7 +8,7 @@ time: "09:00:00"
 tags: ["Equity and Inclusion", "Strategic Plan"]
 ---
 
-**tl;dr**: The Strategic Plan is the plan. Watch this [short video] (https://youtu.be/fjmxwU8a1yI) of Dr. Kari L. Jordan and Tara Robertson discussing the EIA Roadmap’s alignment with The Carpentries’ Strategic Plan for 2020-2025.
+**tl;dr**: The Strategic Plan is the plan. Watch this [short video](https://youtu.be/fjmxwU8a1yI) of Dr. Kari L. Jordan and Tara Robertson discussing the EIA Roadmap’s alignment with The Carpentries’ Strategic Plan for 2020-2025.
 <hr />
 
 Equity, Inclusion, and Accessibility (EIA) has always been at the forefront of how The Carpentries operates internally, and serves our community. Work on the EIA Roadmap started in 2018, with the final version of the roadmap being [published](https://carpentries.org/blog/2019/06/eia-roadmap-release/) in 2019. Our [Strategic Plan for 2020-2025](https://carpentries.org/strategic-plan/) was released in January 2020. In an ideal world, these two plans might have been released in the reverse order, but EIA was too important for us to wait to have a Strategic Plan in place. EIA is not new for us and we needed to ensure that the important pieces of the roadmap were captured in the Strategic Plan.
@@ -29,7 +29,7 @@ Though not specifically called out in the strategic plan, the Business Team has 
 
 **Going forward, the Strategic Plan will be our focus.** On 22 April 2022, the EIA Roadmap will be deprecated, but will be kept for historical reasons.
 
-##Get Involved
+## Get Involved
 Our core strategy for implementing equity, inclusion, and accessibility work involves *listening*. We want our community to follow the progress the organisation is making towards our strategic plan for 2020-2025 and share your thoughts. The [strategic plan repository](https://github.com/carpentries/strategic-plan/issues) is updated on a quarterly basis and includes issues tracking each of the strategic plan deliverables. On 25 April we will release our Strategic Plan Year 2 in review. Look out for that blog post, and [get in touch](mailto:team@carpentries.org) to share what you are excited about.
 
 Lastly, now is a great time to [teach a workshop](https://carpentries.topicbox.com/groups/instructors?subscription_form=450564c4-59f8-11e8-8584-f238e5388869) and help us apply what we are learning to make our community more inclusive and accessible. Thank you so much for all you do.
