@@ -81,21 +81,11 @@ Conduct]({{ site.code_of_conduct_url }}).
 ## Compensation and Benefits
 
 This is a remote position that is funded for 6 months. A minimum of 10
-hours/week commitment is required.
+hours/week commitment is required. Compensation will be USD $25-70/hour,
+commensurate with experience. This position comes with no benefits. You might be
+hired either as a temporary employee or a contractor.
 
-For US-based candidates, compensation will be USD $25-70/hour, commensurate with
-experience. This position comes with no benefits. You might be hired either as a
-temporary employee or a contractor.
-
-Outside the US, total compensation may need to be adjusted in accordance with
-legal and financial costs associated with international hiring and contracting
-for a US-based entity. Benefits may or not be available, depending on employment
-law in the candidate’s location. All qualified applicants are highly encouraged
-to apply, and we will make every effort to be transparent about the impact of
-costs on potential compensation during the interview process. Community
-Initiatives will support the hiring or contracting of international workers,
-following all local laws related to employment and benefits, ensuring a
-competitive compensation package.
+In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification form upon hire. We are not able to offer employment-based visa sponsorship for this position.
 
 ## Equal Employment Opportunity
 
@@ -117,7 +107,7 @@ fiscal residence. We encourage you to include links to a portfolio (e.g., GitHub
 profile) that shows examples of Python/Django apps you have written as part of
 your application.
 
-Applications received before March 13th, 2022, 23:59 UTC will receive full
+Applications received before May 6th, 2022, 23:59 UTC will receive full
 consideration.
 
 Feel free to contact François
