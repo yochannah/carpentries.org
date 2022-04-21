@@ -2,7 +2,7 @@
 layout: page
 authors: ["Karen Word"]
 teaser: "Meet the amazing people helping to expand our global capacity for Instructor Training"
-title: "Introducing Our First 2022 Cohort of Certified Instructor Trainers"
+title: "Introducing Our First 2022 Cohort of Certified Instructor Trainers!"
 date: 2022-04-21
 time: "09:00:00"
 tags: ["Instructor Trainers"]
