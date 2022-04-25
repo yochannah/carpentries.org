@@ -2,7 +2,7 @@
 layout: page
 authors: ["Karen Word"]
 teaser: "Meet the amazing people helping to expand our global capacity for Instructor Training"
-title: "Introducing Our First 2022 Cohort of Certified Instructor Trainers"
+title: "Introducing Our First 2022 Cohort of Certified Instructor Trainers!"
 date: 2022-04-21
 time: "09:00:00"
 tags: ["Instructor Trainers"]
@@ -185,7 +185,7 @@ interest in informing management actions with my models.
 ### Yared Abera Ergu
 
 I’m a lecturer and partly researcher working in Ambo University, Ethiopia and the Carpentries IDC Member and Library Advisory Group Member 
-(`since 2019`). I have a BSc in Computer Science and an MSc in Information Technology. I am also a certified Higher Education Leadership 
+(since 2019). I have a BSc in Computer Science and an MSc in Information Technology. I am also a certified Higher Education Leadership 
 Trainer by training, and first got introduced to The Carpentries in 2018 and in this same year I became a certified carpentry instructor. 
 Currently, I am Dean at the School of Technology and Informatics, Ambo University, Ethiopia. My experience with carpentry so far, it's 
 really amazing and one of the best time and resource investments I have made in my career. The trend has taken me to the next level of 
