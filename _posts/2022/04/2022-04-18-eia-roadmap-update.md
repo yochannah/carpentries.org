@@ -25,7 +25,7 @@ This goal is not specifically called out in the strategic plan, however our team
 - **Assess The Carpentries services and subscriptions to ensure they align with our values.**
 Though not specifically called out in the strategic plan, the Business Team has done an assessment of our vendors and contractors to ensure alignment with The Carpentries Values, and we assess our alignment on a regular basis. Learn more about our [Values Alignment Taskforce](https://carpentries.org/blog/2021/12/values-alignment-task-force/).
 - **Build a culturally competent staff team that promotes The Carpentries’ mission, vision, and values.** The Carpentries Core Team consistently participates in professional development to build cultural competence and cross-cultural communication skills to better support our global community.
-- **Develop The Carpentries Assessment Strategy.** Thanks to the generous support of the Alfred P. Sloan Foundation (see grant announcement), we will have dedicated staff time to build our assessment strategy in 2023.
+- **Develop The Carpentries Assessment Strategy.** Thanks to the generous support of the Alfred P. Sloan Foundation ([see grant announcement](https://carpentries.org/blog/2021/06/carpentries-sloan-foundation-announcement/)), we will have dedicated staff time to build our assessment strategy in 2023.
 
 **Going forward, the Strategic Plan will be our focus.** On 22 April 2022, the EIA Roadmap will be deprecated, but will be kept for historical reasons.
 
