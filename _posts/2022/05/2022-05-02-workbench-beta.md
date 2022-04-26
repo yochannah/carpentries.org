@@ -41,14 +41,21 @@ I want to introduce some helpful terminology:
 "styles"
 : The Jekyll-based engine and styling that has been the basis of Carpentries
   lessons from 2015--Present: <https://carpentries.github.io/lesson-example/>. 
-  *Example: the styles version of the git lesson is at 
-  `https://swcarpentry.github.io/git-novice`*
 
 "workbench"
 : The Pandoc + R-based engine and styling that will replace styles:
-  <https://carpentries.github.io/sandpaper-docs>
-  *Example: the beta (workbench) version of the git lesson is 
-  `https://lessons.sofware-carpentry.org/git-novice`*
+  <https://carpentries.github.io/sandpaper-docs>. 
+
+Because the websites for the lessons will look different depending on the engine,
+I will be referring to them as "styles" or "workbench" websites. 
+
+## Why have a beta phase at all?
+
+Our lesson have a _wide_ audience including, instructors, learners, maintainers,
+and others who use the CC-BY content in their own work. In the past, [changes to
+the way we build lessons happened at a fairly rapid pace][blog-pushing-back],
+which resulted in frustration from the community. 
+
 
 ## Beta Logistics
 
@@ -98,7 +105,9 @@ The transition will occur for each lesson independently in three phases:
   <img src="{{ site.urlimg }}/blog/2022/05/workbench-beta-flow.png" 
    alt="Diagram of three phases of the beta release. At the top is box labelled 'current' that contains a github logo, a cartoon of a lesson page. Below is a box labelled 'Pre Beta' with the same contents as the box above plus an additional github logo in blue with a camera above it (to indicate a snapshot) and a new cartoon of a lesson page with a padlock over it. There is a clock indicating a timeframe of four weeks. The next box below is labelled 'Beta'. The GitHub logo has become blue and there is a lightning bolt and a line connecting it to the previous logo, indicating that a transformation happened. A smaller, grey github logo is adjacent with a lock over it, indicating that it is archived. The  old lesson page now has a lock and information symbol above it. The new lesson page does not have any symbols above it. The timreframe is 6 to 8 weeks. The final box is titled 'Release Candidate' and has a single blue github logo, a faded old lesson page, and a new lesson page with a timeframe of 6 months"/>
   <figcaption>
-An overview of the beta phase, separated into three steps. The entire process will take about 8-9 months until lesson release with The Carpentries Workbench.
+An overview of the beta phase for the git repository and the website, separated
+into three steps. The entire process will take about 8-9 months until lesson
+release with The Carpentries Workbench.
   </figcaption>
 </figure>
 
@@ -168,18 +177,11 @@ the new version of the lesson and any future workshops will use this version.
 There is no guarantee that it will be free from minor mistakes from the
 translation process, but it will contain the correct content.
 
-## Why have a beta phase at all?
-
-Our lesson have a _wide_ audience including, instructors, learners, maintainers,
-and others who use the CC-BY content in their own work. In the past, [changes to
-the way we build lessons happened at a fairly rapid pace][blog-pushing-back],
-
-
 ## Challenges
 
 Of course, this transition will not be without any number of challenges.
 
-### Cognitive load
+### Cognative Load
 
 Teaching a workshop is hard and learning coding skills is hard. Testing out a
 new format of a website on top of that is added cognitive load, especially if
@@ -187,6 +189,24 @@ only ONE lesson is different from the others. We mitigate this by having two
 versions of the lesson for three months. This way, even if one out of three
 lessons is currently in Beta, the default lesson website is still available so
 the transition is not so jarring. 
+
+### Format Change
+
+A lot of thought has gone into the design of the lesson infrastructure and the
+lesson website to make things more accessible and easier to navigate. Despite
+this, people are creatures of habit and it's difficult to switch contexts in a
+lesson. For some maintainers, this may be wanting to write block quotes instead
+of fenced divs, for others this may be wanting to work from the `gh-pages`
+branch instead of `main`. This is why we have the pre-beta stage of the beta
+phase where the workbench exists as a sandbox so that maintainers can practise
+using it without worrying about doing any permanent damage.
+
+## Moving Forward
+
+The first few lessons in beta will involve a lot of iteration and feedback, but
+by January 2023, we expect to have transitioned all of our lessons to use The
+Carpentries Workbench. 
+
 
 
 [beta-test-signup-maintainer]: https://example.com/#TODO
