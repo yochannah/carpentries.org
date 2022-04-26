@@ -18,7 +18,7 @@ up and tell us about your lesson and when is the earliest time for you to start
 the beta testing][beta-test-signup-maintainer].
 
 We expect to transition all lessons (including incubator and lab) to use [The
-Carpentries Workbench][sandpaper-docs] by January 2023.
+Carpentries Workbench][workbench] by January 2023.
 
 ## Things are going to get beta
 
@@ -27,7 +27,7 @@ maitnainers to volunteer for beta testing The Carpentries Workbench on their own
 lessons. This post will be relatively short, but details can be found in [the
 presentation I gave during the April Maintainer Meeting][beta-test-slides]. 
 
-While we have lessons such as [The Workbench Documentation][sandpaper-docs] and
+While we have lessons such as [The Workbench Documentation][workbench] and
 [Collaborative Lesson Development Training][ldt] that currently use the
 workbench, understanding the advantages and limitations of the workbench can
 only be achieved if we use it on a variety of lessons and maintainers. **The
@@ -40,55 +40,59 @@ I want to introduce some helpful terminology:
 
 "styles"
 : The Jekyll-based engine and styling that has been the basis of Carpentries
-  lessons from 2015--Present: https://carpentries.github.io/lesson-example/. 
+  lessons from 2015--Present: <https://carpentries.github.io/lesson-example/>. 
   *Example: the styles version of the git lesson is at 
-  https://swcarpentry.github.io/git-novice*
+  `https://swcarpentry.github.io/git-novice`*
 
 "workbench"
 : The Pandoc + R-based engine and styling that will replace styles:
-  https://carpentries.github.io/sandpaper-docs
+  <https://carpentries.github.io/sandpaper-docs>
   *Example: the beta (workbench) version of the git lesson is 
-  https://lessons.sofware-carpentry.org/git-novice*
+  `https://lessons.sofware-carpentry.org/git-novice`*
 
-### Why have a beta phase at all?
+## Beta Logistics
 
-Our lesson have a _wide_ audience including, instructors, learners, maintainers,
-and others who use the CC-BY content in their own work. In the past, [changes to
-the way we build lessons happened at a fairly rapid pace][blog-pushing-back],
+The beta phase is **non-reversible**, thus, in order to begin the beta testing
+of a lesson, **all maintainers of a lesson** must come to consensus to begin the
+beta phase. It is important to note that the transition itself is the
+responsibility of myself alone and will be performed automatically via the
+[lesson transition tool][lesson-transition].
 
-### What will change?
+### Website
 
- - Lesson URLs will change during the beta phase to use an official program
-   URL.  For example, The Programming with R lesson,
-   `https://swcarpentry.github.io/r-novice-inflammation/` will become
-   `https://lessons.software-carpentry.org/r-novice-inflammation`.
- - Lesson folder structure will be rearranged, and the folders containing
-   styling will be removed.
- - Syntax will be more aligned with GitHub-flavored Markdown
- - Templating language will be removed
+During the beta phase, the URLs for the styles and the workbench websites will
+be in the following forms:
 
-### How long will this take?
+ - **styles**: `https://<program>.github.io/<lesson>` (e.g. <https://datacarpentry.github.io/r-novice-gapminder>)
+ - **workbench**: `https://lessons.<program>.org/<lesson>` (e.g. <https://lessons.datacarpentry.org/r-novice-gapminder>)
 
-The beta test will be gradual in three phases per lesson:
+<figure style="text-align: center">
+  <img src="{{ site.urlimg }}/blog/2022/05/styles-url.png" 
+   alt="cartoon representation of the styles version of a lesson with the url pattern underneath" width="40%"/>
+  <img src="{{ site.urlimg }}/blog/2022/05/workbench-url.png" 
+   alt="cartoon represntation of the workbench version of a lesson with the url pattern underneath" width="40%"/>
+  <figcaption>
+  The styles and workbench versions of the websites will live in parallel at separate URLs during the first two steps of the beta phase
+  </figcaption>
+</figure>
 
-1. **pre-beta** (~4 weeks): A snapshot of a lesson using the workbench is available
-   at the new lesson URL, while the styles version of the lesson will remain at
-   the original URL with a banner announcing the beta phase with a link for
-   feedback. This will be a sandbox for maintainers and instructors to get used
-   to the website before migration.
-2. **beta** (~6-8 weeks): The lesson will be given a banner announcing that the 
-   final transition will occur 8 weeks from that date. The styles version of
-   the lesson is given a lesson release on Zenodo. The lesson will be
-   transitioned from styles to workbench via [the lesson-transition
-   script](https://github.com/data-lessons/lesson-transition/), using `main` as
-   the default branch. The styles version of the lesson will be frozen in an
-   orphan branch called "legacy", continuing to serve the default URL. **Any 
-   changes from this point onwards will update the workbench version of the 
-   lesson.**
-3. **pre-release** (~6 months): The styles version of the lesson is removed from
-   the repository and the default URL will redirect to the lessons URL. We run
-   this for six months to allow maintainers to fix any minor bugs in the lessons.
+### Steps
 
+The transition will occur for each lesson independently in three phases:
+
+- [Pre-beta](#pre-beta): convert snapshot of lesson to use [The Carpentries Workbench][workbench] in a temporary, sandboxed repository.
+  - Timeline: 4 weeks
+  - Instructors: teaching demo-style feedback
+  - Maintainers: triage existing pull requests; experiment with new repository
+- [Beta](#beta): lesson-release and archive of styles version; source conversion to workbench
+  - Timeline: 8 weeks
+  - Instructors: opt-in to training + teaching demo-style feedback
+  - Maintainers: receive and merge at least 2 pull requests
+  - New Instructors: encouraged to contribute to beta phase by adding/moving instructor notes
+- [Release Candidate](#release-candidate): fully transition to workbench and new URL; old URL will redirect to new.
+  - Timeline: 6 months
+  - Instructors: teach new version of lesson
+  - Maintainers: continue to work on new lesson with two-track feedback mechanism
 
 <figure style="text-align: center">
   <img src="{{ site.urlimg }}/blog/2022/05/workbench-beta-flow.png" 
@@ -97,6 +101,79 @@ The beta test will be gradual in three phases per lesson:
 An overview of the beta phase, separated into three steps. The entire process will take about 8-9 months until lesson release with The Carpentries Workbench.
   </figcaption>
 </figure>
+
+#### Pre-Beta
+
+A snapshot of the lesson will be taken and migrated to the new lesson URL. The
+styles version of the website will have a new banner announcing the pre-beta
+phase of the lesson and a link for feedback. 
+
+**Instructors** will give teaching-demo style feedback in groups of three during
+which they will be specific teaching prep tasks (determined by the Instructor
+Development Committee) to complete with the snapshot and then give two kinds of
+feedback:
+
+- Feedback related to the infrastructure
+- Feedback for each other
+
+**Maintainers** will use the snapshot to inspect the differences in their
+lessons. Because the new layout of the lesson will represent only a snapshot at
+this point, changes made to the lesson will not be reflected in this new URL
+(but that should not prevent maintainers from making necessary changes).
+
+This is the phase in which maintainers can make inquiries about transitioning
+to the beta phase. Importantly, they should begin the process of consolidating
+issues and pull requests in their repositories to avoid conflicts with the new
+format.
+
+#### Beta
+
+Reminders:
+
+1. The beta phase is a one-way transition. There is no going back
+2. Any open pull requests must be re-opened using the new infrastructure
+
+A lesson release is baked into a zenodo DOI (by François), [the lesson
+repository is be archived][backing-up], and subsequently converted in place
+using the [lesson transition tool][lesson-transition]. The current default
+branch will be copied to a static branch called “legacy”. The styles version of
+the website will have a banner that announces that an up-to-date version of the
+website can be found at the workbench URL with a link for feedback. 
+
+**Maintainers** will work on the `main` branch of the lesson using the workbench
+and can give feedback in one of two ways:
+
+1. General feedback in maintainer meetings and at
+   <https://github.com/carpentries/sandpaper/discussions>
+2. Maintainers can practice giving feedback via friction logs in paired
+   sessions where they are asked to perform a specific task and give narrative
+   feedback regarding their experience (good, mildly confusing/irritating, or
+   throw-your-laptop-out-a-window frustrating). 
+
+**Instructors** can continue to give feedback in the teaching demonstration
+fashion and they can additionally try this out in lessons that they are
+actively teaching if they so choose. They can also contribute instructor notes
+to the inner portions of the lesson if they choose.
+
+If the learners use the new version of the lesson, there will be a link where
+they can give feedback. 
+
+**New Instructors** will be encouraged to contribute to the lessons by
+submitting instructor notes inside the lesson content.
+
+#### Release Candidate
+
+During this phase, the styles version of the lesson will officially redirect to
+the new version of the lesson and any future workshops will use this version.
+There is no guarantee that it will be free from minor mistakes from the
+translation process, but it will contain the correct content.
+
+## Why have a beta phase at all?
+
+Our lesson have a _wide_ audience including, instructors, learners, maintainers,
+and others who use the CC-BY content in their own work. In the past, [changes to
+the way we build lessons happened at a fairly rapid pace][blog-pushing-back],
+
 
 ## Challenges
 
@@ -114,18 +191,19 @@ the transition is not so jarring.
 
 [beta-test-signup-maintainer]: https://example.com/#TODO
 [beta-test-slides]: https://docs.google.com/presentation/d/1qA9U4BkLKW_kOn696jKkDbUgv910_i-sGbHTZ9tyURQ/edit?usp=sharing
-[sandpaper-docs]: https://carpentries.github.io/sandpaper-docs
+[workbench]: https://carpentries.github.io/sandpaper-docs
+[styles]: https://github.com/carpentries/styles/
 [ldt]: https://carpentries.github.io/lesson-development-training/
 [blog-pushing-back]: https://software-carpentry.org/blog/2015/07/pushing-back.html
 [design-principles]: https://carpentries.org/blog/2020/08/lesson-template-design/
+[lesson-transition]: https://github.com/data-lessons/lesson-transition/
+[backing-up]: https://ropensci.org/blog/2022/03/22/safeguards-and-backups-for-github-organizations/#backing-up-github-repositories
 [{sandpaper}]: https://carpentries.github.io/sandpaper/
 [{pegboard}]: https://carpentries.github.io/pegboard/
 [{varnish}]: https://carpentries.github.io/varnish/
 [alpha-test]: https://carpentries.org/blog/2021/07/infrastructure-testing/
 [ux-test]: https://carpentries.org/blog/2021/05/lesson-template-design-process/
 [yt-vid]: https://www.youtube.com/watch?v=vd8XZSuY_Rs&list=PLSFzyC3wp8-csb8rtreOUoW8C_1J87QD5&index=1&t=1271s
-[workbench]: https://carpentries.github.io/sandpaper-docs
-[styles]: https://github.com/carpentries/styles/
 [slide-19]: https://zkamvar.github.io/user2021/#19
 [old-episodes]: https://web.archive.org/web/20220125163344/https://carpentries.github.io/sandpaper-docs/episodes.html
 [new-episodes]: https://web.archive.org/web/20220128171242/https://carpentries.github.io/sandpaper-docs/episodes.html
