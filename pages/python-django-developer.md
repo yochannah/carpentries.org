@@ -112,4 +112,7 @@ consideration.
 
 Feel free to contact François
 ([francois@carpentries.org](mailto:francois@carpentries.org)) with any
-questions.
+questions. 
+
+**Please no agencies: we will not respond to agencies inquiries.
+**
