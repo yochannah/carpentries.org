@@ -5,7 +5,7 @@ teaser: "Initial outline and plan for the Beta Phase of The Carpentries Workbenc
 title: "The Carpentries Workbench: Beta Phase and Beyond"
 date: 2022-05-02
 time: "09:00:00"
-tags: ["Lesson Infrastructure", "Community", "Carpentries Workbench", "Beta"]
+tags: ["Lesson Infrastructure", "Community", "Carpentries Workbench", "Beta", "Dovetail"]
 ---
 
 ## TL;DR
@@ -203,8 +203,18 @@ using it without worrying about doing any permanent damage.
 
 ## Moving Forward
 
-The first few lessons in beta will involve a lot of iteration and feedback, but
-by January 2023, we expect to have transitioned all of our lessons to use The
+The first few lessons in beta will involve a lot of iteration and feedback, and
+during this time, I will be posting updates in this blog as a new series called
+"The Dovetail", where you can get information about:
+
+ - Updates to The Carpentries Workbench
+ - Upcoming and Current Lessons in Beta
+ - Updates from Instructors and Maintainers about working in Beta
+ - Tips and Tricks for using The Workbench
+
+If you follow Carpentries Clippings, it will be automatically included.
+
+By January 2023, we expect to have transitioned all of our lessons to use The
 Carpentries Workbench. 
 
 
