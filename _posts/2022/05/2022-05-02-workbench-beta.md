@@ -70,7 +70,7 @@ be in the following forms:
   <img src="{{ site.urlimg }}/blog/2022/05/styles-url.png" 
    alt="cartoon representation of the styles version of a lesson with the url pattern underneath" width="40%"/>
   <img src="{{ site.urlimg }}/blog/2022/05/workbench-url.png" 
-   alt="cartoon represntation of the workbench version of a lesson with the url pattern underneath" width="40%"/>
+   alt="cartoon represntation of the workbench version of a lesson with the url pattern underneath" width="45%"/>
   <figcaption>
   The styles and workbench versions of the websites will live in parallel at separate URLs during the first two steps of the beta phase
   </figcaption>
