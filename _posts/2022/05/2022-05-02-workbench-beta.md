@@ -10,29 +10,29 @@ tags: ["Lesson Infrastructure", "Community", "Carpentries Workbench", "Beta", "D
 
 ## TL;DR
 
-We will be transitioning some of the lessons to The Carpentries Workbench in the
+We will be transitioning some of the lessons to [The Carpentries Workbench](https://carpentries.org/blog/2022/01/live-lesson-infrastructure/) in the
 next few months as a beta test. The beta test will live in parallel to the
 current lessons for at least two months before fully transitioning. If you are a
 maintainer, and would like to have your lesson enter the beta test, please [sign
 up and tell us about your lesson and when is the earliest time for you to start 
 the beta testing][beta-test-signup-maintainer].
 
-We expect to transition all lessons (including incubator and lab) to use [The
+We expect to transition all lessons (including lessons in The Carpentries Incubator and The Carpentries Lab) to use [The
 Carpentries Workbench][workbench] by January 2023.
 
 ## Things are going to get beta
 
 We are pleased to announce that we are officially opening applications for
-maitnainers to volunteer for beta testing The Carpentries Workbench on their own
+maintainers to volunteer for beta testing The Carpentries Workbench on their own
 lessons. This post will be relatively short, but details can be found in [the
 presentation I gave during the April Maintainer Meeting][beta-test-slides]. 
 
 While we have lessons such as [The Workbench Documentation][workbench] and
 [Collaborative Lesson Development Training][ldt] that currently use the
 workbench, understanding the advantages and limitations of the workbench can
-only be achieved if we use it on a variety of lessons and maintainers. **The
-purpose of the beta phase is to test out the workbench in conditions that I have
-no control over.** Thus, we would like to get a breadth of lessons using The
+only be achieved if it is being used on a variety of lessons and tested by multiple maintainers. **The
+purpose of the beta phase is to test out the workbench in live conditions.**
+Thus, we would like to get a breadth of lessons using The
 Workbench.
 
 Before I go on, because I will be referring to two versions of any given lesson,
@@ -40,7 +40,7 @@ I want to introduce some helpful terminology:
 
 "styles"
 : The Jekyll-based engine and styling that has been the basis of Carpentries
-  lessons from 2015--Present: <https://carpentries.github.io/lesson-example/>. 
+  lessons since 2015: <https://carpentries.github.io/lesson-example/>. 
 
 "workbench"
 : The Pandoc + R-based engine and styling that will replace styles:
@@ -142,7 +142,7 @@ Reminders:
 1. The beta phase is a one-way transition. There is no going back
 2. Any open pull requests must be re-opened using the new infrastructure
 
-A lesson release is baked into a zenodo DOI (by François), [the lesson
+A lesson release is minted into a zenodo DOI (by François), [the lesson
 repository is be archived][backing-up], and subsequently converted in place
 using the [lesson transition tool][lesson-transition]. The current default
 branch will be copied to a static branch called “legacy”. The styles version of
@@ -181,7 +181,7 @@ translation process, but it will contain the correct content.
 
 Of course, this transition will not be without any number of challenges.
 
-### Cognative Load
+### Cognitive Load
 
 Teaching a workshop is hard and learning coding skills is hard. Testing out a
 new format of a website on top of that is added cognitive load, especially if
