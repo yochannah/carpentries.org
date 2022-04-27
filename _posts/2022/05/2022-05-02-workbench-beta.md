@@ -20,6 +20,11 @@ the beta testing][beta-test-signup-maintainer].
 We expect to transition all lessons (including lessons in The Carpentries Incubator and The Carpentries Lab) to use [The
 Carpentries Workbench][workbench] by January 2023.
 
+<a href="https://example.com/#TODO" class="button expand">
+    Sign up to enroll your lesson in the Workbench beta
+</a>
+
+
 ## Things are going to get beta
 
 We are pleased to announce that we are officially opening applications for
@@ -217,6 +222,10 @@ If you follow Carpentries Clippings, it will be automatically included.
 By January 2023, we expect to have transitioned all of our lessons to use The
 Carpentries Workbench. 
 
+
+<a href="https://example.com/#TODO" class="button expand">
+    Sign up to enroll your lesson in the Workbench beta
+</a>
 
 
 [beta-test-signup-maintainer]: https://example.com/#TODO
