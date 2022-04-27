@@ -9,7 +9,7 @@ tags: ["Carpentries Team"]
 ---
 
 
-We are pleased to welcome Brynn Elliott to The Carpentries Core Team! Brynn is joining as our new Accessibility Manager, through funding from the Chan Zuckerberg Foundation to advance The Carpentries Diversity, Equity, and Inclusion practices. We asked Brynn to share a bit about herself, read on to learn more!
+We are pleased to welcome Brynn Elliott to The Carpentries Core Team! Brynn is joining as our new Accessibility Manager, through funding from the Chan Zuckerberg Foundation to advance The Carpentries Diversity, Equity, and Inclusion practices [(read announcement)](https://carpentries.org/blog/2022/01/executive-director-new-years-message/). We asked Brynn to share a bit about herself, read on to learn more!
 
 ----------
 
