@@ -31,7 +31,7 @@ The Carpentries supports communications from our Core Team and across our commun
 
 ### Chat with Other Community Members
 
-[The Carpentries Slack](http://swcarpentry.slack.com) is where our community members connect with each other, and where we share resources and opportunities to participate. If Slack is new to you, our [Slack Quickstart Guide]({{site.handbook_url}}/topic_folders/communications/tools/slack-and-email.html#slack-quick-start-guide) will help you to set up your profile and workspace, and give you an overview of how we use the platform on a day-to-day basis. All new members to Slack are automatically added to the following Slack channels:
+[The Carpentries Slack](https://swc-slack-invite.herokuapp.com/) is where our community members connect with each other, and where we share resources and opportunities to participate. If Slack is new to you, our [Slack Quickstart Guide]({{site.handbook_url}}/topic_folders/communications/tools/slack-and-email.html#slack-quick-start-guide) will help you to set up your profile and workspace, and give you an overview of how we use the platform on a day-to-day basis. All new members to Slack are automatically added to the following Slack channels:
 
 - [#general](https://swcarpentry.slack.com/archives/C03LE48AY): main channel to discuss all things Carpentries, excluding recruitment of workshop volunteers. Everyone can post here.
 - [#welcome](https://swcarpentry.slack.com/archives/CB35ZV9KL): where new members post short bios about themselves. You’re encouraged to say hello to others here!
